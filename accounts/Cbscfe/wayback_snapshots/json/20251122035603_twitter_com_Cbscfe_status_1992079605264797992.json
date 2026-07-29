@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992079599585615872"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1992070602539389235",
+    "created_at": "2025-11-22T03:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992079605264797992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988955310481096704",
+          "start": 0,
+          "username": "mahiro519320771"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HW7utI1maB",
+          "end": 40,
+          "expanded_url": "https://x.com/Cbscfe/status/1992079605264797992/photo/1",
+          "media_key": "3_1992079599585615872",
+          "start": 17,
+          "url": "https://t.co/HW7utI1maB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992079605264797992",
+    "in_reply_to_user_id": "1988955310481096704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992070602539389235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahiro519320771 https://t.co/HW7utI1maB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_1992079599585615872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VJ12GaYAA58aP.png",
+        "width": 713
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992070592200138752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VBpi-XYAA-gTH.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992079599585615872"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1992070602539389235",
+        "created_at": "2025-11-22T03:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992079605264797992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988955310481096704",
+              "start": 0,
+              "username": "mahiro519320771"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HW7utI1maB",
+              "end": 40,
+              "expanded_url": "https://x.com/Cbscfe/status/1992079605264797992/photo/1",
+              "media_key": "3_1992079599585615872",
+              "start": 17,
+              "url": "https://t.co/HW7utI1maB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992079605264797992",
+        "in_reply_to_user_id": "1988955310481096704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992070602539389235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahiro519320771 https://t.co/HW7utI1maB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992070592200138752"
+          ]
+        },
+        "author_id": "1988955310481096704",
+        "conversation_id": "1992070602539389235",
+        "created_at": "2025-11-22T03:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992070602539389235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyeIRv8uCP",
+              "end": 30,
+              "expanded_url": "https://x.com/mahiro519320771/status/1992070602539389235/photo/1",
+              "media_key": "3_1992070592200138752",
+              "start": 7,
+              "url": "https://t.co/YyeIRv8uCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992070602539389235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，骇死我力 https://t.co/YyeIRv8uCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 90,
+          "like_count": 8353,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T13:02:01.000Z",
+        "description": "",
+        "id": "1988955310481096704",
+        "name": "凉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988955773855268864/MKaD-BkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 138,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "mahiro519320771",
+        "verified": false
+      }
+    ]
+  }
+}

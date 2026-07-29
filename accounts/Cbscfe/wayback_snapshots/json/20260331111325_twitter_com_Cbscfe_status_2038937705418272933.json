@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2038937705418272933",
+    "created_at": "2026-03-31T11:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038937705418272933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038937705418272933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038810394257760368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 其实的确如此。著名反跨女权主义者JaniceRaymond在其作品《变性帝国》中做出过一模一样的论断，认为跨性别者只是医疗产业的创造物。而也正是她在80年代受里根政府的卫生与公众服务部邀请，参与构建了将跨性别医疗驱逐出一切公共/私立医保的新自…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2038810389774012416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtPP1bbEAABggJ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2038810389702672384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtPP1KagAAMeJF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2038937705418272933",
+        "created_at": "2026-03-31T11:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038937705418272933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038937705418272933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038810394257760368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 其实的确如此。著名反跨女权主义者JaniceRaymond在其作品《变性帝国》中做出过一模一样的论断，认为跨性别者只是医疗产业的创造物。而也正是她在80年代受里根政府的卫生与公众服务部邀请，参与构建了将跨性别医疗驱逐出一切公共/私立医保的新自…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038810389774012416",
+            "3_2038810389702672384"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2038810394257760368",
+        "created_at": "2026-03-31T02:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038810394257760368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqSZ3fraES",
+              "end": 174,
+              "expanded_url": "https://x.com/amber_toffee/status/2038810394257760368/photo/1",
+              "media_key": "3_2038810389774012416",
+              "start": 151,
+              "url": "https://t.co/sqSZ3fraES"
+            },
+            {
+              "display_url": "pic.x.com/sqSZ3fraES",
+              "end": 174,
+              "expanded_url": "https://x.com/amber_toffee/status/2038810394257760368/photo/1",
+              "media_key": "3_2038810389702672384",
+              "start": 151,
+              "url": "https://t.co/sqSZ3fraES"
+            },
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2038513332064604161",
+              "start": 175,
+              "url": "https://t.co/dGq7SOMECU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038810394257760368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实的确如此。著名反跨女权主义者JaniceRaymond在其作品《变性帝国》中做出过一模一样的论断，认为跨性别者只是医疗产业的创造物。而也正是她在80年代受里根政府的卫生与公众服务部邀请，参与构建了将跨性别医疗驱逐出一切公共/私立医保的新自由主义制度改革；这一规定直到2014年奥巴马医保才得到推翻。在此之前的很长一段时间里，许多无法以自己的实际性别认同的跨性别者，往往需要从事性工作，才能赚取手术的费用。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 6361,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038513332064604161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实的确如此。著名反跨女权主义者JaniceRaymond在其作品《变性帝国》中做出过一模一样的论断，认为跨性别者只是医疗产业的创造物。而也正是她在80年代受里根政府的卫生与公众服务部邀请，参与构建了将跨性别医疗驱逐出一切公共/私立医保的新自由主义制度改革；这一规定直到2014年奥巴马医保才得到推翻 https://t.co/sqSZ3fraES https://t.co/dGq7SOMECU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 232,
+          "like_count": 17771,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴀʟᴛ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24153,
+          "following_count": 2726,
+          "like_count": 39187,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 20970
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

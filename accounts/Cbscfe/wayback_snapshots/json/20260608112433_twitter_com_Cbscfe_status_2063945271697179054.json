@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2063905927615717851",
+    "created_at": "2026-06-08T11:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063945271697179054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902508221681823747",
+          "start": 0,
+          "username": "sevenyyqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063945271697179054",
+    "in_reply_to_user_id": "1902508221681823747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063905927615717851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevenyyqwq 不要住院，抱抱你，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063905912776261632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR3fhzbgAANNvi.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063905912822411264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR3fh-bsAAcBr3.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2063905927615717851",
+        "created_at": "2026-06-08T11:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063945271697179054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902508221681823747",
+              "start": 0,
+              "username": "sevenyyqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063945271697179054",
+        "in_reply_to_user_id": "1902508221681823747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063905927615717851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevenyyqwq 不要住院，抱抱你，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063905912776261632",
+            "3_2063905912822411264"
+          ]
+        },
+        "author_id": "1902508221681823747",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063905927615717851",
+        "created_at": "2026-06-08T08:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063905927615717851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzE7SeHkvm",
+              "end": 30,
+              "expanded_url": "https://x.com/sevenyyqwq/status/2063905927615717851/photo/1",
+              "media_key": "3_2063905912776261632",
+              "start": 7,
+              "url": "https://t.co/XzE7SeHkvm"
+            },
+            {
+              "display_url": "pic.x.com/XzE7SeHkvm",
+              "end": 30,
+              "expanded_url": "https://x.com/sevenyyqwq/status/2063905927615717851/photo/1",
+              "media_key": "3_2063905912822411264",
+              "start": 7,
+              "url": "https://t.co/XzE7SeHkvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063905927615717851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我咋这么烦呢 https://t.co/XzE7SeHkvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 682,
+          "like_count": 24420,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T23:51:33.000Z",
+        "description": "",
+        "id": "1902508221681823747",
+        "name": "微笑是一种礼貌",
+        "pinned_tweet_id": "2057753952377270405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902509388885000192/R62TEmvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 30
+        },
+        "username": "sevenyyqwq",
+        "verified": false
+      }
+    ]
+  }
+}

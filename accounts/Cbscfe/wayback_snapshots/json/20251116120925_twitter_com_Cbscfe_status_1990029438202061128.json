@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990029438202061128",
+    "created_at": "2025-11-16T12:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990029438202061128"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "Cbscfe",
+          "probability": 0.3983,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/KS_Nitori/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/KS_Nitori/status/1990027354845131167",
+          "start": 15,
+          "url": "https://t.co/YoXlkVd2d9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990029438202061128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990027354845131167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Cbscfe: Ctrl+A https://t.co/YoXlkVd2d9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1990027348390109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53_VGoa4AAHhB_.jpg",
+        "width": 1188
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990027351770726400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53_VTObAAAxjtF.jpg",
+        "width": 1188
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990027351414235136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53_VR5bYAAl1IN.jpg",
+        "width": 403
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990029438202061128",
+        "created_at": "2025-11-16T12:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990029438202061128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Cbscfe",
+              "probability": 0.3983,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/KS_Nitori/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/KS_Nitori/status/1990027354845131167",
+              "start": 15,
+              "url": "https://t.co/YoXlkVd2d9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990029438202061128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990027354845131167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cbscfe: Ctrl+A https://t.co/YoXlkVd2d9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990027348390109184",
+            "3_1990027351770726400",
+            "3_1990027351414235136"
+          ]
+        },
+        "author_id": "1847025525610762240",
+        "conversation_id": "1990027354845131167",
+        "created_at": "2025-11-16T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990027354845131167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H70QBbcjb3",
+              "end": 104,
+              "expanded_url": "https://x.com/KS_Nitori/status/1990027354845131167/photo/1",
+              "media_key": "3_1990027348390109184",
+              "start": 81,
+              "url": "https://t.co/H70QBbcjb3"
+            },
+            {
+              "display_url": "pic.x.com/H70QBbcjb3",
+              "end": 104,
+              "expanded_url": "https://x.com/KS_Nitori/status/1990027354845131167/photo/1",
+              "media_key": "3_1990027351770726400",
+              "start": 81,
+              "url": "https://t.co/H70QBbcjb3"
+            },
+            {
+              "display_url": "pic.x.com/H70QBbcjb3",
+              "end": 104,
+              "expanded_url": "https://x.com/KS_Nitori/status/1990027354845131167/photo/1",
+              "media_key": "3_1990027351414235136",
+              "start": 81,
+              "url": "https://t.co/H70QBbcjb3"
+            },
+            {
+              "display_url": "x.com/RikuSakaLine/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/RikuSakaLine/status/1990011837384151174",
+              "start": 105,
+              "url": "https://t.co/lmTmLmCJpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990027354845131167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990011837384151174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "微信朋友圈偶尔会发一点点内容；异性朋友的话……刚刚超过两个，只不过也都有不算轻的精神问题；赌博的话……图三算吗（？）；至于酒，纯纯酒鬼一个，甚至会喝食用酒精兑水 https://t.co/H70QBbcjb3 https://t.co/lmTmLmCJpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 78,
+          "like_count": 7118,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "pinned_tweet_id": "1981839564122804621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1611,
+          "like_count": 11000,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

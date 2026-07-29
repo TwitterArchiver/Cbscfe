@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007696005857456130"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2007696026971562443",
+    "created_at": "2026-01-04T06:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007696026971562443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OpVpSdABEW",
+          "end": 29,
+          "expanded_url": "https://x.com/Cbscfe/status/2007696026971562443/photo/1",
+          "media_key": "3_2007696005857456130",
+          "start": 6,
+          "url": "https://t.co/OpVpSdABEW"
+        },
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Cbscfe/status/2006632595841593793",
+          "start": 30,
+          "url": "https://t.co/XlxFylXne5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007696026971562443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006632595841593793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我更生气了 https://t.co/OpVpSdABEW https://t.co/XlxFylXne5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2007696005857456130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zE4U4asAII7Zh.jpg",
+        "width": 887
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2006632585699717120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j9tIFa8AAUtSx.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007696005857456130"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2007696026971562443",
+        "created_at": "2026-01-04T06:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007696026971562443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OpVpSdABEW",
+              "end": 29,
+              "expanded_url": "https://x.com/Cbscfe/status/2007696026971562443/photo/1",
+              "media_key": "3_2007696005857456130",
+              "start": 6,
+              "url": "https://t.co/OpVpSdABEW"
+            },
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2006632595841593793",
+              "start": 30,
+              "url": "https://t.co/XlxFylXne5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007696026971562443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006632595841593793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我更生气了 https://t.co/OpVpSdABEW https://t.co/XlxFylXne5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006632585699717120"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2006632595841593793",
+        "created_at": "2026-01-01T07:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006632595841593793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64TnkVRad3",
+              "end": 28,
+              "expanded_url": "https://x.com/Cbscfe/status/2006632595841593793/photo/1",
+              "media_key": "3_2006632585699717120",
+              "start": 5,
+              "url": "https://t.co/64TnkVRad3"
+            },
+            {
+              "display_url": "x.com/Rokumi_desu/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Rokumi_desu/status/2000812956427411815",
+              "start": 29,
+              "url": "https://t.co/tNaZk8hUYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006632595841593793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 392,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000812956427411815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我生气了 https://t.co/64TnkVRad3 https://t.co/tNaZk8hUYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 116,
+          "like_count": 12085,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1636
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

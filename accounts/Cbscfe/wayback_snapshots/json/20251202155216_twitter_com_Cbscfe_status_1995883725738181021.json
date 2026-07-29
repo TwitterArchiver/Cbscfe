@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1995587509686878242",
+    "created_at": "2025-12-02T15:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995883725738181021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1487649061717123076",
+          "start": 0,
+          "username": "EpicClipVault"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995883725738181021",
+    "in_reply_to_user_id": "1487649061717123076",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995587509686878242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EpicClipVault CGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30068,
+        "height": 446,
+        "media_key": "7_1927742296163848192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927742296163848192/pu/img/Ny-J_zK3Ftjg3y4q.jpg",
+        "public_metrics": {
+          "view_count": 3771289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927742296163848192/pu/vid/avc1/434x270/r2ejzbTmVG0dzhDd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927742296163848192/pu/vid/avc1/720x446/gJMe2mQsVf3igO6_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927742296163848192/pu/pl/kGyxvjxYw66e_MnH.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1995587509686878242",
+        "created_at": "2025-12-02T15:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995883725738181021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1487649061717123076",
+              "start": 0,
+              "username": "EpicClipVault"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995883725738181021",
+        "in_reply_to_user_id": "1487649061717123076",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995587509686878242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EpicClipVault CGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927742296163848192"
+          ],
+          "media_source_tweet_id": [
+            "1927742334214488111"
+          ]
+        },
+        "author_id": "1487649061717123076",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995587509686878242",
+        "created_at": "2025-12-01T20:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995587509686878242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyJ047e9xA",
+              "end": 76,
+              "expanded_url": "https://x.com/InternetH0F/status/1927742334214488111/video/1",
+              "media_key": "7_1927742296163848192",
+              "start": 53,
+              "url": "https://t.co/YyJ047e9xA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995587509686878242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1063,
+          "impression_count": 698219,
+          "like_count": 9637,
+          "quote_count": 8,
+          "reply_count": 22,
+          "retweet_count": 604
+        },
+        "reply_settings": "everyone",
+        "text": "Bro found a flying glitch and got banned instantly 😭 https://t.co/YyJ047e9xA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 100,
+          "like_count": 9898,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:49:22.000Z",
+        "description": "The most viral moments from across the internet. DM for removals/credit.",
+        "id": "1487649061717123076",
+        "name": "Epic Clip Vault",
+        "pinned_tweet_id": "1981878400496152958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857285288273293312/mM9bd-SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138189,
+          "following_count": 91471,
+          "like_count": 7064,
+          "listed_count": 111,
+          "media_count": 25065,
+          "tweet_count": 28745
+        },
+        "username": "EpicClipVault",
+        "verified": true
+      }
+    ]
+  }
+}

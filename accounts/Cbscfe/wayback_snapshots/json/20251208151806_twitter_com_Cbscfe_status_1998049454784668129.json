@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998025373528023040"
+      ],
+      "media_source_tweet_id": [
+        "1998025390103900218"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1998049454784668129",
+    "created_at": "2025-12-08T15:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998049454784668129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "BaoZheFanQie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hvyLXgEkCb",
+          "end": 50,
+          "expanded_url": "https://x.com/BaoZheFanQie/status/1998025390103900218/photo/1",
+          "media_key": "3_1998025373528023040",
+          "start": 27,
+          "url": "https://t.co/hvyLXgEkCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998049454784668129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998025390103900218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaoZheFanQie: 奇奇怪怪的圣诞树 https://t.co/hvyLXgEkCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_1998025373528023040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ppfcFa4AAz-Aw.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998025373528023040"
+          ],
+          "media_source_tweet_id": [
+            "1998025390103900218"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1998049454784668129",
+        "created_at": "2025-12-08T15:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998049454784668129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "BaoZheFanQie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvyLXgEkCb",
+              "end": 50,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/1998025390103900218/photo/1",
+              "media_key": "3_1998025373528023040",
+              "start": 27,
+              "url": "https://t.co/hvyLXgEkCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998049454784668129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998025390103900218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaoZheFanQie: 奇奇怪怪的圣诞树 https://t.co/hvyLXgEkCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998025373528023040"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1998025390103900218",
+        "created_at": "2025-12-08T13:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998025390103900218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvyLXgEkCb",
+              "end": 32,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/1998025390103900218/photo/1",
+              "media_key": "3_1998025373528023040",
+              "start": 9,
+              "url": "https://t.co/hvyLXgEkCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998025390103900218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "奇奇怪怪的圣诞树 https://t.co/hvyLXgEkCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 104,
+          "like_count": 10530,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄生活推🍅\n，以记录生活发图为主，本号不键政",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuAtzg"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "name": "包着🍅籽的🍅",
+        "pinned_tweet_id": "1994433287570534543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985834505693999104/YrM20Ruv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 2986,
+          "like_count": 1607,
+          "listed_count": 8,
+          "media_count": 699,
+          "tweet_count": 8251
+        },
+        "url": "https://t.co/R2tlnuAtzg",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2029655278837432450",
+    "created_at": "2026-03-06T01:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T02:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029735628318113828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787677994397655040",
+          "start": 0,
+          "username": "rock_superstars"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029735628318113828",
+    "in_reply_to_user_id": "1787677994397655040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029655278837432450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rock_superstars 私了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2029655278837432450",
+        "created_at": "2026-03-06T01:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T02:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029735628318113828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787677994397655040",
+              "start": 0,
+              "username": "rock_superstars"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029735628318113828",
+        "in_reply_to_user_id": "1787677994397655040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029655278837432450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rock_superstars 私了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787677994397655040",
+        "conversation_id": "2029655278837432450",
+        "created_at": "2026-03-05T20:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029655278837432450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029655278837432450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "^爱德华咋了我靠。我记得我前几年他第一世我都和他互关了。\n搞什么啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 190,
+          "like_count": 16272,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T02:57:14.000Z",
+        "description": "^病み垢",
+        "id": "1787677994397655040",
+        "location": "^不透光的房间",
+        "name": "^どうゆう意味",
+        "pinned_tweet_id": "1939729588470624672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927679635149524992/dtnoej9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 1053,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 290
+        },
+        "username": "rock_superstars",
+        "verified": false
+      }
+    ]
+  }
+}

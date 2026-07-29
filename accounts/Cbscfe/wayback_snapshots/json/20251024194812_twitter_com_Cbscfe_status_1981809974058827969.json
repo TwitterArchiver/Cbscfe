@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1981809974058827969",
+    "created_at": "2025-10-24T19:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T20:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981809974058827969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812383256068681729",
+          "start": 3,
+          "username": "zhuy655159"
+        },
+        {
+          "end": 31,
+          "id": "1939242814547914752",
+          "start": 16,
+          "username": "Shenxiao123971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981809974058827969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981733217137815570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuy655159: @Shenxiao123971 啊？我现在才15，我5岁的时候才有自我意识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1981809974058827969",
+        "created_at": "2025-10-24T19:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981809974058827969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812383256068681729",
+              "start": 3,
+              "username": "zhuy655159"
+            },
+            {
+              "end": 31,
+              "id": "1939242814547914752",
+              "start": 16,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981809974058827969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981733217137815570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuy655159: @Shenxiao123971 啊？我现在才15，我5岁的时候才有自我意识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812383256068681729",
+        "conversation_id": "1981667910184743181",
+        "created_at": "2025-10-24T14:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981733217137815570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939242814547914752",
+              "start": 0,
+              "username": "Shenxiao123971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981733217137815570",
+        "in_reply_to_user_id": "1939242814547914752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1268,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981667910184743181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenxiao123971 啊？我现在才15，我5岁的时候才有自我意识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "喜欢Cbscfe\n信仰Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 46,
+          "like_count": 3418,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T07:07:09.000Z",
+        "description": "10.既不极左也不极右专讽刺一些极端主义反对蝗汉lgbtq极权主义追求神性不反共红蓝随意代替",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.ixigua.com/iMJjkfSo/",
+                "end": 23,
+                "expanded_url": "https://v.ixigua.com/iMJjkfSo/",
+                "start": 0,
+                "url": "https://t.co/Ujod1MpbxB"
+              }
+            ]
+          }
+        },
+        "id": "1812383256068681729",
+        "name": "以色列王",
+        "pinned_tweet_id": "1978068079629173232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826529093879316480/qCObBzX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 151,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/Ujod1MpbxB",
+        "username": "zhuy655159",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "欢迎互关互赞 有漏关的请私信我（黄赌毒请不要打扰）",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10499,
+          "following_count": 4895,
+          "like_count": 63211,
+          "listed_count": 25,
+          "media_count": 242,
+          "tweet_count": 13338
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027267158087221248"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2027258842535559577",
+    "created_at": "2026-02-27T06:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027267169671926258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uiPzDaWgzZ",
+          "end": 39,
+          "expanded_url": "https://x.com/Cbscfe/status/2027267169671926258/photo/1",
+          "media_key": "3_2027267158087221248",
+          "start": 16,
+          "url": "https://t.co/uiPzDaWgzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027267169671926258",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027258842535559577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 https://t.co/uiPzDaWgzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2027267158087221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJMvUaawAAbup-.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027267158087221248"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2027258842535559577",
+        "created_at": "2026-02-27T06:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027267169671926258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uiPzDaWgzZ",
+              "end": 39,
+              "expanded_url": "https://x.com/Cbscfe/status/2027267169671926258/photo/1",
+              "media_key": "3_2027267158087221248",
+              "start": 16,
+              "url": "https://t.co/uiPzDaWgzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027267169671926258",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027258842535559577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 https://t.co/uiPzDaWgzZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2027258842535559577",
+        "created_at": "2026-02-27T05:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027258842535559577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027258842535559577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 654,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们认为00后和10后最大的差距在哪里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 169,
+          "like_count": 15289,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner/RainEngine UX Design/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2025756639283044716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6949,
+          "following_count": 803,
+          "like_count": 54255,
+          "listed_count": 5,
+          "media_count": 1191,
+          "tweet_count": 8180
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

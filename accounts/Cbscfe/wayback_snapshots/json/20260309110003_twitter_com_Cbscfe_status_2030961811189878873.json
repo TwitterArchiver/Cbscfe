@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2030961811189878873",
+    "created_at": "2026-03-09T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030961811189878873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hikawakaede3/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hikawakaede3/status/2030912277713707050",
+          "start": 18,
+          "url": "https://t.co/NO5cPaZRCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030961811189878873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030912277713707050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会让人幻想自己是可可爱爱的女孩子（ https://t.co/NO5cPaZRCF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2030961811189878873",
+        "created_at": "2026-03-09T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030961811189878873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikawakaede3/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hikawakaede3/status/2030912277713707050",
+              "start": 18,
+              "url": "https://t.co/NO5cPaZRCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030961811189878873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030912277713707050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会让人幻想自己是可可爱爱的女孩子（ https://t.co/NO5cPaZRCF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2030517592805568965",
+        "created_at": "2026-03-09T07:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030912277713707050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 18,
+              "id": "1959893383633358848",
+              "start": 11,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 27,
+              "id": "1605554180953104385",
+              "start": 19,
+              "username": "xynmuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030912277713707050",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030821339263574449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @Cbscfe @xynmuxi 会让人幻想自己是可可爱爱的女孩子（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 198,
+          "like_count": 16663,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 狗猫：@PrimAsdue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "PrimAsdue"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫🏳️‍⚧️#天车一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 773,
+          "like_count": 21014,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 5966
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      }
+    ]
+  }
+}

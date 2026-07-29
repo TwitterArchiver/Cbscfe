@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986489960090722305"
+      ],
+      "media_source_tweet_id": [
+        "1986489963240735096"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1989688701979382247",
+    "created_at": "2025-11-15T13:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989688701979382247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510547267727597571",
+          "start": 3,
+          "username": "_yesbut_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KVlnsi79SZ",
+          "end": 37,
+          "expanded_url": "https://x.com/_yesbut_/status/1986489963240735096/photo/1",
+          "media_key": "3_1986489960090722305",
+          "start": 14,
+          "url": "https://t.co/KVlnsi79SZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989688701979382247",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1306
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986489963240735096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yesbut_: https://t.co/KVlnsi79SZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1986489960090722305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FuGAUWYAEy87o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986489960090722305"
+          ],
+          "media_source_tweet_id": [
+            "1986489963240735096"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1989688701979382247",
+        "created_at": "2025-11-15T13:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989688701979382247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510547267727597571",
+              "start": 3,
+              "username": "_yesbut_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVlnsi79SZ",
+              "end": 37,
+              "expanded_url": "https://x.com/_yesbut_/status/1986489963240735096/photo/1",
+              "media_key": "3_1986489960090722305",
+              "start": 14,
+              "url": "https://t.co/KVlnsi79SZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989688701979382247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1306
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986489963240735096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yesbut_: https://t.co/KVlnsi79SZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986489960090722305"
+          ]
+        },
+        "author_id": "1510547267727597571",
+        "conversation_id": "1986489963240735096",
+        "created_at": "2025-11-06T17:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986489963240735096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVlnsi79SZ",
+              "end": 23,
+              "expanded_url": "https://x.com/_yesbut_/status/1986489963240735096/photo/1",
+              "media_key": "3_1986489960090722305",
+              "start": 0,
+              "url": "https://t.co/KVlnsi79SZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986489963240735096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 430326,
+          "like_count": 24852,
+          "quote_count": 52,
+          "reply_count": 38,
+          "retweet_count": 1306
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KVlnsi79SZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 6927,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T09:18:42.000Z",
+        "description": "Official YES, BUT series by @like_gudim https://t.co/SubYEcH8wY     \ncooperation: gudim.anton@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "like_gudim"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/_yes_but",
+                "end": 63,
+                "expanded_url": "http://instagram.com/_yes_but",
+                "start": 40,
+                "url": "https://t.co/SubYEcH8wY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "themansionpress.com/collections/gu…",
+                "end": 23,
+                "expanded_url": "https://themansionpress.com/collections/gudim",
+                "start": 0,
+                "url": "https://t.co/UjC2fsiKcr"
+              }
+            ]
+          }
+        },
+        "id": "1510547267727597571",
+        "name": "Yes, But",
+        "pinned_tweet_id": "1864385743822442775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510549646531350528/T6C3jmTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730706,
+          "following_count": 1,
+          "like_count": 459,
+          "listed_count": 1073,
+          "media_count": 688,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/UjC2fsiKcr",
+        "username": "_yesbut_",
+        "verified": true
+      }
+    ]
+  }
+}

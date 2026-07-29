@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1992864696647798875",
+    "created_at": "2025-11-24T22:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T23:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993081197837402131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "139064361",
+          "start": 0,
+          "username": "agusAditya_"
+        },
+        {
+          "end": 24,
+          "id": "94543804",
+          "start": 13,
+          "username": "TansuYegen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993081197837402131",
+    "in_reply_to_user_id": "139064361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992954141237535172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agusAditya_ @TansuYegen This is the ultimate solution"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992954135105380353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hlOgyaIAEkhps.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1992864696647798875",
+        "created_at": "2025-11-24T22:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993081197837402131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "139064361",
+              "start": 0,
+              "username": "agusAditya_"
+            },
+            {
+              "end": 24,
+              "id": "94543804",
+              "start": 13,
+              "username": "TansuYegen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993081197837402131",
+        "in_reply_to_user_id": "139064361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992954141237535172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agusAditya_ @TansuYegen This is the ultimate solution"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992954135105380353"
+          ]
+        },
+        "author_id": "139064361",
+        "conversation_id": "1992864696647798875",
+        "created_at": "2025-11-24T13:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992954141237535172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "94543804",
+              "start": 0,
+              "username": "TansuYegen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HulJskuoAE",
+              "end": 58,
+              "expanded_url": "https://x.com/agusAditya_/status/1992954141237535172/photo/1",
+              "media_key": "3_1992954135105380353",
+              "start": 35,
+              "url": "https://t.co/HulJskuoAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992954141237535172",
+        "in_reply_to_user_id": "94543804",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35242,
+          "like_count": 595,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992864696647798875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TansuYegen This was valid answer. https://t.co/HulJskuoAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 92,
+          "like_count": 8647,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1145
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-01T12:47:03.000Z",
+        "description": "Architect - 3D  - Real Madrid",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/agusaditya_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/agusaditya_",
+                "start": 0,
+                "url": "https://t.co/oE6tNjnqIc"
+              }
+            ]
+          }
+        },
+        "id": "139064361",
+        "location": "Nomaden",
+        "name": "arkitekd",
+        "pinned_tweet_id": "1115286899684282369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973968806990217216/zibZZF-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 1284,
+          "like_count": 20897,
+          "listed_count": 10,
+          "media_count": 4475,
+          "tweet_count": 63212
+        },
+        "url": "https://t.co/oE6tNjnqIc",
+        "username": "agusAditya_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-04T11:56:23.000Z",
+        "description": "Exploring the intersections of AI, startups, and the economy 🌐 | Top 100 Most Influential X Accounts | All opinions are my own #AI |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yegentansu.com",
+                "end": 23,
+                "expanded_url": "https://yegentansu.com",
+                "start": 0,
+                "url": "https://t.co/6PEuuxhuuE"
+              }
+            ]
+          }
+        },
+        "id": "94543804",
+        "location": "Worldwide",
+        "name": "Tansu Yegen",
+        "pinned_tweet_id": "1992698161501175960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908358126870409216/B4efXE9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568089,
+          "following_count": 2344,
+          "like_count": 9701,
+          "listed_count": 12058,
+          "media_count": 34795,
+          "tweet_count": 52478
+        },
+        "url": "https://t.co/6PEuuxhuuE",
+        "username": "TansuYegen",
+        "verified": true
+      }
+    ]
+  }
+}

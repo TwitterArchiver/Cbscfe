@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1978793854234194213",
+    "created_at": "2025-10-17T17:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T18:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979241697067569606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "42653798",
+          "start": 0,
+          "username": "kiradokisoyorin"
+        },
+        {
+          "end": 32,
+          "id": "982460989005287424",
+          "start": 17,
+          "username": "entangled_pair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979241697067569606",
+    "in_reply_to_user_id": "42653798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979135133341949955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiradokisoyorin @entangled_pair 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1978793854234194213",
+        "created_at": "2025-10-17T17:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T18:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979241697067569606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "42653798",
+              "start": 0,
+              "username": "kiradokisoyorin"
+            },
+            {
+              "end": 32,
+              "id": "982460989005287424",
+              "start": 17,
+              "username": "entangled_pair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979241697067569606",
+        "in_reply_to_user_id": "42653798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979135133341949955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiradokisoyorin @entangled_pair 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "42653798",
+        "conversation_id": "1978793854234194213",
+        "created_at": "2025-10-17T10:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979135133341949955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982460989005287424",
+              "start": 0,
+              "username": "entangled_pair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979135133341949955",
+        "in_reply_to_user_id": "982460989005287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978793854234194213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entangled_pair 不如给抑郁症改改（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 37,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-26T16:01:30.000Z",
+        "description": "08/可以叫我库库/167-55-80C/其实很混沌但是没想好人设所以不写了/你说得对可是库库时间到了来和库库玩儿/这辈子再也不玩抽象了/随缘上推回消息慢是正常的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kukutime",
+                "end": 23,
+                "expanded_url": "http://t.me/kukutime",
+                "start": 0,
+                "url": "https://t.co/HDmEepKsb5"
+              }
+            ]
+          }
+        },
+        "id": "42653798",
+        "location": "好库库公司",
+        "name": "小库小库~",
+        "pinned_tweet_id": "1978093404283097294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972579241893208064/b2SXBBRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 715,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/HDmEepKsb5",
+        "username": "kiradokisoyorin",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "即时退出当代生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaykayz.com",
+                "end": 23,
+                "expanded_url": "http://jaykayz.com",
+                "start": 0,
+                "url": "https://t.co/m6o54XZUN8"
+              }
+            ]
+          }
+        },
+        "id": "982460989005287424",
+        "location": "Shenzhen",
+        "name": "𝙅𝙆.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 288,
+          "like_count": 6206,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1660
+        },
+        "url": "https://t.co/m6o54XZUN8",
+        "username": "entangled_pair",
+        "verified": true
+      }
+    ]
+  }
+}

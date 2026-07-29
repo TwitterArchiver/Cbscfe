@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2016729549405577530",
+    "created_at": "2026-01-30T00:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017031113408205102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016174785114554368",
+          "start": 0,
+          "username": "acacia98430"
+        },
+        {
+          "end": 26,
+          "id": "1983184628208050176",
+          "start": 13,
+          "username": "Grimheart_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017031113408205102",
+    "in_reply_to_user_id": "2016174785114554368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016928388859277320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia98430 @Grimheart_00 我靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2016729549405577530",
+        "created_at": "2026-01-30T00:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017031113408205102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016174785114554368",
+              "start": 0,
+              "username": "acacia98430"
+            },
+            {
+              "end": 26,
+              "id": "1983184628208050176",
+              "start": 13,
+              "username": "Grimheart_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017031113408205102",
+        "in_reply_to_user_id": "2016174785114554368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016928388859277320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia98430 @Grimheart_00 我靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016174785114554368",
+        "conversation_id": "2016729549405577530",
+        "created_at": "2026-01-29T17:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016928388859277320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983184628208050176",
+              "start": 0,
+              "username": "Grimheart_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016928388859277320",
+        "in_reply_to_user_id": "1983184628208050176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016729549405577530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grimheart_00 就这样被骗着给鬼口了两下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 146,
+          "like_count": 13392,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:42:18.000Z",
+        "description": "౽₍˄. ̫.˄₎₍˄. ̫.˄₎⟆",
+        "id": "2016174785114554368",
+        "name": "Acacia",
+        "pinned_tweet_id": "2016933310052913566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016194845396619264/_dLgdAN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "acacia98430",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T14:51:29.000Z",
+        "description": "我叫雪雫｜第二次转生寻回推友中｜isfp-t｜生理性别女｜极度厌蠢｜精神状态不详｜自伤od｜想互fo喵 漏了可以私我｜https://t.co/3Ra1GRa3By 匿名提问欢迎来玩！｜扩列私信喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/184546",
+                "end": 82,
+                "expanded_url": "https://ngl.link/184546",
+                "start": 59,
+                "url": "https://t.co/3Ra1GRa3By"
+              }
+            ]
+          }
+        },
+        "id": "1983184628208050176",
+        "location": "天國",
+        "name": "N ya🎀（互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228287967776770/JBwmQBv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 331,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 710
+        },
+        "username": "Grimheart_00",
+        "verified": false
+      }
+    ]
+  }
+}

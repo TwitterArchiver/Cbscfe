@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2026177240678203507",
+    "created_at": "2026-02-24T06:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026177240678203507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1906714014299865088",
+          "start": 3,
+          "username": "makiisyourgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026177240678203507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025938918278066306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makiisyourgod: 当你发现地球ol其实是开放世界游戏后belike："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2026177240678203507",
+        "created_at": "2026-02-24T06:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026177240678203507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1906714014299865088",
+              "start": 3,
+              "username": "makiisyourgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026177240678203507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025938918278066306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makiisyourgod: 当你发现地球ol其实是开放世界游戏后belike："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906714014299865088",
+        "conversation_id": "2025938918278066306",
+        "created_at": "2026-02-23T14:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025938918278066306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AAN552AA/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/N552AAN552AA/status/2025886023688049023",
+              "start": 26,
+              "url": "https://t.co/cE2bGjE8Vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025938918278066306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025886023688049023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当你发现地球ol其实是开放世界游戏后belike： https://t.co/cE2bGjE8Vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 167,
+          "like_count": 15055,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "忧郁俄罗斯混血东北逼在广东",
+        "id": "1906714014299865088",
+        "location": "=maki | mtf | asd | infp",
+        "name": "巻比",
+        "pinned_tweet_id": "2018923717989187620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025219547410956289/d_y164OG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 303,
+          "like_count": 37022,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 2967
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      }
+    ]
+  }
+}

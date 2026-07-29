@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2048557739878842575",
+    "created_at": "2026-04-27T00:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048562337460982182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048562337460982182",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048557739878842575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 这个时候怎么不要法治了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134549,
+        "height": 1280,
+        "media_key": "13_2048527531880632320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048527531880632320/img/3GhvP7Iv0TtHBqrx.jpg",
+        "public_metrics": {
+          "view_count": 1880
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048527531880632320/vid/avc1/320x568/lZLdN3TusUacAD9L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048527531880632320/vid/avc1/480x852/vjJQWLBGdCIUVdCF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048527531880632320/vid/avc1/720x1280/97Gdy9qP68CPQnqX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048527531880632320/pl/1yICMgCaD45iKOM7.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2048527531863887872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3U78la0AAclXU.jpg",
+        "width": 450
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2048527531947528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3U785XEAAn0UB.jpg",
+        "width": 668
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2048527304536788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3UutuakAA-lzh.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2048557739878842575",
+        "created_at": "2026-04-27T00:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048562337460982182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048562337460982182",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048557739878842575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这个时候怎么不要法治了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048527531880632320",
+            "3_2048527531863887872",
+            "3_2048527531947528192",
+            "3_2048527304536788992"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048557739878842575",
+        "created_at": "2026-04-27T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048557739878842575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNoRYHYqTL",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2048557739878842575/video/1",
+              "media_key": "13_2048527531880632320",
+              "start": 138,
+              "url": "https://t.co/wNoRYHYqTL"
+            },
+            {
+              "display_url": "pic.x.com/wNoRYHYqTL",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2048557739878842575/video/1",
+              "media_key": "3_2048527531863887872",
+              "start": 138,
+              "url": "https://t.co/wNoRYHYqTL"
+            },
+            {
+              "display_url": "pic.x.com/wNoRYHYqTL",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2048557739878842575/video/1",
+              "media_key": "3_2048527531947528192",
+              "start": 138,
+              "url": "https://t.co/wNoRYHYqTL"
+            },
+            {
+              "display_url": "pic.x.com/wNoRYHYqTL",
+              "end": 161,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2048557739878842575/video/1",
+              "media_key": "3_2048527304536788992",
+              "start": 138,
+              "url": "https://t.co/wNoRYHYqTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048557739878842575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日前，上海街头，为了悼念那些被虐杀的小动物，街头行为艺术家鲍雨 进行艺术创作：他通过将动物布偶悬挂在树上，或以摔打等方式对其进行“破坏”，以艺术形式呈现暴力场景。\n他在这个作品中探讨了当今社会对猫狗虐待的普遍性，和多数人们对虐待和伤害动物的忽视，以及法律对动物保护的不完善。\n\n4月25日，鲍雨发视频称，他因此事被被上海警方因扰乱公共秩序拘留5日。\n当他出来后看到一则新闻称“河南一男子虐杀超过1500只猫，被拘留10日”\n鲍雨表示：他杀了1500只猫，才被拘留10日，而我仅仅因为表演行为艺术就被拘留5日，当我看到看到这条新闻时，我感到了深深的绝望。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3830,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "日前，上海街头，为了悼念那些被虐杀的小动物，街头行为艺术家鲍雨 进行艺术创作：他通过将动物布偶悬挂在树上，或以摔打等方式对其进行“破坏”，以艺术形式呈现暴力场景。\n他在这个作品中探讨了当今社会对猫狗虐待的普遍性，和多数人们对虐待和伤害动物的忽视，以及法律对动物保护的不完善。 https://t.co/wNoRYHYqTL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 385,
+          "like_count": 20184,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208035,
+          "following_count": 1037,
+          "like_count": 9432,
+          "listed_count": 8675,
+          "media_count": 45817,
+          "tweet_count": 52904
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

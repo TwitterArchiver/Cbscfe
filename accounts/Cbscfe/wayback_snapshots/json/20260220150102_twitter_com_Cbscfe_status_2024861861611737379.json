@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024750151357911041"
+      ],
+      "media_source_tweet_id": [
+        "2024750188729102772"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2024861861611737379",
+    "created_at": "2026-02-20T15:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024861861611737379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2BhZjFRJiK",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2024750188729102772/photo/1",
+          "media_key": "3_2024750151357911041",
+          "start": 15,
+          "url": "https://t.co/2BhZjFRJiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024861861611737379",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024750188729102772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/2BhZjFRJiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2024750151357911041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlbiPqbUAEzv27.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024750151357911041"
+          ],
+          "media_source_tweet_id": [
+            "2024750188729102772"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2024861861611737379",
+        "created_at": "2026-02-20T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024861861611737379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BhZjFRJiK",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2024750188729102772/photo/1",
+              "media_key": "3_2024750151357911041",
+              "start": 15,
+              "url": "https://t.co/2BhZjFRJiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024861861611737379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024750188729102772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/2BhZjFRJiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024750151357911041"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2024750188729102772",
+        "created_at": "2026-02-20T07:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024750188729102772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BhZjFRJiK",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2024750188729102772/photo/1",
+              "media_key": "3_2024750151357911041",
+              "start": 0,
+              "url": "https://t.co/2BhZjFRJiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024750188729102772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12872,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2BhZjFRJiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 166,
+          "like_count": 14867,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34200,
+          "following_count": 350,
+          "like_count": 112,
+          "listed_count": 98,
+          "media_count": 11071,
+          "tweet_count": 11113
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

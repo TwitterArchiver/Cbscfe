@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1999160785868881978",
+    "created_at": "2025-12-11T16:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999160785868881978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "859953331640434688",
+          "start": 3,
+          "username": "rohidasgowda"
+        },
+        {
+          "end": 28,
+          "id": "1844090867067518977",
+          "start": 18,
+          "username": "fidexcode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999160785868881978",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998814161355289088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rohidasgowda: @fidexcode Who cares. \n\nLet's have even more. 😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1999160785868881978",
+        "created_at": "2025-12-11T16:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999160785868881978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "859953331640434688",
+              "start": 3,
+              "username": "rohidasgowda"
+            },
+            {
+              "end": 28,
+              "id": "1844090867067518977",
+              "start": 18,
+              "username": "fidexcode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999160785868881978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998814161355289088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rohidasgowda: @fidexcode Who cares. \n\nLet's have even more. 😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "859953331640434688",
+        "conversation_id": "1998801056092901630",
+        "created_at": "2025-12-10T17:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998814161355289088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844090867067518977",
+              "start": 0,
+              "username": "fidexcode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998814161355289088",
+        "in_reply_to_user_id": "1844090867067518977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2410,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998801056092901630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fidexcode Who cares. \n\nLet's have even more. 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 104,
+          "like_count": 10788,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T02:10:26.000Z",
+        "description": "👨‍💻 Indie Maker | Turning Notion databases into JSON, building this micro SaaS in public.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notiontojson.vercel.app",
+                "end": 23,
+                "expanded_url": "https://notiontojson.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/rB6wSQjE7L"
+              }
+            ]
+          }
+        },
+        "id": "859953331640434688",
+        "name": "Rohidas",
+        "pinned_tweet_id": "1993281716744863947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988579980629233664/1Q9IKDAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 389,
+          "like_count": 2494,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 5976
+        },
+        "url": "https://t.co/rB6wSQjE7L",
+        "username": "rohidasgowda",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T19:01:50.000Z",
+        "description": "Frontend Engineer || Next.js || TypeScript || React.js || JavaScript || CSS ||Tailwind CSS || HTML",
+        "id": "1844090867067518977",
+        "location": "Remote",
+        "name": "fidexCode",
+        "pinned_tweet_id": "1988852781386506363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962860836801724416/Ef56nWAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7943,
+          "following_count": 1338,
+          "like_count": 15406,
+          "listed_count": 18,
+          "media_count": 547,
+          "tweet_count": 13207
+        },
+        "username": "fidexcode",
+        "verified": true
+      }
+    ]
+  }
+}

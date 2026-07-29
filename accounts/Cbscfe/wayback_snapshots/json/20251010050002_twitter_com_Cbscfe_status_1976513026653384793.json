@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976337611586404664",
+    "created_at": "2025-10-10T05:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T06:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976513026653384793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        },
+        {
+          "end": 31,
+          "id": "1529658600649539584",
+          "start": 16,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976513026653384793",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976496460121448920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd @DrSunan2022422 其实中文的\"他\"是没有性别指向的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976337611586404664",
+        "created_at": "2025-10-10T05:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T06:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976513026653384793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            },
+            {
+              "end": 31,
+              "id": "1529658600649539584",
+              "start": 16,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976513026653384793",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976496460121448920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd @DrSunan2022422 其实中文的\"他\"是没有性别指向的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1976337611586404664",
+        "created_at": "2025-10-10T03:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976496460121448920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529658600649539584",
+              "start": 0,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976496460121448920",
+        "in_reply_to_user_id": "1529658600649539584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976337611586404664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSunan2022422 “他”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 31,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 112,
+          "like_count": 2778,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 4120
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过女高 | 要素过多 | 啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家 🏳‍⚧｜2026 SRS 手术准备中",
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "🍥MTF....Dr.Sunan🏳‍⚧🍥🐾",
+        "pinned_tweet_id": "1972638421824016459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 316,
+          "like_count": 17729,
+          "listed_count": 8,
+          "media_count": 175,
+          "tweet_count": 3382
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

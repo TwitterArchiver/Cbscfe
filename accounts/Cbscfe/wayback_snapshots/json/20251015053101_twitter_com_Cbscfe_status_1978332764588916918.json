@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1978179389847163333",
+    "created_at": "2025-10-15T05:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978332764588916918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639247931898306561",
+          "start": 0,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978332764588916918",
+    "in_reply_to_user_id": "1639247931898306561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978179389847163333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam51824016070 八月十五"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 178423,
+        "height": 960,
+        "media_key": "7_1978179306347245568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978179306347245568/pu/img/YoO6okoslzCXag2Q.jpg",
+        "public_metrics": {
+          "view_count": 51526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978179306347245568/pu/vid/avc1/320x568/4uF94bzt7yDHY--y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978179306347245568/pu/vid/avc1/480x852/jMk5lpsbbUNxL_4r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978179306347245568/pu/vid/avc1/540x960/pRZEN6kOBLXIQj3X.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978179306347245568/pu/pl/ZUKrhqxR2_S9Tx94.m3u8?tag=12&v=d70"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1978179389847163333",
+        "created_at": "2025-10-15T05:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978332764588916918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978332764588916918",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978179389847163333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 八月十五"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978179306347245568"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "1978179389847163333",
+        "created_at": "2025-10-14T19:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978179389847163333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zq4L2SQmKx",
+              "end": 163,
+              "expanded_url": "https://x.com/sam51824016070/status/1978179389847163333/video/1",
+              "media_key": "7_1978179306347245568",
+              "start": 140,
+              "url": "https://t.co/Zq4L2SQmKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978179389847163333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 73936,
+          "like_count": 350,
+          "quote_count": 5,
+          "reply_count": 90,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "到了机场才知道台湾不属于中国，拿着中国护照和身份证连海关都过不了，事实证再次明台湾就是一个主权独立的国家。\n\n中国人必须推翻独、裁暴、政邪恶的共匪汉奸政权，彻底摆脱共匪奴役，让中国实现自由、民主、法治、人权等普世价值才是真正爱国。\n\n反共光荣，亲共可耻，打倒共匪，真正爱国✊️👊 https://t.co/Zq4L2SQmKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 2394,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "认清中共邪恶,反共进行到底, 共匪可耻，反共光荣，共匪国不是我的国,共匪血旗不是我的国旗，没有共产党才有新中国 。\n\n以防万一请关注小号https://t.co/dllXpw1iuI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 91,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 68,
+                "url": "https://t.co/dllXpw1iuI"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "1952888657993711851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9529,
+          "following_count": 2764,
+          "like_count": 19666,
+          "listed_count": 48,
+          "media_count": 1957,
+          "tweet_count": 6292
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

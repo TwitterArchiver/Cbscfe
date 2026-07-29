@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030276868742770689"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2030276876523262391",
+    "created_at": "2026-03-07T13:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030276876523262391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ptmixU9CrO",
+          "end": 41,
+          "expanded_url": "https://x.com/Cbscfe/status/2030276876523262391/photo/1",
+          "media_key": "3_2030276868742770689",
+          "start": 18,
+          "url": "https://t.co/ptmixU9CrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030276876523262391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们推特上的人什么时候去欧迪泻药。 https://t.co/ptmixU9CrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 255,
+        "media_key": "3_2030276868742770689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz-DiUa8AEb0pS.jpg",
+        "width": 2772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030276868742770689"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2030276876523262391",
+        "created_at": "2026-03-07T13:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030276876523262391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptmixU9CrO",
+              "end": 41,
+              "expanded_url": "https://x.com/Cbscfe/status/2030276876523262391/photo/1",
+              "media_key": "3_2030276868742770689",
+              "start": 18,
+              "url": "https://t.co/ptmixU9CrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030276876523262391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们推特上的人什么时候去欧迪泻药。 https://t.co/ptmixU9CrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 191,
+          "like_count": 16461,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

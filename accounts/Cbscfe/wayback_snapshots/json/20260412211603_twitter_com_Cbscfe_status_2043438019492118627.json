@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043437824612216832"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2043438019492118627",
+    "created_at": "2026-04-12T21:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T22:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043438019492118627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Source code: Lib/typing.py This module provides runtime support for type hints. Consider the function below: The function surface_area_of_cube takes an argument expected to be an instance of float,...",
+          "display_url": "docs.python.org/3/library/typi…",
+          "end": 112,
+          "expanded_url": "https://docs.python.org/3/library/typing.html#type-aliases",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2043438022612647936/TMeZqswh?format=jpg&name=orig",
+              "width": 1146
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043438022612647936/TMeZqswh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "typing — Support for type hints",
+          "unwound_url": "https://docs.python.org/3/library/typing.html#type-aliases",
+          "url": "https://t.co/OUGA46wg9y"
+        },
+        {
+          "display_url": "pic.x.com/oqPSLdzY0G",
+          "end": 173,
+          "expanded_url": "https://x.com/Cbscfe/status/2043438019492118627/photo/1",
+          "media_key": "3_2043437824612216832",
+          "start": 150,
+          "url": "https://t.co/oqPSLdzY0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043438019492118627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日常配置永远都配置不完的IDE的时候\n发现一个选项`Deprecate Typing Aliases`\n我想：“TypeAlias怎么可能被Deprecate”\n就去查\n结果尼玛https://t.co/OUGA46wg9y\n我没招了。。。\n这还是python吗，3.12加的我怎么现在才知道。。。 https://t.co/oqPSLdzY0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2043437824612216832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFu_3_ibsAASPIr.png",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043437824612216832"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2043438019492118627",
+        "created_at": "2026-04-12T21:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043438019492118627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Source code: Lib/typing.py This module provides runtime support for type hints. Consider the function below: The function surface_area_of_cube takes an argument expected to be an instance of float,...",
+              "display_url": "docs.python.org/3/library/typi…",
+              "end": 112,
+              "expanded_url": "https://docs.python.org/3/library/typing.html#type-aliases",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2043438022612647936/TMeZqswh?format=jpg&name=orig",
+                  "width": 1146
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043438022612647936/TMeZqswh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "typing — Support for type hints",
+              "unwound_url": "https://docs.python.org/3/library/typing.html#type-aliases",
+              "url": "https://t.co/OUGA46wg9y"
+            },
+            {
+              "display_url": "pic.x.com/oqPSLdzY0G",
+              "end": 173,
+              "expanded_url": "https://x.com/Cbscfe/status/2043438019492118627/photo/1",
+              "media_key": "3_2043437824612216832",
+              "start": 150,
+              "url": "https://t.co/oqPSLdzY0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043438019492118627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日常配置永远都配置不完的IDE的时候\n发现一个选项`Deprecate Typing Aliases`\n我想：“TypeAlias怎么可能被Deprecate”\n就去查\n结果尼玛https://t.co/OUGA46wg9y\n我没招了。。。\n这还是python吗，3.12加的我怎么现在才知道。。。 https://t.co/oqPSLdzY0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 310,
+          "like_count": 19070,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3714
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

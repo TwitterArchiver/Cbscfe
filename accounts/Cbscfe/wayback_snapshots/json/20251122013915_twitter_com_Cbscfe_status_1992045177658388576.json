@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1992045177658388576",
+    "created_at": "2025-11-22T01:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T02:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992045177658388576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959893383633358848",
+          "start": 3,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 28,
+          "id": "1630227784424386561",
+          "start": 12,
+          "username": "neutralshitmoth"
+        },
+        {
+          "end": 38,
+          "id": "1304570838168072194",
+          "start": 29,
+          "username": "an022081"
+        },
+        {
+          "end": 55,
+          "id": "1662512896721534977",
+          "start": 39,
+          "username": "TFatherles96017"
+        },
+        {
+          "end": 71,
+          "id": "1774284932904259584",
+          "start": 56,
+          "username": "CStickernoodle"
+        },
+        {
+          "end": 88,
+          "id": "1953362894998953984",
+          "start": 72,
+          "username": "Fretimeshitpost"
+        },
+        {
+          "end": 102,
+          "id": "1245620788801056770",
+          "start": 89,
+          "username": "cntrlaltdelk"
+        },
+        {
+          "end": 114,
+          "id": "1740571404905627648",
+          "start": 103,
+          "username": "LogansXAcc"
+        },
+        {
+          "end": 130,
+          "id": "1656870928863641601",
+          "start": 115,
+          "username": "yummywicecakes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992045177658388576",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992045161501892673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cbscfe: @neutralshitmoth @an022081 @TFatherles96017 @CStickernoodle @Fretimeshitpost @cntrlaltdelk @LogansXAcc @yummywicecakes @ivorodo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1992045177658388576",
+        "created_at": "2025-11-22T01:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992045177658388576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959893383633358848",
+              "start": 3,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 28,
+              "id": "1630227784424386561",
+              "start": 12,
+              "username": "neutralshitmoth"
+            },
+            {
+              "end": 38,
+              "id": "1304570838168072194",
+              "start": 29,
+              "username": "an022081"
+            },
+            {
+              "end": 55,
+              "id": "1662512896721534977",
+              "start": 39,
+              "username": "TFatherles96017"
+            },
+            {
+              "end": 71,
+              "id": "1774284932904259584",
+              "start": 56,
+              "username": "CStickernoodle"
+            },
+            {
+              "end": 88,
+              "id": "1953362894998953984",
+              "start": 72,
+              "username": "Fretimeshitpost"
+            },
+            {
+              "end": 102,
+              "id": "1245620788801056770",
+              "start": 89,
+              "username": "cntrlaltdelk"
+            },
+            {
+              "end": 114,
+              "id": "1740571404905627648",
+              "start": 103,
+              "username": "LogansXAcc"
+            },
+            {
+              "end": 130,
+              "id": "1656870928863641601",
+              "start": 115,
+              "username": "yummywicecakes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992045177658388576",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992045161501892673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cbscfe: @neutralshitmoth @an022081 @TFatherles96017 @CStickernoodle @Fretimeshitpost @cntrlaltdelk @LogansXAcc @yummywicecakes @ivorodo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1991924836487045625",
+        "created_at": "2025-11-22T01:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992045161501892673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1630227784424386561",
+              "start": 0,
+              "username": "neutralshitmoth"
+            },
+            {
+              "end": 26,
+              "id": "1304570838168072194",
+              "start": 17,
+              "username": "an022081"
+            },
+            {
+              "end": 43,
+              "id": "1662512896721534977",
+              "start": 27,
+              "username": "TFatherles96017"
+            },
+            {
+              "end": 59,
+              "id": "1774284932904259584",
+              "start": 44,
+              "username": "CStickernoodle"
+            },
+            {
+              "end": 76,
+              "id": "1953362894998953984",
+              "start": 60,
+              "username": "Fretimeshitpost"
+            },
+            {
+              "end": 90,
+              "id": "1245620788801056770",
+              "start": 77,
+              "username": "cntrlaltdelk"
+            },
+            {
+              "end": 102,
+              "id": "1740571404905627648",
+              "start": 91,
+              "username": "LogansXAcc"
+            },
+            {
+              "end": 118,
+              "id": "1656870928863641601",
+              "start": 103,
+              "username": "yummywicecakes"
+            },
+            {
+              "end": 131,
+              "id": "1885419828271603713",
+              "start": 119,
+              "username": "ivorodotnik"
+            },
+            {
+              "end": 148,
+              "id": "1886788320853688320",
+              "start": 132,
+              "username": "SidewaysUFOlive"
+            },
+            {
+              "end": 158,
+              "id": "1405665339707379712",
+              "start": 149,
+              "username": "PFumando"
+            },
+            {
+              "end": 173,
+              "id": "1361758050252705794",
+              "start": 159,
+              "username": "DylanShadow15"
+            },
+            {
+              "end": 186,
+              "id": "1242858561551708165",
+              "start": 174,
+              "username": "alexsonix64"
+            },
+            {
+              "end": 195,
+              "id": "1640305610280542208",
+              "start": 187,
+              "username": "UdoBoku"
+            },
+            {
+              "end": 205,
+              "id": "1596521320912748544",
+              "start": 196,
+              "username": "hlJoker_"
+            },
+            {
+              "end": 221,
+              "id": "1492677599390322689",
+              "start": 206,
+              "username": "nocontextmemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992045161501892673",
+        "in_reply_to_user_id": "1630227784424386561",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992041009698545836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neutralshitmoth @an022081 @TFatherles96017 @CStickernoodle @Fretimeshitpost @cntrlaltdelk @LogansXAcc @yummywicecakes @ivorodotnik @SidewaysUFOlive @PFumando @DylanShadow15 @alexsonix64 @UdoBoku @hlJoker_ @nocontextmemes ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛⬛⬜️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬜⬜⬜⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️\n⬛️⬛️⬛️🟥⬛️⬛️⬛️⬛️⬛️⬛️\n🟨🟨🟥🟥⬛️⬛️⬛️🟦🟦🟦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 90,
+          "like_count": 8330,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T15:26:28.000Z",
+        "description": "i'm a moth, but i'm neutral",
+        "id": "1630227784424386561",
+        "name": "neutral moth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985036296239104000/SikyNfWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 193,
+          "like_count": 9253,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1126
+        },
+        "username": "neutralshitmoth",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T00:02:15.000Z",
+        "description": "",
+        "id": "1304570838168072194",
+        "location": "Costa Rica",
+        "name": "an22081",
+        "pinned_tweet_id": "1986868782598430786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836519237151580160/rfcOPxtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 383,
+          "like_count": 171663,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3680
+        },
+        "username": "an022081",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T17:37:04.000Z",
+        "description": "",
+        "id": "1662512896721534977",
+        "name": "Tomy_Fatherless69",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662513596297773056/Ea_2JxFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "TFatherles96017",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:58:05.000Z",
+        "description": "",
+        "id": "1774284932904259584",
+        "name": "Cpt. Stickernoodle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774285832867778560/Hh0x2nEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 55,
+          "like_count": 1860,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1463
+        },
+        "username": "CStickernoodle",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T07:51:02.000Z",
+        "description": "Failed acc 🥀",
+        "id": "1953362894998953984",
+        "name": "anonymousus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969227501785198592/Hk4lSQVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 43
+        },
+        "username": "Fretimeshitpost",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T07:55:25.000Z",
+        "description": "۝\nPonte Preta meu amor 🖤🤍\nvideo editor, music producer \n🇧🇷 🇮🇹 🇺🇲 🇪🇸 🇯🇵\nhttps://t.co/pCEUB2B0ac\n۝",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/altdelk",
+                "end": 94,
+                "expanded_url": "https://linktr.ee/altdelk",
+                "start": 71,
+                "url": "https://t.co/pCEUB2B0ac"
+              }
+            ]
+          }
+        },
+        "id": "1245620788801056770",
+        "name": "altdelᵃᵃᵖᵖ",
+        "pinned_tweet_id": "1873123178807214364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990229382053482496/KXJzSR44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 2281,
+          "like_count": 230292,
+          "listed_count": 1,
+          "media_count": 1757,
+          "tweet_count": 29435
+        },
+        "username": "cntrlaltdelk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T03:12:27.000Z",
+        "description": "",
+        "id": "1740571404905627648",
+        "location": "Mobile, Alabama",
+        "name": "Factorial Enjoyer",
+        "pinned_tweet_id": "1990107218319151145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923917509779931136/vk4bVE3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1451,
+          "like_count": 56141,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 812
+        },
+        "username": "LogansXAcc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T03:56:46.000Z",
+        "description": "PFP by @tinapaynarye DNI LIST: NSFW, Z00PHILES",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "tinapaynarye"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dunes100percen…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/dunes100percentreal",
+                "start": 0,
+                "url": "https://t.co/tGReQrmmPr"
+              }
+            ]
+          }
+        },
+        "id": "1656870928863641601",
+        "name": "YWC",
+        "pinned_tweet_id": "1944984582727852387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851510707113984/OKAVfYOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 333,
+          "like_count": 938,
+          "listed_count": 1,
+          "media_count": 626,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/tGReQrmmPr",
+        "username": "yummywicecakes",
+        "verified": false
+      }
+    ]
+  }
+}

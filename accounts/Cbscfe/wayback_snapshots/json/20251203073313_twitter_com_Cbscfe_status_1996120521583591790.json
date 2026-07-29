@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996030034214322252",
+    "created_at": "2025-12-03T07:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996120521583591790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1590534095653650432",
+          "start": 0,
+          "username": "drowning_and"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996120521583591790",
+    "in_reply_to_user_id": "1590534095653650432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996030034214322252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drowning_and 笑点解析这张图其实也有色差"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_1996030030498201603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NSvMDbgAMYtNl.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996030034214322252",
+        "created_at": "2025-12-03T07:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996120521583591790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1590534095653650432",
+              "start": 0,
+              "username": "drowning_and"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996120521583591790",
+        "in_reply_to_user_id": "1590534095653650432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996030034214322252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drowning_and 笑点解析这张图其实也有色差"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996030030498201603"
+          ]
+        },
+        "author_id": "1590534095653650432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996030034214322252",
+        "created_at": "2025-12-03T01:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996030034214322252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3XtloubpI",
+              "end": 30,
+              "expanded_url": "https://x.com/drowning_and/status/1996030034214322252/photo/1",
+              "media_key": "3_1996030030498201603",
+              "start": 7,
+              "url": "https://t.co/B3XtloubpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996030034214322252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃了X色差 https://t.co/B3XtloubpI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 100,
+          "like_count": 9972,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "im kaz 我胡言乱语 My daily scream 中文 | english | 日本語",
+        "id": "1590534095653650432",
+        "name": "☔️KAZ_DE_AURI☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995447006345760768/B4g481kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 432,
+          "like_count": 25783,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1595
+        },
+        "username": "drowning_and",
+        "verified": false
+      }
+    ]
+  }
+}

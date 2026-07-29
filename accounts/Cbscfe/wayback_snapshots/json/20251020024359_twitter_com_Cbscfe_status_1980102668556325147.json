@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1980101973648322657",
+    "created_at": "2025-10-20T02:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T03:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980102668556325147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980102668556325147",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980101973648322657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的想要的话其实再多跳转几下也是可以到的 (?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_1980101081301405697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3q7cUJWUAE-5tm.jpg",
+        "width": 754
+      },
+      {
+        "height": 1873,
+        "media_key": "3_1980101621326491648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3q77v5XMAAypdH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1980101973648322657",
+        "created_at": "2025-10-20T02:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980102668556325147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980102668556325147",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980101973648322657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的想要的话其实再多跳转几下也是可以到的 (?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980101081301405697",
+            "3_1980101621326491648"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980101973648322657",
+        "created_at": "2025-10-20T02:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980101973648322657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "CB5CFE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5Sqrn5PWx",
+              "end": 170,
+              "expanded_url": "https://x.com/Cbscfe/status/1980101973648322657/photo/1",
+              "media_key": "3_1980101081301405697",
+              "start": 147,
+              "url": "https://t.co/y5Sqrn5PWx"
+            },
+            {
+              "display_url": "pic.x.com/y5Sqrn5PWx",
+              "end": 170,
+              "expanded_url": "https://x.com/Cbscfe/status/1980101973648322657/photo/1",
+              "media_key": "3_1980101621326491648",
+              "start": 147,
+              "url": "https://t.co/y5Sqrn5PWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980101973648322657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来我是想写一点\n#CB5CFE 是紫色所以我把我的头像染成了这个颜色\n然后因为平台压缩不能正确显示之类的\n\n但是我看到了这个\n...\n\neee\n如你所见这是Cb的QQ界面\n很明显已经被置顶塞满了 x\n\n简单来说发的消息我是看不到的\n...\n\n既然我看不到的话\n我把我这个链接从简介上撤下来了 https://t.co/y5Sqrn5PWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 42,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

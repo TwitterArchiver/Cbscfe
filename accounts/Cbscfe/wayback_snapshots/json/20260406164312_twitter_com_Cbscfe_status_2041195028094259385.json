@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041195028094259385",
+    "created_at": "2026-04-06T16:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041195028094259385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687475463474626560",
+          "start": 3,
+          "username": "CWorker62279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041195028094259385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041192125316927987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CWorker62279: 就好比说，今天看到别人在歌手，刚开始还想劝一劝后面干脆自己一起，这是在一个潜移默化的，不知不觉的过程中就实现了这个事情的过程。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041195028094259385",
+        "created_at": "2026-04-06T16:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041195028094259385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687475463474626560",
+              "start": 3,
+              "username": "CWorker62279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041195028094259385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041192125316927987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CWorker62279: 就好比说，今天看到别人在歌手，刚开始还想劝一劝后面干脆自己一起，这是在一个潜移默化的，不知不觉的过程中就实现了这个事情的过程。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687475463474626560",
+        "conversation_id": "2041191003013406843",
+        "created_at": "2026-04-06T16:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041192125316927987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041192125316927987",
+        "in_reply_to_user_id": "1687475463474626560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041191003013406843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就好比说，今天看到别人在歌手，刚开始还想劝一劝后面干脆自己一起，这是在一个潜移默化的，不知不觉的过程中就实现了这个事情的过程。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 255,
+          "like_count": 18257,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "🎄00后 |🎊177cm/61kg|完全开始HRT 2023.8.01|🎯厦门-海沧/湖里\\姐妹@szc055555 闺蜜@aronicaend  我が剣は海を切り裂く！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "szc055555"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "aronicaend"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "location": "fujian.xiamen.",
+        "name": "カドビわか",
+        "pinned_tweet_id": "2008821549068059057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943344075224059913/r35L_mQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 586,
+          "like_count": 8958,
+          "listed_count": 7,
+          "media_count": 1023,
+          "tweet_count": 6496
+        },
+        "username": "CWorker62279",
+        "verified": false
+      }
+    ]
+  }
+}

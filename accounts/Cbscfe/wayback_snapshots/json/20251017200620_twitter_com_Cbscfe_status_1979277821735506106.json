@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1978962408636117108",
+    "created_at": "2025-10-17T20:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T21:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979277821735506106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        },
+        {
+          "end": 26,
+          "id": "1669250248265302020",
+          "start": 15,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979277821735506106",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979099484497023456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 @xu96175836 “回”字有四种写法……👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1978962408636117108",
+        "created_at": "2025-10-17T20:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T21:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979277821735506106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            },
+            {
+              "end": 26,
+              "id": "1669250248265302020",
+              "start": 15,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979277821735506106",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979099484497023456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 @xu96175836 “回”字有四种写法……👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "conversation_id": "1978962408636117108",
+        "created_at": "2025-10-17T08:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979099484497023456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979099484497023456",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978962408636117108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 回都寫錯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 37,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "China Patriot from Taiwan🇹🇼 | Supporter of Liberty/Democracy/Limited-Market Economy/Socialism/Three People's Principles/Leftism/Scientism | Glory to China🇨🇳",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 549,
+          "like_count": 5090,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 6594
+        },
+        "username": "whitelate0001",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115435,
+          "following_count": 1480,
+          "like_count": 7384,
+          "listed_count": 341,
+          "media_count": 10926,
+          "tweet_count": 11887
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

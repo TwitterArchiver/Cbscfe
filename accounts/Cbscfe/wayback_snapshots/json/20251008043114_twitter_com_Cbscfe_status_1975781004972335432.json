@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1975781004972335432",
+    "created_at": "2025-10-08T04:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975781004972335432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176535991454064640",
+          "start": 3,
+          "username": "nekomakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975781004972335432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975565088531882194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekomakiQAQ: 我们从来都是谈论原生家庭带来的伤害，但从来没人说原生家庭给我买了辆车给我付了个首付（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1975781004972335432",
+        "created_at": "2025-10-08T04:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975781004972335432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176535991454064640",
+              "start": 3,
+              "username": "nekomakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975781004972335432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975565088531882194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekomakiQAQ: 我们从来都是谈论原生家庭带来的伤害，但从来没人说原生家庭给我买了辆车给我付了个首付（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1975565088531882194",
+        "created_at": "2025-10-07T14:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975565088531882194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianshays/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/tianshays/status/1975393425982955590",
+              "start": 44,
+              "url": "https://t.co/RPXZDwCBFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975565088531882194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2638,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975393425982955590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们从来都是谈论原生家庭带来的伤害，但从来没人说原生家庭给我买了辆车给我付了个首付（（ https://t.co/RPXZDwCBFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "一只猫卷 | 14岁初二休学 | 亲友: 💌@HobartR6/🐱@_FurryFur_/🐟@Chiyuyu520/姐姐@m1zukiqaqaqaq |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "HobartR6"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 74,
+                "start": 60,
+                "username": "m1zukiqaqaqaq"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "Lumi (日雌380包邮",
+        "pinned_tweet_id": "1975556617048559754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973780420555927552/H4S6m_zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 1000,
+          "like_count": 28141,
+          "listed_count": 16,
+          "media_count": 1258,
+          "tweet_count": 15322
+        },
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

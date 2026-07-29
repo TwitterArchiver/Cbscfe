@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060516967921119232"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060409971527880749",
+    "created_at": "2026-05-30T00:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060516973231186077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1717080511435153408",
+          "start": 0,
+          "username": "Your1828"
+        },
+        {
+          "end": 24,
+          "id": "1837114188046684161",
+          "start": 10,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqI4CwZLMm",
+          "end": 48,
+          "expanded_url": "https://x.com/Cbscfe/status/2060516973231186077/photo/1",
+          "media_key": "3_2060516967921119232",
+          "start": 25,
+          "url": "https://t.co/tqI4CwZLMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060516973231186077",
+    "in_reply_to_user_id": "1717080511435153408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060432631255138811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your1828 @winterfruit_1 https://t.co/tqI4CwZLMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 79,
+        "media_key": "3_2060516967921119232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhtQ-aacAAddzv.png",
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060516967921119232"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060409971527880749",
+        "created_at": "2026-05-30T00:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060516973231186077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1717080511435153408",
+              "start": 0,
+              "username": "Your1828"
+            },
+            {
+              "end": 24,
+              "id": "1837114188046684161",
+              "start": 10,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqI4CwZLMm",
+              "end": 48,
+              "expanded_url": "https://x.com/Cbscfe/status/2060516973231186077/photo/1",
+              "media_key": "3_2060516967921119232",
+              "start": 25,
+              "url": "https://t.co/tqI4CwZLMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060516973231186077",
+        "in_reply_to_user_id": "1717080511435153408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060432631255138811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your1828 @winterfruit_1 https://t.co/tqI4CwZLMm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080511435153408",
+        "conversation_id": "2060409971527880749",
+        "created_at": "2026-05-29T18:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060432631255138811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060432631255138811",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060409971527880749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 就是一群窝囊废嘴里含着要死要活，实际上就是聚在一起搞乱伦的，天天说是什么活着难想着别人安慰你？真的很可怜。结果就是第二年头像变黑心理问题，只能自救没人会关心你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 671,
+          "like_count": 24075,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 5761
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:28:02.000Z",
+        "description": "不要骂人",
+        "id": "1717080511435153408",
+        "name": "江郎才尽",
+        "pinned_tweet_id": "1912790342580985913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825245469339254784/t_F0Pziy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 165,
+          "like_count": 232,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 884
+        },
+        "username": "Your1828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 1473,
+          "like_count": 42258,
+          "listed_count": 6,
+          "media_count": 1835,
+          "tweet_count": 12533
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

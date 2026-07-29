@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2047308432441761794",
+    "created_at": "2026-04-23T13:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047308432441761794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1546075741430751232",
+          "start": 3,
+          "username": "0GaS_Pr0toc0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047308432441761794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047198494885396788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0GaS_Pr0toc0l: 中华人民共和国是工人阶级领导的，以工农联盟为基础的社会主义国家《中华人民共和国宪法》\n人民具有结社、集会、示威、游行的自由\n《中华人民共和国宪法》\n（以下全本，在此不做赘述）\n《中华人民共和国劳动法》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2047308432441761794",
+        "created_at": "2026-04-23T13:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047308432441761794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1546075741430751232",
+              "start": 3,
+              "username": "0GaS_Pr0toc0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047308432441761794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047198494885396788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0GaS_Pr0toc0l: 中华人民共和国是工人阶级领导的，以工农联盟为基础的社会主义国家《中华人民共和国宪法》\n人民具有结社、集会、示威、游行的自由\n《中华人民共和国宪法》\n（以下全本，在此不做赘述）\n《中华人民共和国劳动法》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2047198494885396788",
+        "created_at": "2026-04-23T06:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047198494885396788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/renyue105/status/2047149793118720022",
+              "start": 101,
+              "url": "https://t.co/5dXDRpYaQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047198494885396788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 335,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047149793118720022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中华人民共和国是工人阶级领导的，以工农联盟为基础的社会主义国家《中华人民共和国宪法》\n人民具有结社、集会、示威、游行的自由\n《中华人民共和国宪法》\n（以下全本，在此不做赘述）\n《中华人民共和国劳动法》 https://t.co/5dXDRpYaQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 373,
+          "like_count": 19870,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4133
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | Humanist | 🌏 Pan-Asianism 拒絕宏大敘事，相信 Liberté, égalité, fraternité。 獅子山下精神常在 （Sony！）AI說國家工團主義和人文社會主義矛盾但我就這樣，還有民主社會主義呢。",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "2018777162527146375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1738,
+          "like_count": 19082,
+          "listed_count": 12,
+          "media_count": 688,
+          "tweet_count": 13310
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      }
+    ]
+  }
+}

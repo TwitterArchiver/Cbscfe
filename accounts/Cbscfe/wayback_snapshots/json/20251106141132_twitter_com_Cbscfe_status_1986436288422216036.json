@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1986399986003951964",
+    "created_at": "2025-11-06T14:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986436288422216036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626625129043333120",
+          "start": 0,
+          "username": "NGmaruna_1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986436288422216036",
+    "in_reply_to_user_id": "1626625129043333120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986399986003951964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NGmaruna_1227 Cbscfe!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1986399984045203461",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EcQtbbIAUtbKR.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1986399986003951964",
+        "created_at": "2025-11-06T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986436288422216036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626625129043333120",
+              "start": 0,
+              "username": "NGmaruna_1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986436288422216036",
+        "in_reply_to_user_id": "1626625129043333120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986399986003951964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGmaruna_1227 Cbscfe!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986399984045203461"
+          ]
+        },
+        "author_id": "1626625129043333120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1986399986003951964",
+        "created_at": "2025-11-06T11:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986399986003951964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3EzHEdYKT",
+              "end": 77,
+              "expanded_url": "https://x.com/NGmaruna_1227/status/1986399986003951964/photo/1",
+              "media_key": "3_1986399984045203461",
+              "start": 54,
+              "url": "https://t.co/n3EzHEdYKT"
+            },
+            {
+              "display_url": "x.com/NGmaruna_1227/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/NGmaruna_1227/status/1986114776381202661",
+              "start": 78,
+              "url": "https://t.co/Ijco23K4IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986399986003951964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2274,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986114776381202661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哭啊我只是去吃個晚餐看個醫生回來花生什麼事\n\n破 ❤️ ，這是新串\n舊的回完會關不然兩邊跑很麻煩\n🔽請問🔽 https://t.co/n3EzHEdYKT https://t.co/Ijco23K4IU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 63,
+          "like_count": 5474,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T16:50:39.000Z",
+        "description": "#個人勢Vtuber ，星之卡比廚 ；第三個字唸（ㄩㄢˊ /yuán)\n¶台灣V，JP🤏EN🔺\n¶目標：。\n¶ #推特文章未經許可請勿轉載\n¶頭貼：海文 ；封面：柊むらさき",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "個人勢Vtuber"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "tag": "推特文章未經許可請勿轉載"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Maruru4450",
+                "end": 23,
+                "expanded_url": "https://lit.link/Maruru4450",
+                "start": 0,
+                "url": "https://t.co/yy76gIr4Q9"
+              }
+            ]
+          }
+        },
+        "id": "1626625129043333120",
+        "location": "🔽💜ご連絡先、各種リンク💙🔽 ",
+        "name": "夏賀円那Maruna",
+        "pinned_tweet_id": "1986360329400709388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974072156435914752/EdaTEcBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 525,
+          "like_count": 11019,
+          "listed_count": 13,
+          "media_count": 1956,
+          "tweet_count": 8147
+        },
+        "url": "https://t.co/yy76gIr4Q9",
+        "username": "NGmaruna_1227",
+        "verified": false
+      }
+    ]
+  }
+}

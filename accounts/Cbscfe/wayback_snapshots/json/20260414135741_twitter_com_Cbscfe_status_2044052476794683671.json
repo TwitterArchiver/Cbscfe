@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044018599443193856"
+      ],
+      "media_source_tweet_id": [
+        "2044018605701116088"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2044052476794683671",
+    "created_at": "2026-04-14T13:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044052476794683671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1768487038645678080",
+          "start": 3,
+          "username": "Yamada_Ryoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CvZFjH5bEp",
+          "end": 54,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044018605701116088/photo/1",
+          "media_key": "3_2044018599443193856",
+          "start": 31,
+          "url": "https://t.co/CvZFjH5bEp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044052476794683671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044018605701116088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamada_Ryoooo: Gemini太人性化了 https://t.co/CvZFjH5bEp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2044018599443193856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3QFiYaYAAINHc.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044018599443193856"
+          ],
+          "media_source_tweet_id": [
+            "2044018605701116088"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2044052476794683671",
+        "created_at": "2026-04-14T13:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044052476794683671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1768487038645678080",
+              "start": 3,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvZFjH5bEp",
+              "end": 54,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044018605701116088/photo/1",
+              "media_key": "3_2044018599443193856",
+              "start": 31,
+              "url": "https://t.co/CvZFjH5bEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044052476794683671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044018605701116088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamada_Ryoooo: Gemini太人性化了 https://t.co/CvZFjH5bEp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044018599443193856"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2044018605701116088",
+        "created_at": "2026-04-14T11:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044018605701116088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvZFjH5bEp",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044018605701116088/photo/1",
+              "media_key": "3_2044018599443193856",
+              "start": 12,
+              "url": "https://t.co/CvZFjH5bEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044018605701116088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini太人性化了 https://t.co/CvZFjH5bEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 312,
+          "like_count": 19220,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6397,
+          "following_count": 1083,
+          "like_count": 17129,
+          "listed_count": 24,
+          "media_count": 1726,
+          "tweet_count": 9541
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

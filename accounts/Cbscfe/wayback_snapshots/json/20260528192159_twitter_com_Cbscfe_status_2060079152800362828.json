@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060079152800362828",
+    "created_at": "2026-05-28T19:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060079152800362828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982573829250727937",
+          "start": 3,
+          "username": "Nothing_poi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060079152800362828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059979458552177081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nothing_poi8: 我很害怕我自己没有治愈解决的心理问题在某天变成伤害心爱的人的刀和武器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060079152800362828",
+        "created_at": "2026-05-28T19:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060079152800362828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982573829250727937",
+              "start": 3,
+              "username": "Nothing_poi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060079152800362828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059979458552177081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nothing_poi8: 我很害怕我自己没有治愈解决的心理问题在某天变成伤害心爱的人的刀和武器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982573829250727937",
+        "conversation_id": "2059979458552177081",
+        "created_at": "2026-05-28T12:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059979458552177081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059979458552177081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很害怕我自己没有治愈解决的心理问题在某天变成伤害心爱的人的刀和武器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 661,
+          "like_count": 23991,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5700
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T11:00:31.000Z",
+        "description": "“做人最紧要开心”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chibarika.site",
+                "end": 23,
+                "expanded_url": "https://chibarika.site",
+                "start": 0,
+                "url": "https://t.co/FReKuTpxpy"
+              }
+            ]
+          }
+        },
+        "id": "982573829250727937",
+        "location": "Tianjin",
+        "name": "千羽",
+        "pinned_tweet_id": "1870784047674487059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058381672178200576/CezVOsQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 814,
+          "like_count": 9100,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 4312
+        },
+        "url": "https://t.co/FReKuTpxpy",
+        "username": "Nothing_poi8",
+        "verified": false
+      }
+    ]
+  }
+}

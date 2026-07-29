@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988653524222374014",
+    "created_at": "2025-11-13T05:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988846857133359476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841730229443678208",
+          "start": 0,
+          "username": "wsy1250985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988846857133359476",
+    "in_reply_to_user_id": "1841730229443678208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988653524222374014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsy1250985 我有点明白block的含义了\n但是我目前没有权限与意愿更改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988653524222374014",
+        "created_at": "2025-11-13T05:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988846857133359476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841730229443678208",
+              "start": 0,
+              "username": "wsy1250985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988846857133359476",
+        "in_reply_to_user_id": "1841730229443678208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988653524222374014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsy1250985 我有点明白block的含义了\n但是我目前没有权限与意愿更改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841730229443678208",
+        "conversation_id": "1988653524222374014",
+        "created_at": "2025-11-12T17:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988653524222374014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988653524222374014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别这些群体，都是爱幻想的人，od人，花刀人，断子绝孙这一块，好消息是他们活不过30岁，器官衰竭是他们的归属👍但是这些低学历的傻子会认为骨架缩水是好事，其实这是快4️⃣的信号，一群自欺欺人互相欺骗的小丑🤡，每天刷推除了看黄就是骂他们这些男扮女的变态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 6654,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T06:41:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shaoyuniubi.com",
+                "end": 23,
+                "expanded_url": "http://shaoyuniubi.com",
+                "start": 0,
+                "url": "https://t.co/ZeXu4d9uL1"
+              }
+            ]
+          }
+        },
+        "id": "1841730229443678208",
+        "location": "距离你 18km 老傻子这你也信迟早被别人骗的家底都没了👿",
+        "name": "速溶奶酪（羽家军版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988300681766428674/JRRLEO3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/ZeXu4d9uL1",
+        "username": "wsy1250985",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1980120295660015966",
+    "created_at": "2025-10-20T04:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980128715075145973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958053595385065473",
+          "start": 0,
+          "username": "PlayM7_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980128715075145973",
+    "in_reply_to_user_id": "1958053595385065473",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980120295660015966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayM7_ qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980120252613541888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rM4O2WQAAeXVh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1980120295660015966",
+        "created_at": "2025-10-20T04:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980128715075145973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958053595385065473",
+              "start": 0,
+              "username": "PlayM7_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980128715075145973",
+        "in_reply_to_user_id": "1958053595385065473",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980120295660015966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayM7_ qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980120252613541888"
+          ]
+        },
+        "author_id": "1958053595385065473",
+        "conversation_id": "1980120295660015966",
+        "created_at": "2025-10-20T03:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980120295660015966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QepK8nBgow",
+              "end": 31,
+              "expanded_url": "https://x.com/PlayM7_/status/1980120295660015966/photo/1",
+              "media_key": "3_1980120252613541888",
+              "start": 8,
+              "url": "https://t.co/QepK8nBgow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980120295660015966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一场雪xvx https://t.co/QepK8nBgow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 42,
+          "like_count": 2896,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:28:57.000Z",
+        "description": "现在还暂时不知道写什么，以后会更新的🤗",
+        "id": "1958053595385065473",
+        "location": "哈尔滨",
+        "name": "PlayM7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980022242122555392/e3ghx9Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "PlayM7_",
+        "verified": false
+      }
+    ]
+  }
+}

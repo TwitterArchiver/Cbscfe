@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1972461501119451620",
+    "created_at": "2025-09-29T06:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972553431476023433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779881106747383808",
+          "start": 0,
+          "username": "chiyusilinyuan"
+        },
+        {
+          "end": 23,
+          "id": "1613079089879076864",
+          "start": 16,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972553431476023433",
+    "in_reply_to_user_id": "1779881106747383808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972511652865356190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyusilinyuan @Cldeop 其实还会吞假期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1972461501119451620",
+        "created_at": "2025-09-29T06:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972553431476023433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779881106747383808",
+              "start": 0,
+              "username": "chiyusilinyuan"
+            },
+            {
+              "end": 23,
+              "id": "1613079089879076864",
+              "start": 16,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972553431476023433",
+        "in_reply_to_user_id": "1779881106747383808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972511652865356190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyusilinyuan @Cldeop 其实还会吞假期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779881106747383808",
+        "conversation_id": "1972461501119451620",
+        "created_at": "2025-09-29T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972511652865356190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972511652865356190",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6457,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972461501119451620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 这不一样吧 调休本质上是换顺序 相当于本身周一三五导 结果变成周一二三导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T14:35:09.000Z",
+        "description": "不好意思私聊的可以来我的匿名提问！https://t.co/pttVu1ZLDQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiyusilinyuan",
+                "end": 40,
+                "expanded_url": "https://ngl.link/chiyusilinyuan",
+                "start": 17,
+                "url": "https://t.co/pttVu1ZLDQ"
+              }
+            ]
+          }
+        },
+        "id": "1779881106747383808",
+        "location": "Leeds, England",
+        "name": "落",
+        "pinned_tweet_id": "1956257042496143771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779942847233564673/SyWnV6hL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 66,
+          "like_count": 774,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 381
+        },
+        "username": "chiyusilinyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81271,
+          "following_count": 641,
+          "like_count": 30664,
+          "listed_count": 255,
+          "media_count": 12476,
+          "tweet_count": 17672
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

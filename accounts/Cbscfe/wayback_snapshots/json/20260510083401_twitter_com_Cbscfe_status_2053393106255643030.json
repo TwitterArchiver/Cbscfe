@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053364321678499840"
+      ],
+      "media_source_tweet_id": [
+        "2053365446561423520"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053393106255643030",
+    "created_at": "2026-05-10T08:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053393106255643030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9EbCZokjDz",
+          "end": 134,
+          "expanded_url": "https://x.com/amecandy_x/status/2053365446561423520/photo/1",
+          "media_key": "3_2053364321678499840",
+          "start": 111,
+          "url": "https://t.co/9EbCZokjDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053393106255643030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053365446561423520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 其实大部分所谓的“中医镇痛膏”的有效成分都是西药\n\n如图所示，“麝香镇痛膏”的有效成分其实就是薄荷脑，冰片和水杨酸甲酯\n所以各位oder腰腿痛真不如买双氯芬酸钠乳膏，便宜、有效还没有副作用 https://t.co/9EbCZokjDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2053364321678499840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8D-KwboAAXmXS.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053364321678499840"
+          ],
+          "media_source_tweet_id": [
+            "2053365446561423520"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053393106255643030",
+        "created_at": "2026-05-10T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053393106255643030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EbCZokjDz",
+              "end": 134,
+              "expanded_url": "https://x.com/amecandy_x/status/2053365446561423520/photo/1",
+              "media_key": "3_2053364321678499840",
+              "start": 111,
+              "url": "https://t.co/9EbCZokjDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053393106255643030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053365446561423520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 其实大部分所谓的“中医镇痛膏”的有效成分都是西药\n\n如图所示，“麝香镇痛膏”的有效成分其实就是薄荷脑，冰片和水杨酸甲酯\n所以各位oder腰腿痛真不如买双氯芬酸钠乳膏，便宜、有效还没有副作用 https://t.co/9EbCZokjDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053364321678499840"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2053365446561423520",
+        "created_at": "2026-05-10T06:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053365446561423520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EbCZokjDz",
+              "end": 118,
+              "expanded_url": "https://x.com/amecandy_x/status/2053365446561423520/photo/1",
+              "media_key": "3_2053364321678499840",
+              "start": 95,
+              "url": "https://t.co/9EbCZokjDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053365446561423520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1189,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实大部分所谓的“中医镇痛膏”的有效成分都是西药\n\n如图所示，“麝香镇痛膏”的有效成分其实就是薄荷脑，冰片和水杨酸甲酯\n所以各位oder腰腿痛真不如买双氯芬酸钠乳膏，便宜、有效还没有副作用 https://t.co/9EbCZokjDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 535,
+          "like_count": 22321,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 4922
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药物咨询https://t.co/z6NWnM8mXv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 66,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 43,
+                "url": "https://t.co/z6NWnM8mXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2053359050512040106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6363,
+          "following_count": 2131,
+          "like_count": 27085,
+          "listed_count": 16,
+          "media_count": 1436,
+          "tweet_count": 10195
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

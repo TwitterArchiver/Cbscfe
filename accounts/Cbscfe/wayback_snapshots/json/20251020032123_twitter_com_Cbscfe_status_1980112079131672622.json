@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1980112079131672622",
+    "created_at": "2025-10-20T03:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980112079131672622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1608781688775245825",
+          "start": 3,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980112079131672622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980109698423787628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YekaseSuiso2022: 中国的教育无疑是成功的，学生们每天都在像哲学家一样思考活着的意义\n  ——摘自B站图片评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1980112079131672622",
+        "created_at": "2025-10-20T03:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980112079131672622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1608781688775245825",
+              "start": 3,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980112079131672622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980109698423787628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YekaseSuiso2022: 中国的教育无疑是成功的，学生们每天都在像哲学家一样思考活着的意义\n  ——摘自B站图片评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608781688775245825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1980109698423787628",
+        "created_at": "2025-10-20T03:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980109698423787628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980109698423787628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国的教育无疑是成功的，学生们每天都在像哲学家一样思考活着的意义\n  ——摘自B站图片评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 42,
+          "like_count": 2868,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "Yekase Suiso/15岁小药娘/硅谷精神实践者/我很可爱请关注我/互关/在家自学/卖糖到 @CatisLandLab /都是老图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "CatisLandLab"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "CatisLand Lab",
+        "name": "Yekase Suiso「淺色回憶」🍥",
+        "pinned_tweet_id": "1979841709979898260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947909310195109888/0OQOfxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 178,
+          "like_count": 610,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 235
+        },
+        "username": "YekaseSuiso2022",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984144580351291498",
+    "created_at": "2025-11-01T05:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T06:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984489642528555233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1707852450739232769",
+          "start": 0,
+          "username": "peach2k2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Your language isn’t broken, it’s doing floating point math. Computers can only natively store integers, so they need some way of representing decimal numbers. This representation is not perfectly accurate. This is why, more often than not, 0.1 + 0.2 != 0.3. It’s actually rather interesting. When you have a base-10 system (like ours), it can only express fractions that use a prime factor of the base. The prime factors of 10 are 2 and 5. So 1/2, 1/4, 1/5, 1/8, and 1/10 can all be expressed cleanly because",
+          "display_url": "0.30000000000000004.com",
+          "end": 33,
+          "expanded_url": "http://0.30000000000000004.com",
+          "start": 10,
+          "status": 200,
+          "title": "Floating Point Math",
+          "unwound_url": "https://0.30000000000000004.com/",
+          "url": "https://t.co/vCKTYxixiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984489642528555233",
+    "in_reply_to_user_id": "1707852450739232769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984144580351291498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peach2k2 https://t.co/vCKTYxixiN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984144580351291498",
+        "created_at": "2025-11-01T05:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984489642528555233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1707852450739232769",
+              "start": 0,
+              "username": "peach2k2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Your language isn’t broken, it’s doing floating point math. Computers can only natively store integers, so they need some way of representing decimal numbers. This representation is not perfectly accurate. This is why, more often than not, 0.1 + 0.2 != 0.3. It’s actually rather interesting. When you have a base-10 system (like ours), it can only express fractions that use a prime factor of the base. The prime factors of 10 are 2 and 5. So 1/2, 1/4, 1/5, 1/8, and 1/10 can all be expressed cleanly because",
+              "display_url": "0.30000000000000004.com",
+              "end": 33,
+              "expanded_url": "http://0.30000000000000004.com",
+              "start": 10,
+              "status": 200,
+              "title": "Floating Point Math",
+              "unwound_url": "https://0.30000000000000004.com/",
+              "url": "https://t.co/vCKTYxixiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984489642528555233",
+        "in_reply_to_user_id": "1707852450739232769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984144580351291498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peach2k2 https://t.co/vCKTYxixiN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707852450739232769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1984144580351291498",
+        "created_at": "2025-10-31T06:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984144580351291498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tom_antok/stat…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/tom_antok/status/1984056788749361659",
+              "start": 188,
+              "url": "https://t.co/Ds5Ct5lJG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984144580351291498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 418,
+          "impression_count": 370221,
+          "like_count": 6597,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984056788749361659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sometimes i spend hours on a simple bug and think \"i'm sub-par, the average techie would have solved this in like 5 mins\"\n\nand then i get reminded of how dumb the average techie really is https://t.co/Ds5Ct5lJG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 4533,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T20:18:58.000Z",
+        "description": "22yo🇹🇷 • deranged gamedev • shitposter • lost in lunacy • dc: peachey2k2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2k2pea.ch",
+                "end": 23,
+                "expanded_url": "https://2k2pea.ch/",
+                "start": 0,
+                "url": "https://t.co/n9jrFGcxYu"
+              }
+            ]
+          }
+        },
+        "id": "1707852450739232769",
+        "location": "Chudtopia Mental Ward",
+        "name": "peachey 𔐓",
+        "pinned_tweet_id": "1984292890298691955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943412092402335744/0sUVUjEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 1033,
+          "like_count": 106457,
+          "listed_count": 36,
+          "media_count": 2814,
+          "tweet_count": 17550
+        },
+        "url": "https://t.co/n9jrFGcxYu",
+        "username": "peach2k2",
+        "verified": true
+      }
+    ]
+  }
+}

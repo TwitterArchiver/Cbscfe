@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006632585699717120"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2006632595841593793",
+    "created_at": "2026-01-01T07:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006632595841593793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/64TnkVRad3",
+          "end": 28,
+          "expanded_url": "https://x.com/Cbscfe/status/2006632595841593793/photo/1",
+          "media_key": "3_2006632585699717120",
+          "start": 5,
+          "url": "https://t.co/64TnkVRad3"
+        },
+        {
+          "display_url": "x.com/Rokumi_desu/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Rokumi_desu/status/2000812956427411815",
+          "start": 29,
+          "url": "https://t.co/tNaZk8hUYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006632595841593793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000812956427411815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我生气了 https://t.co/64TnkVRad3 https://t.co/tNaZk8hUYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2006632585699717120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j9tIFa8AAUtSx.jpg",
+        "width": 887
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2000812953587867652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RQx9Ca4AQbRIF.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006632585699717120"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2006632595841593793",
+        "created_at": "2026-01-01T07:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006632595841593793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64TnkVRad3",
+              "end": 28,
+              "expanded_url": "https://x.com/Cbscfe/status/2006632595841593793/photo/1",
+              "media_key": "3_2006632585699717120",
+              "start": 5,
+              "url": "https://t.co/64TnkVRad3"
+            },
+            {
+              "display_url": "x.com/Rokumi_desu/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Rokumi_desu/status/2000812956427411815",
+              "start": 29,
+              "url": "https://t.co/tNaZk8hUYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006632595841593793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000812956427411815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我生气了 https://t.co/64TnkVRad3 https://t.co/tNaZk8hUYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000812953587867652"
+          ]
+        },
+        "author_id": "1247123754158702593",
+        "conversation_id": "2000812956427411815",
+        "created_at": "2025-12-16T06:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000812956427411815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEqntp6Syd",
+              "end": 44,
+              "expanded_url": "https://x.com/Rokumi_desu/status/2000812956427411815/photo/1",
+              "media_key": "3_2000812953587867652",
+              "start": 21,
+              "url": "https://t.co/nEqntp6Syd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000812956427411815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7862,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想od普瑞巴林但是没有处方单的用这张👇🏿 https://t.co/nEqntp6Syd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 114,
+          "like_count": 12017,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "",
+        "id": "1247123754158702593",
+        "name": "海うみ",
+        "pinned_tweet_id": "1997221832014156239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963335765573902336/bn-zMV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 777,
+          "like_count": 92888,
+          "listed_count": 9,
+          "media_count": 486,
+          "tweet_count": 9097
+        },
+        "username": "Rokumi_desu",
+        "verified": false
+      }
+    ]
+  }
+}

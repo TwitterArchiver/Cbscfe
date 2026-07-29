@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2027606710962295065",
+    "created_at": "2026-02-28T04:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027606710962295065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aglx1202r/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aglx1202r/status/2027592975572996117",
+          "start": 4,
+          "url": "https://t.co/sDJvpyOmvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027606710962295065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027592975572996117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问号。 https://t.co/sDJvpyOmvB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2027606710962295065",
+        "created_at": "2026-02-28T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027606710962295065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aglx1202r/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aglx1202r/status/2027592975572996117",
+              "start": 4,
+              "url": "https://t.co/sDJvpyOmvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027606710962295065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027592975572996117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问号。 https://t.co/sDJvpyOmvB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994999486419181568",
+        "conversation_id": "2027592116449513479",
+        "created_at": "2026-02-28T03:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027592975572996117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027592975572996117",
+        "in_reply_to_user_id": "1994999486419181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027592116449513479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经不能在这垃圾学校呆一点了。我希望这个学校马上有人跳楼，并且我能从班级群知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 171,
+          "like_count": 15496,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T05:18:47.000Z",
+        "description": "我是不可能告诉你们任何事情的。",
+        "id": "1994999486419181568",
+        "name": "aglx1202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025533300581023744/CumgU-uO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "username": "aglx1202r",
+        "verified": false
+      }
+    ]
+  }
+}

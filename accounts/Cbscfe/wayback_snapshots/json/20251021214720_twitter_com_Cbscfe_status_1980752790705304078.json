@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1980752790705304078",
+    "created_at": "2025-10-21T21:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980752790705304078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/hsn8086/status/1980681599240065261",
+          "start": 14,
+          "url": "https://t.co/vIOjUl9rql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980752790705304078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980681599240065261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "传说中的无绳蹦极吗 有意思 https://t.co/vIOjUl9rql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1980681588959588353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zLaTsXsAE0Xvm.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1980752790705304078",
+        "created_at": "2025-10-21T21:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980752790705304078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hsn8086/status/1980681599240065261",
+              "start": 14,
+              "url": "https://t.co/vIOjUl9rql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980752790705304078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980681599240065261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传说中的无绳蹦极吗 有意思 https://t.co/vIOjUl9rql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980681588959588353"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1980681599240065261",
+        "created_at": "2025-10-21T17:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980681599240065261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqjtfBFS8o",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1980681599240065261/photo/1",
+              "media_key": "3_1980681588959588353",
+              "start": 0,
+              "url": "https://t.co/gqjtfBFS8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980681599240065261",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6915,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gqjtfBFS8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 43,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102136,
+          "following_count": 992,
+          "like_count": 45528,
+          "listed_count": 228,
+          "media_count": 16687,
+          "tweet_count": 24626
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

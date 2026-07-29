@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1998366089710039413",
+    "created_at": "2025-12-10T14:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998763749931626581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711413320417267712",
+          "start": 0,
+          "username": "Chroe_Chiyoda"
+        },
+        {
+          "end": 30,
+          "id": "1750929042008907781",
+          "start": 15,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998763749931626581",
+    "in_reply_to_user_id": "1711413320417267712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998753974326014349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chroe_Chiyoda @Kawakaze_Prism 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1998366089710039413",
+        "created_at": "2025-12-10T14:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998763749931626581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711413320417267712",
+              "start": 0,
+              "username": "Chroe_Chiyoda"
+            },
+            {
+              "end": 30,
+              "id": "1750929042008907781",
+              "start": 15,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998763749931626581",
+        "in_reply_to_user_id": "1711413320417267712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998753974326014349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chroe_Chiyoda @Kawakaze_Prism 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413320417267712",
+        "conversation_id": "1998366089710039413",
+        "created_at": "2025-12-10T13:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998753974326014349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1750929042008907781",
+              "start": 8,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998753974326014349",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998382462041547202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @Kawakaze_Prism 欄杆後面是天，大概是在跳樓吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 105,
+          "like_count": 10649,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T16:08:34.000Z",
+        "description": "sal terrae, lvx mvndi.／下級非国民／ シンプル DEBAS／\nアイコンクレジ： @nounaikakusan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "nounaikakusan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "exodus.nyamoe.com",
+                "end": 23,
+                "expanded_url": "https://exodus.nyamoe.com/",
+                "start": 0,
+                "url": "https://t.co/e0udUDHsXf"
+              }
+            ]
+          }
+        },
+        "id": "1711413320417267712",
+        "location": "Ecke Danziger-Breslauerstr.s",
+        "name": "Kuroe Howado @Müde",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745585690920857600/MTRcTPIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 794,
+          "like_count": 246508,
+          "listed_count": 4,
+          "media_count": 4342,
+          "tweet_count": 41610
+        },
+        "url": "https://t.co/e0udUDHsXf",
+        "username": "Chroe_Chiyoda",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 男生不是mtf ‖ 166/56 ‖ 身体健康，无精神疾病史 ‖ 水色系重度依赖，但风格多变 ‖ 🚪20好友位，赞赏码在置顶 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7372,
+          "following_count": 141,
+          "like_count": 86,
+          "listed_count": 11,
+          "media_count": 153,
+          "tweet_count": 695
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}

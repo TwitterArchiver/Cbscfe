@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037850320840409088"
+      ],
+      "media_source_tweet_id": [
+        "2037850324627816568"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2038006576951566833",
+    "created_at": "2026-03-28T21:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T22:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038006576951566833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ccVBQJ8ldv",
+          "end": 93,
+          "expanded_url": "https://x.com/DXMDusk/status/2037850324627816568/photo/1",
+          "media_key": "3_2037850320840409088",
+          "start": 70,
+          "url": "https://t.co/ccVBQJ8ldv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038006576951566833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037850324627816568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 贴吧是当时网络社会的一个缩影，与其说贴吧很好，不如说当时的整个网络风气就很好，那会儿大家可真都是奔着交流交友去的 https://t.co/ccVBQJ8ldv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2037850320840409088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfmEd8bwAArZ0U.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037850320840409088"
+          ],
+          "media_source_tweet_id": [
+            "2037850324627816568"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2038006576951566833",
+        "created_at": "2026-03-28T21:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038006576951566833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccVBQJ8ldv",
+              "end": 93,
+              "expanded_url": "https://x.com/DXMDusk/status/2037850324627816568/photo/1",
+              "media_key": "3_2037850320840409088",
+              "start": 70,
+              "url": "https://t.co/ccVBQJ8ldv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038006576951566833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037850324627816568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 贴吧是当时网络社会的一个缩影，与其说贴吧很好，不如说当时的整个网络风气就很好，那会儿大家可真都是奔着交流交友去的 https://t.co/ccVBQJ8ldv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037850320840409088"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2037850324627816568",
+        "created_at": "2026-03-28T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037850324627816568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccVBQJ8ldv",
+              "end": 80,
+              "expanded_url": "https://x.com/DXMDusk/status/2037850324627816568/photo/1",
+              "media_key": "3_2037850320840409088",
+              "start": 57,
+              "url": "https://t.co/ccVBQJ8ldv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037850324627816568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1426,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴吧是当时网络社会的一个缩影，与其说贴吧很好，不如说当时的整个网络风气就很好，那会儿大家可真都是奔着交流交友去的 https://t.co/ccVBQJ8ldv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 227,
+          "like_count": 17616,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 3026
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1064,
+          "like_count": 1839,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 1766
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

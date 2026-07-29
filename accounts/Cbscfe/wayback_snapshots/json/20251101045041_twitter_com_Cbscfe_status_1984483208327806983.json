@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984312256428179688",
+    "created_at": "2025-11-01T04:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984483208327806983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984483208327806983",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984312256428179688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism 我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984312256428179688",
+        "created_at": "2025-11-01T04:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984483208327806983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984483208327806983",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984312256428179688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism 我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750929042008907781",
+        "conversation_id": "1984312256428179688",
+        "created_at": "2025-10-31T17:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984312256428179688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kawakaze_Prism…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Kawakaze_Prism/status/1984074161279635755",
+              "start": 53,
+              "url": "https://t.co/zemq3MU1EM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984312256428179688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3152,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984074161279635755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干嘛...我随便拍一张一万多浏览，我花几个小时拍的照片没人看吗？我躯体化了我一直在哭，玉玉了，我草死你们 https://t.co/zemq3MU1EM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 55,
+          "like_count": 4527,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 生理心理男不是mtf ‖ 166/54 ‖ 水色系重度依赖 ‖ 🚪20好友位 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 127,
+          "like_count": 75,
+          "listed_count": 8,
+          "media_count": 119,
+          "tweet_count": 479
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}

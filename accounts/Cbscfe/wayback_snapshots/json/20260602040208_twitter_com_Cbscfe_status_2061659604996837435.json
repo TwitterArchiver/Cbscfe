@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061446817779519488"
+      ],
+      "media_source_tweet_id": [
+        "2061446835018084784"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2061659604996837435",
+    "created_at": "2026-06-02T04:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061659604996837435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794306281572118528",
+          "start": 3,
+          "username": "520maodou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qo3ffLwQEP",
+          "end": 126,
+          "expanded_url": "https://x.com/520maodou/status/2061446835018084784/photo/1",
+          "media_key": "3_2061446817779519488",
+          "start": 103,
+          "url": "https://t.co/qo3ffLwQEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061659604996837435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061446835018084784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520maodou: 其实跨性别者真的很善良🥺\n在这个学历贬值，经济下行，内卷与日俱增的时代，普通中国人民的生活尚且步履维艰，跨性别者还额外背负了家庭的冷眼、职场的歧视、社会的偏见.......… https://t.co/qo3ffLwQEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061446817779519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu69XEbkAA_L5P.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061446817779519488"
+          ],
+          "media_source_tweet_id": [
+            "2061446835018084784"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2061659604996837435",
+        "created_at": "2026-06-02T04:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061659604996837435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794306281572118528",
+              "start": 3,
+              "username": "520maodou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo3ffLwQEP",
+              "end": 126,
+              "expanded_url": "https://x.com/520maodou/status/2061446835018084784/photo/1",
+              "media_key": "3_2061446817779519488",
+              "start": 103,
+              "url": "https://t.co/qo3ffLwQEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061659604996837435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061446835018084784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520maodou: 其实跨性别者真的很善良🥺\n在这个学历贬值，经济下行，内卷与日俱增的时代，普通中国人民的生活尚且步履维艰，跨性别者还额外背负了家庭的冷眼、职场的歧视、社会的偏见.......… https://t.co/qo3ffLwQEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061446817779519488"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "conversation_id": "2061446835018084784",
+        "created_at": "2026-06-01T13:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061446835018084784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo3ffLwQEP",
+              "end": 110,
+              "expanded_url": "https://x.com/520maodou/status/2061446835018084784/photo/1",
+              "media_key": "3_2061446817779519488",
+              "start": 87,
+              "url": "https://t.co/qo3ffLwQEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061446835018084784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实跨性别者真的很善良🥺\n在这个学历贬值，经济下行，内卷与日俱增的时代，普通中国人民的生活尚且步履维艰，跨性别者还额外背负了家庭的冷眼、职场的歧视、社会的偏见.......\n近年来，国内所谓“献忠”式的恶性伤人事件频发，这也反映出了社会矛盾进一步激化，大量底层人民心中的戾气越来越多。但是就目前为止，我还没有见到跨性别者主动伤害他人的“献忠”式案件，绝大多数跨性别者在无法承受巨大的压力后，选择服用硝酸盐结束自己的生命。她们自始至终没有选择伤害除自己以外的任何人，没有选择报复这个充满歧视与偏见的社会。她们将温柔留给了世界，却将所有苦难与委屈留给了自己。\n愿所有跨性别宝宝们好好地活下去，你们真的很勇敢，很善良，请继续坚持下去，活成自己心目中的那个“TA”，同时将这份思想继续传递下去，让世界听到我们的声音！\n🏳️‍⚧️万岁！自由万岁！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3565,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实跨性别者真的很善良🥺\n在这个学历贬值，经济下行，内卷与日俱增的时代，普通中国人民的生活尚且步履维艰，跨性别者还额外背负了家庭的冷眼、职场的歧视、社会的偏见....... https://t.co/qo3ffLwQEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 673,
+          "like_count": 24137,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5799
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 165,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": true
+      }
+    ]
+  }
+}

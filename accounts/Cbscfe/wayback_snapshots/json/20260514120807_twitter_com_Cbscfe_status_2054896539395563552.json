@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054874967305802097",
+    "created_at": "2026-05-14T12:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054896539395563552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954092890327855104",
+          "start": 0,
+          "username": "liyhn110314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054896539395563552",
+    "in_reply_to_user_id": "1954092890327855104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054874967305802097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyhn110314 没有关系，那些跟你一样的人会来安慰你，会来教你，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054874967305802097",
+        "created_at": "2026-05-14T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054896539395563552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "liyhn110314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054896539395563552",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054874967305802097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyhn110314 没有关系，那些跟你一样的人会来安慰你，会来教你，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2054874967305802097",
+        "created_at": "2026-05-14T10:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054874967305802097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054874967305802097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没有人教我 感情破裂 家庭不和睦 遇到的创伤 被欺凌 抑郁焦虑 孤独寂寞 压力大时该怎么办 他们只会说一句话“这世界上不是只有你这样”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 595,
+          "like_count": 23242,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 5315
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加墙内任何联系方式 我是女同性恋 负能量碎碎念",
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2044517152464543949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050231491800739840/G487qCfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 21,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 120
+        },
+        "username": "liyhn110314",
+        "verified": false
+      }
+    ]
+  }
+}

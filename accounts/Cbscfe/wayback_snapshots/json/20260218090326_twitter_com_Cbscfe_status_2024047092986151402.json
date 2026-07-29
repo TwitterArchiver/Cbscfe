@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023927627762036736"
+      ],
+      "media_source_tweet_id": [
+        "2023927637035684241"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2024047092986151402",
+    "created_at": "2026-02-18T09:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024047092986151402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686948940321857536",
+          "start": 3,
+          "username": "mizuki_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vhUdKIxSle",
+          "end": 53,
+          "expanded_url": "https://x.com/mizuki_bot/status/2023927637035684241/photo/1",
+          "media_key": "3_2023927627762036736",
+          "start": 30,
+          "url": "https://t.co/vhUdKIxSle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024047092986151402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023927637035684241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuki_bot: 我的世界玩家、你们开心了吗 https://t.co/vhUdKIxSle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023927627762036736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZvdEfa8AARCY-.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023927627762036736"
+          ],
+          "media_source_tweet_id": [
+            "2023927637035684241"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2024047092986151402",
+        "created_at": "2026-02-18T09:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024047092986151402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686948940321857536",
+              "start": 3,
+              "username": "mizuki_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhUdKIxSle",
+              "end": 53,
+              "expanded_url": "https://x.com/mizuki_bot/status/2023927637035684241/photo/1",
+              "media_key": "3_2023927627762036736",
+              "start": 30,
+              "url": "https://t.co/vhUdKIxSle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024047092986151402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023927637035684241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuki_bot: 我的世界玩家、你们开心了吗 https://t.co/vhUdKIxSle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023927627762036736"
+          ]
+        },
+        "author_id": "1686948940321857536",
+        "conversation_id": "2023927637035684241",
+        "created_at": "2026-02-18T01:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023927637035684241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhUdKIxSle",
+              "end": 37,
+              "expanded_url": "https://x.com/mizuki_bot/status/2023927637035684241/photo/1",
+              "media_key": "3_2023927627762036736",
+              "start": 14,
+              "url": "https://t.co/vhUdKIxSle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023927637035684241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8508,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我的世界玩家、你们开心了吗 https://t.co/vhUdKIxSle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 165,
+          "like_count": 14686,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T03:57:58.000Z",
+        "description": "和平反戰建國｜磊々落々反戦国家｜初音ミク保佑我｜好き@ZW3333T @bushi_8964｜缅怀于兆力同志｜利伯塔利亚通｜@mzd1968｜互fo私信喵｜第二人格@mizuki_8964｜➡️⏩｜私信永久开放｜全球公审钢精卫，信仰初音神教保平安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "ZW3333T"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "mzd1968"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "mizuki_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/character/unit…",
+                "end": 23,
+                "expanded_url": "https://pjsekai.sega.jp/character/unite05/mizuki/index.html?year=now",
+                "start": 0,
+                "url": "https://t.co/ybzhggtFaQ"
+              }
+            ]
+          }
+        },
+        "id": "1686948940321857536",
+        "location": "初音ミク歌聲下的神聖領土——ミクフアンス",
+        "name": "北琉叙輪奈NNNNN（欢迎投稿）",
+        "pinned_tweet_id": "1853094828525109727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022889989261180928/u7sz2Qmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 896,
+          "like_count": 12055,
+          "listed_count": 4,
+          "media_count": 621,
+          "tweet_count": 7042
+        },
+        "url": "https://t.co/ybzhggtFaQ",
+        "username": "mizuki_bot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1989179053769912525",
+    "created_at": "2025-11-14T03:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989179053769912525"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "great potato war",
+          "probability": 0.6598,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1196007308074995714",
+          "start": 3,
+          "username": "im_a_squid_kid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989179053769912525",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 437
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989105763932066006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @im_a_squid_kid: the first video of the great potato war was uploaded 6 years ago today!\n\ndays like today feel weird now, but i'm foreve…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 265,
+        "media_key": "3_1989104612322799616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5q4Gy6XcAAVf7C.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1989179053769912525",
+        "created_at": "2025-11-14T03:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989179053769912525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "great potato war",
+              "probability": 0.6598,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1196007308074995714",
+              "start": 3,
+              "username": "im_a_squid_kid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989179053769912525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 437
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989105763932066006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @im_a_squid_kid: the first video of the great potato war was uploaded 6 years ago today!\n\ndays like today feel weird now, but i'm foreve…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989104612322799616"
+          ]
+        },
+        "author_id": "1196007308074995714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989105763932066006",
+        "created_at": "2025-11-13T22:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989105763932066006"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "great potato war",
+              "probability": 0.639,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 230,
+              "normalized_text": "techno",
+              "probability": 0.3443,
+              "start": 225,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0pffjgNkL",
+              "end": 255,
+              "expanded_url": "https://x.com/im_a_squid_kid/status/1989105763932066006/photo/1",
+              "media_key": "3_1989104612322799616",
+              "start": 232,
+              "url": "https://t.co/X0pffjgNkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989105763932066006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 54425,
+          "like_count": 5742,
+          "quote_count": 13,
+          "reply_count": 26,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "the first video of the great potato war was uploaded 6 years ago today!\n\ndays like today feel weird now, but i'm forever grateful for the memories made during that time and forever grateful for the platform i have because of techno https://t.co/X0pffjgNkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 6776,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-17T10:09:06.000Z",
+        "description": "im a squid! im a kid! (im 25) (he/him) YouTube: https://t.co/lm4uvV7fCu Twitch: https://t.co/mnGBmjsypH Business Email: squidkidbiz@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/imasquidkid",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/imasquidkid",
+                "start": 48,
+                "url": "https://t.co/lm4uvV7fCu"
+              },
+              {
+                "display_url": "twitch.tv/im_a_squid_kid",
+                "end": 103,
+                "expanded_url": "http://twitch.tv/im_a_squid_kid",
+                "start": 80,
+                "url": "https://t.co/mnGBmjsypH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/imasquidkid",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/imasquidkid",
+                "start": 0,
+                "url": "https://t.co/4qywguroin"
+              }
+            ]
+          }
+        },
+        "id": "1196007308074995714",
+        "location": "a potato farm",
+        "name": "im a squid kid",
+        "pinned_tweet_id": "1310352657110806528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1196007375724957697/ANRyw6hF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94388,
+          "following_count": 481,
+          "like_count": 13625,
+          "listed_count": 126,
+          "media_count": 332,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/4qywguroin",
+        "username": "im_a_squid_kid",
+        "verified": false
+      }
+    ]
+  }
+}

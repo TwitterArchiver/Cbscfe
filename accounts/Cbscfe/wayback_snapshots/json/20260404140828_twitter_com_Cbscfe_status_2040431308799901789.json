@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040338063952662528"
+      ],
+      "media_source_tweet_id": [
+        "2040338247419888029"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2040431308799901789",
+    "created_at": "2026-04-04T14:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040431308799901789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1629058457222656001",
+          "start": 3,
+          "username": "nursenika1840"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQnXWBNazs",
+          "end": 103,
+          "expanded_url": "https://x.com/nursenika1840/status/2040338247419888029/video/1",
+          "media_key": "13_2040338063952662528",
+          "start": 80,
+          "url": "https://t.co/tQnXWBNazs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040431308799901789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040338247419888029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nursenika1840: 重度近视，没有任何锻炼痕迹，基础体能极差，又倔，从小到大每天灌输逆天改命 厚积薄发 吃得苦中苦方为人上人，有点厉害。。。 https://t.co/tQnXWBNazs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21030,
+        "height": 1334,
+        "media_key": "13_2040338063952662528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040338063952662528/img/MFWtOvsicCd4YGpZ.jpg",
+        "public_metrics": {
+          "view_count": 21647
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040338063952662528/vid/avc1/320x568/IQUgm48XYTK1N6p9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040338063952662528/vid/avc1/480x852/nBRpKq6qbRXmXA8D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040338063952662528/vid/avc1/750x1334/M9mY7YYDKEV4Ddt4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040338063952662528/pl/U8P2C-QVdL1aEVzb.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040338063952662528"
+          ],
+          "media_source_tweet_id": [
+            "2040338247419888029"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2040431308799901789",
+        "created_at": "2026-04-04T14:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040431308799901789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1629058457222656001",
+              "start": 3,
+              "username": "nursenika1840"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQnXWBNazs",
+              "end": 103,
+              "expanded_url": "https://x.com/nursenika1840/status/2040338247419888029/video/1",
+              "media_key": "13_2040338063952662528",
+              "start": 80,
+              "url": "https://t.co/tQnXWBNazs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040431308799901789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040338247419888029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nursenika1840: 重度近视，没有任何锻炼痕迹，基础体能极差，又倔，从小到大每天灌输逆天改命 厚积薄发 吃得苦中苦方为人上人，有点厉害。。。 https://t.co/tQnXWBNazs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040338063952662528"
+          ]
+        },
+        "author_id": "1629058457222656001",
+        "conversation_id": "2040338247419888029",
+        "created_at": "2026-04-04T07:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040338247419888029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQnXWBNazs",
+              "end": 84,
+              "expanded_url": "https://x.com/nursenika1840/status/2040338247419888029/video/1",
+              "media_key": "13_2040338063952662528",
+              "start": 61,
+              "url": "https://t.co/tQnXWBNazs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338247419888029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 43996,
+          "like_count": 280,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "重度近视，没有任何锻炼痕迹，基础体能极差，又倔，从小到大每天灌输逆天改命 厚积薄发 吃得苦中苦方为人上人，有点厉害。。。 https://t.co/tQnXWBNazs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 242,
+          "like_count": 18086,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53394,
+          "following_count": 429,
+          "like_count": 9016,
+          "listed_count": 201,
+          "media_count": 829,
+          "tweet_count": 16996
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

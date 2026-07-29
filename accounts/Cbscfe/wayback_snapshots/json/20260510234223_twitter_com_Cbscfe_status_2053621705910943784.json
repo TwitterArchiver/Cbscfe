@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053509116749025374",
+    "created_at": "2026-05-10T23:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T00:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053621705910943784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "747213446911922176",
+          "start": 0,
+          "username": "ura_samuko"
+        },
+        {
+          "end": 27,
+          "id": "1597105235516076033",
+          "start": 12,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053621705910943784",
+    "in_reply_to_user_id": "747213446911922176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053620069436191051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ura_samuko @TamikoTomorika 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053509116749025374",
+        "created_at": "2026-05-10T23:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053621705910943784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "747213446911922176",
+              "start": 0,
+              "username": "ura_samuko"
+            },
+            {
+              "end": 27,
+              "id": "1597105235516076033",
+              "start": 12,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053621705910943784",
+        "in_reply_to_user_id": "747213446911922176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053620069436191051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ura_samuko @TamikoTomorika 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "747213446911922176",
+        "conversation_id": "2053509116749025374",
+        "created_at": "2026-05-10T23:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053620069436191051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1597105235516076033",
+              "start": 8,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053620069436191051",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053581370996437149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @TamikoTomorika 干嘛 每个药理我都清楚的 btw你猜猜曲线里面有没有维生素片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 569,
+          "like_count": 22549,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 4995
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-26T23:42:23.000Z",
+        "description": "雑に絵を描く。\n苦楽無凡、言葉遣い荒く。\n自分わ抱きしめたい(笑)",
+        "id": "747213446911922176",
+        "name": "さむ",
+        "pinned_tweet_id": "1985487275946623149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985460011695554567/-2Ush8Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 102,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "ura_samuko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名章魚. 16齡 ♡🍊@toukorina \n頑皮親妹🐙☁️@glutinouscloud \nAutisticDHD. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 \n✈️機場 @Aokigawa8964 @nozomixlr . #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 118,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "toukorina"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "glutinouscloud"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Aokigawa8964"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "nozomixlr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "location": "静岡県浜松市立広沢小学校",
+        "name": "たみこ🍊🐙🍄躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049949825282818049/lsa2lhl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 3845,
+          "like_count": 25856,
+          "listed_count": 0,
+          "media_count": 1467,
+          "tweet_count": 9883
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": false
+      }
+    ]
+  }
+}

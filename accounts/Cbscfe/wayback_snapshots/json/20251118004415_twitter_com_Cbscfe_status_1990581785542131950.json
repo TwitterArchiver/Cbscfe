@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990581785542131950",
+    "created_at": "2025-11-18T00:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T01:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990581785542131950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CryptoPainter/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/CryptoPainter/status/1990391649327784156",
+          "start": 38,
+          "url": "https://t.co/uVllzbjliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990581785542131950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990391649327784156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实智力测试每十年校准一次\n以确保智力平均数是100\n\n他从来都只是相对值 https://t.co/uVllzbjliu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1990377146011820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G589eAUXIAAloJ-.png",
+        "width": 993
+      },
+      {
+        "height": 867,
+        "media_key": "3_1990391003111374848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59KEmCWQAAghhK.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990581785542131950",
+        "created_at": "2025-11-18T00:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T01:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990581785542131950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CryptoPainter/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/CryptoPainter/status/1990391649327784156",
+              "start": 38,
+              "url": "https://t.co/uVllzbjliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990581785542131950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990391649327784156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实智力测试每十年校准一次\n以确保智力平均数是100\n\n他从来都只是相对值 https://t.co/uVllzbjliu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990377146011820032",
+            "3_1990391003111374848"
+          ]
+        },
+        "author_id": "1056818658",
+        "conversation_id": "1990391649327784156",
+        "created_at": "2025-11-17T12:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990391649327784156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "webhek.com/post/iq-test/",
+              "end": 159,
+              "expanded_url": "https://www.webhek.com/post/iq-test/",
+              "start": 136,
+              "unwound_url": "https://www.webhek.com/post/iq-test/",
+              "url": "https://t.co/iHf6rYbCoD"
+            },
+            {
+              "display_url": "pic.x.com/aIzavxsSXP",
+              "end": 183,
+              "expanded_url": "https://x.com/CryptoPainter/status/1990391649327784156/photo/1",
+              "media_key": "3_1990377146011820032",
+              "start": 160,
+              "url": "https://t.co/aIzavxsSXP"
+            },
+            {
+              "display_url": "pic.x.com/aIzavxsSXP",
+              "end": 183,
+              "expanded_url": "https://x.com/CryptoPainter/status/1990391649327784156/photo/1",
+              "media_key": "3_1990391003111374848",
+              "start": 160,
+              "url": "https://t.co/aIzavxsSXP"
+            },
+            {
+              "display_url": "x.com/Master_Jobber/…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/Master_Jobber/status/1990354950363504761",
+              "start": 184,
+              "url": "https://t.co/iqSt4kmRjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990391649327784156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "webhek.com/post/iq-test/",
+                "end": 159,
+                "expanded_url": "https://www.webhek.com/post/iq-test/",
+                "start": 136,
+                "url": "https://t.co/Us9a58Rfwu"
+              }
+            ]
+          },
+          "text": "再加一个辅助数据，全球智商低于100的人口占比约50%...\n\n也就是说，其实你生活中见到的一半以上的人群，智商都低于100，虽然80~100的智商并不会影响人的正常生活，但如果你有机会和这些人面对面交流，就会感觉莫名的疲惫...\n\n大家没事可以测一测自己的智商，链接 ：https://t.co/Us9a58Rfwu\n\n我测了132分，印象里上大学也做过类似的测试，那个时候比现在高，整体也符合人类随着年龄增长，智商会缓慢下降的规律..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 121234,
+          "like_count": 223,
+          "quote_count": 12,
+          "reply_count": 86,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990354950363504761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加一个辅助数据，全球智商低于100的人口占比约50%...\n\n也就是说，其实你生活中见到的一半以上的人群，智商都低于100，虽然80~100的智商并不会影响人的正常生活，但如果你有机会和这些人面对面交流，就会感觉莫名的疲惫...\n\n大家没事可以测一测自己的智商，链接 ：https://t.co/iHf6rYbCoD https://t.co/aIzavxsSXP https://t.co/iqSt4kmRjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 82,
+          "like_count": 7422,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T04:07:25.000Z",
+        "description": "老朋友叫我“画师”，主要做 $BTC 技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，被造谣开直播时会砸盘。 正在猛学Web3应用层！#Kaito #Sidekick #Virtual #OKX CEX：https://t.co/361fpOQWOc",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "Kaito"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "tag": "Sidekick"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "tag": "Virtual"
+              },
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/zh-hans/join/2…",
+                "end": 133,
+                "expanded_url": "https://www.okx.com/zh-hans/join/2131010",
+                "start": 110,
+                "url": "https://t.co/361fpOQWOc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZPkREzth-qJjO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZPkREzth-qJjOWE1",
+                "start": 0,
+                "url": "https://t.co/GmJX6YSxIO"
+              }
+            ]
+          }
+        },
+        "id": "1056818658",
+        "location": "电报群 TG Group → ",
+        "name": "Crypto_Painter",
+        "pinned_tweet_id": "1921354818838315294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982851990892802049/6kmjzZkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88163,
+          "following_count": 1498,
+          "like_count": 68126,
+          "listed_count": 1592,
+          "media_count": 5368,
+          "tweet_count": 29518
+        },
+        "url": "https://t.co/GmJX6YSxIO",
+        "username": "CryptoPainter",
+        "verified": true
+      }
+    ]
+  }
+}

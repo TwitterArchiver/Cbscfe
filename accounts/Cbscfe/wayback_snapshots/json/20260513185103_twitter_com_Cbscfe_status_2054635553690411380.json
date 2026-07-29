@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054635547839369216"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054635553690411380",
+    "created_at": "2026-05-13T18:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054635553690411380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x1Xhb7zM9F",
+          "end": 102,
+          "expanded_url": "https://x.com/Cbscfe/status/2054635553690411380/photo/1",
+          "media_key": "3_2054635547839369216",
+          "start": 79,
+          "url": "https://t.co/x1Xhb7zM9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054635553690411380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被之前认识的网友网络性侵了，\n\n(sync 2026/05/14 18:12)\n\n就这样吧\n当事人已道歉\n\n(sync 2026/05/14 18:38) https://t.co/x1Xhb7zM9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2054635547839369216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIOIJRPbEAAgeIh.png",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054635547839369216"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054635553690411380",
+        "created_at": "2026-05-13T18:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054635553690411380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1Xhb7zM9F",
+              "end": 102,
+              "expanded_url": "https://x.com/Cbscfe/status/2054635553690411380/photo/1",
+              "media_key": "3_2054635547839369216",
+              "start": 79,
+              "url": "https://t.co/x1Xhb7zM9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054635553690411380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被之前认识的网友网络性侵了，\n\n(sync 2026/05/14 18:12)\n\n就这样吧\n当事人已道歉\n\n(sync 2026/05/14 18:38) https://t.co/x1Xhb7zM9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 590,
+          "like_count": 23068,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

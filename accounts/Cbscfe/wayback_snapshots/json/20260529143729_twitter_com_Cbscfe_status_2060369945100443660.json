@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060098644876165406",
+    "created_at": "2026-05-29T14:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060369945100443660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957003704617639936",
+          "start": 0,
+          "username": "wzh123456775879"
+        },
+        {
+          "end": 26,
+          "id": "2022181719835914242",
+          "start": 17,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369945100443660",
+    "in_reply_to_user_id": "1957003704617639936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366138497020128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzh123456775879 @QY404XYN 我去，刷怪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060098644876165406",
+        "created_at": "2026-05-29T14:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060369945100443660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957003704617639936",
+              "start": 0,
+              "username": "wzh123456775879"
+            },
+            {
+              "end": 26,
+              "id": "2022181719835914242",
+              "start": 17,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369945100443660",
+        "in_reply_to_user_id": "1957003704617639936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366138497020128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzh123456775879 @QY404XYN 我去，刷怪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957003704617639936",
+        "conversation_id": "2060098644876165406",
+        "created_at": "2026-05-29T14:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060366138497020128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366138497020128",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060098644876165406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404XYN 朝脖子上切有奇效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 670,
+          "like_count": 24068,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5745
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T08:57:21.000Z",
+        "description": "我是来看反贼笑话的；",
+        "id": "1957003704617639936",
+        "location": "中國（China）",
+        "name": "吴振华和齐奥兰的小家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059271610146934786/LkoKvqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "wzh123456775879",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜对象 @mchchc5216 ｜正在戒od｜自残｜精神不稳定｜有事直接用推私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "mchchc5216"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "枕星寻梦🍥8964",
+        "pinned_tweet_id": "2060328392369778874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059698535340355584/KSwchaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 224,
+          "like_count": 253,
+          "listed_count": 7,
+          "media_count": 90,
+          "tweet_count": 481
+        },
+        "username": "QY404XYN",
+        "verified": false
+      }
+    ]
+  }
+}

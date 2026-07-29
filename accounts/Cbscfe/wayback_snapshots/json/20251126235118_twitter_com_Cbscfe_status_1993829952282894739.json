@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993829909266046976"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993507472875606077",
+    "created_at": "2025-11-26T23:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T00:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993829952282894739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1416321765857443841",
+          "start": 0,
+          "username": "ahdebee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxaM8DhA3Z",
+          "end": 36,
+          "expanded_url": "https://x.com/Cbscfe/status/1993829952282894739/photo/1",
+          "media_key": "3_1993829909266046976",
+          "start": 13,
+          "url": "https://t.co/zxaM8DhA3Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993829952282894739",
+    "in_reply_to_user_id": "1416321765857443841",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993507472875606077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahdebee yum https://t.co/zxaM8DhA3Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 623,
+        "media_key": "3_1993829909266046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uBvRxaIAAhzhi.png",
+        "width": 570
+      },
+      {
+        "height": 742,
+        "media_key": "3_1993507464558309376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pcehoWcAAw5ZS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993829909266046976"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993507472875606077",
+        "created_at": "2025-11-26T23:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993829952282894739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1416321765857443841",
+              "start": 0,
+              "username": "ahdebee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxaM8DhA3Z",
+              "end": 36,
+              "expanded_url": "https://x.com/Cbscfe/status/1993829952282894739/photo/1",
+              "media_key": "3_1993829909266046976",
+              "start": 13,
+              "url": "https://t.co/zxaM8DhA3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993829952282894739",
+        "in_reply_to_user_id": "1416321765857443841",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993507472875606077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahdebee yum https://t.co/zxaM8DhA3Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993507464558309376"
+          ]
+        },
+        "author_id": "1416321765857443841",
+        "conversation_id": "1993507472875606077",
+        "created_at": "2025-11-26T02:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993507472875606077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQejg4Hj3E",
+              "end": 79,
+              "expanded_url": "https://x.com/ahdebee/status/1993507472875606077/photo/1",
+              "media_key": "3_1993507464558309376",
+              "start": 56,
+              "url": "https://t.co/HQejg4Hj3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993507472875606077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 2275164,
+          "like_count": 16385,
+          "quote_count": 2298,
+          "reply_count": 12950,
+          "retweet_count": 516
+        },
+        "reply_settings": "everyone",
+        "text": "your ex is drowning and your 4th emoji is your reaction https://t.co/HQejg4Hj3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 94,
+          "like_count": 8905,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-17T09:00:38.000Z",
+        "description": "Growth | Motion | DM 4 ADS 📢",
+        "id": "1416321765857443841",
+        "location": "Web3",
+        "name": "chapo",
+        "pinned_tweet_id": "1993507472875606077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962339745557630976/p9iubdVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86955,
+          "following_count": 6735,
+          "like_count": 112619,
+          "listed_count": 86,
+          "media_count": 2480,
+          "tweet_count": 46776
+        },
+        "username": "ahdebee",
+        "verified": true
+      }
+    ]
+  }
+}

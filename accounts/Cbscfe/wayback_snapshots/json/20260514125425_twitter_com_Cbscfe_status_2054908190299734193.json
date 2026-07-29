@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054907486025785344"
+      ],
+      "media_source_tweet_id": [
+        "2054907702577713279"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054908190299734193",
+    "created_at": "2026-05-14T12:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054908190299734193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860552199585300482",
+          "start": 3,
+          "username": "Seven_Eraya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uvMIGSCAr3",
+          "end": 50,
+          "expanded_url": "https://x.com/Seven_Eraya/status/2054907702577713279/photo/1",
+          "media_key": "3_2054907486025785344",
+          "start": 27,
+          "url": "https://t.co/uvMIGSCAr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054908190299734193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054907702577713279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seven_Eraya: 我也要上电视qnq https://t.co/uvMIGSCAr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2054907486025785344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIR_eJ7boAAkaA1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054907486025785344"
+          ],
+          "media_source_tweet_id": [
+            "2054907702577713279"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054908190299734193",
+        "created_at": "2026-05-14T12:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054908190299734193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860552199585300482",
+              "start": 3,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvMIGSCAr3",
+              "end": 50,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2054907702577713279/photo/1",
+              "media_key": "3_2054907486025785344",
+              "start": 27,
+              "url": "https://t.co/uvMIGSCAr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054908190299734193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054907702577713279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seven_Eraya: 我也要上电视qnq https://t.co/uvMIGSCAr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054907486025785344"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2054907702577713279",
+        "created_at": "2026-05-14T12:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054907702577713279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvMIGSCAr3",
+              "end": 33,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2054907702577713279/photo/1",
+              "media_key": "3_2054907486025785344",
+              "start": 10,
+              "url": "https://t.co/uvMIGSCAr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054907702577713279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也要上电视qnq https://t.co/uvMIGSCAr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 595,
+          "like_count": 23254,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 5326
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|已拥盐|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2053280846417891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 130,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 259
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

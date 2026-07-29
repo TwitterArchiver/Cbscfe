@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976579211658961314",
+    "created_at": "2025-10-10T09:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T10:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976579211658961314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1249739194936639488",
+          "start": 3,
+          "username": "RSTAR0725"
+        },
+        {
+          "end": 27,
+          "id": "1353169870691549184",
+          "start": 15,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976579211658961314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976543345813094795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RSTAR0725: @iPaulCanada 這種假設最沒意義了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976579211658961314",
+        "created_at": "2025-10-10T09:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976579211658961314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1249739194936639488",
+              "start": 3,
+              "username": "RSTAR0725"
+            },
+            {
+              "end": 27,
+              "id": "1353169870691549184",
+              "start": 15,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976579211658961314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976543345813094795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RSTAR0725: @iPaulCanada 這種假設最沒意義了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249739194936639488",
+        "conversation_id": "1976300481744892264",
+        "created_at": "2025-10-10T07:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T08:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976543345813094795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976543345813094795",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976300481744892264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 這種假設最沒意義了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 31,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T16:40:25.000Z",
+        "description": "大洗に恋をした台湾人、大型の祭典があるときは、大洗に飛び帰ります(大洗4周目) \n\n好きなアニメ:\nガルパン、京アニの全作品（主にヴァイ、CLANNAD)、新海誠の全作品、僕ヤバ、月がきれいなどの質の高い恋愛作品\nガルパンで好きなの順番：秋山優花里、西住みほ、西絹代\nホロライブで好きな、推しは宝鐘マリン、一味です",
+        "id": "1249739194936639488",
+        "location": " ",
+        "name": "R.STAR🇹🇼戦車道連盟派遣（台湾→大洗）あんこう祭參戰🔴⭕️ 大洗4周目",
+        "pinned_tweet_id": "1915687471918268644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911781374861717504/pzWW2ndT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1154,
+          "like_count": 11045,
+          "listed_count": 4,
+          "media_count": 296,
+          "tweet_count": 11734
+        },
+        "username": "RSTAR0725",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144858,
+          "following_count": 508,
+          "like_count": 7521,
+          "listed_count": 598,
+          "media_count": 10011,
+          "tweet_count": 16389
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

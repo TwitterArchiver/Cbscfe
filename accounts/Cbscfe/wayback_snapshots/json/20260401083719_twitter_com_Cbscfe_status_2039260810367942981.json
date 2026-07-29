@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039260810367942981",
+    "created_at": "2026-04-01T08:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039260810367942981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2039152705378365799",
+          "start": 13,
+          "url": "https://t.co/Bd6g8Bh5WL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039260810367942981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039152705378365799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "愚人节, 更新一下名字! https://t.co/Bd6g8Bh5WL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039260810367942981",
+        "created_at": "2026-04-01T08:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039260810367942981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2039152705378365799",
+              "start": 13,
+              "url": "https://t.co/Bd6g8Bh5WL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039260810367942981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039152705378365799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愚人节, 更新一下名字! https://t.co/Bd6g8Bh5WL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039152705378365799",
+        "created_at": "2026-04-01T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039152705378365799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039152705378365799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3664,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "愚人节, 更新一下名字!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 239,
+          "like_count": 17883,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃🍥; 🏳️‍⚧️",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 216,
+          "like_count": 6707,
+          "listed_count": 5,
+          "media_count": 162,
+          "tweet_count": 1757
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

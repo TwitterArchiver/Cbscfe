@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984706991613493705",
+    "created_at": "2025-11-02T13:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T14:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984976818378768624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984976818378768624",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984706991613493705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 所以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_1984706885375950848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sYZZYbAAA-M8j.jpg",
+        "width": 1980
+      },
+      {
+        "duration_ms": 11823,
+        "height": 1920,
+        "media_key": "13_1984706885447213056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984706885447213056/img/S0dCJXWy-Pi5PIRN.jpg",
+        "public_metrics": {
+          "view_count": 928
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984706885447213056/vid/avc1/320x568/cEh3eex5Y8g6y2er.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984706885447213056/vid/avc1/480x852/GEPmf89p7FN4xRUE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984706885447213056/pl/9JgQY5m3Kx_hh5mk.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984706885447213056/vid/avc1/1080x1920/2Oh29MMsaCzyI35Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984706885447213056/vid/avc1/720x1280/n4mvFwmkGYgbEku5.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984706991613493705",
+        "created_at": "2025-11-02T13:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984976818378768624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984976818378768624",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984706991613493705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 所以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984706885375950848",
+            "13_1984706885447213056"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "1984706991613493705",
+        "created_at": "2025-11-01T19:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T20:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984706991613493705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbdDGxHmex",
+              "end": 50,
+              "expanded_url": "https://x.com/MeowCatherina/status/1984706991613493705/video/1",
+              "media_key": "3_1984706885375950848",
+              "start": 27,
+              "url": "https://t.co/bbdDGxHmex"
+            },
+            {
+              "display_url": "pic.x.com/bbdDGxHmex",
+              "end": 50,
+              "expanded_url": "https://x.com/MeowCatherina/status/1984706991613493705/video/1",
+              "media_key": "13_1984706885447213056",
+              "start": 27,
+              "url": "https://t.co/bbdDGxHmex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984706991613493705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4961,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个扫地机器人的正脸好哈人啊 \n有种战争机器的味道） https://t.co/bbdDGxHmex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 4906,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜做教育学科研的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDlph"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6332,
+          "following_count": 1079,
+          "like_count": 70840,
+          "listed_count": 21,
+          "media_count": 1890,
+          "tweet_count": 22162
+        },
+        "url": "https://t.co/8NIDYwDlph",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

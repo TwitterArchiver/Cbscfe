@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2059942327142285450",
+    "created_at": "2026-05-28T10:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059942327142285450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059942327142285450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059723643157197017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: 那种社区，为了住户的安全与健康\n应该日常用品里常备约束带和抗精神病药物\n还要有常驻的精神科医生和保安\n还要控制带进带出的物品与住户的出行时间\n\n等等，这样的话，不就变成了\n我在想什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2059942327142285450",
+        "created_at": "2026-05-28T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059942327142285450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059942327142285450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059723643157197017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: 那种社区，为了住户的安全与健康\n应该日常用品里常备约束带和抗精神病药物\n还要有常驻的精神科医生和保安\n还要控制带进带出的物品与住户的出行时间\n\n等等，这样的话，不就变成了\n我在想什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2059723643157197017",
+        "created_at": "2026-05-27T19:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059723643157197017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/1963102305513001172",
+              "start": 92,
+              "url": "https://t.co/NpxsdsDUjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059723643157197017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 832,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963102305513001172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那种社区，为了住户的安全与健康\n应该日常用品里常备约束带和抗精神病药物\n还要有常驻的精神科医生和保安\n还要控制带进带出的物品与住户的出行时间\n\n等等，这样的话，不就变成了\n我在想什么 https://t.co/NpxsdsDUjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 655,
+          "like_count": 23939,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 5647
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/mentally challenged(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 149,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 126,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2058695630307074519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 2091,
+          "like_count": 3610,
+          "listed_count": 17,
+          "media_count": 1660,
+          "tweet_count": 14264
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

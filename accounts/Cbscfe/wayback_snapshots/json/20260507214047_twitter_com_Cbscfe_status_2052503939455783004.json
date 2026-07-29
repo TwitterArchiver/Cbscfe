@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052430825095045120",
+        "3_2052430825803968512"
+      ],
+      "media_source_tweet_id": [
+        "2052430836763595207",
+        "2052430836763595207"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2052503939455783004",
+    "created_at": "2026-05-07T21:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052503939455783004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6cNHQxBytU",
+          "end": 105,
+          "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+          "media_key": "3_2052430825095045120",
+          "start": 82,
+          "url": "https://t.co/6cNHQxBytU"
+        },
+        {
+          "display_url": "pic.x.com/6cNHQxBytU",
+          "end": 105,
+          "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+          "media_key": "3_2052430825803968512",
+          "start": 82,
+          "url": "https://t.co/6cNHQxBytU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052503939455783004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052430836763595207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 社会，以及身处其中的ODer们(全文撰写中...)\n段落其一:\n说真的，禁令起到什么作用？\n列管？列管！列管。\n谈到列管..... https://t.co/6cNHQxBytU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_2052430825095045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuy9g_aIAA3t1k.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2052430825803968512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuy9jobcAASV3M.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052430825095045120",
+            "3_2052430825803968512"
+          ],
+          "media_source_tweet_id": [
+            "2052430836763595207",
+            "2052430836763595207"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2052503939455783004",
+        "created_at": "2026-05-07T21:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052503939455783004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cNHQxBytU",
+              "end": 105,
+              "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+              "media_key": "3_2052430825095045120",
+              "start": 82,
+              "url": "https://t.co/6cNHQxBytU"
+            },
+            {
+              "display_url": "pic.x.com/6cNHQxBytU",
+              "end": 105,
+              "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+              "media_key": "3_2052430825803968512",
+              "start": 82,
+              "url": "https://t.co/6cNHQxBytU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052503939455783004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052430836763595207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 社会，以及身处其中的ODer们(全文撰写中...)\n段落其一:\n说真的，禁令起到什么作用？\n列管？列管！列管。\n谈到列管..... https://t.co/6cNHQxBytU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052430825095045120",
+            "3_2052430825803968512"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2052430836763595207",
+        "created_at": "2026-05-07T16:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052430836763595207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cNHQxBytU",
+              "end": 89,
+              "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+              "media_key": "3_2052430825095045120",
+              "start": 66,
+              "url": "https://t.co/6cNHQxBytU"
+            },
+            {
+              "display_url": "pic.x.com/6cNHQxBytU",
+              "end": 89,
+              "expanded_url": "https://x.com/_Shikieiki/status/2052430836763595207/photo/1",
+              "media_key": "3_2052430825803968512",
+              "start": 66,
+              "url": "https://t.co/6cNHQxBytU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052430836763595207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 386,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "社会，以及身处其中的ODer们(全文撰写中...)\n段落其一:\n说真的，禁令起到什么作用？\n列管？列管！列管。\n谈到列管..... https://t.co/6cNHQxBytU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 495,
+          "like_count": 21966,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 4770
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 916,
+          "like_count": 27986,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

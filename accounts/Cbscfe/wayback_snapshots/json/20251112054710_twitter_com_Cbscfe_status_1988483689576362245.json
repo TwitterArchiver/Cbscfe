@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988110015925022882",
+    "created_at": "2025-11-12T05:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988483689576362245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1651100097315209216",
+          "start": 0,
+          "username": "MinusSixteen_"
+        },
+        {
+          "end": 30,
+          "id": "1681944655041265664",
+          "start": 15,
+          "username": "shuri_togetoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988483689576362245",
+    "in_reply_to_user_id": "1651100097315209216",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988478927526822006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusSixteen_ @shuri_togetoge Oh no"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1988478900406521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h_BkYXEAAIUw-.jpg",
+        "width": 203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988110015925022882",
+        "created_at": "2025-11-12T05:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988483689576362245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1651100097315209216",
+              "start": 0,
+              "username": "MinusSixteen_"
+            },
+            {
+              "end": 30,
+              "id": "1681944655041265664",
+              "start": 15,
+              "username": "shuri_togetoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988483689576362245",
+        "in_reply_to_user_id": "1651100097315209216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988478927526822006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusSixteen_ @shuri_togetoge Oh no"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988478900406521856"
+          ]
+        },
+        "author_id": "1651100097315209216",
+        "conversation_id": "1988110015925022882",
+        "created_at": "2025-11-12T05:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988478927526822006"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "doom",
+              "probability": 0.5162,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681944655041265664",
+              "start": 0,
+              "username": "shuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwV8wcbLoA",
+              "end": 59,
+              "expanded_url": "https://x.com/MinusSixteen_/status/1988478927526822006/photo/1",
+              "media_key": "3_1988478900406521856",
+              "start": 36,
+              "url": "https://t.co/OwV8wcbLoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988478927526822006",
+        "in_reply_to_user_id": "1681944655041265664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6761,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988110015925022882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuri_togetoge translation of doom https://t.co/OwV8wcbLoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 72,
+          "like_count": 6545,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T05:45:32.000Z",
+        "description": "The most honorable, most illustrious Fixer, delivering justice indeed! tis me, Don Quixote!!\n\n/ Not really don, i dont roleplay, im 18 💔",
+        "id": "1651100097315209216",
+        "location": "im a Donclair shipper 💔",
+        "name": "Don Quixote",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972405696353210368/4lOpIw6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 5897,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 140
+        },
+        "username": "MinusSixteen_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:30:38.000Z",
+        "description": "朱李(Shuri) / アニメ『#ガールズバンドクライ』#ルパ 役 / バンド『#トゲナシトゲアリ』Ba. / Instagram→ https://t.co/mN4Sucbxpb / 爬虫類と金魚と野球が好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "ルパ"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/shuri_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/shuri_togetoge",
+                "start": 67,
+                "url": "https://t.co/mN4Sucbxpb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuritogetoge",
+                "start": 0,
+                "url": "https://t.co/OX3Xk30yGt"
+              }
+            ]
+          }
+        },
+        "id": "1681944655041265664",
+        "name": "朱李 / トゲナシトゲアリ Ba.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795663226290176/mMoS4Kqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67800,
+          "following_count": 141,
+          "like_count": 2869,
+          "listed_count": 334,
+          "media_count": 552,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/OX3Xk30yGt",
+        "username": "shuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

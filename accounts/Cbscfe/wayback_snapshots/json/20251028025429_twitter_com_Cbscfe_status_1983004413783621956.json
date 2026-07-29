@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1982613221014937793",
+    "created_at": "2025-10-28T02:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983004413783621956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825619690267320320",
+          "start": 0,
+          "username": "memojidelirium"
+        },
+        {
+          "end": 32,
+          "id": "1791739695053033472",
+          "start": 16,
+          "username": "imagesaicouldnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983004413783621956",
+    "in_reply_to_user_id": "1825619690267320320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982613872554172743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@memojidelirium @imagesaicouldnt I thought it would write \"that down\""
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_1982613866950340609",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4OozsJWsAEDIYg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4OozsJWsAEDIYg.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1982613221014937793",
+        "created_at": "2025-10-28T02:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983004413783621956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825619690267320320",
+              "start": 0,
+              "username": "memojidelirium"
+            },
+            {
+              "end": 32,
+              "id": "1791739695053033472",
+              "start": 16,
+              "username": "imagesaicouldnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983004413783621956",
+        "in_reply_to_user_id": "1825619690267320320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982613872554172743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@memojidelirium @imagesaicouldnt I thought it would write \"that down\""
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1982613866950340609"
+          ]
+        },
+        "author_id": "1825619690267320320",
+        "conversation_id": "1982613221014937793",
+        "created_at": "2025-10-27T01:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982613872554172743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791739695053033472",
+              "start": 0,
+              "username": "imagesaicouldnt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AxAiZCpzr",
+              "end": 56,
+              "expanded_url": "https://x.com/memojidelirium/status/1982613872554172743/photo/1",
+              "media_key": "16_1982613866950340609",
+              "start": 33,
+              "url": "https://t.co/2AxAiZCpzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982613872554172743",
+        "in_reply_to_user_id": "1791739695053033472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3418,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982613221014937793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imagesaicouldnt write that down https://t.co/2AxAiZCpzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 50,
+          "like_count": 3940,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T19:44:48.000Z",
+        "description": "im̭͎͙̌̅͛͘ a͎̫̯ͣ su̧͇͈͑́ͩ͘r̷̲̪̔͐v͙̝͉͖̀͑ĭ́v͘͢or̵͎.. w̳̜̺ͪe͙̙̖̗̋ͪ͘'ȓ͔̀͡e a d̮ÿ̧͡i̡̩̯͘n̨͂g͚̥̜̤͛͂͠ b̰̺̑r̸̻̈́͛̂͘eȅ̢̤̼͊̚d̬̟ͩ @xavieronsolami 👁️ (frittata fr)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 118,
+                "username": "xavieronsolami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xillions.org",
+                "end": 23,
+                "expanded_url": "http://xillions.org",
+                "start": 0,
+                "url": "https://t.co/xrQKmtgkCX"
+              }
+            ]
+          }
+        },
+        "id": "1825619690267320320",
+        "location": "nfa",
+        "name": "F͛⦚r͛⦚o͛⦚g͛⦚ E͛⦚m͛⦚o͛⦚j͛⦚i͛⦚ 🪈🐍💹💥",
+        "pinned_tweet_id": "1882086710584222152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968104566710312960/bUWiZDxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 784,
+          "like_count": 76249,
+          "listed_count": 3,
+          "media_count": 20062,
+          "tweet_count": 24396
+        },
+        "url": "https://t.co/xrQKmtgkCX",
+        "username": "memojidelirium",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-18T07:56:54.000Z",
+        "description": "a collection of memes that are uniquely human",
+        "id": "1791739695053033472",
+        "location": "dm submissions",
+        "name": "Images AI Could Never Recreate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872521892218945536/q0XLdRN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304888,
+          "following_count": 194,
+          "like_count": 101947,
+          "listed_count": 236,
+          "media_count": 20532,
+          "tweet_count": 34853
+        },
+        "username": "imagesaicouldnt",
+        "verified": true
+      }
+    ]
+  }
+}

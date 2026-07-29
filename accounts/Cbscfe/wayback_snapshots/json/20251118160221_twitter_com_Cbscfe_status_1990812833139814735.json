@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990372136838631424",
+        "3_1990372136838717440"
+      ],
+      "media_source_tweet_id": [
+        "1990372144778494182",
+        "1990372144778494182"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990812833139814735",
+    "created_at": "2025-11-18T16:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T17:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990812833139814735"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "中国",
+          "probability": 0.7755,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 23,
+          "normalized_text": "大使館",
+          "probability": 0.3934,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 31,
+          "normalized_text": "六本木ヒルズ",
+          "probability": 0.7478,
+          "start": 26,
+          "type": "Place"
+        },
+        {
+          "end": 65,
+          "normalized_text": "中国外交部ジェネレーター",
+          "probability": 0.2968,
+          "start": 54,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1256038524135944193",
+          "start": 3,
+          "username": "Takesan_horse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDE1PO4ys9",
+          "end": 87,
+          "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+          "media_key": "3_1990372136838631424",
+          "start": 64,
+          "url": "https://t.co/GDE1PO4ys9"
+        },
+        {
+          "display_url": "pic.x.com/GDE1PO4ys9",
+          "end": 87,
+          "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+          "media_key": "3_1990372136838717440",
+          "start": 64,
+          "url": "https://t.co/GDE1PO4ys9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990812833139814735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990372144778494182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takesan_horse: 中国大使館から六本木ヒルズ方面徒歩約2分のところにあった🤣🤣🤣\n中国外交部ジェネレーター https://t.co/GDE1PO4ys9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990372136838631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5846bsaEAAZRUK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990372136838717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5846bsbYAAf-Kx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990372136838631424",
+            "3_1990372136838717440"
+          ],
+          "media_source_tweet_id": [
+            "1990372144778494182",
+            "1990372144778494182"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990812833139814735",
+        "created_at": "2025-11-18T16:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990812833139814735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "中国",
+              "probability": 0.7755,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 23,
+              "normalized_text": "大使館",
+              "probability": 0.3934,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "六本木ヒルズ",
+              "probability": 0.7478,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 65,
+              "normalized_text": "中国外交部ジェネレーター",
+              "probability": 0.2968,
+              "start": 54,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1256038524135944193",
+              "start": 3,
+              "username": "Takesan_horse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDE1PO4ys9",
+              "end": 87,
+              "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+              "media_key": "3_1990372136838631424",
+              "start": 64,
+              "url": "https://t.co/GDE1PO4ys9"
+            },
+            {
+              "display_url": "pic.x.com/GDE1PO4ys9",
+              "end": 87,
+              "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+              "media_key": "3_1990372136838717440",
+              "start": 64,
+              "url": "https://t.co/GDE1PO4ys9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990812833139814735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990372144778494182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takesan_horse: 中国大使館から六本木ヒルズ方面徒歩約2分のところにあった🤣🤣🤣\n中国外交部ジェネレーター https://t.co/GDE1PO4ys9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990372136838631424",
+            "3_1990372136838717440"
+          ]
+        },
+        "author_id": "1256038524135944193",
+        "conversation_id": "1990372144778494182",
+        "created_at": "2025-11-17T10:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990372144778494182"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "中国大使館",
+              "probability": 0.3438,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 12,
+              "normalized_text": "六本木ヒルズ",
+              "probability": 0.7284,
+              "start": 7,
+              "type": "Place"
+            },
+            {
+              "end": 46,
+              "normalized_text": "中国外交部ジェネレーター",
+              "probability": 0.3108,
+              "start": 35,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDE1PO4ys9",
+              "end": 68,
+              "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+              "media_key": "3_1990372136838631424",
+              "start": 45,
+              "url": "https://t.co/GDE1PO4ys9"
+            },
+            {
+              "display_url": "pic.x.com/GDE1PO4ys9",
+              "end": 68,
+              "expanded_url": "https://x.com/Takesan_horse/status/1990372144778494182/photo/1",
+              "media_key": "3_1990372136838717440",
+              "start": 45,
+              "url": "https://t.co/GDE1PO4ys9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990372144778494182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1119,
+          "impression_count": 1148025,
+          "like_count": 26734,
+          "quote_count": 271,
+          "reply_count": 128,
+          "retweet_count": 5113
+        },
+        "reply_settings": "everyone",
+        "text": "中国大使館から六本木ヒルズ方面徒歩約2分のところにあった🤣🤣🤣\n中国外交部ジェネレーター https://t.co/GDE1PO4ys9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 83,
+          "like_count": 7526,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T01:51:42.000Z",
+        "description": "🐴🧀🍷 約3年半の北海道生活を経て、首都圏に戻った三十路。",
+        "id": "1256038524135944193",
+        "location": "日本 北海道",
+        "name": "たけさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256209414987501568/gT_VyUB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 168,
+          "like_count": 143,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "Takesan_horse",
+        "verified": false
+      }
+    ]
+  }
+}

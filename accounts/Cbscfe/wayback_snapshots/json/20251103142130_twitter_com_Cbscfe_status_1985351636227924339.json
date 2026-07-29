@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1985198071589048598",
+    "created_at": "2025-11-03T14:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985351636227924339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "763565290420441088",
+          "start": 0,
+          "username": "staylightblow8"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985351636227924339",
+    "in_reply_to_user_id": "763565290420441088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985255878715687025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staylightblow8 @hsn8086 AI视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10774,
+        "height": 704,
+        "media_key": "13_1985255782779379712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985255782779379712/img/A2j7LH1sc0asNKwU.jpg",
+        "public_metrics": {
+          "view_count": 14637
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985255782779379712/vid/avc1/490x270/24XkvZTjPZ8A2NDm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985255782779379712/vid/avc1/654x360/LF26ZdJ38_AbJgOb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985255782779379712/vid/avc1/1280x704/9SDlwlwmOBHbxKoR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985255782779379712/pl/AUZYIj-lTW8B6k8M.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1985198071589048598",
+        "created_at": "2025-11-03T14:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985351636227924339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "763565290420441088",
+              "start": 0,
+              "username": "staylightblow8"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985351636227924339",
+        "in_reply_to_user_id": "763565290420441088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985255878715687025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staylightblow8 @hsn8086 AI视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985255782779379712"
+          ]
+        },
+        "author_id": "763565290420441088",
+        "conversation_id": "1985198071589048598",
+        "created_at": "2025-11-03T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985255878715687025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRNT1PdxTZ",
+              "end": 46,
+              "expanded_url": "https://x.com/staylightblow8/status/1985255878715687025/video/1",
+              "media_key": "13_1985255782779379712",
+              "start": 23,
+              "url": "https://t.co/hRNT1PdxTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985255878715687025",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 29562,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985198071589048598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 停停停！劈死你个大聪明！🤣 https://t.co/hRNT1PdxTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 5010,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-11T02:38:46.000Z",
+        "description": "20+ years of experience in software engineering. Passionate about AI and open source software. Author of the open source projects apfree-wifidog and xfrpc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liudf0716",
+                "end": 23,
+                "expanded_url": "http://github.com/liudf0716",
+                "start": 0,
+                "url": "https://t.co/bQW4Kadmmk"
+              }
+            ]
+          }
+        },
+        "id": "763565290420441088",
+        "location": "Beijing",
+        "name": "Staylight",
+        "pinned_tweet_id": "1985188507732853042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697782416658845696/CBVu-Ujl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 2016,
+          "like_count": 28726,
+          "listed_count": 14,
+          "media_count": 1286,
+          "tweet_count": 12669
+        },
+        "url": "https://t.co/bQW4Kadmmk",
+        "username": "staylightblow8",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106260,
+          "following_count": 991,
+          "like_count": 46048,
+          "listed_count": 235,
+          "media_count": 17047,
+          "tweet_count": 25175
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

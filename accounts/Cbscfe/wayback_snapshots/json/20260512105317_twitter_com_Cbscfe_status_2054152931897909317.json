@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054138357765279744"
+      ],
+      "media_source_tweet_id": [
+        "2054138367428960361"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054152931897909317",
+    "created_at": "2026-05-12T10:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054152931897909317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541690170160070657",
+          "start": 3,
+          "username": "gold_ddl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ja4BOQiFF6",
+          "end": 59,
+          "expanded_url": "https://x.com/gold_ddl/status/2054138367428960361/photo/1",
+          "media_key": "3_2054138357765279744",
+          "start": 36,
+          "url": "https://t.co/Ja4BOQiFF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054152931897909317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054138367428960361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gold_ddl: 袜，还有右哌甲酯！\n（赶着医院下班开到了） https://t.co/Ja4BOQiFF6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2241,
+        "media_key": "3_2054138357765279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHD8_4akAAsfXM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054138357765279744"
+          ],
+          "media_source_tweet_id": [
+            "2054138367428960361"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054152931897909317",
+        "created_at": "2026-05-12T10:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054152931897909317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541690170160070657",
+              "start": 3,
+              "username": "gold_ddl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja4BOQiFF6",
+              "end": 59,
+              "expanded_url": "https://x.com/gold_ddl/status/2054138367428960361/photo/1",
+              "media_key": "3_2054138357765279744",
+              "start": 36,
+              "url": "https://t.co/Ja4BOQiFF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054152931897909317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054138367428960361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gold_ddl: 袜，还有右哌甲酯！\n（赶着医院下班开到了） https://t.co/Ja4BOQiFF6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054138357765279744"
+          ]
+        },
+        "author_id": "1541690170160070657",
+        "conversation_id": "2054138367428960361",
+        "created_at": "2026-05-12T09:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054138367428960361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja4BOQiFF6",
+              "end": 45,
+              "expanded_url": "https://x.com/gold_ddl/status/2054138367428960361/photo/1",
+              "media_key": "3_2054138357765279744",
+              "start": 22,
+              "url": "https://t.co/Ja4BOQiFF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054138367428960361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "袜，还有右哌甲酯！\n（赶着医院下班开到了） https://t.co/Ja4BOQiFF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 572,
+          "like_count": 22826,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5126
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T07:49:34.000Z",
+        "description": "ND | MtX | 现居安徽 | 沉迷尖塔中...\nsteam1365859697欢迎找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gold_ddl",
+                "end": 23,
+                "expanded_url": "http://t.me/gold_ddl",
+                "start": 0,
+                "url": "https://t.co/ztWKvyp4Ei"
+              }
+            ]
+          }
+        },
+        "id": "1541690170160070657",
+        "location": "川陀大学图书馆",
+        "name": "金蒲公英(可食用)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035048383489220609/-WIV_jXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 456,
+          "like_count": 3326,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/ztWKvyp4Ei",
+        "username": "gold_ddl",
+        "verified": true
+      }
+    ]
+  }
+}

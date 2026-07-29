@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065275390009171968"
+      ],
+      "media_source_tweet_id": [
+        "2065275670788550928"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065314514111992035",
+    "created_at": "2026-06-12T06:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065314514111992035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N5pi3X1KdE",
+          "end": 137,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2065275670788550928/photo/1",
+          "media_key": "3_2065275390009171968",
+          "start": 114,
+          "url": "https://t.co/N5pi3X1KdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065314514111992035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065275670788550928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 你看呢？\n你猜为什么，我抑郁症两年多了，一直写的就是抑郁状态焦虑状态\n未成年尽量不给写抑郁症，也不上报，光我们班抑郁吃药或者休学的小孩，都不止都不止这点人，我有理由推断真实数据已经超过一亿 https://t.co/N5pi3X1KdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2065275390009171968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlVBmDaYAAIiPa.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065275390009171968"
+          ],
+          "media_source_tweet_id": [
+            "2065275670788550928"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065314514111992035",
+        "created_at": "2026-06-12T06:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065314514111992035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5pi3X1KdE",
+              "end": 137,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065275670788550928/photo/1",
+              "media_key": "3_2065275390009171968",
+              "start": 114,
+              "url": "https://t.co/N5pi3X1KdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065314514111992035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065275670788550928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 你看呢？\n你猜为什么，我抑郁症两年多了，一直写的就是抑郁状态焦虑状态\n未成年尽量不给写抑郁症，也不上报，光我们班抑郁吃药或者休学的小孩，都不止都不止这点人，我有理由推断真实数据已经超过一亿 https://t.co/N5pi3X1KdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065275390009171968"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065275670788550928",
+        "created_at": "2026-06-12T03:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065275670788550928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5pi3X1KdE",
+              "end": 118,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065275670788550928/photo/1",
+              "media_key": "3_2065275390009171968",
+              "start": 95,
+              "url": "https://t.co/N5pi3X1KdE"
+            },
+            {
+              "display_url": "x.com/wHoleHoldDay/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/wHoleHoldDay/status/2065182977383145534",
+              "start": 119,
+              "url": "https://t.co/nAZzUrvLG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065275670788550928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7368,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065182977383145534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看呢？\n你猜为什么，我抑郁症两年多了，一直写的就是抑郁状态焦虑状态\n未成年尽量不给写抑郁症，也不上报，光我们班抑郁吃药或者休学的小孩，都不止都不止这点人，我有理由推断真实数据已经超过一亿 https://t.co/N5pi3X1KdE https://t.co/nAZzUrvLG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 677,
+          "like_count": 24456,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 6048
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11924,
+          "following_count": 4356,
+          "like_count": 48910,
+          "listed_count": 37,
+          "media_count": 2762,
+          "tweet_count": 15856
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

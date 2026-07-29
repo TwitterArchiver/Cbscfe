@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2064625902785585388",
+    "created_at": "2026-06-10T21:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T22:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064816190799958059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064816190799958059",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064625902785585388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki （"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064625879372959744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcGTGYakAAB1lF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064625879486242816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcGTGzbIAAfIgm.jpg",
+        "width": 768
+      },
+      {
+        "height": 410,
+        "media_key": "3_2064625883286315009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcGTU9boAENCdG.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2064625902785585388",
+        "created_at": "2026-06-10T21:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064816190799958059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064816190799958059",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064625902785585388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki （"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064625879372959744",
+            "3_2064625879486242816",
+            "3_2064625883286315009"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2064625902785585388",
+        "created_at": "2026-06-10T08:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064625902785585388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YZa8ugNXI",
+              "end": 53,
+              "expanded_url": "https://x.com/CCA8798suki/status/2064625902785585388/photo/1",
+              "media_key": "3_2064625879372959744",
+              "start": 30,
+              "url": "https://t.co/7YZa8ugNXI"
+            },
+            {
+              "display_url": "pic.x.com/7YZa8ugNXI",
+              "end": 53,
+              "expanded_url": "https://x.com/CCA8798suki/status/2064625902785585388/photo/1",
+              "media_key": "3_2064625879486242816",
+              "start": 30,
+              "url": "https://t.co/7YZa8ugNXI"
+            },
+            {
+              "display_url": "pic.x.com/7YZa8ugNXI",
+              "end": 53,
+              "expanded_url": "https://x.com/CCA8798suki/status/2064625902785585388/photo/1",
+              "media_key": "3_2064625883286315009",
+              "start": 30,
+              "url": "https://t.co/7YZa8ugNXI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001907e868d06e24"
+        },
+        "id": "2064625902785585388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day Six😑\n有点无聊了说实话\n家里ToDesk还掉了 https://t.co/7YZa8ugNXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 674,
+          "like_count": 24445,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 6040
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 619,
+          "like_count": 1180,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      }
+    ]
+  }
+}

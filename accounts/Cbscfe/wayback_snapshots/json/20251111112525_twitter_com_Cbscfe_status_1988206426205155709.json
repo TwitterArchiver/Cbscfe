@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987735571771576641",
+    "created_at": "2025-11-11T11:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988206426205155709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1001626265504247813",
+          "start": 0,
+          "username": "HuangKeary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988206426205155709",
+    "in_reply_to_user_id": "1001626265504247813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987735571771576641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangKeary 那我一直都是叫\n讯息 番茄 品质 顺滑 崩溃 洗面乳 界限 氛围 \n的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1937,
+        "media_key": "3_1987735289117523968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XatsdbwAA-cHV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987735571771576641",
+        "created_at": "2025-11-11T11:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988206426205155709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1001626265504247813",
+              "start": 0,
+              "username": "HuangKeary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988206426205155709",
+        "in_reply_to_user_id": "1001626265504247813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987735571771576641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangKeary 那我一直都是叫\n讯息 番茄 品质 顺滑 崩溃 洗面乳 界限 氛围 \n的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987735289117523968"
+          ]
+        },
+        "author_id": "1001626265504247813",
+        "conversation_id": "1987735571771576641",
+        "created_at": "2025-11-10T04:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987735571771576641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Tpe3xf4HA",
+              "end": 62,
+              "expanded_url": "https://x.com/HuangKeary/status/1987735571771576641/photo/1",
+              "media_key": "3_1987735289117523968",
+              "start": 39,
+              "url": "https://t.co/2Tpe3xf4HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987735571771576641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 193405,
+          "like_count": 1879,
+          "quote_count": 58,
+          "reply_count": 412,
+          "retweet_count": 318
+        },
+        "reply_settings": "everyone",
+        "text": "請記住！如果有天在某國海關要驗明你是台灣人或中國人，習慣用語會是很好的分別~ https://t.co/2Tpe3xf4HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 6350,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-30T00:48:05.000Z",
+        "description": "阮是台灣人\n台灣是我小小多山的國家",
+        "id": "1001626265504247813",
+        "location": "Taiwan",
+        "name": "黃凱莉KearyHuang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978718219201560576/d8OhoTH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 505,
+          "like_count": 54936,
+          "listed_count": 9,
+          "media_count": 1890,
+          "tweet_count": 5725
+        },
+        "username": "HuangKeary",
+        "verified": false
+      }
+    ]
+  }
+}

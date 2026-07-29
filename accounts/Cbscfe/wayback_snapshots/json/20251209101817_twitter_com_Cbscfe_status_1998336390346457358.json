@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1998066076849217816",
+    "created_at": "2025-12-09T10:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T11:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998336390346457358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939284688172158976",
+          "start": 0,
+          "username": "scarfta_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998336390346457358",
+    "in_reply_to_user_id": "1939284688172158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998066076849217816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarfta_ 等一下\n我以前玩魔方的\n不是说好的“前红、后橙、上黄、下白、左蓝、右绿”吗\n这个绿色和蓝色怎么挨到一起的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10052,
+        "height": 850,
+        "media_key": "13_1998065996326948864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998065996326948864/img/YbQdPAGCjA7K3b6I.jpg",
+        "public_metrics": {
+          "view_count": 350219
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998065996326948864/vid/avc1/320x568/h7C_9nrz747KoMSF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998065996326948864/vid/avc1/478x850/SCRzvEbv7vkv9dy3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998065996326948864/pl/SpgFAoUM1VGBiffH.m3u8"
+          }
+        ],
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1998066076849217816",
+        "created_at": "2025-12-09T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998336390346457358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939284688172158976",
+              "start": 0,
+              "username": "scarfta_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998336390346457358",
+        "in_reply_to_user_id": "1939284688172158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998066076849217816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarfta_ 等一下\n我以前玩魔方的\n不是说好的“前红、后橙、上黄、下白、左蓝、右绿”吗\n这个绿色和蓝色怎么挨到一起的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998065996326948864"
+          ]
+        },
+        "author_id": "1939284688172158976",
+        "conversation_id": "1998066076849217816",
+        "created_at": "2025-12-08T16:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998066076849217816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FuFSx5y0VU",
+              "end": 23,
+              "expanded_url": "https://x.com/scarfta_/status/1998066076849217816/video/1",
+              "media_key": "13_1998065996326948864",
+              "start": 0,
+              "url": "https://t.co/FuFSx5y0VU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998066076849217816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 817262,
+          "like_count": 197,
+          "quote_count": 6,
+          "reply_count": 133,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FuFSx5y0VU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 104,
+          "like_count": 10591,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T11:28:12.000Z",
+        "description": "",
+        "id": "1939284688172158976",
+        "name": "velynne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959142141814611971/87UUEuF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 1247,
+          "like_count": 212,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 721
+        },
+        "username": "scarfta_",
+        "verified": true
+      }
+    ]
+  }
+}

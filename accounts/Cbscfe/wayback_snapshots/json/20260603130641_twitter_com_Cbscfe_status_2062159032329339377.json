@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996525426567676161",
+    "created_at": "2026-06-03T13:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062159032329339377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938958377620824064",
+          "start": 0,
+          "username": "LuluvWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062159032329339377",
+    "in_reply_to_user_id": "1938958377620824064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996525426567676161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuluvWiki 文章AI感有点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_1996525336180477952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UVNxga0AAWkDj.png",
+        "width": 428
+      },
+      {
+        "height": 846,
+        "media_key": "3_1996525373958549504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UVP-PacAA8mVd.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996525426567676161",
+        "created_at": "2026-06-03T13:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062159032329339377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938958377620824064",
+              "start": 0,
+              "username": "LuluvWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159032329339377",
+        "in_reply_to_user_id": "1938958377620824064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996525426567676161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuluvWiki 文章AI感有点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996525336180477952",
+            "3_1996525373958549504"
+          ]
+        },
+        "author_id": "1938958377620824064",
+        "conversation_id": "1996525426567676161",
+        "created_at": "2025-12-04T10:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996525426567676161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "luv(sic.) , lulu , EST.2025",
+              "display_url": "luluv.wiki",
+              "end": 23,
+              "expanded_url": "http://luluv.wiki",
+              "start": 0,
+              "status": 200,
+              "title": "主页",
+              "unwound_url": "http://luluv.wiki",
+              "url": "https://t.co/WH1z0rB6w3"
+            },
+            {
+              "display_url": "pic.x.com/pMc6hxSWZo",
+              "end": 172,
+              "expanded_url": "https://x.com/LuluvWiki/status/1996525426567676161/photo/1",
+              "media_key": "3_1996525336180477952",
+              "start": 149,
+              "url": "https://t.co/pMc6hxSWZo"
+            },
+            {
+              "display_url": "pic.x.com/pMc6hxSWZo",
+              "end": 172,
+              "expanded_url": "https://x.com/LuluvWiki/status/1996525426567676161/photo/1",
+              "media_key": "3_1996525373958549504",
+              "start": 149,
+              "url": "https://t.co/pMc6hxSWZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996525426567676161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 12049,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WH1z0rB6w3 大更新，针对性的每一种药物中毒急救指南基本已施工完毕可在首页快速查阅，并更新了一篇长达32000字的诊断标准文章，我希望这个wiki能救一个人是一个，MTF/X群体本身就很艰难，我们携手走过了这么多时间，生命是顽强的，你的故事绝不该以自杀作为句号。 https://t.co/pMc6hxSWZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 673,
+          "like_count": 24160,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5816
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T13:51:26.000Z",
+        "description": "https://t.co/sck9s7pFWv 官方\nhttps://t.co/7BJnfT3Wnb\n站长@MissVoltHere\nhttps://t.co/sck9s7pFWv 致力于成为一个对 MTF 群体及性别多元者友好的医学与身心支持平台。\n这里汇集了与 MTF/X 相关的医学科普、药物分析、身体管理指南、心理支持。\n本Wiki为纯公益，不接受任何付费服务。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "MissVoltHere"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "luluv.wiki",
+                "end": 23,
+                "expanded_url": "http://luluv.wiki",
+                "start": 0,
+                "url": "https://t.co/sck9s7pFWv"
+              },
+              {
+                "display_url": "t.me/luluvwiki",
+                "end": 50,
+                "expanded_url": "http://t.me/luluvwiki",
+                "start": 27,
+                "url": "https://t.co/7BJnfT3Wnb"
+              },
+              {
+                "display_url": "luluv.wiki",
+                "end": 90,
+                "expanded_url": "http://luluv.wiki",
+                "start": 67,
+                "url": "https://t.co/sck9s7pFWv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luluv.wiki/zh/home",
+                "end": 23,
+                "expanded_url": "https://luluv.wiki/zh/home",
+                "start": 0,
+                "url": "https://t.co/7Prk7Nt89W"
+              }
+            ]
+          }
+        },
+        "id": "1938958377620824064",
+        "name": "Luluv Wiki",
+        "pinned_tweet_id": "1996525426567676161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938959594891481088/cyk6kDrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 92,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/7Prk7Nt89W",
+        "username": "LuluvWiki",
+        "verified": false
+      }
+    ]
+  }
+}

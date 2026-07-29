@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2063031602868047899",
+    "created_at": "2026-06-06T00:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063049295994257561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730504341771952128",
+          "start": 0,
+          "username": "PlayEthine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063049295994257561",
+    "in_reply_to_user_id": "1730504341771952128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063031602868047899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayEthine 解离。?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2063031602868047899",
+        "created_at": "2026-06-06T00:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063049295994257561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730504341771952128",
+              "start": 0,
+              "username": "PlayEthine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063049295994257561",
+        "in_reply_to_user_id": "1730504341771952128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063031602868047899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayEthine 解离。?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730504341771952128",
+        "conversation_id": "2063031602868047899",
+        "created_at": "2026-06-05T22:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063031602868047899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063031602868047899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我特别想念我从睡着一直到在icu醒来之间的那段感觉，是一种 有时间的虚无，什么都没有，但是不是直接跳过那一段，是一种我这辈子都没体会过的虚无，大概药物把我抑制到把所有产生感觉和梦境的神经全都抑制了吧，这种感觉就是我需要的，绝对的虚无，如果有安眠药可以做到中间是虚无而不是噩梦就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 679,
+          "like_count": 24299,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5937
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T08:29:40.000Z",
+        "description": "小兔兔 舞萌吃 有精神病\nxp tk什么的\n可能社恐\n在京\n碎碎念\n可以叫我a酱 あ酱（桑",
+        "id": "1730504341771952128",
+        "location": "北京",
+        "name": "あかね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035011868012545/8vr8H2vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 114,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 505
+        },
+        "username": "PlayEthine",
+        "verified": false
+      }
+    ]
+  }
+}

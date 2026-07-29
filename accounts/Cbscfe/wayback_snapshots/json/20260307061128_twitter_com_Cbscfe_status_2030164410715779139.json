@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "1983726692716966013",
+    "created_at": "2026-03-07T06:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030164410715779139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459391643988082701",
+          "start": 0,
+          "username": "umi_hoxi"
+        },
+        {
+          "end": 25,
+          "id": "1574084097869484032",
+          "start": 10,
+          "username": "Cyber_Nekomata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030164410715779139",
+    "in_reply_to_user_id": "1459391643988082701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030158193142411654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umi_hoxi @Cyber_Nekomata わたし可是大hacker"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "1983726692716966013",
+        "created_at": "2026-03-07T06:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030164410715779139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459391643988082701",
+              "start": 0,
+              "username": "umi_hoxi"
+            },
+            {
+              "end": 25,
+              "id": "1574084097869484032",
+              "start": 10,
+              "username": "Cyber_Nekomata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030164410715779139",
+        "in_reply_to_user_id": "1459391643988082701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030158193142411654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umi_hoxi @Cyber_Nekomata わたし可是大hacker"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459391643988082701",
+        "conversation_id": "1983726692716966013",
+        "created_at": "2026-03-07T05:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030158193142411654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1574084097869484032",
+              "start": 8,
+              "username": "Cyber_Nekomata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030158193142411654",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016042423399637215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @Cyber_Nekomata 666mc开纪大手子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 190,
+          "like_count": 16436,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T05:25:12.000Z",
+        "description": "大一汉语言在读。165/55   /壮苗文化彝族/SRS2028.1.20/HRT2025.4.17 ENTJ / 有证MTF\n爱键政，爱聊骚Chinese / English\n安那其，架空世界，东方，mc,      \n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "1459391643988082701",
+        "location": "D.P.R.Korea",
+        "name": "太阳海星🏴‍☠️🏳️‍⚧️",
+        "pinned_tweet_id": "1998639394576806401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997060946909696000/tlg4-vYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 408,
+          "like_count": 31126,
+          "listed_count": 1,
+          "media_count": 789,
+          "tweet_count": 6035
+        },
+        "username": "umi_hoxi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T17:11:09.000Z",
+        "description": "🤍飛ぶ鳥は遠くへ明日から向こうまで🪽",
+        "id": "1574084097869484032",
+        "location": "Vorkuta-5's",
+        "name": "所以我变成了一只鸽子🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029270949338726403/w9HUl9Gv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 992,
+          "like_count": 29781,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 593
+        },
+        "username": "Cyber_Nekomata",
+        "verified": false
+      }
+    ]
+  }
+}

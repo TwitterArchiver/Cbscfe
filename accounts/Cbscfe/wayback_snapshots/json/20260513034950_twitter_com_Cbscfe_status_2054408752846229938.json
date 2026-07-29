@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2050735941036515538",
+    "created_at": "2026-05-13T03:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054408752846229938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955256576370999296",
+          "start": 0,
+          "username": "lhz47325415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054408752846229938",
+    "in_reply_to_user_id": "1955256576370999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050735941036515538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhz47325415 欸，，，别私了，，，qwq,,,,,,"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2050735175596949504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWsxuXawAAjquN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1367,
+        "media_key": "3_2050735175597015040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWsxuXbwAAMcpT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2050735175596912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWsxuXaMAA1sOc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050735712706908160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWtQ_QaUAAMMW_.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2050735941036515538",
+        "created_at": "2026-05-13T03:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054408752846229938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955256576370999296",
+              "start": 0,
+              "username": "lhz47325415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054408752846229938",
+        "in_reply_to_user_id": "1955256576370999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050735941036515538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhz47325415 欸，，，别私了，，，qwq,,,,,,"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050735175596949504",
+            "3_2050735175597015040",
+            "3_2050735175596912640",
+            "3_2050735712706908160"
+          ]
+        },
+        "author_id": "1955256576370999296",
+        "conversation_id": "2050735941036515538",
+        "created_at": "2026-05-03T00:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050735941036515538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/quroHVOF0Q",
+              "end": 41,
+              "expanded_url": "https://x.com/lhz47325415/status/2050735941036515538/photo/1",
+              "media_key": "3_2050735175596949504",
+              "start": 18,
+              "url": "https://t.co/quroHVOF0Q"
+            },
+            {
+              "display_url": "pic.x.com/quroHVOF0Q",
+              "end": 41,
+              "expanded_url": "https://x.com/lhz47325415/status/2050735941036515538/photo/1",
+              "media_key": "3_2050735175597015040",
+              "start": 18,
+              "url": "https://t.co/quroHVOF0Q"
+            },
+            {
+              "display_url": "pic.x.com/quroHVOF0Q",
+              "end": 41,
+              "expanded_url": "https://x.com/lhz47325415/status/2050735941036515538/photo/1",
+              "media_key": "3_2050735175596912640",
+              "start": 18,
+              "url": "https://t.co/quroHVOF0Q"
+            },
+            {
+              "display_url": "pic.x.com/quroHVOF0Q",
+              "end": 41,
+              "expanded_url": "https://x.com/lhz47325415/status/2050735941036515538/photo/1",
+              "media_key": "3_2050735712706908160",
+              "start": 18,
+              "url": "https://t.co/quroHVOF0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050735941036515538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈被救活了，被送到河南精卫了草 https://t.co/quroHVOF0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 579,
+          "like_count": 22928,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5184
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T13:14:38.000Z",
+        "description": "省电模式\n 郑州第四高级中学纯没码\n金鸽别来搞我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzszedu.cn",
+                "end": 23,
+                "expanded_url": "https://www.zzszedu.cn/",
+                "start": 0,
+                "url": "https://t.co/4I2vp1kBwj"
+              }
+            ]
+          }
+        },
+        "id": "1955256576370999296",
+        "location": "枫丹白露",
+        "name": "李同生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955256935076282369/quZrkR0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 127,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/4I2vp1kBwj",
+        "username": "lhz47325415",
+        "verified": false
+      }
+    ]
+  }
+}

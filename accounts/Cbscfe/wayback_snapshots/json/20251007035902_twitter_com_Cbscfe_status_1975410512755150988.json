@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1975197308926226685",
+    "created_at": "2025-10-07T03:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975410512755150988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1883364015881199616",
+          "start": 0,
+          "username": "wsc0816"
+        },
+        {
+          "end": 22,
+          "id": "1618324076992548865",
+          "start": 9,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975410512755150988",
+    "in_reply_to_user_id": "1883364015881199616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975249279515054563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsc0816 @Rosmontis233 ???"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1975197308926226685",
+        "created_at": "2025-10-07T03:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975410512755150988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1883364015881199616",
+              "start": 0,
+              "username": "wsc0816"
+            },
+            {
+              "end": 22,
+              "id": "1618324076992548865",
+              "start": 9,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975410512755150988",
+        "in_reply_to_user_id": "1883364015881199616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975249279515054563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsc0816 @Rosmontis233 ???"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883364015881199616",
+        "conversation_id": "1975197308926226685",
+        "created_at": "2025-10-06T17:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975249279515054563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618324076992548865",
+              "start": 0,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975249279515054563",
+        "in_reply_to_user_id": "1618324076992548865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975197308926226685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosmontis233 好似喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T03:59:15.000Z",
+        "description": "",
+        "id": "1883364015881199616",
+        "name": "撕葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956805010106228736/cDV--lij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 50,
+          "like_count": 9604,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 409
+        },
+        "username": "wsc0816",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 503,
+          "like_count": 8112,
+          "listed_count": 8,
+          "media_count": 681,
+          "tweet_count": 7006
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

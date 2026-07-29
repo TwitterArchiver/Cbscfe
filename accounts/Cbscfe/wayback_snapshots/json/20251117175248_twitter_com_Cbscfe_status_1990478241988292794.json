@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990234748426555499",
+    "created_at": "2025-11-17T17:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990478241988292794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977759027573735424",
+          "start": 0,
+          "username": "tsukiumiRyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990478241988292794",
+    "in_reply_to_user_id": "1977759027573735424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990234748426555499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsukiumiRyue qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1990234732899258368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5678eIa0AAVjo-.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990234748426555499",
+        "created_at": "2025-11-17T17:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990478241988292794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977759027573735424",
+              "start": 0,
+              "username": "tsukiumiRyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990478241988292794",
+        "in_reply_to_user_id": "1977759027573735424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990234748426555499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiumiRyue qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990234732899258368"
+          ]
+        },
+        "author_id": "1977759027573735424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1990234748426555499",
+        "created_at": "2025-11-17T01:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990234748426555499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1988770265581645825/pPuGN1PY?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988770265581645825/pPuGN1PY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/8GHlYhPTpg"
+            },
+            {
+              "display_url": "pic.x.com/wwniPyxc51",
+              "end": 64,
+              "expanded_url": "https://x.com/tsukiumiRyue/status/1990234748426555499/photo/1",
+              "media_key": "3_1990234732899258368",
+              "start": 41,
+              "url": "https://t.co/wwniPyxc51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990234748426555499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/8GHlYhPTpg https://t.co/wwniPyxc51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 81,
+          "like_count": 7343,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T15:37:07.000Z",
+        "description": "喵｜intj｜167｜xyn贴贴🍥hrt25.10.29｜上海｜mtf｜生日2009.03.11｜n2考取中｜私信加q｜主人@leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1977759027573735424",
+        "location": "INTERNET OVERDOSE",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "1988659146615582737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990374885491978242/aBLID3y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 588,
+          "like_count": 8172,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 407
+        },
+        "username": "tsukiumiRyue",
+        "verified": false
+      }
+    ]
+  }
+}

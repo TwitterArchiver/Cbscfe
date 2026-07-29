@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1994679821339861457",
+    "created_at": "2025-11-29T14:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994774642821927096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758506265557581824",
+          "start": 0,
+          "username": "DragonCat345718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994774642821927096",
+    "in_reply_to_user_id": "1758506265557581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994679821339861457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DragonCat345718 B站变了\n以前的五级号不是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994679800620093443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66GtdybkAMZw2O.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994679800603328513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66GtdubwAEc4Bs.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994679800615907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66GtdxbsAAfsf3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1994679821339861457",
+        "created_at": "2025-11-29T14:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994774642821927096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758506265557581824",
+              "start": 0,
+              "username": "DragonCat345718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994774642821927096",
+        "in_reply_to_user_id": "1758506265557581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994679821339861457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DragonCat345718 B站变了\n以前的五级号不是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994679800620093443",
+            "3_1994679800603328513",
+            "3_1994679800615907328"
+          ]
+        },
+        "author_id": "1758506265557581824",
+        "conversation_id": "1994679821339861457",
+        "created_at": "2025-11-29T08:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994679821339861457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tnx8W4ubL",
+              "end": 23,
+              "expanded_url": "https://x.com/DragonCat345718/status/1994679821339861457/photo/1",
+              "media_key": "3_1994679800620093443",
+              "start": 0,
+              "url": "https://t.co/9tnx8W4ubL"
+            },
+            {
+              "display_url": "pic.x.com/9tnx8W4ubL",
+              "end": 23,
+              "expanded_url": "https://x.com/DragonCat345718/status/1994679821339861457/photo/1",
+              "media_key": "3_1994679800603328513",
+              "start": 0,
+              "url": "https://t.co/9tnx8W4ubL"
+            },
+            {
+              "display_url": "pic.x.com/9tnx8W4ubL",
+              "end": 23,
+              "expanded_url": "https://x.com/DragonCat345718/status/1994679821339861457/photo/1",
+              "media_key": "3_1994679800615907328",
+              "start": 0,
+              "url": "https://t.co/9tnx8W4ubL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994679821339861457",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 631,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9tnx8W4ubL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 98,
+          "like_count": 9346,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:59:08.000Z",
+        "description": "含糖日期2025/09/14 出柜后被阻拦现已深柜 QQ：926182040 （🚪5r 同类无🚪 ）非（性骚扰禁止）摄政自觉走开 清水 TG不常用 聊天请加QQ（无门槛但请说明来意） 本人速热型 可以当成小棉袄 但请不要一上来就假装很熟 我会很反感… 姐姐@LuLuCapcake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "LuLuCapcake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KawaiiDragonCat",
+                "end": 23,
+                "expanded_url": "https://t.me/KawaiiDragonCat",
+                "start": 0,
+                "url": "https://t.co/BSC3dYGgJ4"
+              }
+            ]
+          }
+        },
+        "id": "1758506265557581824",
+        "location": "距您127m",
+        "name": "🏳️‍⚧️DragonCat🍥",
+        "pinned_tweet_id": "1979773907608777038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788570138447872/oYYR3kKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 109,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/BSC3dYGgJ4",
+        "username": "DragonCat345718",
+        "verified": false
+      }
+    ]
+  }
+}

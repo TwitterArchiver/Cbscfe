@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1983517242584408543",
+    "created_at": "2025-10-29T12:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983517242584408543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839708200628858880",
+          "start": 3,
+          "username": "sulimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983517242584408543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957674365954269643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sulimeow: 当一个抑郁症去劝另一个抑郁症的时候，到了最后就是“我们一起死吧”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983517242584408543",
+        "created_at": "2025-10-29T12:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983517242584408543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839708200628858880",
+              "start": 3,
+              "username": "sulimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983517242584408543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957674365954269643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sulimeow: 当一个抑郁症去劝另一个抑郁症的时候，到了最后就是“我们一起死吧”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839708200628858880",
+        "conversation_id": "1957674365954269643",
+        "created_at": "2025-08-19T05:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957674365954269643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957674365954269643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1448,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当一个抑郁症去劝另一个抑郁症的时候，到了最后就是“我们一起死吧”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 4125,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T16:46:46.000Z",
+        "description": "其他人类我不关心",
+        "id": "1839708200628858880",
+        "name": "suli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980634344839380992/9-SHZ9iE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 246,
+          "like_count": 12579,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1096
+        },
+        "username": "sulimeow",
+        "verified": false
+      }
+    ]
+  }
+}

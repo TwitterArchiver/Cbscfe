@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068012634063138820"
+      ],
+      "media_source_tweet_id": [
+        "2068012637229838581"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2068267025609482631",
+    "created_at": "2026-06-20T09:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068267025609482631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798724969695977472",
+          "start": 3,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ia9557VKA3",
+          "end": 52,
+          "expanded_url": "https://x.com/overdosewiki/status/2068012637229838581/photo/1",
+          "media_key": "3_2068012634063138820",
+          "start": 29,
+          "url": "https://t.co/ia9557VKA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068267025609482631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068012637229838581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdosewiki: 我打算原地解散站点了 https://t.co/ia9557VKA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2068012634063138820",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMOiKxacAQhkHJ.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068012634063138820"
+          ],
+          "media_source_tweet_id": [
+            "2068012637229838581"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2068267025609482631",
+        "created_at": "2026-06-20T09:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068267025609482631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798724969695977472",
+              "start": 3,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ia9557VKA3",
+              "end": 52,
+              "expanded_url": "https://x.com/overdosewiki/status/2068012637229838581/photo/1",
+              "media_key": "3_2068012634063138820",
+              "start": 29,
+              "url": "https://t.co/ia9557VKA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068267025609482631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068012637229838581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdosewiki: 我打算原地解散站点了 https://t.co/ia9557VKA3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068012634063138820"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "2068012637229838581",
+        "created_at": "2026-06-19T16:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068012637229838581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ia9557VKA3",
+              "end": 34,
+              "expanded_url": "https://x.com/overdosewiki/status/2068012637229838581/photo/1",
+              "media_key": "3_2068012634063138820",
+              "start": 11,
+              "url": "https://t.co/ia9557VKA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068012637229838581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1850,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打算原地解散站点了 https://t.co/ia9557VKA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 686,
+          "like_count": 24509,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 6131
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/1UhiZIz90O —— 直属群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 23,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 0,
+                "url": "https://t.co/1UhiZIz90O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "高原观察团 来自 odw组",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060745192475643904/XAszfBgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 6,
+          "like_count": 426,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

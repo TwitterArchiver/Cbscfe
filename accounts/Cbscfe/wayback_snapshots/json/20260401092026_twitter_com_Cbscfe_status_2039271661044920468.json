@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039271661044920468",
+    "created_at": "2026-04-01T09:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039271661044920468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1600024316552179713",
+          "start": 3,
+          "username": "mutsumi_sakiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039271661044920468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039004027464409493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mutsumi_sakiko: 一个人的object a居然是让跨性别者顺从他指派的性别符号，太可悲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039271661044920468",
+        "created_at": "2026-04-01T09:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039271661044920468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1600024316552179713",
+              "start": 3,
+              "username": "mutsumi_sakiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039271661044920468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039004027464409493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mutsumi_sakiko: 一个人的object a居然是让跨性别者顺从他指派的性别符号，太可悲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2039004027464409493",
+        "created_at": "2026-03-31T15:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039004027464409493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2038991836795310293",
+              "start": 36,
+              "url": "https://t.co/GgPJuq4e0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039004027464409493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038991836795310293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人的object a居然是让跨性别者顺从他指派的性别符号，太可悲了 https://t.co/GgPJuq4e0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 239,
+          "like_count": 17888,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "07已成年mtf/x | 无证含糖 | 非二元偏f跨性别，同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 171cm/55kg | 苦逼高三文科生。。有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "mutsumi睦头🏳️‍⚧️🍥💛🤍💜🖤☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 299,
+          "like_count": 3728,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 1266
+        },
+        "username": "mutsumi_sakiko",
+        "verified": false
+      }
+    ]
+  }
+}

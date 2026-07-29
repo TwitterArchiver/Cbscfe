@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2052722863158001913",
+    "created_at": "2026-05-08T12:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052722863158001913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 23,
+          "expanded_url": "https://x.com/Cbscfe/status/2052605460705116191",
+          "start": 0,
+          "url": "https://t.co/z1BQSkJvee"
+        },
+        {
+          "display_url": "x.com/SonjaTasha2695…",
+          "end": 47,
+          "expanded_url": "https://x.com/SonjaTasha26957/status/2049396730228253066",
+          "start": 24,
+          "url": "https://t.co/hDmqytF4mM"
+        },
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Cbscfe/status/2052721086782222372",
+          "start": 58,
+          "url": "https://t.co/U8VlY91hXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052722863158001913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052721086782222372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/z1BQSkJvee\nhttps://t.co/hDmqytF4mM\n还是物理一点的好， https://t.co/U8VlY91hXm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2052722863158001913",
+        "created_at": "2026-05-08T12:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052722863158001913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 23,
+              "expanded_url": "https://x.com/Cbscfe/status/2052605460705116191",
+              "start": 0,
+              "url": "https://t.co/z1BQSkJvee"
+            },
+            {
+              "display_url": "x.com/SonjaTasha2695…",
+              "end": 47,
+              "expanded_url": "https://x.com/SonjaTasha26957/status/2049396730228253066",
+              "start": 24,
+              "url": "https://t.co/hDmqytF4mM"
+            },
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2052721086782222372",
+              "start": 58,
+              "url": "https://t.co/U8VlY91hXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052722863158001913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721086782222372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/z1BQSkJvee\nhttps://t.co/hDmqytF4mM\n还是物理一点的好， https://t.co/U8VlY91hXm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2052721086782222372",
+        "created_at": "2026-05-08T12:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052721086782222372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CunZai1069/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/CunZai1069/status/2052715042345504838",
+              "start": 37,
+              "url": "https://t.co/ueVjHcaPXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052721086782222372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052715042345504838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了wc，（吓得我 Cbscfe Assembler 正在重新规划路线） https://t.co/ueVjHcaPXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 503,
+          "like_count": 22136,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 4846
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

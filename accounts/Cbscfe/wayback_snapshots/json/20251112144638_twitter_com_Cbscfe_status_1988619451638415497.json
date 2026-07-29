@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988290497799221463",
+    "created_at": "2025-11-12T14:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988619451638415497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937079095852158976",
+          "start": 0,
+          "username": "Chizuru_arch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988619451638415497",
+    "in_reply_to_user_id": "1937079095852158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988290497799221463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chizuru_arch “高反”即“ 高原反应 ”，又称“ 高山症 ” “高原病”，缩写“AMS”。 高原反应常见的症状有 头痛、失眠、食欲减退、疲倦、呼吸困难 等，一般发生在突然到达高海拔地区的 6-12小时 后，多数人在 3-10天 内可自行适应恢复。 当然对应“急性”也有“慢性”，主要见于长期生活在高海拔地区的人身上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988290497799221463",
+        "created_at": "2025-11-12T14:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988619451638415497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937079095852158976",
+              "start": 0,
+              "username": "Chizuru_arch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988619451638415497",
+        "in_reply_to_user_id": "1937079095852158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988290497799221463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chizuru_arch “高反”即“ 高原反应 ”，又称“ 高山症 ” “高原病”，缩写“AMS”。 高原反应常见的症状有 头痛、失眠、食欲减退、疲倦、呼吸困难 等，一般发生在突然到达高海拔地区的 6-12小时 后，多数人在 3-10天 内可自行适应恢复。 当然对应“急性”也有“慢性”，主要见于长期生活在高海拔地区的人身上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937079095852158976",
+        "conversation_id": "1988290497799221463",
+        "created_at": "2025-11-11T16:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988290497799221463"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1988290497799221463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第五高原是什么😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 6603,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:23:58.000Z",
+        "description": "𒂼𒅈𒄄",
+        "id": "1937079095852158976",
+        "name": "子芊木🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937079174499532800/J4xYJIOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 211
+        },
+        "username": "Chizuru_arch",
+        "verified": false
+      }
+    ]
+  }
+}

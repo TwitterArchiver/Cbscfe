@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981719327909761024"
+      ],
+      "media_source_tweet_id": [
+        "1981719332183810205"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1982352362460393697",
+    "created_at": "2025-10-26T07:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T08:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982352362460393697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489667528678948870",
+          "start": 3,
+          "username": "Thuislander"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Rg2NoY2Ni",
+          "end": 40,
+          "expanded_url": "https://x.com/Thuislander/status/1981719332183810205/photo/1",
+          "media_key": "3_1981719327909761024",
+          "start": 17,
+          "url": "https://t.co/9Rg2NoY2Ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982352362460393697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981719332183810205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thuislander: https://t.co/9Rg2NoY2Ni"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981719327909761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4B7OqiWUAAO6C9.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981719327909761024"
+          ],
+          "media_source_tweet_id": [
+            "1981719332183810205"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1982352362460393697",
+        "created_at": "2025-10-26T07:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982352362460393697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489667528678948870",
+              "start": 3,
+              "username": "Thuislander"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Rg2NoY2Ni",
+              "end": 40,
+              "expanded_url": "https://x.com/Thuislander/status/1981719332183810205/photo/1",
+              "media_key": "3_1981719327909761024",
+              "start": 17,
+              "url": "https://t.co/9Rg2NoY2Ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982352362460393697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981719332183810205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thuislander: https://t.co/9Rg2NoY2Ni"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981719327909761024"
+          ]
+        },
+        "author_id": "1489667528678948870",
+        "conversation_id": "1981719332183810205",
+        "created_at": "2025-10-24T13:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981719332183810205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Rg2NoY2Ni",
+              "end": 23,
+              "expanded_url": "https://x.com/Thuislander/status/1981719332183810205/photo/1",
+              "media_key": "3_1981719327909761024",
+              "start": 0,
+              "url": "https://t.co/9Rg2NoY2Ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981719332183810205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7465,
+          "impression_count": 4013762,
+          "like_count": 287283,
+          "quote_count": 949,
+          "reply_count": 304,
+          "retweet_count": 25140
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Rg2NoY2Ni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 3658,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T18:30:01.000Z",
+        "description": "Part-time meme supplier on twitter dot com",
+        "id": "1489667528678948870",
+        "name": "Brandon",
+        "pinned_tweet_id": "1927016009497530786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980198850762530816/b4_JfuBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412837,
+          "following_count": 67,
+          "like_count": 3204,
+          "listed_count": 590,
+          "media_count": 4115,
+          "tweet_count": 5322
+        },
+        "username": "Thuislander",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990398447426408509",
+    "created_at": "2025-11-17T16:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990461461051904161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912003169842040832",
+          "start": 0,
+          "username": "maika111nobu"
+        },
+        {
+          "end": 25,
+          "id": "1792158516096180224",
+          "start": 14,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990461461051904161",
+    "in_reply_to_user_id": "1912003169842040832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990433263744127035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@maika111nobu @Dr_Duckter 同龄入 owo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990398447426408509",
+        "created_at": "2025-11-17T16:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990461461051904161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912003169842040832",
+              "start": 0,
+              "username": "maika111nobu"
+            },
+            {
+              "end": 25,
+              "id": "1792158516096180224",
+              "start": 14,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990461461051904161",
+        "in_reply_to_user_id": "1912003169842040832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990433263744127035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@maika111nobu @Dr_Duckter 同龄入 owo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912003169842040832",
+        "conversation_id": "1990398447426408509",
+        "created_at": "2025-11-17T14:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990433263744127035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792158516096180224",
+              "start": 0,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990433263744127035",
+        "in_reply_to_user_id": "1792158516096180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990432912613806457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Dr_Duckter 我还在看金鹰卡通😊😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 81,
+          "like_count": 7249,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:41:07.000Z",
+        "description": "♂/日本語を勉強中/\n最喜欢p主MARETU/\n最喜欢术ホワイトハッピー/\n画画手残党/\n片假名狂热症/\n发过帖子不是转帖是关注我的基本上都会回/\n第二人格@asumehoda111/@maumao1272586\n推上最好的两位朋友：@Treverie_/@leaderxiu\n/对象@X16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "asumehoda111"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "maumao1272586"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Treverie_"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "leaderxiu"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "X16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1912003169842040832",
+        "location": "アナタノココロ",
+        "name": "渡辺マイカ🇯🇵🎌",
+        "pinned_tweet_id": "1990398447426408509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987459621783511041/SaqGEpA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 207,
+          "like_count": 3991,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1260
+        },
+        "username": "maika111nobu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "最爱国的🐰\n逃生仓 @Dr__Duckter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr.Duckter🇨🇳",
+        "pinned_tweet_id": "1989551783933579749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983921426215419904/V6xrjtQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 228,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 480
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

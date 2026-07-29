@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989098223588302848"
+      ],
+      "media_source_tweet_id": [
+        "1989098255351697580"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989687178054586879",
+    "created_at": "2025-11-15T13:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989687178054586879"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "US",
+          "probability": 0.8647,
+          "start": 41,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "855300206086168576",
+          "start": 3,
+          "username": "HumansNoContext"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZYZn6xoKk",
+          "end": 72,
+          "expanded_url": "https://x.com/HumansNoContext/status/1989098255351697580/video/1",
+          "media_key": "13_1989098223588302848",
+          "start": 49,
+          "url": "https://t.co/YZYZn6xoKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989687178054586879",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2060
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989098255351697580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HumansNoContext: A new equipment for US cops https://t.co/YZYZn6xoKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21333,
+        "height": 1280,
+        "media_key": "13_1989098223588302848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989098223588302848/img/H7kFF9tXeUsZNW7x.jpg",
+        "public_metrics": {
+          "view_count": 3116737
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989098223588302848/vid/avc1/320x568/nXEfu8fc94ZbIjST.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989098223588302848/vid/avc1/480x852/4TaXsfFow4FkiweM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989098223588302848/vid/avc1/720x1280/Up54WvZvKVXuK9zO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989098223588302848/pl/-0mBPKSaycMFpYCj.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989098223588302848"
+          ],
+          "media_source_tweet_id": [
+            "1989098255351697580"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989687178054586879",
+        "created_at": "2025-11-15T13:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989687178054586879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "US",
+              "probability": 0.8647,
+              "start": 41,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "855300206086168576",
+              "start": 3,
+              "username": "HumansNoContext"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZYZn6xoKk",
+              "end": 72,
+              "expanded_url": "https://x.com/HumansNoContext/status/1989098255351697580/video/1",
+              "media_key": "13_1989098223588302848",
+              "start": 49,
+              "url": "https://t.co/YZYZn6xoKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989687178054586879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2060
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989098255351697580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HumansNoContext: A new equipment for US cops https://t.co/YZYZn6xoKk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989098223588302848"
+          ]
+        },
+        "author_id": "855300206086168576",
+        "conversation_id": "1989098255351697580",
+        "created_at": "2025-11-13T22:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989098255351697580"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "US",
+              "probability": 0.9102,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZYZn6xoKk",
+              "end": 51,
+              "expanded_url": "https://x.com/HumansNoContext/status/1989098255351697580/video/1",
+              "media_key": "13_1989098223588302848",
+              "start": 28,
+              "url": "https://t.co/YZYZn6xoKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989098255351697580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5407,
+          "impression_count": 6186204,
+          "like_count": 54136,
+          "quote_count": 264,
+          "reply_count": 396,
+          "retweet_count": 2060
+        },
+        "reply_settings": "everyone",
+        "text": "A new equipment for US cops https://t.co/YZYZn6xoKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 6921,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T06:00:34.000Z",
+        "description": "humans being humans",
+        "id": "855300206086168576",
+        "name": "NO CONTEXT HUMANS",
+        "pinned_tweet_id": "1989345268592964055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833050358479826944/A2qj0e6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6136201,
+          "following_count": 0,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 42768,
+          "tweet_count": 44312
+        },
+        "username": "HumansNoContext",
+        "verified": true
+      }
+    ]
+  }
+}

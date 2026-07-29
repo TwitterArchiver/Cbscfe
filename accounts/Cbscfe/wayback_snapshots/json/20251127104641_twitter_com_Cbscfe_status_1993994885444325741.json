@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1993994885444325741",
+    "created_at": "2025-11-27T10:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993994885444325741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vamosrafa231/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/vamosrafa231/status/1993813145937445156",
+          "start": 7,
+          "url": "https://t.co/6qk9Gl2wGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993994885444325741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993813145937445156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并非情有可原 https://t.co/6qk9Gl2wGU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1993994885444325741",
+        "created_at": "2025-11-27T10:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993994885444325741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vamosrafa231/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/vamosrafa231/status/1993813145937445156",
+              "start": 7,
+              "url": "https://t.co/6qk9Gl2wGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993994885444325741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993813145937445156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非情有可原 https://t.co/6qk9Gl2wGU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283013943154245640",
+        "conversation_id": "1993740752674017645",
+        "created_at": "2025-11-26T22:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993813145937445156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929964027960233984",
+              "start": 0,
+              "username": "HXD3D_8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993813145937445156",
+        "in_reply_to_user_id": "1929964027960233984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993740752674017645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@HXD3D_8028 十几岁情有可原，就怕二三十了还这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 95,
+          "like_count": 9037,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T12:22:28.000Z",
+        "description": "我是中国人，反华反共的必拉黑，因为这些人都是蠢猪",
+        "id": "1283013943154245640",
+        "name": "vamosrafa23",
+        "pinned_tweet_id": "1920803070675427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283014107541602305/26jq0Rld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 131,
+          "like_count": 213,
+          "listed_count": 4,
+          "media_count": 43,
+          "tweet_count": 8461
+        },
+        "username": "vamosrafa231",
+        "verified": false
+      }
+    ]
+  }
+}

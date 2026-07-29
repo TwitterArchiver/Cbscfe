@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2050627676520714417",
+    "created_at": "2026-05-03T01:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T02:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050754938133995713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468883359090630657",
+          "start": 0,
+          "username": "ansiyao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050754938133995713",
+    "in_reply_to_user_id": "1468883359090630657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050627676520714417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ansiyao520 藏好自己，做好清理，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2050627676520714417",
+        "created_at": "2026-05-03T01:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050754938133995713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050754938133995713",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050627676520714417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 藏好自己，做好清理，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2050627676520714417",
+        "created_at": "2026-05-02T17:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050627676520714417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2050490919217217987",
+              "start": 17,
+              "url": "https://t.co/aqUeLGTW5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050627676520714417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050490919217217987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炸柜可不是闹着玩的。不要炸柜呀。 https://t.co/aqUeLGTW5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 446,
+          "like_count": 20951,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 4503
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2043885731521970354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1347,
+          "like_count": 15420,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 743
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

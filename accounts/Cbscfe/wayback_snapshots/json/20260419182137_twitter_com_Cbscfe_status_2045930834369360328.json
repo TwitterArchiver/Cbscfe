@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045416703031730176"
+      ],
+      "media_source_tweet_id": [
+        "2045416714326970378"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045930834369360328",
+    "created_at": "2026-04-19T18:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045930834369360328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044884002948214784",
+          "start": 3,
+          "username": "ZaZa89ta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NCcNOCUKJ",
+          "end": 45,
+          "expanded_url": "https://x.com/ZaZa89ta/status/2045416714326970378/photo/1",
+          "media_key": "3_2045416703031730176",
+          "start": 22,
+          "url": "https://t.co/3NCcNOCUKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045930834369360328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045416714326970378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaZa89ta: 一百粉我抽十盒 https://t.co/3NCcNOCUKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2045416703031730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLHp4HbYAAYCQH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045416703031730176"
+          ],
+          "media_source_tweet_id": [
+            "2045416714326970378"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045930834369360328",
+        "created_at": "2026-04-19T18:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045930834369360328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044884002948214784",
+              "start": 3,
+              "username": "ZaZa89ta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NCcNOCUKJ",
+              "end": 45,
+              "expanded_url": "https://x.com/ZaZa89ta/status/2045416714326970378/photo/1",
+              "media_key": "3_2045416703031730176",
+              "start": 22,
+              "url": "https://t.co/3NCcNOCUKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045930834369360328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045416714326970378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaZa89ta: 一百粉我抽十盒 https://t.co/3NCcNOCUKJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045416703031730176"
+          ]
+        },
+        "author_id": "2044884002948214784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045416714326970378",
+        "created_at": "2026-04-18T08:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045416714326970378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NCcNOCUKJ",
+              "end": 31,
+              "expanded_url": "https://x.com/ZaZa89ta/status/2045416714326970378/photo/1",
+              "media_key": "3_2045416703031730176",
+              "start": 8,
+              "url": "https://t.co/3NCcNOCUKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045416714326970378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2954,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一百粉我抽十盒 https://t.co/3NCcNOCUKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "好了伤疤忘了疼\n---\n马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 340,
+          "like_count": 19492,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3912
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:02:17.000Z",
+        "description": "我只是希望我的生活好一点",
+        "id": "2044884002948214784",
+        "name": "ZaZa",
+        "pinned_tweet_id": "2045110549869134017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 30,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 96
+        },
+        "username": "ZaZa89ta",
+        "verified": false
+      }
+    ]
+  }
+}

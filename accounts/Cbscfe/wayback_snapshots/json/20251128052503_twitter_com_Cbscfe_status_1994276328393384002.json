@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1994058423734861856",
+    "created_at": "2025-11-28T05:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994276328393384002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994276328393384002",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994058423734861856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 所以英国的首都是哪一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9311,
+        "height": 1280,
+        "media_key": "7_1994058405758087168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994058405758087168/pu/img/8EFkEAzH9l15pmnj.jpg",
+        "public_metrics": {
+          "view_count": 64030
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994058405758087168/pu/vid/avc1/320x568/GvuFOQC_CTaMa5O7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994058405758087168/pu/vid/avc1/480x852/KzHH233X6i0DwK8g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994058405758087168/pu/vid/avc1/720x1280/P9V3aMi8g0PB4PAZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994058405758087168/pu/pl/2ykuyZuA9q51kuVU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1994058423734861856",
+        "created_at": "2025-11-28T05:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994276328393384002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994276328393384002",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994058423734861856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 所以英国的首都是哪一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994058405758087168"
+          ]
+        },
+        "author_id": "28940967",
+        "conversation_id": "1994058423734861856",
+        "created_at": "2025-11-27T14:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994058423734861856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sxd93J4gOm",
+              "end": 92,
+              "expanded_url": "https://x.com/lidangzzz/status/1994058423734861856/video/1",
+              "media_key": "7_1994058405758087168",
+              "start": 69,
+              "url": "https://t.co/Sxd93J4gOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994058423734861856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 150563,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 113,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "街头采访美国人，问他们俄罗斯的首都在哪里，\n\n美国人一个个全摇头，说不知道。\n\n看到了没，这就是快乐教育的危害，培养一群弱智巨婴低智商。 https://t.co/Sxd93J4gOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 96,
+          "like_count": 9178,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599878,
+          "following_count": 2691,
+          "like_count": 27615,
+          "listed_count": 3700,
+          "media_count": 8883,
+          "tweet_count": 42442
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

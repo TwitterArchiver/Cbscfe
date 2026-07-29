@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1994770575496241521",
+    "created_at": "2025-11-29T15:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994797557416153098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994797557416153098",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994770575496241521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YekaseSuiso2022 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1994770575496241521",
+        "created_at": "2025-11-29T15:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994797557416153098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994797557416153098",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994770575496241521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608781688775245825",
+        "conversation_id": "1994770575496241521",
+        "created_at": "2025-11-29T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994770575496241521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhihu.com/question/19777…",
+              "end": 86,
+              "expanded_url": "https://www.zhihu.com/question/1977759871777650256/answer/1978220562007486962",
+              "start": 63,
+              "unwound_url": "https://www.zhihu.com/question/1977759871777650256/answer/1978220562007486962",
+              "url": "https://t.co/LADx6StBGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994770575496241521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于2026年1月1日起生效的新《治安管理处罚》第136条所有违反治安管理的记录均需封存你怎么看？ - 餅乾的回答 - 知乎\nhttps://t.co/LADx6StBGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 98,
+          "like_count": 9433,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "是一個神奇的生物，也許是現實中的神奇鈡齊北，是來自星星的孩子呐，喜歡研究計算機和其他感興趣的東西，有的時候你可以在一些奇怪的條目看到我，但更多時候我在某站臺聯邦伺服器和X潛伏，希望你可以喜歡我，謝謝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nisebase.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nisebase.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/haWfsDfcjv"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "以冷静、诗性、具象的语言，对压迫性的社会结构进行审判",
+        "name": "Yekase Suiso🍥贴贴bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994067281484406784/VzNa5ikt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 361,
+          "like_count": 1021,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/haWfsDfcjv",
+        "username": "YekaseSuiso2022",
+        "verified": false
+      }
+    ]
+  }
+}

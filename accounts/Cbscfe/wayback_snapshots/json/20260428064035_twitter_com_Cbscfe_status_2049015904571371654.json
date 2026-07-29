@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2049015904571371654",
+    "created_at": "2026-04-28T06:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049015904571371654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559904731434287108",
+          "start": 3,
+          "username": "jingyhn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049015904571371654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049002136013578643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingyhn11: 最新的进展，我可以说家长和医生都是神人吗？以及对于观看到我贴子的人抱以真挚的道歉，抱歉因为我的冲动给你们带来了恐慌，他确实是失忆了，不过并不是切除手术导致，而是药物阻断。通过这件事关注我的人可以取关了，我并不想让人说我是通过这个博人眼球。后续我会好…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2049002122881155072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-Ekx5aQAABeVe.jpg",
+        "width": 1260
+      },
+      {
+        "height": 715,
+        "media_key": "3_2049002123673886720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-Ek02aYAAhe96.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2049002121840988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-EkuBakAAmWnm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2049015904571371654",
+        "created_at": "2026-04-28T06:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049015904571371654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559904731434287108",
+              "start": 3,
+              "username": "jingyhn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049015904571371654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049002136013578643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingyhn11: 最新的进展，我可以说家长和医生都是神人吗？以及对于观看到我贴子的人抱以真挚的道歉，抱歉因为我的冲动给你们带来了恐慌，他确实是失忆了，不过并不是切除手术导致，而是药物阻断。通过这件事关注我的人可以取关了，我并不想让人说我是通过这个博人眼球。后续我会好…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049002122881155072",
+            "3_2049002123673886720",
+            "3_2049002121840988160"
+          ]
+        },
+        "author_id": "1559904731434287108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049002136013578643",
+        "created_at": "2026-04-28T05:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049002136013578643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002122881155072",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            },
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002123673886720",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            },
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002121840988160",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2049002136013578643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2132,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "最新的进展，我可以说家长和医生都是神人吗？以及对于观看到我贴子的人抱以真挚的道歉，抱歉因为我的冲动给你们带来了恐慌，他确实是失忆了，不过并不是切除手术导致，而是药物阻断。通过这件事关注我的人可以取关了，我并不想让人说我是通过这个博人眼球。后续我会好好照顾他的。 https://t.co/gXv4Y8Eegp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 403,
+          "like_count": 20352,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 4293
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:07:37.000Z",
+        "description": "灰云，种族狼，furry爱好者。\n平时发些照片和稿件，是个老司机，时不时会开车，无雷点。☺️",
+        "id": "1559904731434287108",
+        "location": "南昌市",
+        "name": "灰云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001685366550806528/TPmPqtVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 218,
+          "like_count": 656,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 316
+        },
+        "username": "jingyhn11",
+        "verified": false
+      }
+    ]
+  }
+}

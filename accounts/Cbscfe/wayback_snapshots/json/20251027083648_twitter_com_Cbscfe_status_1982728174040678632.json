@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1982472354791063712",
+    "created_at": "2025-10-27T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982728174040678632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1700890320576356352",
+          "start": 0,
+          "username": "ZhaoFan39"
+        },
+        {
+          "end": 20,
+          "id": "1967167200059645952",
+          "start": 11,
+          "username": "aomiao_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982728174040678632",
+    "in_reply_to_user_id": "1700890320576356352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982675592052138097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaoFan39 @aomiao_o 就是来找你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1982472354791063712",
+        "created_at": "2025-10-27T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982728174040678632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1700890320576356352",
+              "start": 0,
+              "username": "ZhaoFan39"
+            },
+            {
+              "end": 20,
+              "id": "1967167200059645952",
+              "start": 11,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982728174040678632",
+        "in_reply_to_user_id": "1700890320576356352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982675592052138097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaoFan39 @aomiao_o 就是来找你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700890320576356352",
+        "conversation_id": "1982472354791063712",
+        "created_at": "2025-10-27T05:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982675592052138097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967167200059645952",
+              "start": 0,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982675592052138097",
+        "in_reply_to_user_id": "1967167200059645952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982472354791063712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aomiao_o 那一天的忧郁忧郁起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 49,
+          "like_count": 3827,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T15:14:08.000Z",
+        "description": "一般路过塞里斯人，安/略康，反社会人格理想主义者，无历史知识，无神论但尊重各类不严重侵害他人的信仰，梦想是当一条咸鱼。\n如果有必要区分性别的话，男。以及，希望大家都能好好活下去\n互fo别找我，🚪114514💷",
+        "id": "1700890320576356352",
+        "location": "軒轅九",
+        "name": "曌凡山人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702652099270729728/w-65JvtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 201,
+          "like_count": 61625,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1470
+        },
+        "username": "ZhaoFan39",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T10:03:14.000Z",
+        "description": "我重生了丨1i3i4i丨17岁高三在读丨纯绿聊天🚪88丨防炸备用小号@mimaodemao 我辨别出是人就能关注丨私信看情况回，傻逼挂出来骂丨提问箱：https://t.co/G2S19qrCKC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "mimaodemao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lll99265237548…",
+                "end": 98,
+                "expanded_url": "https://ngl.link/lll9926523754861",
+                "start": 75,
+                "url": "https://t.co/G2S19qrCKC"
+              }
+            ]
+          }
+        },
+        "id": "1967167200059645952",
+        "location": "置顶推广自辨",
+        "name": "咪猫",
+        "pinned_tweet_id": "1981366239743398263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976214820681854976/Gma0eFO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 142,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 660
+        },
+        "username": "aomiao_o",
+        "verified": false
+      }
+    ]
+  }
+}

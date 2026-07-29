@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060343242370207806",
+    "created_at": "2026-05-29T15:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060390371176366471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842206151531974656",
+          "start": 0,
+          "username": "DarkSide0fForce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060390371176366471",
+    "in_reply_to_user_id": "1842206151531974656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060343242370207806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkSide0fForce 欸，我真名就叫Lucas"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060343242370207806",
+        "created_at": "2026-05-29T15:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060390371176366471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842206151531974656",
+              "start": 0,
+              "username": "DarkSide0fForce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060390371176366471",
+        "in_reply_to_user_id": "1842206151531974656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060343242370207806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkSide0fForce 欸，我真名就叫Lucas"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842206151531974656",
+        "conversation_id": "2060343242370207806",
+        "created_at": "2026-05-29T12:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060343242370207806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060343242370207806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种时候总会想，我活下来到底是为了什么？\n我想回应父母的爱，即便他们没有指望过什么；\n我想回应朋友的支持，尽管他们只是一起玩耍；\n我想回应自己的笑容，却发现记不清何时为自己而笑了。\n我或许早就死在了中学那场住院，如今不过一具丑陋的空壳，强行把生存的意志寄生于他者身上。\n我早该知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 670,
+          "like_count": 24074,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 5760
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:12:41.000Z",
+        "description": "Pixiv: LucasTheBlack｜Hand-drawn fanart & dark fantasy OCs｜Blue Archive / Hanuma Makoto｜A necromancer on the run｜Bilibili: 黑袍法师Lucas｜CN/EN",
+        "id": "1842206151531974656",
+        "location": "Kivotos",
+        "name": "LucasTheBlack🎂",
+        "pinned_tweet_id": "1895414525526233346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051379148321701888/2QFFDmAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 3842,
+          "like_count": 48397,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 892
+        },
+        "username": "DarkSide0fForce",
+        "verified": false
+      }
+    ]
+  }
+}

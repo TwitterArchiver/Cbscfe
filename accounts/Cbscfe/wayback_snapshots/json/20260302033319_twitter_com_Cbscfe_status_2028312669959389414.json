@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2028312669959389414",
+    "created_at": "2026-03-02T03:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028312669959389414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1296779690435317760",
+          "start": 3,
+          "username": "aldua_hii"
+        },
+        {
+          "end": 27,
+          "id": "596735466",
+          "start": 15,
+          "username": "DoctorPerin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028312669959389414",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028220959908364672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aldua_hii: @DoctorPerin That's right! It goes in the square hole."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2028312669959389414",
+        "created_at": "2026-03-02T03:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028312669959389414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1296779690435317760",
+              "start": 3,
+              "username": "aldua_hii"
+            },
+            {
+              "end": 27,
+              "id": "596735466",
+              "start": 15,
+              "username": "DoctorPerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028312669959389414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028220959908364672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aldua_hii: @DoctorPerin That's right! It goes in the square hole."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296779690435317760",
+        "conversation_id": "2027945379572985980",
+        "created_at": "2026-03-01T21:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T22:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028220959908364672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "596735466",
+              "start": 0,
+              "username": "DoctorPerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028220959908364672",
+        "in_reply_to_user_id": "596735466",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6176,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027945379572985980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoctorPerin That's right! It goes in the square hole."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 180,
+          "like_count": 15776,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T12:02:41.000Z",
+        "description": "Globalist. Leftist. Fuck Fascists. Just being alive isn't a sin! THERE'S NO CRIME IN LIVING!",
+        "id": "1296779690435317760",
+        "location": "England",
+        "name": "aldua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1296779888180043777/YK4cebVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 221,
+          "like_count": 39221,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 469
+        },
+        "username": "aldua_hii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-01T17:39:05.000Z",
+        "description": "Psychologist in Private Practice. Former Army 🇺🇸 Here to Educate and Entertain. Go to therapy with a goal, even if it’s not with me!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "edwardperin.com",
+                "end": 23,
+                "expanded_url": "https://www.edwardperin.com/",
+                "start": 0,
+                "url": "https://t.co/seFCK7ZVc3"
+              }
+            ]
+          }
+        },
+        "id": "596735466",
+        "location": "Flavortown, OH",
+        "name": "Edward A. Perin - Psychologist",
+        "pinned_tweet_id": "2021266227117584612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006938498679365632/ocpUuPqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13066,
+          "following_count": 310,
+          "like_count": 89478,
+          "listed_count": 88,
+          "media_count": 4562,
+          "tweet_count": 29064
+        },
+        "url": "https://t.co/seFCK7ZVc3",
+        "username": "DoctorPerin",
+        "verified": true
+      }
+    ]
+  }
+}

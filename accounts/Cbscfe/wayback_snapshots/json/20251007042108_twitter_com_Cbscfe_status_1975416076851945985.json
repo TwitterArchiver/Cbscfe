@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1975197308926226685",
+    "created_at": "2025-10-07T04:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T05:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975416076851945985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618324076992548865",
+          "start": 0,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975416076851945985",
+    "in_reply_to_user_id": "1618324076992548865",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975197308926226685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rosmontis233 R.I.P."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975197294606884865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lPeXJbIAEsigA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1975197308926226685",
+        "created_at": "2025-10-07T04:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975416076851945985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618324076992548865",
+              "start": 0,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975416076851945985",
+        "in_reply_to_user_id": "1618324076992548865",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975197308926226685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rosmontis233 R.I.P."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975197294606884865"
+          ]
+        },
+        "author_id": "1618324076992548865",
+        "conversation_id": "1975197308926226685",
+        "created_at": "2025-10-06T13:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975197308926226685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIiVUND0KM",
+              "end": 28,
+              "expanded_url": "https://x.com/Rosmontis233/status/1975197308926226685/photo/1",
+              "media_key": "3_1975197294606884865",
+              "start": 5,
+              "url": "https://t.co/FIiVUND0KM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975197308926226685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 71410,
+          "like_count": 671,
+          "quote_count": 9,
+          "reply_count": 93,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "猫\n再见 https://t.co/FIiVUND0KM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 503,
+          "like_count": 8112,
+          "listed_count": 8,
+          "media_count": 681,
+          "tweet_count": 7006
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

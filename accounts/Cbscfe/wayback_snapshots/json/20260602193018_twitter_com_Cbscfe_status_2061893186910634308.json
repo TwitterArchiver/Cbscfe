@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061494810834546688"
+      ],
+      "media_source_tweet_id": [
+        "2061494886243930614"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2061893186910634308",
+    "created_at": "2026-06-02T19:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061893186910634308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243590342911410176",
+          "start": 3,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJWvqsbsJa",
+          "end": 96,
+          "expanded_url": "https://x.com/bing2000100830/status/2061494886243930614/photo/1",
+          "media_key": "3_2061494810834546688",
+          "start": 73,
+          "url": "https://t.co/HJWvqsbsJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061893186910634308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494886243930614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing2000100830: 我们还是永远都不要清醒了吧，世界那么可怕，为什么我们一定要受伤。躲进出租屋里，带上你的大麻和右美沙芬 。 https://t.co/HJWvqsbsJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3968,
+        "media_key": "3_2061494810834546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvmm7IasAAFviZ.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061494810834546688"
+          ],
+          "media_source_tweet_id": [
+            "2061494886243930614"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2061893186910634308",
+        "created_at": "2026-06-02T19:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061893186910634308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243590342911410176",
+              "start": 3,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJWvqsbsJa",
+              "end": 96,
+              "expanded_url": "https://x.com/bing2000100830/status/2061494886243930614/photo/1",
+              "media_key": "3_2061494810834546688",
+              "start": 73,
+              "url": "https://t.co/HJWvqsbsJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061893186910634308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494886243930614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing2000100830: 我们还是永远都不要清醒了吧，世界那么可怕，为什么我们一定要受伤。躲进出租屋里，带上你的大麻和右美沙芬 。 https://t.co/HJWvqsbsJa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061494810834546688"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2061494886243930614",
+        "created_at": "2026-06-01T17:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061494886243930614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJWvqsbsJa",
+              "end": 76,
+              "expanded_url": "https://x.com/bing2000100830/status/2061494886243930614/photo/1",
+              "media_key": "3_2061494810834546688",
+              "start": 53,
+              "url": "https://t.co/HJWvqsbsJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494886243930614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1089,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们还是永远都不要清醒了吧，世界那么可怕，为什么我们一定要受伤。躲进出租屋里，带上你的大麻和右美沙芬 。 https://t.co/HJWvqsbsJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 673,
+          "like_count": 24152,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5811
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1206,
+          "like_count": 43245,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2685
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

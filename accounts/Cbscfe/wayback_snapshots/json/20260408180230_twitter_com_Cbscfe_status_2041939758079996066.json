@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041929140396523898",
+    "created_at": "2026-04-08T18:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041939758079996066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849183768445353984",
+          "start": 0,
+          "username": "B17w153"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 32,
+          "expanded_url": "https://x.com/Cbscfe/status/2041911187479392506",
+          "start": 9,
+          "url": "https://t.co/wyUBeE79PJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041939758079996066",
+    "in_reply_to_user_id": "1849183768445353984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041911187479392506",
+        "type": "quoted"
+      },
+      {
+        "id": "2041929140396523898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B17w153 https://t.co/wyUBeE79PJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041929131957612544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZjuhba8AAbYMf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041929140396523898",
+        "created_at": "2026-04-08T18:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041939758079996066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849183768445353984",
+              "start": 0,
+              "username": "B17w153"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 32,
+              "expanded_url": "https://x.com/Cbscfe/status/2041911187479392506",
+              "start": 9,
+              "url": "https://t.co/wyUBeE79PJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041939758079996066",
+        "in_reply_to_user_id": "1849183768445353984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041911187479392506",
+            "type": "quoted"
+          },
+          {
+            "id": "2041929140396523898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B17w153 https://t.co/wyUBeE79PJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041901062982901957",
+        "created_at": "2026-04-08T16:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041911187479392506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 22,
+              "id": "2032033299980566528",
+              "start": 10,
+              "username": "rinii165892"
+            },
+            {
+              "end": 39,
+              "id": "1169174984389885952",
+              "start": 23,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041911187479392506",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041906117362774041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @rinii165892 @Angel_SaveUsAll B站评论区在收网。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041929131957612544"
+          ]
+        },
+        "author_id": "1849183768445353984",
+        "conversation_id": "2041929140396523898",
+        "created_at": "2026-04-08T17:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041929140396523898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5eMO59wOB",
+              "end": 28,
+              "expanded_url": "https://x.com/B17w153/status/2041929140396523898/photo/1",
+              "media_key": "3_2041929131957612544",
+              "start": 5,
+              "url": "https://t.co/Y5eMO59wOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041929140396523898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈难绷 https://t.co/Y5eMO59wOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 268,
+          "like_count": 18430,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "pinned_tweet_id": "2037080843722907919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 168,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 414
+        },
+        "username": "B17w153",
+        "verified": false
+      }
+    ]
+  }
+}

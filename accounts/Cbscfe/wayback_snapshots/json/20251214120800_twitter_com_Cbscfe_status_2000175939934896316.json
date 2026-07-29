@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000175910813913088"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1999844845117231198",
+    "created_at": "2025-12-14T12:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000175939934896316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662871897309347842",
+          "start": 0,
+          "username": "ForsakenDreamm"
+        },
+        {
+          "end": 24,
+          "id": "1304953938320306176",
+          "start": 16,
+          "username": "hry_xsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rOPo0nkqnu",
+          "end": 54,
+          "expanded_url": "https://x.com/Cbscfe/status/2000175939934896316/photo/1",
+          "media_key": "3_2000175910813913088",
+          "start": 31,
+          "url": "https://t.co/rOPo0nkqnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000175939934896316",
+    "in_reply_to_user_id": "1662871897309347842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000125109873549410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForsakenDreamm @hry_xsu 1.5G吗 https://t.co/rOPo0nkqnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2000175910813913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8INZLxbUAAlGxq.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000175910813913088"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1999844845117231198",
+        "created_at": "2025-12-14T12:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000175939934896316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662871897309347842",
+              "start": 0,
+              "username": "ForsakenDreamm"
+            },
+            {
+              "end": 24,
+              "id": "1304953938320306176",
+              "start": 16,
+              "username": "hry_xsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOPo0nkqnu",
+              "end": 54,
+              "expanded_url": "https://x.com/Cbscfe/status/2000175939934896316/photo/1",
+              "media_key": "3_2000175910813913088",
+              "start": 31,
+              "url": "https://t.co/rOPo0nkqnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000175939934896316",
+        "in_reply_to_user_id": "1662871897309347842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000125109873549410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForsakenDreamm @hry_xsu 1.5G吗 https://t.co/rOPo0nkqnu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662871897309347842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1999844845117231198",
+        "created_at": "2025-12-14T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000125109873549410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000125109873549410",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999844845117231198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu 完全错误，你真的长期用下来会发现QQ远远好于TG，腾讯的优化水平很高，软件流畅现代，几乎找不到bug，1G内存那只是极少数的意外。而c++和swift的telegram desktop是持续稳定的内存泄漏。我明白tg刚打开100M的样子很美，但打开12h后1.5G的样子很丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 107,
+          "like_count": 10872,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T17:22:33.000Z",
+        "description": "小米和华为的唯一区别就是名字叫小米",
+        "id": "1662871897309347842",
+        "location": "127.1&::1",
+        "name": "然然然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952549718510493696/5TpjMYpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 756,
+          "like_count": 50682,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 5917
+        },
+        "username": "ForsakenDreamm",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!\nen&zh | 💻笔电爱好者 | 无糖 | 女装 | 精神地雷系 | LGBTQ+ friendly🏳️‍🌈\nSolitude do truly kill one person.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mars.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.mars.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/8Lai8y8dCE"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Mars,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930993557583601664/LRhgXbng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 287,
+          "like_count": 46822,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 2860
+        },
+        "url": "https://t.co/8Lai8y8dCE",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976719925772513599",
+    "created_at": "2025-10-11T04:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976863859639304302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "888430372366811137",
+          "start": 0,
+          "username": "tingzmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976863859639304302",
+    "in_reply_to_user_id": "888430372366811137",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976719925772513599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingzmc did you just switched three weapons instantly"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5733,
+        "height": 1440,
+        "media_key": "13_1976719721405071362",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976719721405071362/img/LO4hWvVEBB5iMWbb.jpg",
+        "public_metrics": {
+          "view_count": 2010
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976719721405071362/pl/pt3uELO_PGTegM-3.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976719721405071362/vid/avc1/2560x1440/Ow6VyqLIzJL7yOs5.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976719721405071362/vid/avc1/480x270/2QdE-WuSeCLOLR_j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976719721405071362/vid/avc1/1280x720/fw_lYoPGOtDjmWOJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976719721405071362/vid/avc1/640x360/BNk6op2MTdvNeglZ.mp4"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976719925772513599",
+        "created_at": "2025-10-11T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976863859639304302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "888430372366811137",
+              "start": 0,
+              "username": "tingzmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976863859639304302",
+        "in_reply_to_user_id": "888430372366811137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976719925772513599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingzmc did you just switched three weapons instantly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976719721405071362"
+          ]
+        },
+        "author_id": "888430372366811137",
+        "conversation_id": "1976719925772513599",
+        "created_at": "2025-10-10T18:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976719925772513599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HP1dZTKzkf",
+              "end": 47,
+              "expanded_url": "https://x.com/tingzmc/status/1976719925772513599/video/1",
+              "media_key": "13_1976719721405071362",
+              "start": 24,
+              "url": "https://t.co/HP1dZTKzkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976719925772513599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3721,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "the spear is disgusting https://t.co/HP1dZTKzkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T16:08:01.000Z",
+        "description": "tyler | i play minecraft (mostly) \n@minehublive @thewheelinc & @SmpMoney owner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "minehublive"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "thewheelinc"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "SmpMoney"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/tingzmc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/tingzmc",
+                "start": 0,
+                "url": "https://t.co/UoXQ5rWkLB"
+              }
+            ]
+          }
+        },
+        "id": "888430372366811137",
+        "name": "tingz",
+        "pinned_tweet_id": "1824143697585594839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775014582278356993/KBXIdAId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 300,
+          "like_count": 9868,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/UoXQ5rWkLB",
+        "username": "tingzmc",
+        "verified": true
+      }
+    ]
+  }
+}

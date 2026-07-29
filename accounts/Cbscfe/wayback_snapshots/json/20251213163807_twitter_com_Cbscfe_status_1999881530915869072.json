@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1999281553688658373",
+    "created_at": "2025-12-13T16:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999881530915869072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972726684635086848",
+          "start": 0,
+          "username": "vip_91_1337"
+        },
+        {
+          "end": 25,
+          "id": "1167765353415487488",
+          "start": 13,
+          "username": "miren_41319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999881530915869072",
+    "in_reply_to_user_id": "1972726684635086848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999586384726880692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vip_91_1337 @miren_41319 hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1999281553688658373",
+        "created_at": "2025-12-13T16:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999881530915869072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972726684635086848",
+              "start": 0,
+              "username": "vip_91_1337"
+            },
+            {
+              "end": 25,
+              "id": "1167765353415487488",
+              "start": 13,
+              "username": "miren_41319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999881530915869072",
+        "in_reply_to_user_id": "1972726684635086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999586384726880692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vip_91_1337 @miren_41319 hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972726684635086848",
+        "conversation_id": "1999281553688658373",
+        "created_at": "2025-12-12T21:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999586384726880692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1167765353415487488",
+              "start": 0,
+              "username": "miren_41319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999586384726880692",
+        "in_reply_to_user_id": "1167765353415487488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999281553688658373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miren_41319 政治观念影响友情的话那也算个傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 105,
+          "like_count": 10846,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T18:14:43.000Z",
+        "description": "在支高中生丨Minecraft丨我爱图纸",
+        "id": "1972726684635086848",
+        "location": "IP属地：南京",
+        "name": "VIP_91",
+        "pinned_tweet_id": "1993441762787180611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998798003403210752/lRxJQGzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 206,
+          "like_count": 13817,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1083
+        },
+        "username": "vip_91_1337",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:45:52.000Z",
+        "description": "119",
+        "id": "1167765353415487488",
+        "location": "北京市",
+        "name": "迷人的小红",
+        "pinned_tweet_id": "1999680690745688391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396714942443655170/UO8JduEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218532,
+          "following_count": 6317,
+          "like_count": 199767,
+          "listed_count": 398,
+          "media_count": 13801,
+          "tweet_count": 147520
+        },
+        "username": "miren_41319",
+        "verified": false
+      }
+    ]
+  }
+}

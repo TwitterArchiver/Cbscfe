@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1979835613122609231",
+    "created_at": "2025-10-19T18:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979976134113784038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858777028688039936",
+          "start": 0,
+          "username": "FuSheng_0306"
+        }
+      ],
+      "urls": [
+        {
+          "description": "I built a small language model in Minecraft using no command blocks or datapacks!The model has 5,087,280 parameters, trained in Python on the TinyChat datase...",
+          "display_url": "youtube.com/watch?v=VaeI9Y…",
+          "end": 37,
+          "expanded_url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/1977549587301736449/2RTys8N2?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1977549587301736449/2RTys8N2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "I built ChatGPT with Minecraft redstone!",
+          "unwound_url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
+          "url": "https://t.co/NWov2p0xfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979976134113784038",
+    "in_reply_to_user_id": "1858777028688039936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979835613122609231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuSheng_0306 https://t.co/NWov2p0xfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92766,
+        "height": 1080,
+        "media_key": "7_1979835561687777280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979835561687777280/pu/img/JVcFa9e6oHgIDLT3.jpg",
+        "public_metrics": {
+          "view_count": 47197
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979835561687777280/pu/vid/avc1/320x320/ridIYRmbelkzJa4D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979835561687777280/pu/vid/avc1/540x540/AXA69Q8Ex_xqxrwr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979835561687777280/pu/vid/avc1/720x720/okXQWx6nuRV0dotj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979835561687777280/pu/pl/KGOFsXPVt617tBtA.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1979835613122609231",
+        "created_at": "2025-10-19T18:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979976134113784038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858777028688039936",
+              "start": 0,
+              "username": "FuSheng_0306"
+            }
+          ],
+          "urls": [
+            {
+              "description": "I built a small language model in Minecraft using no command blocks or datapacks!The model has 5,087,280 parameters, trained in Python on the TinyChat datase...",
+              "display_url": "youtube.com/watch?v=VaeI9Y…",
+              "end": 37,
+              "expanded_url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1977549587301736449/2RTys8N2?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1977549587301736449/2RTys8N2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "I built ChatGPT with Minecraft redstone!",
+              "unwound_url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
+              "url": "https://t.co/NWov2p0xfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979976134113784038",
+        "in_reply_to_user_id": "1858777028688039936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979835613122609231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuSheng_0306 https://t.co/NWov2p0xfJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979835561687777280"
+          ]
+        },
+        "author_id": "1858777028688039936",
+        "conversation_id": "1979835613122609231",
+        "created_at": "2025-10-19T09:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979835613122609231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebxwFOZadK",
+              "end": 43,
+              "expanded_url": "https://x.com/FuSheng_0306/status/1979835613122609231/video/1",
+              "media_key": "7_1979835561687777280",
+              "start": 20,
+              "url": "https://t.co/ebxwFOZadK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979835613122609231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 74277,
+          "like_count": 339,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "红石电路这么猛吗？GPT都搓出来了！？ https://t.co/ebxwFOZadK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 41,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T07:39:21.000Z",
+        "description": "Techno-optimist builder. Building an open-source coding agent in public. \nCEO @ Cheetah Mobile | Chair @orionstar2016",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "orionstar2016"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.orionstar.com",
+                "end": 23,
+                "expanded_url": "https://en.orionstar.com/",
+                "start": 0,
+                "url": "https://t.co/lI7goxTMUu"
+              }
+            ]
+          }
+        },
+        "id": "1858777028688039936",
+        "location": "Global",
+        "name": "Fu Sheng",
+        "pinned_tweet_id": "1973662183084245368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861635667035607040/t6sP_RUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4961,
+          "following_count": 245,
+          "like_count": 135,
+          "listed_count": 25,
+          "media_count": 214,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/lI7goxTMUu",
+        "username": "FuSheng_0306",
+        "verified": true
+      }
+    ]
+  }
+}

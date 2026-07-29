@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1972775951957385346",
+    "created_at": "2025-09-30T01:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T02:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972836148474151152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1970434295455195136",
+          "start": 0,
+          "username": "TheNan19930731"
+        },
+        {
+          "end": 29,
+          "id": "1968507093994102784",
+          "start": 16,
+          "username": "kusanoyui151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972836148474151152",
+    "in_reply_to_user_id": "1970434295455195136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972790845331083663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheNan19930731 @kusanoyui151 典"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1972775951957385346",
+        "created_at": "2025-09-30T01:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972836148474151152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1970434295455195136",
+              "start": 0,
+              "username": "TheNan19930731"
+            },
+            {
+              "end": 29,
+              "id": "1968507093994102784",
+              "start": 16,
+              "username": "kusanoyui151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972836148474151152",
+        "in_reply_to_user_id": "1970434295455195136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972790845331083663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheNan19930731 @kusanoyui151 典"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970434295455195136",
+        "conversation_id": "1972775951957385346",
+        "created_at": "2025-09-29T22:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972790845331083663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1968507093994102784",
+              "start": 0,
+              "username": "kusanoyui151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972790845331083663",
+        "in_reply_to_user_id": "1968507093994102784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972788796967330202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusanoyui151 乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T10:25:38.000Z",
+        "description": "听说X上有很多罕见，过来观摩一下。",
+        "id": "1970434295455195136",
+        "location": "Hong Kong",
+        "name": "唐浩然（真理与正义🇨🇳 Truth and justice）",
+        "pinned_tweet_id": "1972753436602142958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970434481896202241/Q7vjym8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 17,
+          "like_count": 90,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 498
+        },
+        "username": "TheNan19930731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T02:47:46.000Z",
+        "description": "Vorwärts, Internationale Brigade,\nHoch die Fahne der Solidarität!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "moegirl.uk/index.php?titl…",
+                "end": 23,
+                "expanded_url": "https://moegirl.uk/index.php?title=%E8%8D%89%E9%87%8E%E4%BC%98%E8%A1%A3&variant=zh-cn",
+                "start": 0,
+                "url": "https://t.co/cwdUS4CZfd"
+              }
+            ]
+          }
+        },
+        "id": "1968507093994102784",
+        "location": "トゥインクルウィッシュ",
+        "name": "草野優衣",
+        "pinned_tweet_id": "1972575268528373965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968508007177928704/-zlp0nPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 168,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/cwdUS4CZfd",
+        "username": "kusanoyui151",
+        "verified": false
+      }
+    ]
+  }
+}

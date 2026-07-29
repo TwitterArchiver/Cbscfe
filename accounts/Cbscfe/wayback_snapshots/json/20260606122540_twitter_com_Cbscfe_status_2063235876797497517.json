@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063227117584908288"
+      ],
+      "media_source_tweet_id": [
+        "2063227126288113893"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2063235876797497517",
+    "created_at": "2026-06-06T12:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063235876797497517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449853213974528",
+          "start": 3,
+          "username": "xiaojiangnie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4LfLmgIiN",
+          "end": 83,
+          "expanded_url": "https://x.com/xiaojiangnie/status/2063227126288113893/photo/1",
+          "media_key": "3_2063227117584908288",
+          "start": 60,
+          "url": "https://t.co/n4LfLmgIiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063235876797497517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063227126288113893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojiangnie: 这期神了，这是真神，家长已经被哔哩哔哩上的视频洗脑了喵\n本期主角:我妈 AND 我 https://t.co/n4LfLmgIiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2063227117584908288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIOIcqaAAA4EBI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063227117584908288"
+          ],
+          "media_source_tweet_id": [
+            "2063227126288113893"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2063235876797497517",
+        "created_at": "2026-06-06T12:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063235876797497517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449853213974528",
+              "start": 3,
+              "username": "xiaojiangnie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4LfLmgIiN",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaojiangnie/status/2063227126288113893/photo/1",
+              "media_key": "3_2063227117584908288",
+              "start": 60,
+              "url": "https://t.co/n4LfLmgIiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063235876797497517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063227126288113893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojiangnie: 这期神了，这是真神，家长已经被哔哩哔哩上的视频洗脑了喵\n本期主角:我妈 AND 我 https://t.co/n4LfLmgIiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063227117584908288"
+          ]
+        },
+        "author_id": "2041449853213974528",
+        "conversation_id": "2063227126288113893",
+        "created_at": "2026-06-06T11:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063227126288113893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4LfLmgIiN",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaojiangnie/status/2063227126288113893/photo/1",
+              "media_key": "3_2063227117584908288",
+              "start": 42,
+              "url": "https://t.co/n4LfLmgIiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063227126288113893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这期神了，这是真神，家长已经被哔哩哔哩上的视频洗脑了喵\n本期主角:我妈 AND 我 https://t.co/n4LfLmgIiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 680,
+          "like_count": 24341,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5957
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵 hrt🍥2026.3.28 已炸柜（第三天炸柜极速版）出厂日期2009.12.17 偏天赋一点天生雌高喵～ 蓄发中喵，闲的没事就爱吃点小糖呀喵🍥纯小0一个喵～咱是心理委员喵，有不开心的阔以找咱呀喵～",
+        "id": "2041449853213974528",
+        "location": "青岛市",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 286,
+          "like_count": 1884,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 111
+        },
+        "username": "xiaojiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

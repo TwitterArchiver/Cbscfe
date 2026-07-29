@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996785609172733952"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996604862889373952",
+    "created_at": "2025-12-05T03:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996785627728433598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZo8qVF7S9",
+          "end": 47,
+          "expanded_url": "https://x.com/Cbscfe/status/1996785627728433598/photo/1",
+          "media_key": "3_1996785609172733952",
+          "start": 24,
+          "url": "https://t.co/JZo8qVF7S9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996785627728433598",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996604862889373952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZianTT_Official 浅浅调了个色 https://t.co/JZo8qVF7S9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1996785609172733952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YB7p9aUAASSC1.png",
+        "width": 150
+      },
+      {
+        "height": 633,
+        "media_key": "3_1996604860259856384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VdirybcAAQ9Cr.jpg",
+        "width": 474
+      },
+      {
+        "height": 633,
+        "media_key": "3_1996604860272353280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vdir1aIAA6RlH.jpg",
+        "width": 474
+      },
+      {
+        "height": 633,
+        "media_key": "3_1996604860373061632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VdisNa0AATHNs.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996785609172733952"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996604862889373952",
+        "created_at": "2025-12-05T03:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996785627728433598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZo8qVF7S9",
+              "end": 47,
+              "expanded_url": "https://x.com/Cbscfe/status/1996785627728433598/photo/1",
+              "media_key": "3_1996785609172733952",
+              "start": 24,
+              "url": "https://t.co/JZo8qVF7S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996785627728433598",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996604862889373952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official 浅浅调了个色 https://t.co/JZo8qVF7S9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996604860259856384",
+            "3_1996604860272353280",
+            "3_1996604860373061632"
+          ]
+        },
+        "author_id": "1689214483481452544",
+        "conversation_id": "1996604862889373952",
+        "created_at": "2025-12-04T15:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996604862889373952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bt5kBpIuUj",
+              "end": 35,
+              "expanded_url": "https://x.com/ZianTT_Official/status/1996604862889373952/photo/1",
+              "media_key": "3_1996604860259856384",
+              "start": 12,
+              "url": "https://t.co/bt5kBpIuUj"
+            },
+            {
+              "display_url": "pic.x.com/bt5kBpIuUj",
+              "end": 35,
+              "expanded_url": "https://x.com/ZianTT_Official/status/1996604862889373952/photo/1",
+              "media_key": "3_1996604860272353280",
+              "start": 12,
+              "url": "https://t.co/bt5kBpIuUj"
+            },
+            {
+              "display_url": "pic.x.com/bt5kBpIuUj",
+              "end": 35,
+              "expanded_url": "https://x.com/ZianTT_Official/status/1996604862889373952/photo/1",
+              "media_key": "3_1996604860373061632",
+              "start": 12,
+              "url": "https://t.co/bt5kBpIuUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996604862889373952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 20430,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发几张前几天拍的女装照 https://t.co/bt5kBpIuUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 102,
+          "like_count": 10163,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, SRE, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc. | 一切随缘 顺其自然 生命总会找到出路",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990826336236285956/BZi5flJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 340,
+          "like_count": 1138,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1667
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

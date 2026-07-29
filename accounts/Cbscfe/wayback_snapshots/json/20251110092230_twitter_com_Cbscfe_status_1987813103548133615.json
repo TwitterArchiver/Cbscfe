@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987741678783037620",
+    "created_at": "2025-11-10T09:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T10:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987813103548133615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987813103548133615",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987741678783037620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 AI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1280,
+        "media_key": "7_1987741653285879808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1987741653285879808/pu/img/0i2orIfI_Y_uyOvT.jpg",
+        "public_metrics": {
+          "view_count": 779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987741653285879808/pu/vid/avc1/320x568/7YIHTlyA42Ozbr9s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987741653285879808/pu/vid/avc1/480x852/eCNYmOTUA1_HKEX3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987741653285879808/pu/vid/avc1/720x1280/S-uQFO2p05XLG8ke.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1987741653285879808/pu/pl/HVCLyBtQ3zcU8yFF.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987741678783037620",
+        "created_at": "2025-11-10T09:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987813103548133615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987813103548133615",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987741678783037620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 AI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1987741653285879808"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1987741678783037620",
+        "created_at": "2025-11-10T04:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987741678783037620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4HvJyFFsD",
+              "end": 52,
+              "expanded_url": "https://x.com/IXXA00/status/1987741678783037620/video/1",
+              "media_key": "7_1987741653285879808",
+              "start": 29,
+              "url": "https://t.co/z4HvJyFFsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987741678783037620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 432,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽！？复印小猫！😱怎么做到的？！！😰😰🤭天哪，1：1😍 https://t.co/z4HvJyFFsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 69,
+          "like_count": 6149,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "东北大哥，有🚪。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987724733505585152/qK68FAr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 4553,
+          "like_count": 32812,
+          "listed_count": 11,
+          "media_count": 2335,
+          "tweet_count": 32296
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

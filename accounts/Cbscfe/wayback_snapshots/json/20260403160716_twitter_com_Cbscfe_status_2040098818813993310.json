@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2040006408259932529",
+    "created_at": "2026-04-03T16:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040098818813993310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1215576424657981441",
+          "start": 0,
+          "username": "guyuwudao"
+        },
+        {
+          "end": 20,
+          "id": "2012631283898187776",
+          "start": 11,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Tz_2022/status…",
+          "end": 59,
+          "expanded_url": "https://x.com/Tz_2022/status/2040060510599549236",
+          "start": 36,
+          "url": "https://t.co/Fg7gOxwvz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040098818813993310",
+    "in_reply_to_user_id": "1215576424657981441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040060510599549236",
+        "type": "quoted"
+      },
+      {
+        "id": "2040097712360841615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guyuwudao @youy1qwq “我有一种预感”是上面写的东西https://t.co/Fg7gOxwvz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040060503049830401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_AOASXAAEudU8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2040006408259932529",
+        "created_at": "2026-04-03T16:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040098818813993310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1215576424657981441",
+              "start": 0,
+              "username": "guyuwudao"
+            },
+            {
+              "end": 20,
+              "id": "2012631283898187776",
+              "start": 11,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Tz_2022/status…",
+              "end": 59,
+              "expanded_url": "https://x.com/Tz_2022/status/2040060510599549236",
+              "start": 36,
+              "url": "https://t.co/Fg7gOxwvz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040098818813993310",
+        "in_reply_to_user_id": "1215576424657981441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040060510599549236",
+            "type": "quoted"
+          },
+          {
+            "id": "2040097712360841615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyuwudao @youy1qwq “我有一种预感”是上面写的东西https://t.co/Fg7gOxwvz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040060503049830401"
+          ]
+        },
+        "author_id": "100399047",
+        "conversation_id": "2040060510599549236",
+        "created_at": "2026-04-03T13:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040060510599549236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3iBqSudiI",
+              "end": 102,
+              "expanded_url": "https://x.com/Tz_2022/status/2040060510599549236/photo/1",
+              "media_key": "3_2040060503049830401",
+              "start": 79,
+              "url": "https://t.co/s3iBqSudiI"
+            },
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2040006408259932529",
+              "start": 103,
+              "url": "https://t.co/cEYWFGPJzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040060510599549236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是到目前为止2026年我最喜欢的一张认知论梗图！！\n\n（我把原图做了一下高清重制，现在上面的文字总算可以看清了。。。）\n\n以下是讲解部分（小心头疼 🌚）：\n\n想象一下，如果你把人类的大脑拿出来，和一本厚重的认识论哲学书，外加两升纯粹的“存在主义焦虑”一起扔进榨汁机里，然后把这坨混合物泼在画布上，你就会得到这张图。\n\n这就是我们大脑里的“知识储藏室”的真实平面图。它简直是一个 epistemological（认识论）的灾难现场。\n\n——\n\n我们可以把这个图拆解成几个“大脑街区”来逛逛：\n\n1. 舒适区与绝对虚无（基础设定）\n\n著名政客拉姆斯菲尔德曾提出过著名的“已知的已知”和“未知的未知”。这张图直接把这个概念按在地上摩擦，然后加了十几层心理包袱。\n\n * 我们知道的事情（明亮的浅绿色）\n\n这是你的舒适区。这里装满了“太阳从东边升起”、“1加1等于2”以及“我昨天晚饭吃了什么”。这是你在这个疯狂宇宙中唯一能抓住的救命稻草。\n\n * 我们不知道我们不知道的事情（庞大的灰色背景）\n\n终极盲区。你甚至没法对这些事情感到焦虑，因为你连形容它们的词汇都没有。这是现实的暗物质，包围着我们渺小的认知气泡。\n\n * 不可知的事物（深红色）\n\n比如宇宙大爆炸前一秒到底有什么？这些东西就像是被锁在宇宙地下室里的保险箱，钥匙一开始就被上帝扔进了黑洞。\n\n——\n\n2. 虚荣心与社交伪装区（底部区域）\n\n这是整张图里最充满“人味儿”的地方。人类太好面子了，以至于我们在“知识”外面建起了一座由谎言和心虚构成的堡垒。\n\n * 我们假装自己知道的事情（深粉色）\n\n也就是“冒名顶替者综合征”重灾区。当同事在开会时提到一个晦涩的行业黑话，或者某人高谈阔论一本你连封面都没见过的名著时，你深沉地点了点头。对，就在这个区域。\n\n * 别人认为我们知道但实际上我们不知道的事情（蓝绿色）\n\n当你过年回家，你亲戚家的熊孩子拿着一道高中物理题或者问你“你是大人了，告诉我怎么赚钱”时，你内心防线崩溃的瞬间。我们只是穿着风衣假装大人的三个小孩罢了。\n\n * 我们假装不知道的事（青色）\n\n“啊？轮到我洗碗了吗？”“老板发的那条周末加班信息我没看到啊。”——这是人类趋利避害的最高智慧。\n\n——\n\n3. 痛苦与懊悔的交界处（左侧区域）\n\n * 我们希望自己能记住的事情（浅绿色）\n\n这里是所有密码、你凌晨三点想到的绝世好点子、以及迎面走来跟你打招呼的那位老熟人的名字的“坟墓”。它们就在你嘴边，但你就是够不到。它完美地和“我们忘记的一切（紫色）”接壤。\n\n * 我们宁愿自己不知道的事情（灰绿色）： \n\n被诅咒的知识。比如你偶然得知了火腿肠的制作过程，或者无意中看到了父母的某些聊天记录。你疯狂地想找到大脑的“Ctrl+Z（撤销）”键，但很遗憾，大脑没有这个功能。\n\n——\n\n4. 潜意识与直觉的玄学区（上方区域）\n\n * 我们生来就具有的本能知识： \n\n比如呼吸，比如对蛇和高处的恐惧。这是祖先刻在你DNA里的出厂设置。\n\n * 我有一种预感\n\n科学无法解释的第六感。比如你不需要看保质期，光凭一种神秘的直觉就知道冰箱里那盒牛奶已经变成了生化武器。\n\n5. 终极警告与系统崩溃（高潮部分）\n\n * 右上角的深蓝警告牌：“相信我，你最好不要知道这些事情”。 \n\n这是宇宙的深网。比如你的寿命倒计时，或者宇宙热寂的恐怖真相。保持无知，是宇宙对人类最温柔的怜悯。\n\n * 正中间的黑洞：“快停下，我很疑惑而且我的头好痛”。 \n\n欢迎来到全图的中心！当你试图理清“我到底知道自己不知道什么”或者“我知不知道我在假装我知道”的时候，你的大脑就会像试图在镜子里看自己后脑勺一样，直接陷入死循环，然后宕机冒烟。\n\n——\n\n总之，这张图告诉我们一个深刻的道理：我们人类就是一群在无知的汪洋大海上，坐在一艘名为“瞎猜”的小船里，还拼命假装自己有导航仪的猴子。而且，一旦我们开始思考这艘船的结构，我们的头就会痛得要命。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 6902,
+          "like_count": 98,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040006408259932529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是到目前为止2026年我最喜欢的一张认知论梗图！！\n\n（我把原图做了一下高清重制，现在上面的文字总算可以看清了。。。）\n\n以下是讲解部分（小心头疼 🌚）： https://t.co/s3iBqSudiI https://t.co/cEYWFGPJzo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1215576424657981441",
+        "conversation_id": "2040006408259932529",
+        "created_at": "2026-04-03T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040097712360841615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 17,
+              "id": "2012631283898187776",
+              "start": 8,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040097712360841615",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040097154619056381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @youy1qwq 什么预感？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 239,
+          "like_count": 18011,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-10T10:09:46.000Z",
+        "description": "不上班，在家用AI做产品；\n算命师傅 xAI重度使用者；\n关注AI发展，也关注这个时代我们该怎么活。\nThe future belongs to AI, and I belong to the future. ☀︎",
+        "id": "1215576424657981441",
+        "name": "谷雨悟道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035350940115767296/9192b9l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 339,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 593
+        },
+        "username": "guyuwudao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9412,
+          "following_count": 1486,
+          "like_count": 3501,
+          "listed_count": 13,
+          "media_count": 1207,
+          "tweet_count": 1640
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "2039485765193801819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17121,
+          "following_count": 1522,
+          "like_count": 10825,
+          "listed_count": 230,
+          "media_count": 1621,
+          "tweet_count": 8206
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

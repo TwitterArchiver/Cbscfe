@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1995050217234915341",
+    "created_at": "2025-11-30T08:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995050217234915341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762661239233323008",
+          "start": 3,
+          "username": "sage_sona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995050217234915341",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 514
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994979549676015815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sage_sona: this is probably the first time i’ve ever actually mistaken human art for being ai art"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1995050217234915341",
+        "created_at": "2025-11-30T08:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995050217234915341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762661239233323008",
+              "start": 3,
+              "username": "sage_sona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995050217234915341",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 514
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994979549676015815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sage_sona: this is probably the first time i’ve ever actually mistaken human art for being ai art"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762661239233323008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1994979549676015815",
+        "created_at": "2025-11-30T03:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994979549676015815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coral_1212fnf/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/coral_1212fnf/status/1994639159521415545",
+              "start": 87,
+              "url": "https://t.co/aeOhD4xLf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994979549676015815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 664,
+          "impression_count": 195634,
+          "like_count": 14610,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 514
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994639159521415545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is probably the first time i’ve ever actually mistaken human art for being ai art https://t.co/aeOhD4xLf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 97,
+          "like_count": 9585,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T02:10:08.000Z",
+        "description": "silly little autistic fox in a not-so-silly world || furry artist || 18 y.o. || i got a massive bellay. (rub it) || suggestive tweets !!! || beastarstwt mainly",
+        "id": "1762661239233323008",
+        "location": "he/she | FREE 🇵🇸 ",
+        "name": "sage 🐾",
+        "pinned_tweet_id": "1981502090410414359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991943968452640770/dkBI0tvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 1311,
+          "like_count": 15777,
+          "listed_count": 4,
+          "media_count": 1674,
+          "tweet_count": 8152
+        },
+        "username": "sage_sona",
+        "verified": false
+      }
+    ]
+  }
+}

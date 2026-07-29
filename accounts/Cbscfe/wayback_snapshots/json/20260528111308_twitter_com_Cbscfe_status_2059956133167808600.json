@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2059956133167808600",
+    "created_at": "2026-05-28T11:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059956133167808600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039295991296192512",
+          "start": 3,
+          "username": "MutsumiKawa1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059956133167808600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059893720439554271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MutsumiKawa1i: 美金刚可以通过改变神经可塑性，从而带来【新奇感强化】，打破旧有思维模式并重组，从而起到抗抑郁的效果，这一点和DXM抗抑郁原理几乎相同，但是美金刚没有DXM那种血清素能，所以不会给您带来嗜睡和情感钝化的副作用哦。\n附：很多人认为dxm的抗抑郁…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2059893715565780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a6dboAAKJIQ.png",
+        "width": 1260
+      },
+      {
+        "height": 1863,
+        "media_key": "3_2059893717012758528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a_2awAA-UYh.png",
+        "width": 1260
+      },
+      {
+        "height": 2213,
+        "media_key": "3_2059893716282998784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9IbgAAGDgU.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2059893716459159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9ybgAAynlA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2059956133167808600",
+        "created_at": "2026-05-28T11:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059956133167808600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039295991296192512",
+              "start": 3,
+              "username": "MutsumiKawa1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059956133167808600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059893720439554271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MutsumiKawa1i: 美金刚可以通过改变神经可塑性，从而带来【新奇感强化】，打破旧有思维模式并重组，从而起到抗抑郁的效果，这一点和DXM抗抑郁原理几乎相同，但是美金刚没有DXM那种血清素能，所以不会给您带来嗜睡和情感钝化的副作用哦。\n附：很多人认为dxm的抗抑郁…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059893715565780992",
+            "3_2059893717012758528",
+            "3_2059893716282998784",
+            "3_2059893716459159552"
+          ]
+        },
+        "author_id": "2039295991296192512",
+        "conversation_id": "2059893720439554271",
+        "created_at": "2026-05-28T07:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893720439554271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893715565780992",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893717012758528",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716282998784",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716459159552",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893720439554271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚可以通过改变神经可塑性，从而带来【新奇感强化】，打破旧有思维模式并重组，从而起到抗抑郁的效果，这一点和DXM抗抑郁原理几乎相同，但是美金刚没有DXM那种血清素能，所以不会给您带来嗜睡和情感钝化的副作用哦。\n附：很多人认为dxm的抗抑郁效果来自血清素能，其实更多还是来自NMDAR拮抗 https://t.co/hmizY5SWOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 655,
+          "like_count": 23942,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 5650
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2049382401219154122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 417,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

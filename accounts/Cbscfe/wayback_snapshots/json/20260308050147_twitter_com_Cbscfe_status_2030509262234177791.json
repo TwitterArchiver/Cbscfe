@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2030246763240771650",
+    "created_at": "2026-03-08T05:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030509262234177791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 32,
+          "expanded_url": "https://x.com/gdioiui/status/2029924509768413281",
+          "start": 9,
+          "url": "https://t.co/UTTVwYnLb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030509262234177791",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029924509768413281",
+        "type": "quoted"
+      },
+      {
+        "id": "2030246763240771650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui https://t.co/UTTVwYnLb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029924358404329474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu9cu-aUAI2rKs.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030246702704476160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzinpEbwAAZloH.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2030246763240771650",
+        "created_at": "2026-03-08T05:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030509262234177791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 32,
+              "expanded_url": "https://x.com/gdioiui/status/2029924509768413281",
+              "start": 9,
+              "url": "https://t.co/UTTVwYnLb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030509262234177791",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029924509768413281",
+            "type": "quoted"
+          },
+          {
+            "id": "2030246763240771650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui https://t.co/UTTVwYnLb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029924358404329474"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2029924509768413281",
+        "created_at": "2026-03-06T14:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029924509768413281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJY2nCc5Ds",
+              "end": 76,
+              "expanded_url": "https://x.com/gdioiui/status/2029924509768413281/photo/1",
+              "media_key": "3_2029924358404329474",
+              "start": 53,
+              "url": "https://t.co/AJY2nCc5Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029924509768413281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6749,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日雌感觉好强喵\n今天上物理课突然顿悟冰棍说的欢乐豆是什么了...\n上课玩欢乐豆⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ https://t.co/AJY2nCc5Ds"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030246702704476160"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2030246763240771650",
+        "created_at": "2026-03-07T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030246763240771650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQLY4tcgQY",
+              "end": 48,
+              "expanded_url": "https://x.com/gdioiui/status/2030246763240771650/photo/1",
+              "media_key": "3_2030246702704476160",
+              "start": 25,
+              "url": "https://t.co/VQLY4tcgQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030246763240771650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以真的会有人花30块钱买一个会震动的塑料板吗？ https://t.co/VQLY4tcgQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 191,
+          "like_count": 16503,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里（被戒断）\n高二在读|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 ||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n炸柜26.1.18\nqq1079886994\n171/60（长胖了...）   胸围76腰围70\n已取回部分药品",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 344,
+          "like_count": 3101,
+          "listed_count": 1,
+          "media_count": 782,
+          "tweet_count": 4997
+        },
+        "username": "gdioiui",
+        "verified": false
+      }
+    ]
+  }
+}

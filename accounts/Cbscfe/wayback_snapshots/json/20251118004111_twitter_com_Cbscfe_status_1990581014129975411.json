@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1990469102406942720"
+      ],
+      "media_source_tweet_id": [
+        "1990469153925570724"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990527464678756831",
+    "created_at": "2025-11-18T00:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T01:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990581014129975411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lRtq8eZiOB",
+          "end": 39,
+          "expanded_url": "https://x.com/SystemEngineerX/status/1990469153925570724/video/1",
+          "media_key": "13_1990469102406942720",
+          "start": 16,
+          "url": "https://t.co/lRtq8eZiOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990581014129975411",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990527464678756831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii https://t.co/lRtq8eZiOB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25000,
+        "height": 720,
+        "media_key": "13_1990469102406942720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990469102406942720/img/MYazTgRliWPtbfqL.jpg",
+        "public_metrics": {
+          "view_count": 502
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990469102406942720/vid/avc1/360x270/4vmtpHM8wS0H3RUG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990469102406942720/vid/avc1/480x360/vYYqYbO6ciDy1KKe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990469102406942720/vid/avc1/960x720/7Dm1QpWw3wYntfAz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990469102406942720/pl/Dx1o278L-J54-55I.m3u8?tag=14&v=019"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990469102406942720"
+          ],
+          "media_source_tweet_id": [
+            "1990469153925570724"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990527464678756831",
+        "created_at": "2025-11-18T00:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T01:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990581014129975411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRtq8eZiOB",
+              "end": 39,
+              "expanded_url": "https://x.com/SystemEngineerX/status/1990469153925570724/video/1",
+              "media_key": "13_1990469102406942720",
+              "start": 16,
+              "url": "https://t.co/lRtq8eZiOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990581014129975411",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990527464678756831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii https://t.co/lRtq8eZiOB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1990527464678756831",
+        "created_at": "2025-11-17T21:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T22:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990527464678756831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sizchiha/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/sizchiha/status/1989814291814650171",
+              "start": 57,
+              "url": "https://t.co/W9bkzTKfdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990527464678756831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2808,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989814291814650171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俊达萌这张小脸出现在这里就让我彻底绷不住喷了出来……解构最好的一集，是什么文字内容都没有改，但还是解构到爆炸了。 https://t.co/W9bkzTKfdq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 82,
+          "like_count": 7420,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "自由、平等、博爱 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 很高兴遇见你，让我fumofumo你吧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumearcade.ca",
+                "end": 23,
+                "expanded_url": "https://yumearcade.ca",
+                "start": 0,
+                "url": "https://t.co/XnvVGrTLm7"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 232,
+          "like_count": 60074,
+          "listed_count": 6,
+          "media_count": 767,
+          "tweet_count": 11408
+        },
+        "url": "https://t.co/XnvVGrTLm7",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039575202586358102",
+    "created_at": "2026-04-02T05:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039575202586358102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657175394267848704",
+          "start": 3,
+          "username": "Zh40Le1ZOOB"
+        },
+        {
+          "end": 82,
+          "id": "1991445096013918208",
+          "start": 66,
+          "username": "SakurabaEma_ITN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/7vRO",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/7vRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039575202586358102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039566716762747383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zh40Le1ZOOB: 为什么会发展到这个地步呢？让我们把时间线拨回第一个对性别代词提出质疑的时间点\n这个问题一开始是由 @SakurabaEma_ITN 提出的，但一开始并不带有火药味，对于性别代词的质疑仅仅停留在“发问”环节（见 https://t.co/7vRO…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039575202586358102",
+        "created_at": "2026-04-02T05:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039575202586358102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657175394267848704",
+              "start": 3,
+              "username": "Zh40Le1ZOOB"
+            },
+            {
+              "end": 82,
+              "id": "1991445096013918208",
+              "start": 66,
+              "username": "SakurabaEma_ITN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/7vRO",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/7vRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039575202586358102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039566716762747383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zh40Le1ZOOB: 为什么会发展到这个地步呢？让我们把时间线拨回第一个对性别代词提出质疑的时间点\n这个问题一开始是由 @SakurabaEma_ITN 提出的，但一开始并不带有火药味，对于性别代词的质疑仅仅停留在“发问”环节（见 https://t.co/7vRO…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2039566716762747383",
+        "created_at": "2026-04-02T04:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039566716762747383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1991445096013918208",
+              "start": 49,
+              "username": "SakurabaEma_ITN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SakurabaEma_IT…",
+              "end": 128,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383",
+              "start": 105,
+              "url": "https://t.co/7vROIBukSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039566716762747383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 799,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037972354014605383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么会发展到这个地步呢？让我们把时间线拨回第一个对性别代词提出质疑的时间点\n这个问题一开始是由 @SakurabaEma_ITN 提出的，但一开始并不带有火药味，对于性别代词的质疑仅仅停留在“发问”环节（见 https://t.co/7vROIBukSF），并且提出者随后也给出了能够在尊重受害者与舆论效益见平衡的策略"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 239,
+          "like_count": 17936,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "邮箱：mtf@ik.me 或 progynova@duck.com（马甲）\nTelegram：下方链接\n如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 722,
+          "like_count": 6674,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 5261
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 93,
+          "like_count": 4241,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

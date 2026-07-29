@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1986070456567554137",
+    "created_at": "2025-11-05T13:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986070456567554137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960791784675794949",
+          "start": 3,
+          "username": "nagiVictoriaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986070456567554137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986047333348651207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagiVictoriaL: 没有女性sfz的xyn们喵 nagi帮代购补子喵 25r/盒 3盒以上包运费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1986070456567554137",
+        "created_at": "2025-11-05T13:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986070456567554137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960791784675794949",
+              "start": 3,
+              "username": "nagiVictoriaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986070456567554137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986047333348651207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagiVictoriaL: 没有女性sfz的xyn们喵 nagi帮代购补子喵 25r/盒 3盒以上包运费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960791784675794949",
+        "conversation_id": "1986047333348651207",
+        "created_at": "2025-11-05T12:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986047333348651207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/bghtnya/status/1985903441332633638",
+              "start": 39,
+              "url": "https://t.co/AfmHXPzwJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986047333348651207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903441332633638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有女性sfz的xyn们喵 nagi帮代购补子喵 25r/盒 3盒以上包运费 https://t.co/AfmHXPzwJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 5385,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T19:49:32.000Z",
+        "description": "也是一种独特的人生体验嘛 杨家承霖 参上！ @NagiExpress 的评论号🤤喜欢小正太和可爱的小男孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "NagiExpress"
+              }
+            ]
+          }
+        },
+        "id": "1960791784675794949",
+        "location": "厦门思明区洪莲里22号503",
+        "name": "维多利亚线🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1964089329581703641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960791941706342400/Ap3zbxre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 44,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 295
+        },
+        "username": "nagiVictoriaL",
+        "verified": false
+      }
+    ]
+  }
+}

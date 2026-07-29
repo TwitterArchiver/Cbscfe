@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1985529306697592939",
+    "created_at": "2025-11-04T08:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985622450634440791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 31,
+          "id": "1146641510462611457",
+          "start": 17,
+          "username": "doctor_pillow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985622450634440791",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985617580011495513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @doctor_pillow ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1985617570758877185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45UqQzbYAEsEX3.jpg",
+        "width": 789
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1985529306697592939",
+        "created_at": "2025-11-04T08:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985622450634440791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 31,
+              "id": "1146641510462611457",
+              "start": 17,
+              "username": "doctor_pillow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985622450634440791",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985617580011495513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @doctor_pillow ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985617570758877185"
+          ]
+        },
+        "author_id": "1676572709742944259",
+        "conversation_id": "1985529306697592939",
+        "created_at": "2025-11-04T07:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985617580011495513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1146641510462611457",
+              "start": 0,
+              "username": "doctor_pillow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfGDqBswbg",
+              "end": 38,
+              "expanded_url": "https://x.com/Technology80420/status/1985617580011495513/photo/1",
+              "media_key": "3_1985617570758877185",
+              "start": 15,
+              "url": "https://t.co/nfGDqBswbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985617580011495513",
+        "in_reply_to_user_id": "1146641510462611457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985529306697592939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doctor_pillow https://t.co/nfGDqBswbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 62,
+          "like_count": 5131,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 923,
+          "like_count": 29791,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1521
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-04T04:46:54.000Z",
+        "description": "artist 🪶🐺🩶💙Arknights enjoyer 我永远❤️明日方舟 My NSFW sub account (@pointer_pillow) bsky: https://t.co/LrRbCLmYq3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "pointer_pillow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pillow…",
+                "end": 106,
+                "expanded_url": "https://bsky.app/profile/pillowdoctor.bsky.social",
+                "start": 83,
+                "url": "https://t.co/LrRbCLmYq3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/20294955",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/20294955",
+                "start": 0,
+                "url": "https://t.co/qFvejxXBnv"
+              }
+            ]
+          }
+        },
+        "id": "1146641510462611457",
+        "location": "Austin, TX",
+        "name": "PillowDoctor",
+        "pinned_tweet_id": "1944540394647339428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945372738534739968/AnpRPa3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 386,
+          "like_count": 11420,
+          "listed_count": 7,
+          "media_count": 394,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/qFvejxXBnv",
+        "username": "doctor_pillow",
+        "verified": false
+      }
+    ]
+  }
+}

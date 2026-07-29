@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2055595626755428422",
+    "created_at": "2026-05-16T13:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055636297931530418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        },
+        {
+          "end": 23,
+          "id": "1946799807366082560",
+          "start": 13,
+          "username": "LeavesMao"
+        },
+        {
+          "end": 39,
+          "id": "1746469344325021697",
+          "start": 24,
+          "username": "suzumiyasuzume"
+        },
+        {
+          "end": 50,
+          "id": "1940234347464073216",
+          "start": 40,
+          "username": "KamiHzhai"
+        },
+        {
+          "end": 60,
+          "id": "2022181719835914242",
+          "start": 51,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055636297931530418",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055635749970817036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya @LeavesMao @suzumiyasuzume @KamiHzhai @QY404XYN 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2055595626755428422",
+        "created_at": "2026-05-16T13:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055636297931530418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 23,
+              "id": "1946799807366082560",
+              "start": 13,
+              "username": "LeavesMao"
+            },
+            {
+              "end": 39,
+              "id": "1746469344325021697",
+              "start": 24,
+              "username": "suzumiyasuzume"
+            },
+            {
+              "end": 50,
+              "id": "1940234347464073216",
+              "start": 40,
+              "username": "KamiHzhai"
+            },
+            {
+              "end": 60,
+              "id": "2022181719835914242",
+              "start": 51,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055636297931530418",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055635749970817036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya @LeavesMao @suzumiyasuzume @KamiHzhai @QY404XYN 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860552199585300482",
+        "conversation_id": "2055595626755428422",
+        "created_at": "2026-05-16T13:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055635749970817036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946799807366082560",
+              "start": 0,
+              "username": "LeavesMao"
+            },
+            {
+              "end": 26,
+              "id": "1746469344325021697",
+              "start": 11,
+              "username": "suzumiyasuzume"
+            },
+            {
+              "end": 34,
+              "id": "1959893383633358848",
+              "start": 27,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 45,
+              "id": "1940234347464073216",
+              "start": 35,
+              "username": "KamiHzhai"
+            },
+            {
+              "end": 55,
+              "id": "2022181719835914242",
+              "start": 46,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055635749970817036",
+        "in_reply_to_user_id": "1946799807366082560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055599419396084030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeavesMao @suzumiyasuzume @Cbscfe @KamiHzhai @QY404XYN 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 609,
+          "like_count": 23505,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 5428
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|已拥盐26.4.8|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2053280846417891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 140,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 275
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ she / 猫猫叶！\n2009.05.23 | 家暴党 | 独居中 | 浙江杭州 | INFP | #Minecraft | 最好的姐姐 @xiey57828 | 胆小爱哭想被爱… | 喜欢可爱的人事物  | 同类互fo喵 | 希望大家都可以开开心心的\n猫猫叶… @DontLeaveMao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 57,
+                "tag": "Minecraft"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "xiey57828"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "location": "柜子里面有炸弹",
+        "name": "🍼猫猫叶TheCat🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055416163040149641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055121224888664064/q0TB8fg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 397,
+          "like_count": 1738,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 736
+        },
+        "username": "LeavesMao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13569,
+          "following_count": 952,
+          "like_count": 2259,
+          "listed_count": 22,
+          "media_count": 133,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-02T02:22:17.000Z",
+        "description": "私は神谷紅葉です~/MTF 🏳️‍⚧️ DIY HRT 2025.9.5/无证含糖🍥/同类互fo喵/狐狐猫猫/偶尔出现 綾瀬花影 乃另一个我/饿了要喝奶/什么也不会的阴角宅宅",
+        "id": "1940234347464073216",
+        "location": "幻想鄉",
+        "name": "神宅椛🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017799624116109312/Nj63J7Zh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 68,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 192
+        },
+        "username": "KamiHzhai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜正在戒od｜自残｜精神不稳定｜｜｜有事直接用推私聊",
+        "id": "2022181719835914242",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2055560268500046090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054951425072037888/kHVEMI6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4290,
+          "following_count": 219,
+          "like_count": 213,
+          "listed_count": 7,
+          "media_count": 79,
+          "tweet_count": 442
+        },
+        "username": "QY404XYN",
+        "verified": false
+      }
+    ]
+  }
+}

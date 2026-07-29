@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2026501294085767604",
+    "created_at": "2026-02-25T03:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026501294085767604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "732437001572474880",
+          "start": 3,
+          "username": "caiyue5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026501294085767604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026200140416246185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caiyue5: 卧槽，惊奇发现，用自己的脑子写代码不烧 token，是免费的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2026501294085767604",
+        "created_at": "2026-02-25T03:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026501294085767604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "732437001572474880",
+              "start": 3,
+              "username": "caiyue5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026501294085767604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026200140416246185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caiyue5: 卧槽，惊奇发现，用自己的脑子写代码不烧 token，是免费的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732437001572474880",
+        "conversation_id": "2026200140416246185",
+        "created_at": "2026-02-24T07:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026200140416246185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026200140416246185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 256252,
+          "like_count": 1920,
+          "quote_count": 34,
+          "reply_count": 204,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，惊奇发现，用自己的脑子写代码不烧 token，是免费的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 167,
+          "like_count": 15106,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2203
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-17T05:06:04.000Z",
+        "description": "Founder of Sup Space.",
+        "id": "732437001572474880",
+        "location": "Earth",
+        "name": "Yue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018576894258819073/hhWTGjCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8831,
+          "following_count": 444,
+          "like_count": 8748,
+          "listed_count": 90,
+          "media_count": 583,
+          "tweet_count": 5018
+        },
+        "username": "caiyue5",
+        "verified": true
+      }
+    ]
+  }
+}

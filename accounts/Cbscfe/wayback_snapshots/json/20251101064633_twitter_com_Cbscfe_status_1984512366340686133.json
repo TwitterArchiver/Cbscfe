@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984512366340686133",
+    "created_at": "2025-11-01T06:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984512366340686133"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Chicken jockey",
+          "probability": 0.6397,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1569884237364346881",
+          "start": 3,
+          "username": "DeHashiro"
+        },
+        {
+          "end": 31,
+          "id": "1799523365771685888",
+          "start": 15,
+          "username": "krystal_is_dumb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984512366340686133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984427196182610130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeHashiro: @krystal_is_dumb ''Chicken jockey''"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984512366340686133",
+        "created_at": "2025-11-01T06:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984512366340686133"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Chicken jockey",
+              "probability": 0.6397,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1569884237364346881",
+              "start": 3,
+              "username": "DeHashiro"
+            },
+            {
+              "end": 31,
+              "id": "1799523365771685888",
+              "start": 15,
+              "username": "krystal_is_dumb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984512366340686133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984427196182610130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeHashiro: @krystal_is_dumb ''Chicken jockey''"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569884237364346881",
+        "conversation_id": "1984151610172568062",
+        "created_at": "2025-11-01T01:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984427196182610130"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "jockey",
+              "probability": 0.5473,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799523365771685888",
+              "start": 0,
+              "username": "krystal_is_dumb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984427196182610130",
+        "in_reply_to_user_id": "1799523365771685888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1050,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984151610172568062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@krystal_is_dumb ''Chicken jockey''"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T03:02:43.000Z",
+        "description": "Nothing to see here",
+        "id": "1569884237364346881",
+        "name": "Hashiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825000773870059521/vkod73V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "username": "DeHashiro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T19:26:27.000Z",
+        "description": "16 |•| Taken :3 |•| Alt of @Krystal793210 |•| voice actor/musician |•| pfp: @NiloBunny |•| 🩷💛🩵/🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Krystal793210"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "NiloBunny"
+              }
+            ]
+          }
+        },
+        "id": "1799523365771685888",
+        "location": "She/Her",
+        "name": "Krystal but Dumb 🏳️‍⚧️",
+        "pinned_tweet_id": "1984138122276528161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984137536696889344/AwVIiZYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 206,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 815
+        },
+        "username": "krystal_is_dumb",
+        "verified": false
+      }
+    ]
+  }
+}

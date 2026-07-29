@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984163574860619776"
+      ],
+      "media_source_tweet_id": [
+        "1984163577964470486"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984510865320919205",
+    "created_at": "2025-11-01T06:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984510865320919205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721420351132028928",
+          "start": 3,
+          "username": "3letter_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgGGVaeWxa",
+          "end": 41,
+          "expanded_url": "https://x.com/3letter_/status/1984163577964470486/photo/1",
+          "media_key": "3_1984163574860619776",
+          "start": 18,
+          "url": "https://t.co/DgGGVaeWxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984510865320919205",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984163577964470486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3letter_: Fox https://t.co/DgGGVaeWxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1984163574860619776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kqQj_WIAAZ0fO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984163574860619776"
+          ],
+          "media_source_tweet_id": [
+            "1984163577964470486"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984510865320919205",
+        "created_at": "2025-11-01T06:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984510865320919205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721420351132028928",
+              "start": 3,
+              "username": "3letter_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgGGVaeWxa",
+              "end": 41,
+              "expanded_url": "https://x.com/3letter_/status/1984163577964470486/photo/1",
+              "media_key": "3_1984163574860619776",
+              "start": 18,
+              "url": "https://t.co/DgGGVaeWxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984510865320919205",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984163577964470486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3letter_: Fox https://t.co/DgGGVaeWxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984163574860619776"
+          ]
+        },
+        "author_id": "1721420351132028928",
+        "conversation_id": "1984163577964470486",
+        "created_at": "2025-10-31T07:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984163577964470486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgGGVaeWxa",
+              "end": 27,
+              "expanded_url": "https://x.com/3letter_/status/1984163577964470486/photo/1",
+              "media_key": "3_1984163574860619776",
+              "start": 4,
+              "url": "https://t.co/DgGGVaeWxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984163577964470486",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 43337,
+          "like_count": 1852,
+          "quote_count": 122,
+          "reply_count": 130,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "Fox https://t.co/DgGGVaeWxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 4587,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T06:52:56.000Z",
+        "description": "Follow me and I’ll reply with three special letters just for you! ✨ 4 letters ver. @4letter_ My other accounts ▶︎ https://t.co/Y78fHbbetx By KAEDE Games",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "4letter_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tr.ee/kae",
+                "end": 137,
+                "expanded_url": "https://tr.ee/kae",
+                "start": 114,
+                "url": "https://t.co/Y78fHbbetx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3A3letter_%20min_retweets%3A100%20min_faves%3A1000",
+                "start": 0,
+                "url": "https://t.co/GugMOlkOrQ"
+              }
+            ]
+          }
+        },
+        "id": "1721420351132028928",
+        "location": "♡ 1K+ likes posts ⤵︎ 🌷🍀🌹🌻",
+        "name": "3 random letters every 10 mins",
+        "pinned_tweet_id": "1938142335998824751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886499055821578241/XRzle1rA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108379,
+          "following_count": 3642,
+          "like_count": 2294,
+          "listed_count": 60,
+          "media_count": 101307,
+          "tweet_count": 107217
+        },
+        "url": "https://t.co/GugMOlkOrQ",
+        "username": "3letter_",
+        "verified": true
+      }
+    ]
+  }
+}

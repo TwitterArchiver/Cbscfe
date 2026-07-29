@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1983513470508400891",
+    "created_at": "2025-10-29T12:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983513470508400891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Cbscfe/status/1974860974294454562",
+          "start": 8,
+          "url": "https://t.co/3PVk4kEcFh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983513470508400891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974860974294454562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种反转不要啊 https://t.co/3PVk4kEcFh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983513470508400891",
+        "created_at": "2025-10-29T12:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983513470508400891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Cbscfe/status/1974860974294454562",
+              "start": 8,
+              "url": "https://t.co/3PVk4kEcFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983513470508400891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974860974294454562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种反转不要啊 https://t.co/3PVk4kEcFh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1974860974294454562",
+        "created_at": "2025-10-05T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974860974294454562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1974853526603116582",
+              "start": 28,
+              "url": "https://t.co/qxWIsOcd2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974860974294454562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974853526603116582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我最幸运的事情是我的社交圈子没有人因为自杀而死去 https://t.co/qxWIsOcd2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 4111,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

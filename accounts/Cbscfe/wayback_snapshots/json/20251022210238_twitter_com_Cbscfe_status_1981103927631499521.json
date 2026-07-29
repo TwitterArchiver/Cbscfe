@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1981103927631499521",
+    "created_at": "2025-10-22T21:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T22:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981103927631499521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaoning000/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/miaoning000/status/1980943962627342781",
+          "start": 9,
+          "url": "https://t.co/IrES1KUN8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981103927631499521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980943962627342781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I SEE... https://t.co/IrES1KUN8F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1981103927631499521",
+        "created_at": "2025-10-22T21:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T22:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981103927631499521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaoning000/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/miaoning000/status/1980943962627342781",
+              "start": 9,
+              "url": "https://t.co/IrES1KUN8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981103927631499521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980943962627342781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I SEE... https://t.co/IrES1KUN8F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1980943962627342781",
+        "created_at": "2025-10-22T10:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980943962627342781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1980093700366827689",
+              "start": 118,
+              "url": "https://t.co/VRwGOFj38n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980943962627342781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2212,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980093700366827689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "15岁是自杀的黄金年龄 因为刚好中考 而且身体也发育的差不多了 但是青春期的第二性征还不明显 而且15岁也基本有自己的思想和价值观了 比这个数大或者小就都没有美感了 所以我的第一次自杀会选15岁的末尾 因为我怕过了15就死的像个小丑了 https://t.co/VRwGOFj38n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 45,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352,
+          "following_count": 3439,
+          "like_count": 14555,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 6942
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

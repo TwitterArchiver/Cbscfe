@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2040389017259429975",
+    "created_at": "2026-04-04T11:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040389526544363960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040389526544363960",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040389017259429975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 看看repo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2040388919846649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDq6YMaQAAbzwu.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2040389017259429975",
+        "created_at": "2026-04-04T11:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040389526544363960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040389526544363960",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040389017259429975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 看看repo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040388919846649856"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2040389017259429975",
+        "created_at": "2026-04-04T11:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040389017259429975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UolcPLbq6v",
+              "end": 36,
+              "expanded_url": "https://x.com/HosinoEJ/status/2040389017259429975/photo/1",
+              "media_key": "3_2040388919846649856",
+              "start": 13,
+              "url": "https://t.co/UolcPLbq6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040389017259429975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100commits达成 https://t.co/UolcPLbq6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 241,
+          "like_count": 18079,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "凡真心所向，皆成迴響；足以在偏見的荒原，震碎扭曲的枷鎖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCT.hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://NCT.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/MYVBfe2rap"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2037907869560168750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 507,
+          "like_count": 3262,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/MYVBfe2rap",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

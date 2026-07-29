@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1994648886703423972",
+    "created_at": "2025-11-30T02:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994959298095689870"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "BGM",
+          "probability": 0.5486,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1343723048835440640",
+          "start": 0,
+          "username": "girlskwrt"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【Mylist】　 mylist/17912525【Twitter】　https://twitter.com/maretu01【Offvocal】https://www.dropbox.com/scl/fi/re1tovcdxqatkgi3fsyqw/92-off-vocal.wav?rlkey=nl2w5hn6...",
+          "display_url": "youtube.com/watch?v=Yt5-aN…",
+          "end": 78,
+          "expanded_url": "https://www.youtube.com/watch?v=Yt5-aNnDvBE&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=14",
+          "start": 55,
+          "status": 200,
+          "title": "【初音ミク】　エンゼル92　【オリジナル】",
+          "unwound_url": "https://www.youtube.com/watch?v=Yt5-aNnDvBE&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=14",
+          "url": "https://t.co/gYQm9XHID9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994959298095689870",
+    "in_reply_to_user_id": "1343723048835440640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994648886703423972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@girlskwrt WTF\nyour attack matches perfect with my BGM\nhttps://t.co/gYQm9XHID9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26900,
+        "height": 720,
+        "media_key": "13_1994648803572375553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994648803572375553/img/7oG2y1f-qWngFTKt.jpg",
+        "public_metrics": {
+          "view_count": 30843
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994648803572375553/vid/avc1/480x270/ESTqmaNlRNcvHouZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994648803572375553/vid/avc1/640x360/CxpA99lgYTolmfX1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994648803572375553/vid/avc1/1280x720/a8ByqRnVq1p-MJ08.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994648803572375553/pl/O_9CvMbFwqzVG4b4.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1994648886703423972",
+        "created_at": "2025-11-30T02:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994959298095689870"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "BGM",
+              "probability": 0.5486,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1343723048835440640",
+              "start": 0,
+              "username": "girlskwrt"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【Mylist】　 mylist/17912525【Twitter】　https://twitter.com/maretu01【Offvocal】https://www.dropbox.com/scl/fi/re1tovcdxqatkgi3fsyqw/92-off-vocal.wav?rlkey=nl2w5hn6...",
+              "display_url": "youtube.com/watch?v=Yt5-aN…",
+              "end": 78,
+              "expanded_url": "https://www.youtube.com/watch?v=Yt5-aNnDvBE&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=14",
+              "start": 55,
+              "status": 200,
+              "title": "【初音ミク】　エンゼル92　【オリジナル】",
+              "unwound_url": "https://www.youtube.com/watch?v=Yt5-aNnDvBE&list=OLAK5uy_lQK82u47UAav51NUHg3kJJpRkatknn_mQ&index=14",
+              "url": "https://t.co/gYQm9XHID9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994959298095689870",
+        "in_reply_to_user_id": "1343723048835440640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994648886703423972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girlskwrt WTF\nyour attack matches perfect with my BGM\nhttps://t.co/gYQm9XHID9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994648803572375553"
+          ]
+        },
+        "author_id": "1343723048835440640",
+        "conversation_id": "1994648886703423972",
+        "created_at": "2025-11-29T06:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994648886703423972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czTcrY99SZ",
+              "end": 54,
+              "expanded_url": "https://x.com/girlskwrt/status/1994648886703423972/video/1",
+              "media_key": "13_1994648803572375553",
+              "start": 31,
+              "url": "https://t.co/czTcrY99SZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994648886703423972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 55462,
+          "like_count": 1775,
+          "quote_count": 22,
+          "reply_count": 166,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "does this impress any lesbians https://t.co/czTcrY99SZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 98,
+          "like_count": 9498,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T00:58:41.000Z",
+        "description": "t girl • backup @girlspritz • pfp by @tappaied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "girlspritz"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "tappaied"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dannybrown.warp.net",
+                "end": 23,
+                "expanded_url": "http://dannybrown.warp.net/",
+                "start": 0,
+                "url": "https://t.co/e6xMGIKJUi"
+              }
+            ]
+          }
+        },
+        "id": "1343723048835440640",
+        "location": "she/they",
+        "name": "Baja",
+        "pinned_tweet_id": "1874885082630308239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983309000482451456/HocuGX7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 5377,
+          "like_count": 162058,
+          "listed_count": 13,
+          "media_count": 1295,
+          "tweet_count": 17292
+        },
+        "url": "https://t.co/e6xMGIKJUi",
+        "username": "girlskwrt",
+        "verified": false
+      }
+    ]
+  }
+}

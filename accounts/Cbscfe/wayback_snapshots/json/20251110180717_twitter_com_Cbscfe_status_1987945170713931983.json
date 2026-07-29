@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987762401538920529",
+    "created_at": "2025-11-10T18:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987945170713931983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922943207643709440",
+          "start": 0,
+          "username": "paidax08"
+        },
+        {
+          "end": 24,
+          "id": "3301687694",
+          "start": 10,
+          "username": "Shirlene_girl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/paidax08/statu…",
+          "end": 114,
+          "expanded_url": "https://x.com/paidax08/status/1987879313727984005",
+          "start": 91,
+          "url": "https://t.co/WEMuUwGNvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987945170713931983",
+    "in_reply_to_user_id": "1922943207643709440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987879313727984005",
+        "type": "quoted"
+      },
+      {
+        "id": "1987880037950038385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paidax08 @Shirlene_girl 这是第三个\n\n\"我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事\"\n\nhttps://t.co/WEMuUwGNvR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987762401538920529",
+        "created_at": "2025-11-10T18:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987945170713931983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922943207643709440",
+              "start": 0,
+              "username": "paidax08"
+            },
+            {
+              "end": 24,
+              "id": "3301687694",
+              "start": 10,
+              "username": "Shirlene_girl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/paidax08/statu…",
+              "end": 114,
+              "expanded_url": "https://x.com/paidax08/status/1987879313727984005",
+              "start": 91,
+              "url": "https://t.co/WEMuUwGNvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987945170713931983",
+        "in_reply_to_user_id": "1922943207643709440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987879313727984005",
+            "type": "quoted"
+          },
+          {
+            "id": "1987880037950038385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paidax08 @Shirlene_girl 这是第三个\n\n\"我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事\"\n\nhttps://t.co/WEMuUwGNvR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922943207643709440",
+        "conversation_id": "1987879313727984005",
+        "created_at": "2025-11-10T13:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987879313727984005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987879313727984005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922943207643709440",
+        "conversation_id": "1987762401538920529",
+        "created_at": "2025-11-10T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987880037950038385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987880037950038385",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987762401538920529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl 如果你能滚去泰国就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 70,
+          "like_count": 6250,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T09:12:52.000Z",
+        "description": "19岁北京在读大学生，喜欢运动、摄影和看书，颜值小帅，谦逊温柔礼貌不是我的优点，而是我的习惯，欢迎大家素质交友\n————已有老婆：@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1922943207643709440",
+        "name": "速溶奶酪（浴火重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923636762858991616/c8Xfih-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 128,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 932
+        },
+        "username": "paidax08",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "mtftx/INFJ-T/养兔🐇/妹妹@EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "👰🏻‍♀️",
+        "name": "雪玲🐰🏳️‍⚧️",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981795569040322560/12ws3iSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 1666,
+          "like_count": 25759,
+          "listed_count": 13,
+          "media_count": 304,
+          "tweet_count": 4538
+        },
+        "username": "Shirlene_girl",
+        "verified": false
+      }
+    ]
+  }
+}

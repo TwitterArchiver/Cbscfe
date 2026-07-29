@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990460540024696832"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1990077004436165115",
+    "created_at": "2025-11-17T16:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990460794115666042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909511403700166656",
+          "start": 0,
+          "username": "Yezizhio_O"
+        },
+        {
+          "end": 27,
+          "id": "1823898821673541633",
+          "start": 12,
+          "username": "BengBengChuang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0D5L4zRaI1",
+          "end": 51,
+          "expanded_url": "https://x.com/Cbscfe/status/1990460794115666042/photo/1",
+          "media_key": "3_1990460540024696832",
+          "start": 28,
+          "url": "https://t.co/0D5L4zRaI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990460794115666042",
+    "in_reply_to_user_id": "1909511403700166656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990269452194402735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yezizhio_O @BengBengChuang https://t.co/0D5L4zRaI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_1990460540024696832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-JULOasAABj8m.jpg",
+        "width": 927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990460540024696832"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1990077004436165115",
+        "created_at": "2025-11-17T16:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990460794115666042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909511403700166656",
+              "start": 0,
+              "username": "Yezizhio_O"
+            },
+            {
+              "end": 27,
+              "id": "1823898821673541633",
+              "start": 12,
+              "username": "BengBengChuang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0D5L4zRaI1",
+              "end": 51,
+              "expanded_url": "https://x.com/Cbscfe/status/1990460794115666042/photo/1",
+              "media_key": "3_1990460540024696832",
+              "start": 28,
+              "url": "https://t.co/0D5L4zRaI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990460794115666042",
+        "in_reply_to_user_id": "1909511403700166656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990269452194402735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yezizhio_O @BengBengChuang https://t.co/0D5L4zRaI1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909511403700166656",
+        "conversation_id": "1990077004436165115",
+        "created_at": "2025-11-17T04:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990269452194402735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1823898821673541633",
+              "start": 8,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990269452194402735",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990117316340957538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @BengBengChuang 啥意思（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 81,
+          "like_count": 7244,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T07:40:09.000Z",
+        "description": "蹦蹦床的评论bot @BengBengChuang\n✪慎关会刷屏！偶尔高强度刷屏吵到泥萌我很抱歉｜\n会回复很久之前的没回的评论不要见怪✌🏻\n|关注较随意不用礼貌回关的！\n|我在偷偷观察人类\n|取关请单取♡\n|私信请大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "BengBengChuang"
+              }
+            ]
+          }
+        },
+        "id": "1909511403700166656",
+        "location": "人类的本质是树 小猫 海水和一些心碎",
+        "name": "椰子汁🦴(恩师蹦蹦床)",
+        "pinned_tweet_id": "1914142982632247400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969984896262418432/Q5m-x5XS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 180,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 1206,
+          "tweet_count": 11458
+        },
+        "username": "Yezizhio_O",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "重生之我在X写日记/碎碎念/我是一个活人/欢迎视奸！评论看见就会/私信不咋回没互动过的建议评论/推文含有大量负面情绪‼️牢骚抱怨 /评论椰子汁回/自用蜂鸟VPN🐦↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.sachlife.com/#/register?code=jKJWbmDa",
+                "start": 0,
+                "url": "https://t.co/7XKCwwvbGY"
+              }
+            ]
+          }
+        },
+        "id": "1823898821673541633",
+        "location": "我累累的 痛痛的 懒懒的 废废的 …",
+        "name": "蹦蹦床🦴(周一版)",
+        "pinned_tweet_id": "1912296798372434139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969423306693754884/-TMfF9W6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 100,
+          "like_count": 902,
+          "listed_count": 3,
+          "media_count": 807,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/7XKCwwvbGY",
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

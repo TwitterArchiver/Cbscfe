@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1989696896894734725",
+    "created_at": "2025-11-15T14:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989697067216691223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989697067216691223",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989696896894734725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 zzz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1989696896894734725",
+        "created_at": "2025-11-15T14:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989697067216691223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989697067216691223",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989696896894734725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 zzz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965351173872820224",
+        "conversation_id": "1989696896894734725",
+        "created_at": "2025-11-15T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989696896894734725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989696896894734725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有没有什么能锐评的地方\n比如“我只知道他...”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 6957,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "戴上墨镜的喵梦是无敌的！（原创背景）没回fo就是在做动画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music.git",
+                "start": 0,
+                "url": "https://t.co/yRtaaYP2Zg"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "ᵃᵛᵉᵐᵘʲⁱᶜᵃ",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1869,
+          "like_count": 5890,
+          "listed_count": 2,
+          "media_count": 1300,
+          "tweet_count": 3649
+        },
+        "url": "https://t.co/yRtaaYP2Zg",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1977769479909314832",
+    "created_at": "2025-10-14T04:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T05:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977950295587172461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        },
+        {
+          "end": 17,
+          "id": "1613079089879076864",
+          "start": 10,
+          "username": "Cldeop"
+        },
+        {
+          "end": 23,
+          "id": "2578159730",
+          "start": 18,
+          "username": "____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977950295587172461",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977816033147986132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiwenel @Cldeop @____ 你有什么资历？我23年的时候就在开挂了，当时开了半年的彗星。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@meteor_client，只不过后面我们发现根本就没有开挂的土壤，就在24年左右都退圈了也不开了。结果你们这些新生代自顾自的又开起来了。我只是在感叹你们悲惨的结局而已"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [____].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "____",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "____"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1977769479909314832",
+        "created_at": "2025-10-14T04:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T05:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977950295587172461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            },
+            {
+              "end": 17,
+              "id": "1613079089879076864",
+              "start": 10,
+              "username": "Cldeop"
+            },
+            {
+              "end": 23,
+              "id": "2578159730",
+              "start": 18,
+              "username": "____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977950295587172461",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977816033147986132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiwenel @Cldeop @____ 你有什么资历？我23年的时候就在开挂了，当时开了半年的彗星。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@meteor_client，只不过后面我们发现根本就没有开挂的土壤，就在24年左右都退圈了也不开了。结果你们这些新生代自顾自的又开起来了。我只是在感叹你们悲惨的结局而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451898340262645760",
+        "conversation_id": "1977769479909314832",
+        "created_at": "2025-10-13T19:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977816033147986132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 13,
+              "id": "2578159730",
+              "start": 8,
+              "username": "____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977816033147986132",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1195,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977769479909314832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @____ 你有什么资历？我12年的时候就玩MC了，当时玩了几年的MC。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@多玩我的世界盒子，只不过后面我们发现中国版根本就没有MC的土壤，就在21年左右都退圈了也不玩了。结果你们这些新生代自顾自的又玩起来了。我只是在感叹你们悲惨的结局而已\n（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "like_count": 2253,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵哦，正在尝试成为Vup&Vtuber～感谢您莅临本账号｜小号：@yuhan2680",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "yuhan2680"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuhan2680.net",
+                "end": 23,
+                "expanded_url": "http://www.yuhan2680.net",
+                "start": 0,
+                "url": "https://t.co/EaLqxEl3Ab"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843883663496458240/GypnDc1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 296,
+          "like_count": 98585,
+          "listed_count": 17,
+          "media_count": 2061,
+          "tweet_count": 21897
+        },
+        "url": "https://t.co/EaLqxEl3Ab",
+        "username": "Naiwenel",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83746,
+          "following_count": 644,
+          "like_count": 30849,
+          "listed_count": 257,
+          "media_count": 12738,
+          "tweet_count": 18054
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

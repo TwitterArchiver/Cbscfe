@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2030842885818687999",
+    "created_at": "2026-03-09T03:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030842885818687999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nmpf1203/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Nmpf1203/status/2030304974874533914",
+          "start": 7,
+          "url": "https://t.co/77BpXOzO00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030842885818687999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030304974874533914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟群友互关。 https://t.co/77BpXOzO00"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2030842885818687999",
+        "created_at": "2026-03-09T03:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030842885818687999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nmpf1203/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Nmpf1203/status/2030304974874533914",
+              "start": 7,
+              "url": "https://t.co/77BpXOzO00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030842885818687999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030304974874533914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟群友互关。 https://t.co/77BpXOzO00"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029088109481345028",
+        "conversation_id": "2030304974874533914",
+        "created_at": "2026-03-07T15:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030304974874533914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030304974874533914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 106679,
+          "like_count": 515,
+          "quote_count": 27,
+          "reply_count": 730,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇大家上推特的初衷是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 197,
+          "like_count": 16553,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T06:54:51.000Z",
+        "description": "https://t.co/rSEjVcKgGe\n本号用于碎碎念和回复匿名\n私信很少看，找我聊天可以私信@wfsnyqz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "wfsnyqz"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ppum1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ppum1",
+                "start": 0,
+                "url": "https://t.co/rSEjVcKgGe"
+              }
+            ]
+          }
+        },
+        "id": "2029088109481345028",
+        "name": "AAA男模批发曦总",
+        "pinned_tweet_id": "2029479382776197345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029092044967428105/v-7bc6V6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 21,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "username": "Nmpf1203",
+        "verified": false
+      }
+    ]
+  }
+}

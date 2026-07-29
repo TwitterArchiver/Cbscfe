@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1985559319094706191",
+    "created_at": "2025-11-04T04:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985559319094706191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488435810991222786",
+          "start": 3,
+          "username": "IRCAyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985559319094706191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985418840764006410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IRCAyuan: 我还不想死。。我要活下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1985559319094706191",
+        "created_at": "2025-11-04T04:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T05:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985559319094706191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488435810991222786",
+              "start": 3,
+              "username": "IRCAyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985559319094706191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985418840764006410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IRCAyuan: 我还不想死。。我要活下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488435810991222786",
+        "conversation_id": "1985418840764006410",
+        "created_at": "2025-11-03T18:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T19:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985418840764006410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985418840764006410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我还不想死。。我要活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 5093,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T08:55:37.000Z",
+        "description": "一个不定时冒泡发点东西的不明生物（可能是幽灵|ω·)",
+        "id": "1488435810991222786",
+        "name": "EhsYuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923254076025995264/V2l2BF8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 336,
+          "like_count": 13451,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2285
+        },
+        "username": "IRCAyuan",
+        "verified": false
+      }
+    ]
+  }
+}

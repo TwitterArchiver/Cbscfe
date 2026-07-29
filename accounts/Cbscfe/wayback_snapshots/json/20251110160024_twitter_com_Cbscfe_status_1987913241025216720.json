@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987861884972986801",
+    "created_at": "2025-11-10T16:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987913241025216720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922943207643709440",
+          "start": 0,
+          "username": "paidax08"
+        },
+        {
+          "end": 24,
+          "id": "1868163970051211264",
+          "start": 10,
+          "username": "XianoYue86365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/paidax08/statu…",
+          "end": 106,
+          "expanded_url": "https://x.com/paidax08/status/1987879313727984005",
+          "start": 83,
+          "url": "https://t.co/WEMuUwGNvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987913241025216720",
+    "in_reply_to_user_id": "1922943207643709440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987879313727984005",
+        "type": "quoted"
+      },
+      {
+        "id": "1987876251294671113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paidax08 @XianoYue86365 \"我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事\"\nhttps://t.co/WEMuUwGNvR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987861884972986801",
+        "created_at": "2025-11-10T16:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987913241025216720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922943207643709440",
+              "start": 0,
+              "username": "paidax08"
+            },
+            {
+              "end": 24,
+              "id": "1868163970051211264",
+              "start": 10,
+              "username": "XianoYue86365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/paidax08/statu…",
+              "end": 106,
+              "expanded_url": "https://x.com/paidax08/status/1987879313727984005",
+              "start": 83,
+              "url": "https://t.co/WEMuUwGNvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987913241025216720",
+        "in_reply_to_user_id": "1922943207643709440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987879313727984005",
+            "type": "quoted"
+          },
+          {
+            "id": "1987876251294671113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paidax08 @XianoYue86365 \"我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事\"\nhttps://t.co/WEMuUwGNvR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922943207643709440",
+        "conversation_id": "1987879313727984005",
+        "created_at": "2025-11-10T13:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987879313727984005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987879313727984005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个梦想，有一天大家能够放下彼此的偏见与仇恨，坐在一起像相亲相爱的一家人一样共诉未来、理想或是一些生活琐事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922943207643709440",
+        "conversation_id": "1987861884972986801",
+        "created_at": "2025-11-10T13:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987876251294671113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987876251294671113",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987861884972986801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 死人妖吃药把脑子吃傻了？连煮几块面饼都不知道的蠢货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 69,
+          "like_count": 6221,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T09:12:52.000Z",
+        "description": "19岁北京在读大学生，喜欢运动、摄影和看书，颜值小帅，谦逊温柔礼貌不是我的优点，而是我的习惯，欢迎大家素质交友\n————已有老婆：@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1922943207643709440",
+        "name": "速溶奶酪（浴火重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923636762858991616/c8Xfih-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 128,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 930
+        },
+        "username": "paidax08",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kill27012"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 726,
+          "like_count": 2758,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 353
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2027675920853811614",
+    "created_at": "2026-03-01T03:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027943181602689316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027943181602689316",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027675920853811614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 178粉丝我都比他多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027675915405438977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPAgIFbMAEeOpf.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2027675920853811614",
+        "created_at": "2026-03-01T03:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027943181602689316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027943181602689316",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027675920853811614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 178粉丝我都比他多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027675915405438977"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2027675920853811614",
+        "created_at": "2026-02-28T09:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:22:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027675862666272957",
+          "2027675920853811614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kkATE2ifa",
+              "end": 70,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2027675920853811614/photo/1",
+              "media_key": "3_2027675915405438977",
+              "start": 47,
+              "url": "https://t.co/0kkATE2ifa"
+            },
+            {
+              "display_url": "x.com/chiyorin8964/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/chiyorin8964/status/2027520756847100116",
+              "start": 71,
+              "url": "https://t.co/uV6aQFzlxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027675920853811614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5012,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027520756847100116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给新来的厚米们前情提要，是他先说要让b站178粉丝来网暴我的，我发动大家网暴回去感觉没啥毛病 https://t.co/0kkATE2ifa https://t.co/uV6aQFzlxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 175,
+          "like_count": 15587,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海/02/男/铁道/航空/Airsoft/摄影/ACG 早稲田大学 M1 We live for love, not for hate 😘：@DurantRaym93677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "DurantRaym93677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 1181,
+          "like_count": 4130,
+          "listed_count": 6,
+          "media_count": 554,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

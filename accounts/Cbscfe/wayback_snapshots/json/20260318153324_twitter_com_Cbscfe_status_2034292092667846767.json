@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2034280336956461228",
+    "created_at": "2026-03-18T15:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034292092667846767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032802107745824768",
+          "start": 0,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034292092667846767",
+    "in_reply_to_user_id": "2032802107745824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034280336956461228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guangzhouxidu AI头像一律忽略"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2034280320846245888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs3LHmbsAAE8Rj.png",
+        "width": 857
+      },
+      {
+        "height": 967,
+        "media_key": "3_2034280320854597632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs3LHobIAAYVZG.jpg",
+        "width": 1101
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034280320858750976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs3LHpagAAcweK.jpg",
+        "width": 1135
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2034280321915752448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs3LLlbEAAxV-Z.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2034280336956461228",
+        "created_at": "2026-03-18T15:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034292092667846767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032802107745824768",
+              "start": 0,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034292092667846767",
+        "in_reply_to_user_id": "2032802107745824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034280336956461228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guangzhouxidu AI头像一律忽略"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034280320846245888",
+            "3_2034280320854597632",
+            "3_2034280320858750976",
+            "3_2034280321915752448"
+          ]
+        },
+        "author_id": "2032802107745824768",
+        "conversation_id": "2034280336956461228",
+        "created_at": "2026-03-18T14:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034280336956461228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQZQkZLuBs",
+              "end": 98,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2034280336956461228/photo/1",
+              "media_key": "3_2034280320846245888",
+              "start": 75,
+              "url": "https://t.co/wQZQkZLuBs"
+            },
+            {
+              "display_url": "pic.x.com/wQZQkZLuBs",
+              "end": 98,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2034280336956461228/photo/1",
+              "media_key": "3_2034280320854597632",
+              "start": 75,
+              "url": "https://t.co/wQZQkZLuBs"
+            },
+            {
+              "display_url": "pic.x.com/wQZQkZLuBs",
+              "end": 98,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2034280336956461228/photo/1",
+              "media_key": "3_2034280320858750976",
+              "start": 75,
+              "url": "https://t.co/wQZQkZLuBs"
+            },
+            {
+              "display_url": "pic.x.com/wQZQkZLuBs",
+              "end": 98,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2034280336956461228/photo/1",
+              "media_key": "3_2034280321915752448",
+              "start": 75,
+              "url": "https://t.co/wQZQkZLuBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034280336956461228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是老骗子了，长期活跃在x，基本上药圈每个人都收到过它的群发私信，专骗精神病人，如果收到它的私信请点：阻止与举报 - 举报- it is spam https://t.co/wQZQkZLuBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 211,
+          "like_count": 17233,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2887
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 25,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

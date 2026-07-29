@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041826528435327479",
+    "created_at": "2026-04-08T20:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041981340883808380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961388090670653440",
+          "start": 0,
+          "username": "usiisjkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041981340883808380",
+    "in_reply_to_user_id": "1961388090670653440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041826528435327479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usiisjkj 幼儿园就在翻了（我真的求我了）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2041826520390627331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYGZvja8AML79C.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041826528435327479",
+        "created_at": "2026-04-08T20:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041981340883808380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961388090670653440",
+              "start": 0,
+              "username": "usiisjkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041981340883808380",
+        "in_reply_to_user_id": "1961388090670653440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041826528435327479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usiisjkj 幼儿园就在翻了（我真的求我了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041826520390627331"
+          ]
+        },
+        "author_id": "1961388090670653440",
+        "conversation_id": "2041826528435327479",
+        "created_at": "2026-04-08T10:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041826528435327479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGSCkBne6i",
+              "end": 57,
+              "expanded_url": "https://x.com/usiisjkj/status/2041826528435327479/photo/1",
+              "media_key": "3_2041826520390627331",
+              "start": 34,
+              "url": "https://t.co/oGSCkBne6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041826528435327479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操啊啊啊啊笑死我了所有人都应该看一下这个乐子😂😂😂😂😂😂😂😂😂😂 https://t.co/oGSCkBne6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 269,
+          "like_count": 18448,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T11:19:09.000Z",
+        "description": "爱我的人 我爱你",
+        "id": "1961388090670653440",
+        "name": "寒蝉鸣泣之时幸福才会来临",
+        "pinned_tweet_id": "2035409782270836906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040371835322421248/xNrx5yRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 211,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 543
+        },
+        "username": "usiisjkj",
+        "verified": false
+      }
+    ]
+  }
+}

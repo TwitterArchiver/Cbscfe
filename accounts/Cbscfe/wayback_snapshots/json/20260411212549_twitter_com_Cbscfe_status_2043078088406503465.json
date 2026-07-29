@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043078068869435392"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042950766437282087",
+    "created_at": "2026-04-11T21:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043078088406503465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "741628257158598657",
+          "start": 0,
+          "username": "LeeAnZelo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1FBeVgz55",
+          "end": 39,
+          "expanded_url": "https://x.com/Cbscfe/status/2043078088406503465/photo/1",
+          "media_key": "3_2043078068869435392",
+          "start": 16,
+          "url": "https://t.co/O1FBeVgz55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043078088406503465",
+    "in_reply_to_user_id": "741628257158598657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042950766437282087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeAnZelo 我不明白 https://t.co/O1FBeVgz55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2043078068869435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFp4rc9akAA5IdD.jpg",
+        "width": 707
+      },
+      {
+        "height": 624,
+        "media_key": "3_2042950333668962304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoEgSQasAAUTQY.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043078068869435392"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042950766437282087",
+        "created_at": "2026-04-11T21:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043078088406503465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "741628257158598657",
+              "start": 0,
+              "username": "LeeAnZelo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1FBeVgz55",
+              "end": 39,
+              "expanded_url": "https://x.com/Cbscfe/status/2043078088406503465/photo/1",
+              "media_key": "3_2043078068869435392",
+              "start": 16,
+              "url": "https://t.co/O1FBeVgz55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043078088406503465",
+        "in_reply_to_user_id": "741628257158598657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042950766437282087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeAnZelo 我不明白 https://t.co/O1FBeVgz55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042950333668962304"
+          ]
+        },
+        "author_id": "741628257158598657",
+        "conversation_id": "2042950766437282087",
+        "created_at": "2026-04-11T12:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042950766437282087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FNM6GgK7d",
+              "end": 69,
+              "expanded_url": "https://x.com/LeeAnZelo/status/2042950766437282087/photo/1",
+              "media_key": "3_2042950333668962304",
+              "start": 46,
+              "url": "https://t.co/0FNM6GgK7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042950766437282087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 24468,
+          "like_count": 106,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "沒看留言前:我怎麼看都是灰綠，果然不是畫畫人\n\n看了留言的圖後:我被矯正了🫨 現在它是粉白 https://t.co/0FNM6GgK7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 303,
+          "like_count": 18895,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3658
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-11T13:48:50.000Z",
+        "description": "▸徵助手模型師+各種繪師ing\n▸345↑ #Vtuber #Live2D 模型師\n▸線上課程 #LeeAnZelosClass\n▸個人 https://t.co/RCN1KElFhb | 公司 https://t.co/uEY24wy4bf \n▸節目 #Live2DQAQ #我話你拆 #2025年末VT模型評鑑會",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Live2D"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "tag": "LeeAnZelosClass"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "tag": "Live2DQAQ"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "我話你拆"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "tag": "2025年末VT模型評鑑會"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zeloan.net",
+                "end": 92,
+                "expanded_url": "https://www.zeloan.net",
+                "start": 69,
+                "url": "https://t.co/RCN1KElFhb"
+              },
+              {
+                "display_url": "leeanzelo.com",
+                "end": 121,
+                "expanded_url": "https://leeanzelo.com",
+                "start": 98,
+                "url": "https://t.co/uEY24wy4bf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clibo.tw/users/leeanzelo",
+                "end": 23,
+                "expanded_url": "https://clibo.tw/users/leeanzelo",
+                "start": 0,
+                "url": "https://t.co/emd6aGqwNv"
+              }
+            ]
+          }
+        },
+        "id": "741628257158598657",
+        "location": "中文😃 | English🤏 | meme🧡",
+        "name": "李安瑟羅Zelo🌻 Live2D rigger (OPEN)",
+        "pinned_tweet_id": "2008448554722095209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430564665340305415/0pbCZTvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5913,
+          "following_count": 770,
+          "like_count": 6939,
+          "listed_count": 36,
+          "media_count": 1612,
+          "tweet_count": 7714
+        },
+        "url": "https://t.co/emd6aGqwNv",
+        "username": "LeeAnZelo",
+        "verified": true
+      }
+    ]
+  }
+}

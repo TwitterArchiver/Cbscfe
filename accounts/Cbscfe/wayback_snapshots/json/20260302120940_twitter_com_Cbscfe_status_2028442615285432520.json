@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2028442615285432520",
+    "created_at": "2026-03-02T12:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028442615285432520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pl9dk/status/2…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/pl9dk/status/2028338770072994146",
+          "start": 11,
+          "url": "https://t.co/Zubetwa9uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028442615285432520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028338770072994146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "意外的一点也不OOC https://t.co/Zubetwa9uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3021,
+        "media_key": "3_2028338732701769728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYbVK7a4AASSKK.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2028442615285432520",
+        "created_at": "2026-03-02T12:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028442615285432520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pl9dk/status/2…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/pl9dk/status/2028338770072994146",
+              "start": 11,
+              "url": "https://t.co/Zubetwa9uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028442615285432520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028338770072994146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意外的一点也不OOC https://t.co/Zubetwa9uf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028338732701769728"
+          ]
+        },
+        "author_id": "1909393300915953664",
+        "conversation_id": "2028338770072994146",
+        "created_at": "2026-03-02T05:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028338770072994146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHWRZAA8Bc",
+              "end": 29,
+              "expanded_url": "https://x.com/pl9dk/status/2028338770072994146/photo/1",
+              "media_key": "3_2028338732701769728",
+              "start": 6,
+              "url": "https://t.co/lHWRZAA8Bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028338770072994146",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 334249,
+          "like_count": 10270,
+          "quote_count": 15,
+          "reply_count": 43,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/lHWRZAA8Bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 180,
+          "like_count": 15898,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:51:11.000Z",
+        "description": "あじてーるです。癖に振りまくったイラスト描いてます。FAタグ→　#あじのしっぽ\n\n無断転載・AI学習禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 32,
+                "tag": "あじのしっぽ"
+              }
+            ]
+          }
+        },
+        "id": "1909393300915953664",
+        "location": "足立レイの肘の上",
+        "name": "あじてーる",
+        "pinned_tweet_id": "2020382348718829906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956922756030959616/x6KuNBPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 530,
+          "like_count": 16631,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 1757
+        },
+        "username": "pl9dk",
+        "verified": false
+      }
+    ]
+  }
+}

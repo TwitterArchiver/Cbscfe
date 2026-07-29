@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060291637558005760"
+      ],
+      "media_source_tweet_id": [
+        "2060291643904004271"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060357711448146413",
+    "created_at": "2026-05-29T13:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060357711448146413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599708309824897025",
+          "start": 3,
+          "username": "HoshiHiiragi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNBB5PYubl",
+          "end": 49,
+          "expanded_url": "https://x.com/HoshiHiiragi/status/2060291643904004271/photo/1",
+          "media_key": "3_2060291637558005760",
+          "start": 26,
+          "url": "https://t.co/BNBB5PYubl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060357711448146413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060291643904004271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HoshiHiiragi: 世界终究是颠了 https://t.co/BNBB5PYubl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2060291637558005760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJegVBZaUAAOjls.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060291637558005760"
+          ],
+          "media_source_tweet_id": [
+            "2060291643904004271"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060357711448146413",
+        "created_at": "2026-05-29T13:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060357711448146413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599708309824897025",
+              "start": 3,
+              "username": "HoshiHiiragi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNBB5PYubl",
+              "end": 49,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2060291643904004271/photo/1",
+              "media_key": "3_2060291637558005760",
+              "start": 26,
+              "url": "https://t.co/BNBB5PYubl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060357711448146413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060291643904004271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HoshiHiiragi: 世界终究是颠了 https://t.co/BNBB5PYubl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060291637558005760"
+          ]
+        },
+        "author_id": "1599708309824897025",
+        "conversation_id": "2060291643904004271",
+        "created_at": "2026-05-29T09:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060291643904004271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNBB5PYubl",
+              "end": 31,
+              "expanded_url": "https://x.com/HoshiHiiragi/status/2060291643904004271/photo/1",
+              "media_key": "3_2060291637558005760",
+              "start": 8,
+              "url": "https://t.co/BNBB5PYubl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060291643904004271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 31985,
+          "like_count": 271,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "世界终究是颠了 https://t.co/BNBB5PYubl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 669,
+          "like_count": 24064,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5739
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T10:12:46.000Z",
+        "description": "—一一—“希望，我的存在能够一直让你幸福。”—一一—\n柊 星:“我们电波系有自己的存活方式，我可能比较不正常一些。”——INTJ-06-中国/双鱼/中-日推-男同/电波/英专/番剧/音游/ボカロ/欧美猪圈/乐队/神椿/25時/不常键政/和有梗或有趣的人唠嗑-——“我有梦想，努力有没有用之后再想。”—私信已关—LINE↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/6ntM5aBnfa",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/6ntM5aBnfa",
+                "start": 0,
+                "url": "https://t.co/z6vqyGfKGb"
+              }
+            ]
+          }
+        },
+        "id": "1599708309824897025",
+        "location": "河北省废物保护协会  ‖   ヰ世界情緒ノ箱庭 ",
+        "name": "'柊 ほし.＇",
+        "pinned_tweet_id": "1972578310497636457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053031301733638147/1hnlCxj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 90,
+          "like_count": 8691,
+          "listed_count": 2,
+          "media_count": 2039,
+          "tweet_count": 7485
+        },
+        "url": "https://t.co/z6vqyGfKGb",
+        "username": "HoshiHiiragi",
+        "verified": false
+      }
+    ]
+  }
+}

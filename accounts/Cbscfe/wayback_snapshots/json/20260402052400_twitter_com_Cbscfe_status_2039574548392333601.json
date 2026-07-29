@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039145732368671041",
+    "created_at": "2026-04-02T05:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039574548392333601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032650173420285952",
+          "start": 0,
+          "username": "MorfonicaFox"
+        },
+        {
+          "end": 21,
+          "id": "1545277694325116928",
+          "start": 14,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039574548392333601",
+    "in_reply_to_user_id": "2032650173420285952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039329222515474640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MorfonicaFox @BI3BXI 非常好向前兼容参数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039145732368671041",
+        "created_at": "2026-04-02T05:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039574548392333601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032650173420285952",
+              "start": 0,
+              "username": "MorfonicaFox"
+            },
+            {
+              "end": 21,
+              "id": "1545277694325116928",
+              "start": 14,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039574548392333601",
+        "in_reply_to_user_id": "2032650173420285952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039329222515474640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MorfonicaFox @BI3BXI 非常好向前兼容参数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032650173420285952",
+        "conversation_id": "2039145732368671041",
+        "created_at": "2026-04-01T13:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039329222515474640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039329222515474640",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039145732368671041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 自动return None\n所以:\nstudent == lambda *args **kwargs: None"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 239,
+          "like_count": 17920,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3196
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T02:49:11.000Z",
+        "description": "An devlepor of Python\n(只是初中生qwq 我会尽力保持全平台同名的)",
+        "id": "2032650173420285952",
+        "location": "World,3 Dimension",
+        "name": "Morfonica Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032650286695636992/4Ac2IaB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "username": "MorfonicaFox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Premium+用户 Block前是否愿意承受长期限流｜Enby🏳️‍⚧️｜笨蛋@Show5560｜本垢@yqua_｜Sister @Tennoujinyano｜嘴替@10Lystra｜@BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "Show5560"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "username": "yqua_"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "10Lystra"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 3855,
+          "like_count": 38646,
+          "listed_count": 21,
+          "media_count": 2299,
+          "tweet_count": 9058
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

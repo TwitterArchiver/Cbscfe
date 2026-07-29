@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060022759573672102",
+    "created_at": "2026-05-28T18:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060070275241427326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720425128125947904",
+          "start": 0,
+          "username": "xxz10110116791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060070275241427326",
+    "in_reply_to_user_id": "1720425128125947904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060022759573672102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxz10110116791 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060022759573672102",
+        "created_at": "2026-05-28T18:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060070275241427326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720425128125947904",
+              "start": 0,
+              "username": "xxz10110116791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060070275241427326",
+        "in_reply_to_user_id": "1720425128125947904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060022759573672102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxz10110116791 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720425128125947904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2060022759573672102",
+        "created_at": "2026-05-28T15:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060022759573672102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060022759573672102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前自己就是对哲学感兴趣，本来是打算好好学一下的，但是慢慢就发现，越了解的事物，就越不恐惧了，要是哪天把什么唯心啊、人思考才让世界存在之类的话想明白了，我可能会特别想自尽（\n不愿意自杀，因为恐惧来源于未知，知道了就不怕了。\nod也是一样的，把那些wiki一天翻几十次，自然就对药物无感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 661,
+          "like_count": 23983,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5696
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日2010.7.26| 现高一（物化生\n  | 不经常建政| 技术宅(?\n│火车迷│喜欢编程💻,数码,AI,vocaloid | INFP\n│前oier（│中度焦虑中重抑郁│曾经喜欢OD |\n无证含糖🍥2026.3.27～5.23",
+        "id": "1720425128125947904",
+        "location": "卧室-床上",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051171309095464960/8znKSJIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 306,
+          "like_count": 6822,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 644
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      }
+    ]
+  }
+}

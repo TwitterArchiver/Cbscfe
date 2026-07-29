@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2031367147201638423",
+    "created_at": "2026-03-10T13:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031367147201638423"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "twitter",
+          "probability": 0.8408,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2402825646",
+          "start": 3,
+          "username": "DiegoCastagneti"
+        },
+        {
+          "end": 27,
+          "id": "1420358808",
+          "start": 21,
+          "username": "P4mui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031367147201638423",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031329010664305097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DiegoCastagneti: @P4mui twitter &gt; X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2031367147201638423",
+        "created_at": "2026-03-10T13:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031367147201638423"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "twitter",
+              "probability": 0.8408,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2402825646",
+              "start": 3,
+              "username": "DiegoCastagneti"
+            },
+            {
+              "end": 27,
+              "id": "1420358808",
+              "start": 21,
+              "username": "P4mui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031367147201638423",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031329010664305097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DiegoCastagneti: @P4mui twitter &gt; X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2402825646",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2031111984368808326",
+        "created_at": "2026-03-10T11:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031329010664305097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "twitter",
+              "probability": 0.9274,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1420358808",
+              "start": 0,
+              "username": "P4mui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031329010664305097",
+        "in_reply_to_user_id": "1420358808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7995,
+          "like_count": 307,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031111984368808326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P4mui twitter &gt; X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 198,
+          "like_count": 16737,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2688
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-22T07:00:27.000Z",
+        "description": "",
+        "id": "2402825646",
+        "name": "Diego Castagneti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/463701596161835008/UF1QmhKw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 5,
+          "like_count": 6633,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 12394
+        },
+        "username": "DiegoCastagneti",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-11T11:05:54.000Z",
+        "description": "https://t.co/mXiUpbK35E | ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tech.⠀",
+                "end": 23,
+                "expanded_url": "http://tech.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/mXiUpbK35E"
+              }
+            ]
+          }
+        },
+        "id": "1420358808",
+        "name": "P4mui ",
+        "pinned_tweet_id": "2028797409178910851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704485229795086336/WjS0ymn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9053,
+          "following_count": 551,
+          "like_count": 3454,
+          "listed_count": 45,
+          "media_count": 4693,
+          "tweet_count": 35427
+        },
+        "username": "P4mui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027133876355960832"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2026929451938808072",
+    "created_at": "2026-02-26T21:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T22:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027133888573976606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "198205495",
+          "start": 0,
+          "username": "raysan5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q50gEVFtSM",
+          "end": 32,
+          "expanded_url": "https://x.com/Cbscfe/status/2027133888573976606/photo/1",
+          "media_key": "3_2027133876355960832",
+          "start": 9,
+          "url": "https://t.co/Q50gEVFtSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027133888573976606",
+    "in_reply_to_user_id": "198205495",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026929451938808072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raysan5 https://t.co/Q50gEVFtSM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2027133876355960832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHThTRbkAANvTB.jpg",
+        "width": 2241
+      },
+      {
+        "alt_text": "raylib reached the 0 open issues and 0 open PRs!",
+        "height": 720,
+        "media_key": "3_2026928749640323072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEY9WtWkAApPP1.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027133876355960832"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2026929451938808072",
+        "created_at": "2026-02-26T21:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T22:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027133888573976606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "198205495",
+              "start": 0,
+              "username": "raysan5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q50gEVFtSM",
+              "end": 32,
+              "expanded_url": "https://x.com/Cbscfe/status/2027133888573976606/photo/1",
+              "media_key": "3_2027133876355960832",
+              "start": 9,
+              "url": "https://t.co/Q50gEVFtSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027133888573976606",
+        "in_reply_to_user_id": "198205495",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026929451938808072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raysan5 https://t.co/Q50gEVFtSM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026928749640323072"
+          ]
+        },
+        "author_id": "198205495",
+        "conversation_id": "2026929451938808072",
+        "created_at": "2026-02-26T07:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026929451938808072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "raylib",
+              "probability": 0.6163,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "raylib"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A simple and easy-to-use library to enjoy videogames programming - raysan5/raylib",
+              "display_url": "github.com/raysan5/raylib",
+              "end": 172,
+              "expanded_url": "https://github.com/raysan5/raylib",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2026929497417670656/WFlJMUFd?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026929497417670656/WFlJMUFd?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "GitHub - raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming",
+              "unwound_url": "https://github.com/raysan5/raylib",
+              "url": "https://t.co/ysxp4dZ77D"
+            },
+            {
+              "display_url": "pic.x.com/zeYsTQ98yl",
+              "end": 196,
+              "expanded_url": "https://x.com/raysan5/status/2026929451938808072/photo/1",
+              "media_key": "3_2026928749640323072",
+              "start": 173,
+              "url": "https://t.co/zeYsTQ98yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026929451938808072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 49299,
+          "like_count": 1426,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "After some months of intensive work, #raylib has finally reached the ZERO open issues** and ZERO open PRs!!! 🚀\n\nDefinitely, it's time to...\n\nSource: https://t.co/ysxp4dZ77D https://t.co/zeYsTQ98yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 170,
+          "like_count": 15229,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-03T17:08:46.000Z",
+        "description": "Passionate about gamedev technologies. I create things. Created #raylib, #raygui, #rres and many other tools as @raylibtech. FOSS at: https://t.co/sIUDDNc2tV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "raylib"
+              },
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "raygui"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "rres"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "raylibtech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/raysan5",
+                "end": 157,
+                "expanded_url": "http://github.com/raysan5",
+                "start": 134,
+                "url": "https://t.co/sIUDDNc2tV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raylib.com",
+                "end": 23,
+                "expanded_url": "http://www.raylib.com",
+                "start": 0,
+                "url": "https://t.co/48yt64QqWH"
+              }
+            ]
+          }
+        },
+        "id": "198205495",
+        "location": "Barcelona",
+        "name": "Ray",
+        "pinned_tweet_id": "1939966461457428779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1147456686623469568/4SL9jI5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18537,
+          "following_count": 2683,
+          "like_count": 21985,
+          "listed_count": 169,
+          "media_count": 786,
+          "tweet_count": 4376
+        },
+        "url": "https://t.co/48yt64QqWH",
+        "username": "raysan5",
+        "verified": true
+      }
+    ]
+  }
+}

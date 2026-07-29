@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1991150231694487675",
+    "created_at": "2025-11-19T18:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T19:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991212084554776744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750411215527137280",
+          "start": 0,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991212084554776744",
+    "in_reply_to_user_id": "1750411215527137280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991150231694487675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HysteriaAndLove 求求你写几个标点符号吧\n实在不行打点空格换行也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1991150231694487675",
+        "created_at": "2025-11-19T18:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991212084554776744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750411215527137280",
+              "start": 0,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991212084554776744",
+        "in_reply_to_user_id": "1750411215527137280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991150231694487675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HysteriaAndLove 求求你写几个标点符号吧\n实在不行打点空格换行也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750411215527137280",
+        "conversation_id": "1991150231694487675",
+        "created_at": "2025-11-19T14:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991150231694487675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/notThujaS/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/notThujaS/status/1991018446663131478",
+              "start": 138,
+              "url": "https://t.co/axkgFhRkl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991150231694487675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1351,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991018446663131478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结合一下上下文这条区说过自己为前抑郁症患者那么我们有充分的理由怀疑这蛆为抑郁性神经结构表现为超我的严厉批判无价值的罪疚和过度道德压抑当然也离不开自我的功能过强的道德感也可以服务于自恋需求通过病态的压抑来维持一个完美的客体认做自我的镜像对体期中也少不了对大他者权威的理想化认同 https://t.co/axkgFhRkl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 84,
+          "like_count": 7843,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T06:52:19.000Z",
+        "description": "🚪20 好友位 没图包 不讲话了就是死了 全体出动操你妈",
+        "id": "1750411215527137280",
+        "location": "葵青区青山公路16号半康辉路21号",
+        "name": "Mevius",
+        "pinned_tweet_id": "1988199491506475145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990957011576762368/6BAYodQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 97,
+          "like_count": 13339,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 9307
+        },
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

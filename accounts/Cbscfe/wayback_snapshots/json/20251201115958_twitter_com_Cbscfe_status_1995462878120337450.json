@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1995162572551860554",
+    "created_at": "2025-12-01T11:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995462878120337450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329990373020553216",
+          "start": 0,
+          "username": "FalconryFinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995462878120337450",
+    "in_reply_to_user_id": "1329990373020553216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995162572551860554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FalconryFinance AI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15233,
+        "height": 780,
+        "media_key": "7_1995162553404805120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995162553404805120/pu/img/ZK0V7YLrR1-x7xpk.jpg",
+        "public_metrics": {
+          "view_count": 617554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995162553404805120/pu/vid/avc1/320x432/tih-fEQu6MRksJTT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995162553404805120/pu/vid/avc1/480x650/o0xtIcwbvo3M6for.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995162553404805120/pu/vid/avc1/576x780/BvFPIYdWEtv-lxbW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995162553404805120/pu/pl/JFzBEmLqLsjb6RxX.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1995162572551860554",
+        "created_at": "2025-12-01T11:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995462878120337450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329990373020553216",
+              "start": 0,
+              "username": "FalconryFinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995462878120337450",
+        "in_reply_to_user_id": "1329990373020553216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995162572551860554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FalconryFinance AI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995162553404805120"
+          ]
+        },
+        "author_id": "1329990373020553216",
+        "conversation_id": "1995162572551860554",
+        "created_at": "2025-11-30T16:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995162572551860554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdUs2HG0U8",
+              "end": 100,
+              "expanded_url": "https://x.com/FalconryFinance/status/1995162572551860554/video/1",
+              "media_key": "7_1995162553404805120",
+              "start": 77,
+              "url": "https://t.co/xdUs2HG0U8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995162572551860554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 1046105,
+          "like_count": 676,
+          "quote_count": 20,
+          "reply_count": 35,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "If you're ever in this situation, it is safer to ride the rails on the sides https://t.co/xdUs2HG0U8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 98,
+          "like_count": 9770,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T03:30:06.000Z",
+        "description": "The Falcon Club is a membership-directed mutual benefit society and social club with local chapters throughout the United States and Canada.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@falconryfinan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@falconryfinance",
+                "start": 0,
+                "url": "https://t.co/zFDUvToGqz"
+              }
+            ]
+          }
+        },
+        "id": "1329990373020553216",
+        "location": "Dubai, United Arab Emirates",
+        "name": "𓅃",
+        "pinned_tweet_id": "1995237034152407255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946563535238283264/Egv7o0UZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95627,
+          "following_count": 3268,
+          "like_count": 393729,
+          "listed_count": 274,
+          "media_count": 31465,
+          "tweet_count": 142430
+        },
+        "url": "https://t.co/zFDUvToGqz",
+        "username": "FalconryFinance",
+        "verified": true
+      }
+    ]
+  }
+}

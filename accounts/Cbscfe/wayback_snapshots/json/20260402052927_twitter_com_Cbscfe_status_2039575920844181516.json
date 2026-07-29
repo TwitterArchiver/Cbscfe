@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039575920844181516",
+    "created_at": "2026-04-02T05:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039575920844181516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657175394267848704",
+          "start": 3,
+          "username": "Zh40Le1ZOOB"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Shared with kDrive, the ethical cloud",
+          "display_url": "kdrive.infomaniak.com/app/share/9249…",
+          "end": 77,
+          "expanded_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c",
+          "start": 54,
+          "status": 200,
+          "title": "temp",
+          "unwound_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c/files/1999",
+          "url": "https://t.co/L3QaOjmTUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039575920844181516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039278380361863375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zh40Le1ZOOB: 警告：本人可能再次陷入人身自由危机\n以下链接中为相关通话录音（时间顺序）\nhttps://t.co/L3QaOjmTUJ\n作为一个救援者，自己甚至面临与被救援者同源的危险，真是可笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039575920844181516",
+        "created_at": "2026-04-02T05:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039575920844181516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657175394267848704",
+              "start": 3,
+              "username": "Zh40Le1ZOOB"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Shared with kDrive, the ethical cloud",
+              "display_url": "kdrive.infomaniak.com/app/share/9249…",
+              "end": 77,
+              "expanded_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c",
+              "start": 54,
+              "status": 200,
+              "title": "temp",
+              "unwound_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c/files/1999",
+              "url": "https://t.co/L3QaOjmTUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039575920844181516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039278380361863375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zh40Le1ZOOB: 警告：本人可能再次陷入人身自由危机\n以下链接中为相关通话录音（时间顺序）\nhttps://t.co/L3QaOjmTUJ\n作为一个救援者，自己甚至面临与被救援者同源的危险，真是可笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2039278380361863375",
+        "created_at": "2026-04-01T09:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039278380361863375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Shared with kDrive, the ethical cloud",
+              "display_url": "kdrive.infomaniak.com/app/share/9249…",
+              "end": 60,
+              "expanded_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c",
+              "start": 37,
+              "status": 200,
+              "title": "temp",
+              "unwound_url": "https://kdrive.infomaniak.com/app/share/924932/d1a16f42-ff86-4e91-8819-383988f2120c/files/1999",
+              "url": "https://t.co/L3QaOjmTUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039278380361863375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5277,
+          "like_count": 66,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "警告：本人可能再次陷入人身自由危机\n以下链接中为相关通话录音（时间顺序）\nhttps://t.co/L3QaOjmTUJ\n作为一个救援者，自己甚至面临与被救援者同源的危险，真是可笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 239,
+          "like_count": 17940,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "邮箱：mtf@ik.me 或 progynova@duck.com（马甲）\nTelegram：下方链接\n如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 721,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 5263
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

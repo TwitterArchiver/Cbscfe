@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2029034913627029577",
+    "created_at": "2026-03-04T03:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029037197324923147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994999486419181568",
+          "start": 0,
+          "username": "aglx1202r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029037197324923147",
+    "in_reply_to_user_id": "1994999486419181568",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029034913627029577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aglx1202r ohyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2029034913627029577",
+        "created_at": "2026-03-04T03:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029037197324923147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994999486419181568",
+              "start": 0,
+              "username": "aglx1202r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029037197324923147",
+        "in_reply_to_user_id": "1994999486419181568",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029034913627029577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aglx1202r ohyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994999486419181568",
+        "conversation_id": "2029034913627029577",
+        "created_at": "2026-03-04T03:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029034913627029577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aglx1202r/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/aglx1202r/status/2028762953122812042",
+              "start": 21,
+              "url": "https://t.co/qNEDXcwB1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029034913627029577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028762953122812042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有神人把我拉群里面。我要看诡异操作。 https://t.co/qNEDXcwB1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 180,
+          "like_count": 16060,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T05:18:47.000Z",
+        "description": "我是不可能告诉你们任何事情的。",
+        "id": "1994999486419181568",
+        "name": "aglx1202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029035039590322176/8YlEbqr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 51
+        },
+        "username": "aglx1202r",
+        "verified": false
+      }
+    ]
+  }
+}

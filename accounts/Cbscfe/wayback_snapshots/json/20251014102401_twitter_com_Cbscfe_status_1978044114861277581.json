@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1978042204342870245",
+    "created_at": "2025-10-14T10:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T11:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978044114861277581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978044114861277581",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978042204342870245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1978042204342870245",
+        "created_at": "2025-10-14T10:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978044114861277581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978044114861277581",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978042204342870245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "conversation_id": "1978042204342870245",
+        "created_at": "2025-10-14T10:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978042204342870245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1977703693987287476",
+              "start": 15,
+              "url": "https://t.co/zdYmPtYsFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978042204342870245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977703693987287476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还在外面...父母不让我回去 https://t.co/zdYmPtYsFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "Yekase Suiso | An ordinary person who dares to take a stand | Life turns people into cats | Love, resistance, non-violence, non-cooperation | 15y.o CEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CGs2sVd9Ta",
+                "end": 23,
+                "expanded_url": "http://discord.gg/CGs2sVd9Ta",
+                "start": 0,
+                "url": "https://t.co/3vRyPqnP1u"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "location": "The LFE",
+        "name": "Yekase Suiso🔮藥圈大賢者",
+        "pinned_tweet_id": "1977276508189475083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788908069400576/RF-82BmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 438,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/3vRyPqnP1u",
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

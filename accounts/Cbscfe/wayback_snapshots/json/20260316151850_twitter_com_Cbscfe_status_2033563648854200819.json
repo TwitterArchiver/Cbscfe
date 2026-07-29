@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2033563648854200819",
+    "created_at": "2026-03-16T15:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033563648854200819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674644891278745601",
+          "start": 3,
+          "username": "3Afengjingqu"
+        },
+        {
+          "end": 30,
+          "id": "2013233628847980544",
+          "start": 18,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033563648854200819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033515457270173830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3Afengjingqu: @Asukai_Yuki 幸好不是听术力口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2033563648854200819",
+        "created_at": "2026-03-16T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033563648854200819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674644891278745601",
+              "start": 3,
+              "username": "3Afengjingqu"
+            },
+            {
+              "end": 30,
+              "id": "2013233628847980544",
+              "start": 18,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033563648854200819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033515457270173830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3Afengjingqu: @Asukai_Yuki 幸好不是听术力口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674644891278745601",
+        "conversation_id": "2033429137403310227",
+        "created_at": "2026-03-16T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033515457270173830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033515457270173830",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033429137403310227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 幸好不是听术力口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 211,
+          "like_count": 17119,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T05:04:04.000Z",
+        "description": "梦想是有自己的巧克力工厂⌯'Ⱉ'⌯｜\n性无能＿我是女的皮下男不用关注我｜对恨女顺直以外的一切人友好前提是不要性骚扰我",
+        "id": "1674644891278745601",
+        "location": "士多啤梨星球",
+        "name": "司濯咘瑞",
+        "pinned_tweet_id": "1903543023738446172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858046600322637824/7P8Nrb0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 135,
+          "like_count": 5055,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 569
+        },
+        "username": "3Afengjingqu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝飛鳥井ユキ | enby 泛性恋 梦想是当摇滚明星 | 06| 双相 焦虑 | 惨圈女| 🎸🎨 | 提问箱https://t.co/1wmN2eVRYQ |🚪500纯绿仅好友位不陪聊。并非门姐仅是过滤恶心玩意挂上的。给不起别骚扰我＾_＾",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 86,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 63,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "Rumoi-shi, Hokkaidō",
+        "name": "郁希",
+        "pinned_tweet_id": "2030183493746184704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 147,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1576
+        },
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

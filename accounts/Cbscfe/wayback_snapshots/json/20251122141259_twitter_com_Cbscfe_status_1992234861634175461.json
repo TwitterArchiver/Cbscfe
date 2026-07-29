@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992104344762847232"
+      ],
+      "media_source_tweet_id": [
+        "1992104349691207783"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1992234861634175461",
+    "created_at": "2025-11-22T14:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992234861634175461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1738907027362209792",
+          "start": 3,
+          "username": "ElysiumFengxuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxroM8nk73",
+          "end": 88,
+          "expanded_url": "https://x.com/ElysiumFengxuan/status/1992104349691207783/photo/1",
+          "media_key": "3_1992104344762847232",
+          "start": 65,
+          "url": "https://t.co/mxroM8nk73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992234861634175461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992104349691207783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElysiumFengxuan: 喵呜！卧想被关精神病院！嗷呜！（剧烈发癫）我要进精卫！（爆炸发癫）（剧烈扭曲）（混乱） https://t.co/mxroM8nk73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_1992104344762847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VgWNEaEAAX92p.jpg",
+        "width": 332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992104344762847232"
+          ],
+          "media_source_tweet_id": [
+            "1992104349691207783"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1992234861634175461",
+        "created_at": "2025-11-22T14:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992234861634175461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1738907027362209792",
+              "start": 3,
+              "username": "ElysiumFengxuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxroM8nk73",
+              "end": 88,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1992104349691207783/photo/1",
+              "media_key": "3_1992104344762847232",
+              "start": 65,
+              "url": "https://t.co/mxroM8nk73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992234861634175461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992104349691207783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElysiumFengxuan: 喵呜！卧想被关精神病院！嗷呜！（剧烈发癫）我要进精卫！（爆炸发癫）（剧烈扭曲）（混乱） https://t.co/mxroM8nk73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992104344762847232"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "1992104349691207783",
+        "created_at": "2025-11-22T05:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992104349691207783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxroM8nk73",
+              "end": 67,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/1992104349691207783/photo/1",
+              "media_key": "3_1992104344762847232",
+              "start": 44,
+              "url": "https://t.co/mxroM8nk73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992104349691207783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7925,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵呜！卧想被关精神病院！嗷呜！（剧烈发癫）我要进精卫！（爆炸发癫）（剧烈扭曲）（混乱） https://t.co/mxroM8nk73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 91,
+          "like_count": 8371,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "万妖帝庭",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1627,
+          "like_count": 2211,
+          "listed_count": 6,
+          "media_count": 734,
+          "tweet_count": 5331
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

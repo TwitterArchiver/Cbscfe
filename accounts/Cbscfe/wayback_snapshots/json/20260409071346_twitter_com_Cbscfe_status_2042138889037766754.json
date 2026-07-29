@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042127048022618114"
+      ],
+      "media_source_tweet_id": [
+        "2042127057199792500"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2042138889037766754",
+    "created_at": "2026-04-09T07:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042138889037766754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1775522951749591040",
+          "start": 3,
+          "username": "binbin77930833"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SH18LFdJqd",
+          "end": 69,
+          "expanded_url": "https://x.com/binbin77930833/status/2042127057199792500/photo/1",
+          "media_key": "3_2042127048022618114",
+          "start": 46,
+          "url": "https://t.co/SH18LFdJqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042138889037766754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042127057199792500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @binbin77930833: 晶哥 咱就是说一起探讨od 不是让我成为你的kpl https://t.co/SH18LFdJqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042127048022618114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcXuwOa8AIIg0L.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042127048022618114"
+          ],
+          "media_source_tweet_id": [
+            "2042127057199792500"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2042138889037766754",
+        "created_at": "2026-04-09T07:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042138889037766754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1775522951749591040",
+              "start": 3,
+              "username": "binbin77930833"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SH18LFdJqd",
+              "end": 69,
+              "expanded_url": "https://x.com/binbin77930833/status/2042127057199792500/photo/1",
+              "media_key": "3_2042127048022618114",
+              "start": 46,
+              "url": "https://t.co/SH18LFdJqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042138889037766754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042127057199792500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @binbin77930833: 晶哥 咱就是说一起探讨od 不是让我成为你的kpl https://t.co/SH18LFdJqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042127048022618114"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2042127057199792500",
+        "created_at": "2026-04-09T06:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042127057199792500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SH18LFdJqd",
+              "end": 49,
+              "expanded_url": "https://x.com/binbin77930833/status/2042127057199792500/photo/1",
+              "media_key": "3_2042127048022618114",
+              "start": 26,
+              "url": "https://t.co/SH18LFdJqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042127057199792500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥 咱就是说一起探讨od 不是让我成为你的kpl https://t.co/SH18LFdJqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 271,
+          "like_count": 18494,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3455
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 263,
+          "like_count": 838,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      }
+    ]
+  }
+}

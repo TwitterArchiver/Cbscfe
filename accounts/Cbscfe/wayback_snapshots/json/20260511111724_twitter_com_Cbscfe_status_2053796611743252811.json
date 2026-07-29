@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053380619389026700",
+    "created_at": "2026-05-11T11:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053796611743252811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1805631991859363842",
+          "start": 0,
+          "username": "0baidi0"
+        },
+        {
+          "end": 23,
+          "id": "1622066090074607616",
+          "start": 9,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053796611743252811",
+    "in_reply_to_user_id": "1805631991859363842",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053794439806751225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0baidi0 @hoshinofujivy yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053380619389026700",
+        "created_at": "2026-05-11T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053796611743252811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1805631991859363842",
+              "start": 0,
+              "username": "0baidi0"
+            },
+            {
+              "end": 23,
+              "id": "1622066090074607616",
+              "start": 9,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053796611743252811",
+        "in_reply_to_user_id": "1805631991859363842",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053794439806751225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0baidi0 @hoshinofujivy yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805631991859363842",
+        "conversation_id": "2053380619389026700",
+        "created_at": "2026-05-11T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053794439806751225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 22,
+              "id": "1622066090074607616",
+              "start": 8,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053794439806751225",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053393873385443612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @hoshinofujivy 全角空格？\n是指日语输入法　这个吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 572,
+          "like_count": 22667,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5045
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T16:01:28.000Z",
+        "description": "ハローセカイ～\n\n香港入\n\n喜欢ミク 可爱的东西\n见到喜欢的会转帖\n\n看到拍的很好的照片会搬到贴吧\n（会标作者）\n\n五十音会了 好耶\n\n（想学怎么写术）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hungryfox.org/queue/",
+                "end": 23,
+                "expanded_url": "https://hungryfox.org/queue/",
+                "start": 0,
+                "url": "https://t.co/k9V88ibC45"
+              }
+            ]
+          }
+        },
+        "id": "1805631991859363842",
+        "location": "セカイ",
+        "name": "baidi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857086489248641025/_GAkkSEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/k9V88ibC45",
+        "username": "0baidi0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10607,
+          "following_count": 4294,
+          "like_count": 45675,
+          "listed_count": 35,
+          "media_count": 2186,
+          "tweet_count": 13612
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

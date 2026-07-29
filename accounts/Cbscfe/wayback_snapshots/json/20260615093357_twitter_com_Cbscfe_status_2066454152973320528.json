@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066399562055782400"
+      ],
+      "media_source_tweet_id": [
+        "2066399575758565710"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066454152973320528",
+    "created_at": "2026-06-15T09:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066454152973320528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994999486419181568",
+          "start": 3,
+          "username": "aglx1202r"
+        },
+        {
+          "end": 22,
+          "id": "1959893383633358848",
+          "start": 15,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 33,
+          "id": "2023460446075056133",
+          "start": 23,
+          "username": "N_ull_0x0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GoGWyLxoGt",
+          "end": 57,
+          "expanded_url": "https://x.com/aglx1202r/status/2066399575758565710/photo/1",
+          "media_key": "3_2066399562055782400",
+          "start": 34,
+          "url": "https://t.co/GoGWyLxoGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066454152973320528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066399575758565710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aglx1202r: @Cbscfe @N_ull_0x0 https://t.co/GoGWyLxoGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2066399562055782400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1TdBRbkAAYzVm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066399562055782400"
+          ],
+          "media_source_tweet_id": [
+            "2066399575758565710"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066454152973320528",
+        "created_at": "2026-06-15T09:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066454152973320528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994999486419181568",
+              "start": 3,
+              "username": "aglx1202r"
+            },
+            {
+              "end": 22,
+              "id": "1959893383633358848",
+              "start": 15,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 33,
+              "id": "2023460446075056133",
+              "start": 23,
+              "username": "N_ull_0x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoGWyLxoGt",
+              "end": 57,
+              "expanded_url": "https://x.com/aglx1202r/status/2066399575758565710/photo/1",
+              "media_key": "3_2066399562055782400",
+              "start": 34,
+              "url": "https://t.co/GoGWyLxoGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066454152973320528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066399575758565710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aglx1202r: @Cbscfe @N_ull_0x0 https://t.co/GoGWyLxoGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066399562055782400"
+          ]
+        },
+        "author_id": "1994999486419181568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066399575758565710",
+        "created_at": "2026-06-15T05:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066399575758565710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 18,
+              "id": "2023460446075056133",
+              "start": 8,
+              "username": "N_ull_0x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoGWyLxoGt",
+              "end": 42,
+              "expanded_url": "https://x.com/aglx1202r/status/2066399575758565710/photo/1",
+              "media_key": "3_2066399562055782400",
+              "start": 19,
+              "url": "https://t.co/GoGWyLxoGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066399575758565710",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @N_ull_0x0 https://t.co/GoGWyLxoGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 676,
+          "like_count": 24472,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 6077
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T05:18:47.000Z",
+        "description": "第196条\n若自由民毁损另一与其同等之自由民的眼睛，则应毁其眼。\n---《汉谟拉比法典》",
+        "id": "1994999486419181568",
+        "name": "aglx1202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044710460860379136/alHbA5R0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 310
+        },
+        "username": "aglx1202r",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T18:12:36.000Z",
+        "description": "电子宠物です",
+        "id": "2023460446075056133",
+        "location": "Cbscfe",
+        "name": "Null0x0",
+        "pinned_tweet_id": "2063565065220231204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032095085438132224/nAXS6d_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "username": "N_ull_0x0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2059481316102742272",
+    "created_at": "2026-05-27T12:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059614584475103256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2011448728473968641",
+          "start": 0,
+          "username": "qthzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059614584475103256",
+    "in_reply_to_user_id": "2011448728473968641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059591939935330466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qthzZ 我不想block你的\n我还没block过人，任何平台都没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2059481316102742272",
+        "created_at": "2026-05-27T12:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059614584475103256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2011448728473968641",
+              "start": 0,
+              "username": "qthzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059614584475103256",
+        "in_reply_to_user_id": "2011448728473968641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591939935330466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qthzZ 我不想block你的\n我还没block过人，任何平台都没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011448728473968641",
+        "conversation_id": "2059481316102742272",
+        "created_at": "2026-05-27T11:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059591939935330466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059591939935330466",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059481316102742272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 到底怎么获得这些东西啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 653,
+          "like_count": 23916,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 5636
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T14:43:02.000Z",
+        "description": "罗小青qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qthz.github.io",
+                "end": 23,
+                "expanded_url": "http://qthz.github.io",
+                "start": 0,
+                "url": "https://t.co/3lBoSpRWZI"
+              }
+            ]
+          }
+        },
+        "id": "2011448728473968641",
+        "location": "在Cbscfe旁边杵着",
+        "name": "罗小青 | lxqthz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059592147213692928/W2ls_233_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 60,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/3lBoSpRWZI",
+        "username": "qthzZ",
+        "verified": false
+      }
+    ]
+  }
+}

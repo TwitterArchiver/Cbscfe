@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2040983279818699181",
+    "created_at": "2026-04-06T09:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041091442437996881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "unicode.org/emoji/charts/e…",
+          "end": 95,
+          "expanded_url": "https://www.unicode.org/emoji/charts/emoji-zwj-sequences.html",
+          "start": 72,
+          "url": "https://t.co/JziKeGBXMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041091442437996881",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040983279818699181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 并非人性化，史山代码中的史山代码，你还不能重构Unicode因为Unicode重构了就不是Unicode了。\nhttps://t.co/JziKeGBXMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_2040983272109559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMHeO6a0AAummi.jpg",
+        "width": 800
+      },
+      {
+        "height": 1066,
+        "media_key": "3_2040983274353483776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMHeXRaYAAtTdf.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2040983279818699181",
+        "created_at": "2026-04-06T09:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041091442437996881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "unicode.org/emoji/charts/e…",
+              "end": 95,
+              "expanded_url": "https://www.unicode.org/emoji/charts/emoji-zwj-sequences.html",
+              "start": 72,
+              "url": "https://t.co/JziKeGBXMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041091442437996881",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040983279818699181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 并非人性化，史山代码中的史山代码，你还不能重构Unicode因为Unicode重构了就不是Unicode了。\nhttps://t.co/JziKeGBXMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040983272109559808",
+            "3_2040983274353483776"
+          ]
+        },
+        "author_id": "1421851995355369477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040983279818699181",
+        "created_at": "2026-04-06T02:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040983279818699181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ub6Mn3fNR0",
+              "end": 118,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2040983279818699181/photo/1",
+              "media_key": "3_2040983272109559808",
+              "start": 95,
+              "url": "https://t.co/ub6Mn3fNR0"
+            },
+            {
+              "display_url": "pic.x.com/ub6Mn3fNR0",
+              "end": 118,
+              "expanded_url": "https://x.com/Aichijiandanxyz/status/2040983279818699181/photo/1",
+              "media_key": "3_2040983274353483776",
+              "start": 95,
+              "url": "https://t.co/ub6Mn3fNR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040983279818699181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7180,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这个emoji特别有意思\n👨🏻‍⚕️男医生\n👩🏻‍⚕️女医生\n🧑🏻‍⚕️卫生工作者（没有指代具体性别）\n昨天无意间在电脑上发现的，查了以后才知道很多职业的emoji都是这样，好人性化的设计 https://t.co/ub6Mn3fNR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 252,
+          "like_count": 18220,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20771,
+          "following_count": 329,
+          "like_count": 162360,
+          "listed_count": 58,
+          "media_count": 8249,
+          "tweet_count": 77394
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

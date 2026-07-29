@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041893839493804458",
+    "created_at": "2026-04-09T12:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042222076388626816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880812852757311488",
+          "start": 0,
+          "username": "_josephine0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042222076388626816",
+    "in_reply_to_user_id": "1880812852757311488",
+    "lang": "nl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041893839493804458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_josephine0_ AI SLOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2041516781697994752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTsslAbkAA8ZeH.jpg",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041893839493804458",
+        "created_at": "2026-04-09T12:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042222076388626816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880812852757311488",
+              "start": 0,
+              "username": "_josephine0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042222076388626816",
+        "in_reply_to_user_id": "1880812852757311488",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041893839493804458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_josephine0_ AI SLOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041516781697994752"
+          ]
+        },
+        "author_id": "1880812852757311488",
+        "conversation_id": "2041893839493804458",
+        "created_at": "2026-04-08T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041893839493804458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxkVQvqG5K",
+              "end": 49,
+              "expanded_url": "https://x.com/_josephine0_/status/2041893839493804458/photo/1",
+              "media_key": "3_2041516781697994752",
+              "start": 26,
+              "url": "https://t.co/oxkVQvqG5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041893839493804458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 355456,
+          "like_count": 2680,
+          "quote_count": 1351,
+          "reply_count": 2968,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "What would you call this? https://t.co/oxkVQvqG5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 276,
+          "like_count": 18528,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3490
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T03:02:08.000Z",
+        "description": "Shit posting 🔥",
+        "id": "1880812852757311488",
+        "location": "California, USA",
+        "name": "Josephine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036463740166742018/A6g-snxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21401,
+          "following_count": 7277,
+          "like_count": 94834,
+          "listed_count": 44,
+          "media_count": 2188,
+          "tweet_count": 83429
+        },
+        "username": "_josephine0_",
+        "verified": true
+      }
+    ]
+  }
+}

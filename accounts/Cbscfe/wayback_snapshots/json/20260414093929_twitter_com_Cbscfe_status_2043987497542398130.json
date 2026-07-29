@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043987492685459456"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2043947864435634402",
+    "created_at": "2026-04-14T09:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043987497542398130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KTo7nG0SaD",
+          "end": 38,
+          "expanded_url": "https://x.com/Cbscfe/status/2043987497542398130/photo/1",
+          "media_key": "3_2043987492685459456",
+          "start": 15,
+          "url": "https://t.co/KTo7nG0SaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043987497542398130",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043947864435634402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 https://t.co/KTo7nG0SaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2043987492685459456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2zy4rbsAAIKTg.png",
+        "width": 150
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2043621159011573760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxmndZbYAAz8qo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043987492685459456"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2043947864435634402",
+        "created_at": "2026-04-14T09:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043987497542398130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTo7nG0SaD",
+              "end": 38,
+              "expanded_url": "https://x.com/Cbscfe/status/2043987497542398130/photo/1",
+              "media_key": "3_2043987492685459456",
+              "start": 15,
+              "url": "https://t.co/KTo7nG0SaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043987497542398130",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043947864435634402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 https://t.co/KTo7nG0SaD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043621159011573760"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2043947864435634402",
+        "created_at": "2026-04-14T07:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043947864435634402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bS3eNmejN",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2043947864435634402/photo/1",
+              "media_key": "3_2043621159011573760",
+              "start": 8,
+              "url": "https://t.co/8bS3eNmejN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043947864435634402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7103,
+          "like_count": 292,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛要瞎了喵😭 https://t.co/8bS3eNmejN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 312,
+          "like_count": 19202,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11913,
+          "following_count": 1461,
+          "like_count": 25147,
+          "listed_count": 16,
+          "media_count": 4579,
+          "tweet_count": 27387
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

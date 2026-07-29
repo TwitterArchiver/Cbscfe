@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2014929688226103382",
+    "created_at": "2026-01-24T12:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T13:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015043367147847789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512280643761479680",
+          "start": 0,
+          "username": "nianshoulong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015043367147847789",
+    "in_reply_to_user_id": "1512280643761479680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014929688226103382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianshoulong 已吓哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2014929685495611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z335dbAAA4Tfn.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2014929688226103382",
+        "created_at": "2026-01-24T12:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015043367147847789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512280643761479680",
+              "start": 0,
+              "username": "nianshoulong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015043367147847789",
+        "in_reply_to_user_id": "1512280643761479680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929688226103382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianshoulong 已吓哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014929685495611392"
+          ]
+        },
+        "author_id": "1512280643761479680",
+        "conversation_id": "2014929688226103382",
+        "created_at": "2026-01-24T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014929688226103382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDi0MoX0sA",
+              "end": 33,
+              "expanded_url": "https://x.com/nianshoulong/status/2014929688226103382/photo/1",
+              "media_key": "3_2014929685495611392",
+              "start": 10,
+              "url": "https://t.co/DDi0MoX0sA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014929688226103382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1494,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在墙内被晶哥钓了？ https://t.co/DDi0MoX0sA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 135,
+          "like_count": 12934,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T04:06:27.000Z",
+        "description": "愿你能拥抱希望和爱｜愿你有能力爱与被爱｜变成可爱毛茸茸的我@JiLi_Fox丨勿挂念坠入深渊的我@jilifuneng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "JiLi_Fox"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "jilifuneng"
+              }
+            ]
+          }
+        },
+        "id": "1512280643761479680",
+        "location": "Guangdong",
+        "name": "年兽龙（等待重生版）",
+        "pinned_tweet_id": "1792404911176728870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659240762838781954/YNM77ZXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 166,
+          "like_count": 2729,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 4926
+        },
+        "username": "nianshoulong",
+        "verified": false
+      }
+    ]
+  }
+}

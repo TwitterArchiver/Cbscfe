@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1992115510910374332",
+    "created_at": "2025-11-22T21:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T22:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992343161117856193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535295069107982336",
+          "start": 0,
+          "username": "NotAHirakuFan"
+        },
+        {
+          "end": 25,
+          "id": "761559886312321025",
+          "start": 15,
+          "username": "withfolyd"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Your language isn’t broken, it’s doing floating point math. Computers can only natively store integers, so they need some way of representing decimal numbers. This representation is not perfectly accurate. This is why, more often than not, 0.1 + 0.2 != 0.3. It’s actually rather interesting. When you have a base-10 system (like ours), it can only express fractions that use a prime factor of the base. The prime factors of 10 are 2 and 5. So 1/2, 1/4, 1/5, 1/8, and 1/10 can all be expressed cleanly because",
+          "display_url": "0.30000000000000004.com",
+          "end": 88,
+          "expanded_url": "http://0.30000000000000004.com",
+          "start": 65,
+          "status": 200,
+          "title": "Floating Point Math",
+          "unwound_url": "https://0.30000000000000004.com/",
+          "url": "https://t.co/vCKTYxixiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992343161117856193",
+    "in_reply_to_user_id": "1535295069107982336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992229851261272074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotAHirakuFan @withfolyd 你们不要再说\n0.1加0.2不等于0.3的事儿了\n这真的不是他的锅 TAT\n\nhttps://t.co/vCKTYxixiN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_1992229844944588801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XSfRrakAEPR_F.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1992115510910374332",
+        "created_at": "2025-11-22T21:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T22:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992343161117856193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535295069107982336",
+              "start": 0,
+              "username": "NotAHirakuFan"
+            },
+            {
+              "end": 25,
+              "id": "761559886312321025",
+              "start": 15,
+              "username": "withfolyd"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Your language isn’t broken, it’s doing floating point math. Computers can only natively store integers, so they need some way of representing decimal numbers. This representation is not perfectly accurate. This is why, more often than not, 0.1 + 0.2 != 0.3. It’s actually rather interesting. When you have a base-10 system (like ours), it can only express fractions that use a prime factor of the base. The prime factors of 10 are 2 and 5. So 1/2, 1/4, 1/5, 1/8, and 1/10 can all be expressed cleanly because",
+              "display_url": "0.30000000000000004.com",
+              "end": 88,
+              "expanded_url": "http://0.30000000000000004.com",
+              "start": 65,
+              "status": 200,
+              "title": "Floating Point Math",
+              "unwound_url": "https://0.30000000000000004.com/",
+              "url": "https://t.co/vCKTYxixiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992343161117856193",
+        "in_reply_to_user_id": "1535295069107982336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992229851261272074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotAHirakuFan @withfolyd 你们不要再说\n0.1加0.2不等于0.3的事儿了\n这真的不是他的锅 TAT\n\nhttps://t.co/vCKTYxixiN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992229844944588801"
+          ]
+        },
+        "author_id": "1535295069107982336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1992115510910374332",
+        "created_at": "2025-11-22T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992229851261272074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "761559886312321025",
+              "start": 0,
+              "username": "withfolyd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCuyv6Uzo5",
+              "end": 63,
+              "expanded_url": "https://x.com/NotAHirakuFan/status/1992229851261272074/photo/1",
+              "media_key": "3_1992229844944588801",
+              "start": 40,
+              "url": "https://t.co/fCuyv6Uzo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992229851261272074",
+        "in_reply_to_user_id": "761559886312321025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 440,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992115510910374332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@withfolyd 我命令全部寫JavaScript的人把這個微笑永遠記住😡 https://t.co/fCuyv6Uzo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 92,
+          "like_count": 8465,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T16:17:53.000Z",
+        "description": "倫敦鵝二代目 這輩子都不會再燒鳥的全幹工程師 境外黑皮勢力 國籍倫敦 出生在新宿 祖籍南極 GitHub免費Code Review @SuicaLondon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "SuicaLondon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suica.dev",
+                "end": 23,
+                "expanded_url": "http://suica.dev",
+                "start": 0,
+                "url": "https://t.co/7l6wfzZlPs"
+              }
+            ]
+          }
+        },
+        "id": "1535295069107982336",
+        "location": "Not in London",
+        "name": "假倫敦鵝",
+        "pinned_tweet_id": "1918325420333908301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535295304379113476/dDHNL98B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 162,
+          "like_count": 3317,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/7l6wfzZlPs",
+        "username": "NotAHirakuFan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-05T13:50:01.000Z",
+        "description": "Founder of https://t.co/gyqbuSsS1F, prev co-founder of https://t.co/lLbH1ACK2o, creator of https://t.co/BGLkcIGxJG, https://t.co/jyFtu8hcFQ, https://t.co/5dUgxzkPpI, https://t.co/FJyrd1TdNq, https://t.co/PmSGJqmoLX, and https://t.co/1XJ4CEQVzc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "geddle.com",
+                "end": 34,
+                "expanded_url": "http://geddle.com",
+                "start": 11,
+                "url": "https://t.co/gyqbuSsS1F"
+              },
+              {
+                "display_url": "wanderboat.ai",
+                "end": 78,
+                "expanded_url": "http://wanderboat.ai",
+                "start": 55,
+                "url": "https://t.co/lLbH1ACK2o"
+              },
+              {
+                "display_url": "aiberm.com",
+                "end": 114,
+                "expanded_url": "http://aiberm.com",
+                "start": 91,
+                "url": "https://t.co/BGLkcIGxJG"
+              },
+              {
+                "display_url": "genkit.co",
+                "end": 139,
+                "expanded_url": "http://genkit.co",
+                "start": 116,
+                "url": "https://t.co/jyFtu8hcFQ"
+              },
+              {
+                "display_url": "aiscript.dev",
+                "end": 164,
+                "expanded_url": "http://aiscript.dev",
+                "start": 141,
+                "url": "https://t.co/5dUgxzkPpI"
+              },
+              {
+                "display_url": "query.rs",
+                "end": 189,
+                "expanded_url": "http://query.rs",
+                "start": 166,
+                "url": "https://t.co/FJyrd1TdNq"
+              },
+              {
+                "display_url": "anyshortcut.com",
+                "end": 214,
+                "expanded_url": "http://anyshortcut.com",
+                "start": 191,
+                "url": "https://t.co/PmSGJqmoLX"
+              },
+              {
+                "display_url": "paybase.cn",
+                "end": 243,
+                "expanded_url": "http://paybase.cn",
+                "start": 220,
+                "url": "https://t.co/1XJ4CEQVzc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "folyd.com",
+                "end": 23,
+                "expanded_url": "https://folyd.com",
+                "start": 0,
+                "url": "https://t.co/yrrOvTJmj1"
+              }
+            ]
+          }
+        },
+        "id": "761559886312321025",
+        "location": "Beijing, China",
+        "name": "Folyd",
+        "pinned_tweet_id": "1991500297315971450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691103905676152832/dgcaHwJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8238,
+          "following_count": 840,
+          "like_count": 4215,
+          "listed_count": 75,
+          "media_count": 303,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/yrrOvTJmj1",
+        "username": "withfolyd",
+        "verified": false
+      }
+    ]
+  }
+}

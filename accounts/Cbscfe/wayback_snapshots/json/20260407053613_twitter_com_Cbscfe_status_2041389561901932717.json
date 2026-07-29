@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041175860083114409",
+    "created_at": "2026-04-07T05:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041389561901932717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032650173420285952",
+          "start": 0,
+          "username": "MorfonicaFox"
+        },
+        {
+          "end": 30,
+          "id": "1656557317029265408",
+          "start": 14,
+          "username": "AndreaArms60465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041389561901932717",
+    "in_reply_to_user_id": "2032650173420285952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041381010676617487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MorfonicaFox @AndreaArms60465 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041175860083114409",
+        "created_at": "2026-04-07T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041389561901932717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032650173420285952",
+              "start": 0,
+              "username": "MorfonicaFox"
+            },
+            {
+              "end": 30,
+              "id": "1656557317029265408",
+              "start": 14,
+              "username": "AndreaArms60465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041389561901932717",
+        "in_reply_to_user_id": "2032650173420285952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041381010676617487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MorfonicaFox @AndreaArms60465 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032650173420285952",
+        "conversation_id": "2041175860083114409",
+        "created_at": "2026-04-07T05:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041381010676617487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656557317029265408",
+              "start": 0,
+              "username": "AndreaArms60465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041381010676617487",
+        "in_reply_to_user_id": "1656557317029265408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175860083114409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndreaArms60465 What happened(俺不中嘞 荷兰节点炸了)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 255,
+          "like_count": 18283,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T02:49:11.000Z",
+        "description": "An devlepor of Python\n(只是初中生qwq 我会尽力保持全平台同名的)",
+        "id": "2032650173420285952",
+        "location": "World,3 Dimension",
+        "name": "Morfonica Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032650286695636992/4Ac2IaB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 53
+        },
+        "username": "MorfonicaFox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T07:11:25.000Z",
+        "description": "外贸创业者，AI生产力，Claude Gemini\n蓝V互关 100%回关\n这几天完全没事的小众专线梯子\nhttps://t.co/WYB2XQARWy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "savirs.com/#/register?cod…",
+                "end": 76,
+                "expanded_url": "http://www.savirs.com/#/register?code=NrEeTYGp",
+                "start": 53,
+                "url": "https://t.co/WYB2XQARWy"
+              }
+            ]
+          }
+        },
+        "id": "1656557317029265408",
+        "name": "小蒋",
+        "pinned_tweet_id": "2038164979304817109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000349492596592640/x1OeBGed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 1294,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1017
+        },
+        "username": "AndreaArms60465",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992617314420940800"
+      ],
+      "media_source_tweet_id": [
+        "1992617322050388013"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992849629894029427",
+    "created_at": "2025-11-24T06:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T07:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992849629894029427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982386432573591552",
+          "start": 3,
+          "username": "XynNanaNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcljHWtwgj",
+          "end": 43,
+          "expanded_url": "https://x.com/XynNanaNya/status/1992617322050388013/photo/1",
+          "media_key": "3_1992617314420940800",
+          "start": 20,
+          "url": "https://t.co/tcljHWtwgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992849629894029427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992617322050388013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XynNanaNya: 这对吗 https://t.co/tcljHWtwgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1992617314420940800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cy499aYAA9ind.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992617314420940800"
+          ],
+          "media_source_tweet_id": [
+            "1992617322050388013"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992849629894029427",
+        "created_at": "2025-11-24T06:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992849629894029427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982386432573591552",
+              "start": 3,
+              "username": "XynNanaNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcljHWtwgj",
+              "end": 43,
+              "expanded_url": "https://x.com/XynNanaNya/status/1992617322050388013/photo/1",
+              "media_key": "3_1992617314420940800",
+              "start": 20,
+              "url": "https://t.co/tcljHWtwgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992849629894029427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992617322050388013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XynNanaNya: 这对吗 https://t.co/tcljHWtwgj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992617314420940800"
+          ]
+        },
+        "author_id": "1982386432573591552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992617322050388013",
+        "created_at": "2025-11-23T15:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992617322050388013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcljHWtwgj",
+              "end": 27,
+              "expanded_url": "https://x.com/XynNanaNya/status/1992617322050388013/photo/1",
+              "media_key": "3_1992617314420940800",
+              "start": 4,
+              "url": "https://t.co/tcljHWtwgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992617322050388013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1316,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这对吗 https://t.co/tcljHWtwgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 94,
+          "like_count": 8569,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄52周的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 最烦人的姐姐@DianaAnya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 29,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": true
+      }
+    ]
+  }
+}

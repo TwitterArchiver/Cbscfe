@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976862923973968316",
+    "created_at": "2025-10-11T04:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976862923973968316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1569464062110736386",
+          "start": 3,
+          "username": "Mcantdoanything"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976862923973968316",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4146
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976413299467276524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mcantdoanything: do not let that blonde green bitch see this he's gonna create an entire civilization around it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976862923973968316",
+        "created_at": "2025-10-11T04:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976862923973968316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1569464062110736386",
+              "start": 3,
+              "username": "Mcantdoanything"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976862923973968316",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976413299467276524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mcantdoanything: do not let that blonde green bitch see this he's gonna create an entire civilization around it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569464062110736386",
+        "conversation_id": "1976413299467276524",
+        "created_at": "2025-10-09T22:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T23:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976413299467276524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itmgalt/status…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/itmgalt/status/1976382144978301270",
+              "start": 95,
+              "url": "https://t.co/gds1vYLFlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976413299467276524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5910,
+          "impression_count": 3186891,
+          "like_count": 76083,
+          "quote_count": 234,
+          "reply_count": 300,
+          "retweet_count": 4146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976382144978301270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "do not let that blonde green bitch see this he's gonna create an entire civilization around it https://t.co/gds1vYLFlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T23:13:47.000Z",
+        "description": "+I caved and got twitter for the funnies \n+any pronouns idc \n+if I'm drawing I'm procrastinating on sm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcantdothis.straw.page",
+                "end": 23,
+                "expanded_url": "https://mcantdothis.straw.page",
+                "start": 0,
+                "url": "https://t.co/tTVRNvXOH6"
+              }
+            ]
+          }
+        },
+        "id": "1569464062110736386",
+        "location": "black mesa research facilities",
+        "name": "❌M❌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872966965590974464/LpaZZs5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 591,
+          "like_count": 180494,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 50704
+        },
+        "url": "https://t.co/tTVRNvXOH6",
+        "username": "Mcantdoanything",
+        "verified": false
+      }
+    ]
+  }
+}

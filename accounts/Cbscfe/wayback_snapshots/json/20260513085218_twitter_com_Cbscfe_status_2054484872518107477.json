@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054258429242618364",
+    "created_at": "2026-05-13T08:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054484872518107477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916779760824557568",
+          "start": 0,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054484872518107477",
+    "in_reply_to_user_id": "1916779760824557568",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054258429242618364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HysteriaAndLove ，？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2054258419348242433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIxJgIbgAE5i0j.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054258429242618364",
+        "created_at": "2026-05-13T08:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054484872518107477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916779760824557568",
+              "start": 0,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054484872518107477",
+        "in_reply_to_user_id": "1916779760824557568",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054258429242618364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HysteriaAndLove ，？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054258419348242433"
+          ]
+        },
+        "author_id": "1916779760824557568",
+        "conversation_id": "2054258429242618364",
+        "created_at": "2026-05-12T17:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054258429242618364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJz3pnh2I7",
+              "end": 30,
+              "expanded_url": "https://x.com/HysteriaAndLove/status/2054258429242618364/photo/1",
+              "media_key": "3_2054258419348242433",
+              "start": 7,
+              "url": "https://t.co/rJz3pnh2I7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054258429242618364",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "no cig https://t.co/rJz3pnh2I7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 583,
+          "like_count": 23028,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 5225
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "重度躁狂 反社会人格障碍 纯粹后结构主义意识游离体 撒旦教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "churchofsatan.com",
+                "end": 23,
+                "expanded_url": "http://www.churchofsatan.com/",
+                "start": 0,
+                "url": "https://t.co/mUEB4EMmuu"
+              }
+            ]
+          }
+        },
+        "id": "1916779760824557568",
+        "location": "Sacrificial Altar",
+        "name": "⸸​⛧Nana⛧⸸",
+        "pinned_tweet_id": "2049050637820936616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053658138226876416/15ER7LAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 121,
+          "like_count": 3247,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3552
+        },
+        "url": "https://t.co/mUEB4EMmuu",
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

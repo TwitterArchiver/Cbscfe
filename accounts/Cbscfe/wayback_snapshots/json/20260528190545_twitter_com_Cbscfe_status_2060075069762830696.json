@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060045186668113920"
+      ],
+      "media_source_tweet_id": [
+        "2060045191587983717"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2060075069762830696",
+    "created_at": "2026-05-28T19:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060075069762830696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMXolPfu6E",
+          "end": 56,
+          "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+          "media_key": "3_2060045186668113920",
+          "start": 33,
+          "url": "https://t.co/KMXolPfu6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060075069762830696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060045191587983717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2060045186668113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbALsSbMAA7L5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045186668113920"
+          ],
+          "media_source_tweet_id": [
+            "2060045191587983717"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2060075069762830696",
+        "created_at": "2026-05-28T19:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060075069762830696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMXolPfu6E",
+              "end": 56,
+              "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+              "media_key": "3_2060045186668113920",
+              "start": 33,
+              "url": "https://t.co/KMXolPfu6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060075069762830696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045191587983717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045186668113920"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2060045191587983717",
+        "created_at": "2026-05-28T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060045191587983717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMXolPfu6E",
+              "end": 39,
+              "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+              "media_key": "3_2060045186668113920",
+              "start": 16,
+              "url": "https://t.co/KMXolPfu6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060045191587983717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 661,
+          "like_count": 23986,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 5698
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 660
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

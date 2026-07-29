@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1978471001852952682",
+    "created_at": "2025-10-15T22:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T23:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978594631849050554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859121470733250560",
+          "start": 0,
+          "username": "naitang166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978594631849050554",
+    "in_reply_to_user_id": "1859121470733250560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978471001852952682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naitang166 ...\n等别人来找我\n..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1978471001852952682",
+        "created_at": "2025-10-15T22:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T23:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978594631849050554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859121470733250560",
+              "start": 0,
+              "username": "naitang166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978594631849050554",
+        "in_reply_to_user_id": "1859121470733250560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978471001852952682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naitang166 ...\n等别人来找我\n..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859121470733250560",
+        "conversation_id": "1978471001852952682",
+        "created_at": "2025-10-15T14:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978471001852952682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978471001852952682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问问推u都是怎么认识新朋友的\n一般都是奶糖主动去私信别人\n然后加上了也不知道怎么开启话题\n有聊没聊的说两句，也没人主动来找奶糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 37,
+          "like_count": 2478,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:28:25.000Z",
+        "description": "爱的本质是欺骗还是欺骗藏着爱的外面，我会永远恨你@cyansoul2，冷暴力不管不顾吊着别人渣男连安慰都不愿意你和她一模一样@cyansoul2，选择性回复别人消息不安慰，不沟通装死@cyansoul2，兽性大于人性，别人卑微就开始蹬鼻子上脸，奶糖都主动跟她沟通了，反手来一句青兰很讨厌说第二遍不说@cyansoul2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "cyansoul2"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "cyansoul2"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "cyansoul2"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1859121470733250560",
+        "name": "奶糖",
+        "pinned_tweet_id": "1977395568541315291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890068653993046016/jAaB6T2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 355,
+          "like_count": 563,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1147
+        },
+        "username": "naitang166",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986057090406998016"
+      ],
+      "media_source_tweet_id": [
+        "1986057116415852650"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986077820016279951",
+    "created_at": "2025-11-05T14:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986077820016279951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dgPOtzA7dn",
+          "end": 121,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1986057116415852650/photo/1",
+          "media_key": "3_1986057090406998016",
+          "start": 98,
+          "url": "https://t.co/dgPOtzA7dn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986077820016279951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986057116415852650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 漫展与偶遇的同好扩列后，经常发个‘蛞蝓’就没下文了\n想保持关系，但在小窗又不知道聊什么\n用日常话题又怕被对方反感，聊同好一下就又没话题了\n结果都是变成这样 https://t.co/dgPOtzA7dn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1986057090406998016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_kZrFa4AAd2Xp.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986057090406998016"
+          ],
+          "media_source_tweet_id": [
+            "1986057116415852650"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986077820016279951",
+        "created_at": "2025-11-05T14:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986077820016279951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgPOtzA7dn",
+              "end": 121,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986057116415852650/photo/1",
+              "media_key": "3_1986057090406998016",
+              "start": 98,
+              "url": "https://t.co/dgPOtzA7dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986077820016279951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986057116415852650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 漫展与偶遇的同好扩列后，经常发个‘蛞蝓’就没下文了\n想保持关系，但在小窗又不知道聊什么\n用日常话题又怕被对方反感，聊同好一下就又没话题了\n结果都是变成这样 https://t.co/dgPOtzA7dn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986057090406998016"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986057116415852650",
+        "created_at": "2025-11-05T13:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986057116415852650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgPOtzA7dn",
+              "end": 101,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986057116415852650/photo/1",
+              "media_key": "3_1986057090406998016",
+              "start": 78,
+              "url": "https://t.co/dgPOtzA7dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986057116415852650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "漫展与偶遇的同好扩列后，经常发个‘蛞蝓’就没下文了\n想保持关系，但在小窗又不知道聊什么\n用日常话题又怕被对方反感，聊同好一下就又没话题了\n结果都是变成这样 https://t.co/dgPOtzA7dn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 5392,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8977,
+          "following_count": 7539,
+          "like_count": 26449,
+          "listed_count": 19,
+          "media_count": 6051,
+          "tweet_count": 39561
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

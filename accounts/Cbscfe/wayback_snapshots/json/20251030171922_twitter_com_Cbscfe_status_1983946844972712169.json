@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1983946443510706392",
+    "created_at": "2025-10-30T17:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T18:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983946844972712169"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983946844972712169",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983946443510706392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一张图的分辨率是37x16\n第二张图的分辨率是370x160\n\n不过他们的显示出来的效果应该是一样的\n\n对吧..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 16,
+        "media_key": "3_1983946410505678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hkv7uaMAANiiH.png",
+        "width": 37
+      },
+      {
+        "height": 160,
+        "media_key": "3_1983946435566694400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hkxZFa8AAt7m1.png",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983946443510706392",
+        "created_at": "2025-10-30T17:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983946844972712169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983946844972712169",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983946443510706392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一张图的分辨率是37x16\n第二张图的分辨率是370x160\n\n不过他们的显示出来的效果应该是一样的\n\n对吧..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983946410505678848",
+            "3_1983946435566694400"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983946443510706392",
+        "created_at": "2025-10-30T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983946443510706392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfXozOZucM",
+              "end": 23,
+              "expanded_url": "https://x.com/Cbscfe/status/1983946443510706392/photo/1",
+              "media_key": "3_1983946410505678848",
+              "start": 0,
+              "url": "https://t.co/SfXozOZucM"
+            },
+            {
+              "display_url": "pic.x.com/SfXozOZucM",
+              "end": 23,
+              "expanded_url": "https://x.com/Cbscfe/status/1983946443510706392/photo/1",
+              "media_key": "3_1983946435566694400",
+              "start": 0,
+              "url": "https://t.co/SfXozOZucM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983946443510706392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SfXozOZucM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 52,
+          "like_count": 4312,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

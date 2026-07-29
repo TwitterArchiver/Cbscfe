@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053280844182401024"
+      ],
+      "media_source_tweet_id": [
+        "2053280846417891698"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053423882720489598",
+    "created_at": "2026-05-10T10:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053423882720489598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "炸柜"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "被晶了"
+        },
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "我没有紫砂真的"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860552199585300482",
+          "start": 3,
+          "username": "Seven_Eraya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UTksWqOnYh",
+          "end": 62,
+          "expanded_url": "https://x.com/Seven_Eraya/status/2053280846417891698/photo/1",
+          "media_key": "3_2053280844182401024",
+          "start": 39,
+          "url": "https://t.co/UTksWqOnYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053423882720489598",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053280846417891698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seven_Eraya: omg\n#炸柜 #被晶了 #我没有紫砂真的 https://t.co/UTksWqOnYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2053280844182401024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH64DI2bMAAIZ0P.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053280844182401024"
+          ],
+          "media_source_tweet_id": [
+            "2053280846417891698"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053423882720489598",
+        "created_at": "2026-05-10T10:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053423882720489598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "炸柜"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "被晶了"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "我没有紫砂真的"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860552199585300482",
+              "start": 3,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTksWqOnYh",
+              "end": 62,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2053280846417891698/photo/1",
+              "media_key": "3_2053280844182401024",
+              "start": 39,
+              "url": "https://t.co/UTksWqOnYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053423882720489598",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053280846417891698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seven_Eraya: omg\n#炸柜 #被晶了 #我没有紫砂真的 https://t.co/UTksWqOnYh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053280844182401024"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2053280846417891698",
+        "created_at": "2026-05-10T01:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053280846417891698"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "炸柜"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "被晶了"
+            },
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "我没有紫砂真的"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UTksWqOnYh",
+              "end": 45,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2053280846417891698/photo/1",
+              "media_key": "3_2053280844182401024",
+              "start": 22,
+              "url": "https://t.co/UTksWqOnYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280846417891698",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1536,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "omg\n#炸柜 #被晶了 #我没有紫砂真的 https://t.co/UTksWqOnYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 534,
+          "like_count": 22345,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 4935
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|已拥盐|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2053280846417891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 111,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 237
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

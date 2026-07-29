@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018833275196682240"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2018833308382310893",
+    "created_at": "2026-02-03T23:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T00:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018833308382310893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dkb1KSylit",
+          "end": 31,
+          "expanded_url": "https://x.com/Cbscfe/status/2018833308382310893/photo/1",
+          "media_key": "3_2018833275196682240",
+          "start": 8,
+          "url": "https://t.co/Dkb1KSylit"
+        },
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Cbscfe/status/2017950633236857273",
+          "start": 32,
+          "url": "https://t.co/4CkheMdpCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018833308382310893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017950633236857273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拉黑了怎么又来 https://t.co/Dkb1KSylit https://t.co/4CkheMdpCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2018833275196682240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARWKuTWMAA3sQv.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018833275196682240"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2018833308382310893",
+        "created_at": "2026-02-03T23:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T00:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018833308382310893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dkb1KSylit",
+              "end": 31,
+              "expanded_url": "https://x.com/Cbscfe/status/2018833308382310893/photo/1",
+              "media_key": "3_2018833275196682240",
+              "start": 8,
+              "url": "https://t.co/Dkb1KSylit"
+            },
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2017950633236857273",
+              "start": 32,
+              "url": "https://t.co/4CkheMdpCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018833308382310893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017950633236857273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拉黑了怎么又来 https://t.co/Dkb1KSylit https://t.co/4CkheMdpCE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2017950633236857273",
+        "created_at": "2026-02-01T13:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017950633236857273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017950633236857273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推怎么私信也有片姐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 150,
+          "like_count": 13740,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

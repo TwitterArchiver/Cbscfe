@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1539077833968197632"
+      ],
+      "media_source_tweet_id": [
+        "1539077840821698561"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1985378483573555652",
+    "created_at": "2025-11-03T16:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985378483573555652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "ShimonaChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4RUlpJCdU",
+          "end": 104,
+          "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+          "media_key": "3_1539077833968197632",
+          "start": 81,
+          "url": "https://t.co/t4RUlpJCdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985378483573555652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1062
+    },
+    "referenced_tweets": [
+      {
+        "id": "1539077840821698561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShimonaChan: 别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_1539077833968197632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FVvnIrdaIAAvcFR.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1539077833968197632"
+          ],
+          "media_source_tweet_id": [
+            "1539077840821698561"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1985378483573555652",
+        "created_at": "2025-11-03T16:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985378483573555652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "ShimonaChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4RUlpJCdU",
+              "end": 104,
+              "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+              "media_key": "3_1539077833968197632",
+              "start": 81,
+              "url": "https://t.co/t4RUlpJCdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985378483573555652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1062
+        },
+        "referenced_tweets": [
+          {
+            "id": "1539077840821698561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShimonaChan: 别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1539077833968197632"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "1539077840821698561",
+        "created_at": "2022-06-21T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2022-06-21T03:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1539077840821698561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4RUlpJCdU",
+              "end": 87,
+              "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+              "media_key": "3_1539077833968197632",
+              "start": 64,
+              "url": "https://t.co/t4RUlpJCdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1539077840821698561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 0,
+          "like_count": 1317,
+          "quote_count": 139,
+          "reply_count": 226,
+          "retweet_count": 1062
+        },
+        "reply_settings": "everyone",
+        "text": "别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 5060,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Icon: ©️Acacia || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "まのさば"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 149,
+                "start": 131,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "1984815386660143332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984795389481140225/l7_mOVqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27908,
+          "following_count": 3525,
+          "like_count": 11341,
+          "listed_count": 30,
+          "media_count": 4344,
+          "tweet_count": 29744
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987896498823053382",
+    "created_at": "2025-11-10T23:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988033338653999567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675893781554667521",
+          "start": 0,
+          "username": "attto206181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988033338653999567",
+    "in_reply_to_user_id": "1675893781554667521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987896498823053382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@attto206181 所以哪里好笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987896498823053382",
+        "created_at": "2025-11-10T23:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988033338653999567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675893781554667521",
+              "start": 0,
+              "username": "attto206181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988033338653999567",
+        "in_reply_to_user_id": "1675893781554667521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987896498823053382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@attto206181 所以哪里好笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675893781554667521",
+        "conversation_id": "1987896498823053382",
+        "created_at": "2025-11-10T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987896498823053382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987896498823053382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发了那个躯体化一直在哭的抖猪猪表情包，有个男同学问我哪里好笑了。我没结合上下文当时还以为他有抑郁症真的躯体化...把我吓的..后来看他自己也发那个表情包才知道理解错了意思..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T15:46:43.000Z",
+        "description": "我是不会放弃一个人自言自语的",
+        "id": "1675893781554667521",
+        "location": "外太空",
+        "name": "全世界的人听我說",
+        "pinned_tweet_id": "1874128078672429146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975528218246488064/SE1AmXDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 125,
+          "like_count": 9861,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 5164
+        },
+        "username": "attto206181",
+        "verified": false
+      }
+    ]
+  }
+}

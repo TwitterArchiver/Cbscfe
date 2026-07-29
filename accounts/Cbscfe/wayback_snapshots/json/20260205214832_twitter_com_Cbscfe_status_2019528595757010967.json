@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2019528595757010967",
+    "created_at": "2026-02-05T21:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019528595757010967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497241020303495168",
+          "start": 3,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019528595757010967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019245985827017024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mosscghere: 似乎不少精神疾病\n以及很多xyn/xnn的成因\n本质上都指向了\n“缺爱/缺认同感”\n🤔🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2019528595757010967",
+        "created_at": "2026-02-05T21:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019528595757010967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497241020303495168",
+              "start": 3,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019528595757010967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019245985827017024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mosscghere: 似乎不少精神疾病\n以及很多xyn/xnn的成因\n本质上都指向了\n“缺爱/缺认同感”\n🤔🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497241020303495168",
+        "conversation_id": "2019245985827017024",
+        "created_at": "2026-02-05T03:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019245985827017024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019245985827017024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3184,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "似乎不少精神疾病\n以及很多xyn/xnn的成因\n本质上都指向了\n“缺爱/缺认同感”\n🤔🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 150,
+          "like_count": 13896,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜伪全栈｜早退OIer｜远古MC服主｜MossFrp/MoBoxFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6107,
+          "following_count": 851,
+          "like_count": 19115,
+          "listed_count": 7,
+          "media_count": 1472,
+          "tweet_count": 5685
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

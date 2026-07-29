@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988658979778834441",
+    "created_at": "2025-11-13T15:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988990659706204637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        },
+        {
+          "end": 32,
+          "id": "1711607784071147520",
+          "start": 16,
+          "username": "CuteFemboyAddMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988990659706204637",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988821426602930682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism @CuteFemboyAddMe 我测的\nM 74%\nF 70%\n(?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988658979778834441",
+        "created_at": "2025-11-13T15:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988990659706204637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            },
+            {
+              "end": 32,
+              "id": "1711607784071147520",
+              "start": 16,
+              "username": "CuteFemboyAddMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988990659706204637",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988821426602930682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism @CuteFemboyAddMe 我测的\nM 74%\nF 70%\n(?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750929042008907781",
+        "conversation_id": "1988658979778834441",
+        "created_at": "2025-11-13T04:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988821426602930682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711607784071147520",
+              "start": 0,
+              "username": "CuteFemboyAddMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988821426602930682",
+        "in_reply_to_user_id": "1711607784071147520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988766169671872782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteFemboyAddMe 47高吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 71,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 男生不是mtf ‖ 166/56 ‖ 身体健康，无精神疾病史 ‖ 水色系重度依赖 ‖ 🚪20好友位，赞赏码在置顶 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 134,
+          "like_count": 83,
+          "listed_count": 8,
+          "media_count": 129,
+          "tweet_count": 561
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T05:01:55.000Z",
+        "description": "無価値な人。30+歲mtf。Retweet Master/リツィートマスター/轉發大師。已找到愛我的人。",
+        "id": "1711607784071147520",
+        "name": "花咲ねむ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956187384342831107/c69qna1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 1521,
+          "like_count": 48437,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 2741
+        },
+        "username": "CuteFemboyAddMe",
+        "verified": false
+      }
+    ]
+  }
+}

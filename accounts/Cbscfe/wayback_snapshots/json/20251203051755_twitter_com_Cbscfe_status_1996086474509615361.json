@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1995876147469451264"
+      ],
+      "media_source_tweet_id": [
+        "1995876165383500070"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996086474509615361",
+    "created_at": "2025-12-03T05:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T06:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996086474509615361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1434103632690094085",
+          "start": 3,
+          "username": "TurkicWeasel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iK4msFP9qW",
+          "end": 41,
+          "expanded_url": "https://x.com/TurkicWeasel/status/1995876165383500070/video/1",
+          "media_key": "7_1995876147469451264",
+          "start": 18,
+          "url": "https://t.co/iK4msFP9qW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996086474509615361",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995876165383500070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TurkicWeasel: https://t.co/iK4msFP9qW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13585,
+        "height": 1280,
+        "media_key": "7_1995876147469451264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995876147469451264/pu/img/s1XWu3HCNJdivvh1.jpg",
+        "public_metrics": {
+          "view_count": 7506
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995876147469451264/pu/vid/avc1/320x568/S-dhUQMwH-DKH740.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995876147469451264/pu/vid/avc1/480x852/x99q1n1dTWl40HoG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995876147469451264/pu/vid/avc1/720x1280/wW0cq39CyvgDTKOw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995876147469451264/pu/pl/JvxUzS8C72ka0o76.m3u8?tag=12&v=fca"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995876147469451264"
+          ],
+          "media_source_tweet_id": [
+            "1995876165383500070"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996086474509615361",
+        "created_at": "2025-12-03T05:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996086474509615361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1434103632690094085",
+              "start": 3,
+              "username": "TurkicWeasel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iK4msFP9qW",
+              "end": 41,
+              "expanded_url": "https://x.com/TurkicWeasel/status/1995876165383500070/video/1",
+              "media_key": "7_1995876147469451264",
+              "start": 18,
+              "url": "https://t.co/iK4msFP9qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996086474509615361",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995876165383500070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TurkicWeasel: https://t.co/iK4msFP9qW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995876147469451264"
+          ]
+        },
+        "author_id": "1434103632690094085",
+        "conversation_id": "1995876165383500070",
+        "created_at": "2025-12-02T15:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995876165383500070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iK4msFP9qW",
+              "end": 23,
+              "expanded_url": "https://x.com/TurkicWeasel/status/1995876165383500070/video/1",
+              "media_key": "7_1995876147469451264",
+              "start": 0,
+              "url": "https://t.co/iK4msFP9qW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995876165383500070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 11838,
+          "like_count": 1397,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iK4msFP9qW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 100,
+          "like_count": 9965,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T10:39:09.000Z",
+        "description": "Littlepip is forever...\nshe is my side-wife 💚🩶(Trixie is my main wife)\n\nTrixie, Littlepip, Redheart Fanatic\n\nMy OCs: Mulehead (Male) & Limeshine (Female)",
+        "id": "1434103632690094085",
+        "location": "Life with Littlepip and Trixie",
+        "name": "JollyWeasel #Littlepip4Ever",
+        "pinned_tweet_id": "1931704873088602437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995928944223113216/Dnqdd0HY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 668,
+          "like_count": 16823,
+          "listed_count": 1,
+          "media_count": 942,
+          "tweet_count": 3430
+        },
+        "username": "TurkicWeasel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996504696346046567",
+    "created_at": "2025-12-04T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996582101412446671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "796548091667156992",
+          "start": 0,
+          "username": "yuki233dayo"
+        },
+        {
+          "end": 28,
+          "id": "1443439089710092288",
+          "start": 13,
+          "username": "XiaYiGongHeQiu"
+        },
+        {
+          "end": 37,
+          "id": "1433678976564662273",
+          "start": 29,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996582101412446671",
+    "in_reply_to_user_id": "796548091667156992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996578783001039155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki233dayo @XiaYiGongHeQiu @hsn8086 So this is also 9x10+7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996504696346046567",
+        "created_at": "2025-12-04T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996582101412446671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "796548091667156992",
+              "start": 0,
+              "username": "yuki233dayo"
+            },
+            {
+              "end": 28,
+              "id": "1443439089710092288",
+              "start": 13,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 37,
+              "id": "1433678976564662273",
+              "start": 29,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996582101412446671",
+        "in_reply_to_user_id": "796548091667156992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996578783001039155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki233dayo @XiaYiGongHeQiu @hsn8086 So this is also 9x10+7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "796548091667156992",
+        "conversation_id": "1996504696346046567",
+        "created_at": "2025-12-04T13:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996578783001039155"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 108,
+              "normalized_text": "のそじ",
+              "probability": 0.4972,
+              "start": 106,
+              "type": "Person"
+            },
+            {
+              "end": 155,
+              "normalized_text": "七",
+              "probability": 0.5371,
+              "start": 155,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "1443439089710092288",
+              "start": 8,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 32,
+              "id": "1433678976564662273",
+              "start": 24,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996578783001039155",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996565286074634331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @XiaYiGongHeQiu @hsn8086 ゝ→繰り返し記号(踊り字)\nこゝの→ここの→九\nぢ→現代ではほとんど「じ」になる\n〜そぢ→〜そじ→〜十路(ちょうど〜十である)\n\nこゝのそぢ→ここのそじ→九十路→ちょうど九十\n\nあまり→余り\n\nなゝ→なな→七\n\nこゝのそぢあまりなゝ→九十路余り七→97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 102,
+          "like_count": 10108,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T03:00:38.000Z",
+        "description": "夢の国からやって来た…のではないけど、たまに夢のあることをやってみたいかも(?)\nサークル「MoeyukiWorks」として活動(?)中\n| VTuberデビューしたい | お描き上手くなりたい",
+        "id": "796548091667156992",
+        "location": "あなたのすぐそばにいるよ〜",
+        "name": "初雪ななみ@C107 水曜日モ-36b",
+        "pinned_tweet_id": "1958493712788361245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995892555062673408/LgTDzKvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 2201,
+          "like_count": 78498,
+          "listed_count": 12,
+          "media_count": 679,
+          "tweet_count": 14116
+        },
+        "username": "yuki233dayo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "03年MTF｜HRT ekde 2023-10-12｜ @maplemarat estas amata de mi｜サブ垢@XiaYGHQiu ｜ISFP｜漢文&Esperanto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "maplemarat"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/8gajFOp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/8gajFOp",
+                "start": 0,
+                "url": "https://t.co/zoxNurgTre"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "黄河下游",
+        "name": "虾夷共和球🏳️‍⚧️",
+        "pinned_tweet_id": "1913951553800872151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993216545007583232/qvqxM7k8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 241,
+          "like_count": 19531,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/zoxNurgTre",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110993,
+          "following_count": 1006,
+          "like_count": 47691,
+          "listed_count": 246,
+          "media_count": 17731,
+          "tweet_count": 26426
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

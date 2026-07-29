@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1975576107488584112",
+    "created_at": "2025-10-08T03:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975764040614879699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1741426453265473536",
+          "start": 0,
+          "username": "yywz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975764040614879699",
+    "in_reply_to_user_id": "1741426453265473536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975576107488584112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yywz258 133 276 14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1975576104854540288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qoABSa0AALeTG.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1975576107488584112",
+        "created_at": "2025-10-08T03:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975764040614879699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741426453265473536",
+              "start": 0,
+              "username": "yywz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975764040614879699",
+        "in_reply_to_user_id": "1741426453265473536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975576107488584112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yywz258 133 276 14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975576104854540288"
+          ]
+        },
+        "author_id": "1741426453265473536",
+        "conversation_id": "1975576107488584112",
+        "created_at": "2025-10-07T14:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975576107488584112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhYotRbZmY",
+              "end": 29,
+              "expanded_url": "https://x.com/yywz258/status/1975576107488584112/photo/1",
+              "media_key": "3_1975576104854540288",
+              "start": 6,
+              "url": "https://t.co/KhYotRbZmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975576107488584112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1-888 https://t.co/KhYotRbZmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:50:08.000Z",
+        "description": "Evt a vhensiy dehlli en emce.\n望　その場所に在る者。\n\n    fo你是喜欢你求互fo（。可以称我为男娘，未术trans，5w4，多意识体，精神不稳定，喜欢学新东西，打音游，已戒o戒割，爱好是能和自己做的一切🐱🖐🏻️",
+        "id": "1741426453265473536",
+        "name": "intra_秋雨末叶🏳️‍⚧️",
+        "pinned_tweet_id": "1975576107488584112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973088785144623104/zrzo9D2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 557,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 439
+        },
+        "username": "yywz258",
+        "verified": false
+      }
+    ]
+  }
+}

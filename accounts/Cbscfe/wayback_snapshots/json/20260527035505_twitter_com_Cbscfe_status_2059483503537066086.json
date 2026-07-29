@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2059398080643190943",
+    "created_at": "2026-05-27T03:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059483503537066086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        },
+        {
+          "end": 21,
+          "id": "1764195010986274816",
+          "start": 13,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059483503537066086",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059398080643190943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki @CCA8798 互关，，，"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [CCA8798].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "CCA8798",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "CCA8798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2059398076696289280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRzo7ya4AAD83I.jpg",
+        "width": 652
+      },
+      {
+        "height": 103,
+        "media_key": "3_2059398078533394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRzpCoa4AA8faW.jpg",
+        "width": 212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2059398080643190943",
+        "created_at": "2026-05-27T03:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059483503537066086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 21,
+              "id": "1764195010986274816",
+              "start": 13,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059483503537066086",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059398080643190943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @CCA8798 互关，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059398076696289280",
+            "3_2059398078533394432"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2059398080643190943",
+        "created_at": "2026-05-26T22:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059398080643190943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1764195010986274816",
+              "start": 13,
+              "username": "CCA8798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYcRfU5OYO",
+              "end": 175,
+              "expanded_url": "https://x.com/CCA8798suki/status/2059398080643190943/photo/1",
+              "media_key": "3_2059398076696289280",
+              "start": 152,
+              "url": "https://t.co/hYcRfU5OYO"
+            },
+            {
+              "display_url": "pic.x.com/hYcRfU5OYO",
+              "end": 175,
+              "expanded_url": "https://x.com/CCA8798suki/status/2059398080643190943/photo/1",
+              "media_key": "3_2059398078533394432",
+              "start": 152,
+              "url": "https://t.co/hYcRfU5OYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059398080643190943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 712,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "大家好😭我是捌拐玖捌，原号@CCA8798遭遇马斯克和剑人迫害导致无故停用退登，我没有接到异常信息，重新登录提示内部错误，目前在30天停用期内正在联系支持团队尝试找回\n\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/hYcRfU5OYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 635,
+          "like_count": 23873,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 5607
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目互fo\n一代目@CCA8798(日常)\n二代目🔞！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 134,
+                "username": "CCA8798"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 86,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2041981431765987631",
+    "created_at": "2026-04-08T20:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041981431765987631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1528928909734973440",
+          "start": 3,
+          "username": "HiyouNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041981431765987631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041801451928944851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiyouNeko: 意思是我不仅错过了HRT的『最佳时机』，也错过了自杀的『最佳时机』。\n如果说HRT的最佳时机就是『现在』，那自杀的最好时机是否也是『现在』呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041981431765987631",
+        "created_at": "2026-04-08T20:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041981431765987631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1528928909734973440",
+              "start": 3,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041981431765987631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041801451928944851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiyouNeko: 意思是我不仅错过了HRT的『最佳时机』，也错过了自杀的『最佳时机』。\n如果说HRT的最佳时机就是『现在』，那自杀的最好时机是否也是『现在』呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2041801451928944851",
+        "created_at": "2026-04-08T08:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041801451928944851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blingbling712/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/blingbling712/status/2041555861592539543",
+              "start": 72,
+              "url": "https://t.co/f242bCkhCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041801451928944851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041555861592539543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意思是我不仅错过了HRT的『最佳时机』，也错过了自杀的『最佳时机』。\n如果说HRT的最佳时机就是『现在』，那自杀的最好时机是否也是『现在』呢？ https://t.co/f242bCkhCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 269,
+          "like_count": 18449,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3441
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა剧烈变形☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1044,
+          "like_count": 9723,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 3649
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

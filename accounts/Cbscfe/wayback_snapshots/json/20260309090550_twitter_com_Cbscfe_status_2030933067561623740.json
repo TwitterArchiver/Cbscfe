@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2030531905217806721",
+    "created_at": "2026-03-09T09:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030933067561623740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1530030114591100928",
+          "start": 0,
+          "username": "MaxtuneLee"
+        },
+        {
+          "end": 19,
+          "id": "1712095004",
+          "start": 12,
+          "username": "i5ting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030933067561623740",
+    "in_reply_to_user_id": "1530030114591100928",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030548277435978203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxtuneLee @i5ting omgmmhyw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2030548271241048065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC305PabMAE36uS.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030548271228497920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC305PXbsAAAhLt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2030531905217806721",
+        "created_at": "2026-03-09T09:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030933067561623740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1530030114591100928",
+              "start": 0,
+              "username": "MaxtuneLee"
+            },
+            {
+              "end": 19,
+              "id": "1712095004",
+              "start": 12,
+              "username": "i5ting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030933067561623740",
+        "in_reply_to_user_id": "1530030114591100928",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030548277435978203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxtuneLee @i5ting omgmmhyw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030548271241048065",
+            "3_2030548271228497920"
+          ]
+        },
+        "author_id": "1530030114591100928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2030531905217806721",
+        "created_at": "2026-03-08T07:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030548277435978203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1712095004",
+              "start": 0,
+              "username": "i5ting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQGhC5EXyW",
+              "end": 46,
+              "expanded_url": "https://x.com/MaxtuneLee/status/2030548277435978203/photo/1",
+              "media_key": "3_2030548271241048065",
+              "start": 23,
+              "url": "https://t.co/sQGhC5EXyW"
+            },
+            {
+              "display_url": "pic.x.com/sQGhC5EXyW",
+              "end": 46,
+              "expanded_url": "https://x.com/MaxtuneLee/status/2030548277435978203/photo/1",
+              "media_key": "3_2030548271228497920",
+              "start": 23,
+              "url": "https://t.co/sQGhC5EXyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030548277435978203",
+        "in_reply_to_user_id": "1712095004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12614,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030531905217806721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i5ting 神秘锁github开源贡献者 https://t.co/sQGhC5EXyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 198,
+          "like_count": 16654,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2650
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T03:36:36.000Z",
+        "description": "⌨️ Frontend developer / UI/UX / WildBox developer. Nice to meet you😼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mxte.cc",
+                "end": 23,
+                "expanded_url": "http://mxte.cc",
+                "start": 0,
+                "url": "https://t.co/2WCY3XB0EI"
+              }
+            ]
+          }
+        },
+        "id": "1530030114591100928",
+        "name": "Maxtune",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841380451900121088/vYe6BhP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 597,
+          "like_count": 1229,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/2WCY3XB0EI",
+        "username": "MaxtuneLee",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-30T07:47:00.000Z",
+        "description": "前阿里，字节前端技术专家，关注Node.js AI Agent开发和Moonbit语言",
+        "id": "1712095004",
+        "location": "Beijing",
+        "name": "i5ting",
+        "pinned_tweet_id": "1747892052875260233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817769006746746880/QfKfsYhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12765,
+          "following_count": 2965,
+          "like_count": 2415,
+          "listed_count": 102,
+          "media_count": 295,
+          "tweet_count": 5636
+        },
+        "username": "i5ting",
+        "verified": false
+      }
+    ]
+  }
+}

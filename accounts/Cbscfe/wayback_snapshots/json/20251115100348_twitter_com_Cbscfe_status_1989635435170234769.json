@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1989635435170234769",
+    "created_at": "2025-11-15T10:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989635435170234769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xyzofox/status…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/xyzofox/status/1989288272053637369",
+          "start": 35,
+          "url": "https://t.co/fT0rmnJMpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989635435170234769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989288272053637369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "A键向前\n左Shift向左\nS键向右\n鼠标按键五疾跑\n右键跳跃\n\n？ https://t.co/fT0rmnJMpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 177716,
+        "height": 1080,
+        "media_key": "13_1989288074371883008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989288074371883008/img/cTcYzDrO--snKEKS.jpg",
+        "public_metrics": {
+          "view_count": 337740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989288074371883008/vid/avc1/480x270/MVcKVEdDm0MWvCll.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989288074371883008/vid/avc1/640x360/oNz1ertBIQrJD-fv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989288074371883008/vid/avc1/1280x720/_1ybMjsJq062dG0T.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989288074371883008/pl/Sos-cMOqSyUtACNt.m3u8?tag=14&v=405"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1989635435170234769",
+        "created_at": "2025-11-15T10:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989635435170234769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xyzofox/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/xyzofox/status/1989288272053637369",
+              "start": 35,
+              "url": "https://t.co/fT0rmnJMpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989635435170234769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989288272053637369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A键向前\n左Shift向左\nS键向右\n鼠标按键五疾跑\n右键跳跃\n\n？ https://t.co/fT0rmnJMpo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989288074371883008"
+          ]
+        },
+        "author_id": "1755237951808704512",
+        "conversation_id": "1989288272053637369",
+        "created_at": "2025-11-14T11:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989288272053637369"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "parkour",
+              "probability": 0.392,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYu8tdkskf",
+              "end": 78,
+              "expanded_url": "https://x.com/xyzofox/status/1989288272053637369/video/1",
+              "media_key": "13_1989288074371883008",
+              "start": 55,
+              "url": "https://t.co/yYu8tdkskf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989288272053637369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 880115,
+          "like_count": 1816,
+          "quote_count": 132,
+          "reply_count": 93,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "first time recording parkour with my inputs shown !!!! https://t.co/yYu8tdkskf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 0,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T14:32:01.000Z",
+        "description": "suffering from chronic geeked syndrome // 1/4 of WIP ⚠️\n// #xyzofart (fanart tag)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "xyzofart"
+              }
+            ]
+          }
+        },
+        "id": "1755237951808704512",
+        "location": "At your local grocery store !!",
+        "name": "xyzophone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755238813759135744/xmv4b82V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 95,
+          "like_count": 20897,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1443
+        },
+        "username": "xyzofox",
+        "verified": false
+      }
+    ]
+  }
+}

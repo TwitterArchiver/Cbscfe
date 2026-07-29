@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1912055158168834251",
+    "created_at": "2026-01-18T14:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012891169982648768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012891169982648768",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912055158168834251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 何意味。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912055139013107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goj8BLfWIAAswC4.jpg",
+        "width": 1196
+      },
+      {
+        "height": 500,
+        "media_key": "3_1912055140158205952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goj8BPwW8AANAzY.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1912055158168834251",
+        "created_at": "2026-01-18T14:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012891169982648768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012891169982648768",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912055158168834251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 何意味。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912055139013107712",
+            "3_1912055140158205952"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "1912055158168834251",
+        "created_at": "2025-04-15T08:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T09:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912055158168834251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgnkJZYeHK",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/1912055158168834251/photo/1",
+              "media_key": "3_1912055139013107712",
+              "start": 0,
+              "url": "https://t.co/BgnkJZYeHK"
+            },
+            {
+              "display_url": "pic.x.com/BgnkJZYeHK",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/1912055158168834251/photo/1",
+              "media_key": "3_1912055140158205952",
+              "start": 0,
+              "url": "https://t.co/BgnkJZYeHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912055158168834251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1164,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BgnkJZYeHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 121,
+          "like_count": 12711,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 48,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

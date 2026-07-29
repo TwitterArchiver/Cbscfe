@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2028375591536542081",
+    "created_at": "2026-03-02T12:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028441439345225835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1437764307521970177",
+          "start": 0,
+          "username": "VulkeyChen"
+        },
+        {
+          "end": 23,
+          "id": "1022855030695546881",
+          "start": 12,
+          "username": "wushaoshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028441439345225835",
+    "in_reply_to_user_id": "1437764307521970177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028405052545925448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VulkeyChen @wushaoshan 骗你的打开源代码一看就看出来了\n如果看不出来的话AI真的很厉害了\n但是就我现在接触到的来说全都看得出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2028375591536542081",
+        "created_at": "2026-03-02T12:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028441439345225835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1437764307521970177",
+              "start": 0,
+              "username": "VulkeyChen"
+            },
+            {
+              "end": 23,
+              "id": "1022855030695546881",
+              "start": 12,
+              "username": "wushaoshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028441439345225835",
+        "in_reply_to_user_id": "1437764307521970177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028405052545925448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VulkeyChen @wushaoshan 骗你的打开源代码一看就看出来了\n如果看不出来的话AI真的很厉害了\n但是就我现在接触到的来说全都看得出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437764307521970177",
+        "conversation_id": "2028375591536542081",
+        "created_at": "2026-03-02T09:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028405052545925448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1022855030695546881",
+              "start": 0,
+              "username": "wushaoshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028405052545925448",
+        "in_reply_to_user_id": "1022855030695546881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1467,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028381854496440591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushaoshan 现在AI写出来的东西，表面精致，容易被这种“高级感”迷惑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 180,
+          "like_count": 15890,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T13:05:08.000Z",
+        "description": "I LOVE CHINA 🇨🇳\nBlog: https://t.co/lMvHRGPcLJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gh0st.cn",
+                "end": 45,
+                "expanded_url": "http://gh0st.cn",
+                "start": 22,
+                "url": "https://t.co/lMvHRGPcLJ"
+              }
+            ]
+          }
+        },
+        "id": "1437764307521970177",
+        "name": "key",
+        "pinned_tweet_id": "1902346994942931363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509870467301068808/TkPFZaka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5384,
+          "following_count": 418,
+          "like_count": 1027,
+          "listed_count": 34,
+          "media_count": 82,
+          "tweet_count": 597
+        },
+        "username": "VulkeyChen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-27T14:43:37.000Z",
+        "description": "",
+        "id": "1022855030695546881",
+        "name": "吴见午",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999706077936726016/0arS16VR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 211,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "wushaoshan",
+        "verified": false
+      }
+    ]
+  }
+}

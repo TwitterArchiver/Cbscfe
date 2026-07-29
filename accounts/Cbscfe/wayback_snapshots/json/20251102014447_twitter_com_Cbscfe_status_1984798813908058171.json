@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984549415592583509",
+    "created_at": "2025-11-02T01:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T02:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984798813908058171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926785911011811328",
+          "start": 0,
+          "username": "rAi9Nobi5m57545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984798813908058171",
+    "in_reply_to_user_id": "1926785911011811328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984549415592583509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rAi9Nobi5m57545 我是小孩，快来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984549415592583509",
+        "created_at": "2025-11-02T01:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984798813908058171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926785911011811328",
+              "start": 0,
+              "username": "rAi9Nobi5m57545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984798813908058171",
+        "in_reply_to_user_id": "1926785911011811328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984549415592583509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rAi9Nobi5m57545 我是小孩，快来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926785911011811328",
+        "conversation_id": "1984549415592583509",
+        "created_at": "2025-11-01T09:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984549415592583509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984549415592583509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1473,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操小孩别上网行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 4721,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T23:42:23.000Z",
+        "description": "无人在意",
+        "id": "1926785911011811328",
+        "location": "6.3km",
+        "name": "止痛劑",
+        "pinned_tweet_id": "1979463473794027616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984404183781687297/GvWA1Xvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 162,
+          "like_count": 1073,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 800
+        },
+        "username": "rAi9Nobi5m57545",
+        "verified": false
+      }
+    ]
+  }
+}

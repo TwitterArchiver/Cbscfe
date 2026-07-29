@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053802894349213889",
+    "created_at": "2026-05-11T11:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053802894349213889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Shikieiki/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/_Shikieiki/status/2053799486930259968",
+          "start": 15,
+          "url": "https://t.co/nvObCI6x4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053802894349213889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053799486930259968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次接触od是好友介绍) https://t.co/nvObCI6x4c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053802894349213889",
+        "created_at": "2026-05-11T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053802894349213889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2053799486930259968",
+              "start": 15,
+              "url": "https://t.co/nvObCI6x4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053802894349213889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053799486930259968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次接触od是好友介绍) https://t.co/nvObCI6x4c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2053799486930259968",
+        "created_at": "2026-05-11T11:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053799486930259968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral114514/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Lomyral114514/status/2053798496223076499",
+              "start": 15,
+              "url": "https://t.co/bLeK4VrQO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053799486930259968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053798496223076499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次接触od是好友介绍) https://t.co/bLeK4VrQO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 572,
+          "like_count": 22673,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5053
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 918,
+          "like_count": 28057,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

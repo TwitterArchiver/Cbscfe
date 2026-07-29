@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1998426169192935550",
+    "created_at": "2025-12-10T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998764788663677313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906160828161699840",
+          "start": 0,
+          "username": "OwenMcBrideReal"
+        },
+        {
+          "end": 31,
+          "id": "1387489102799376388",
+          "start": 17,
+          "username": "Stone_tossers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998764788663677313",
+    "in_reply_to_user_id": "1906160828161699840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998544003063550380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwenMcBrideReal @Stone_tossers It's a bubble"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1998426169192935550",
+        "created_at": "2025-12-10T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998764788663677313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906160828161699840",
+              "start": 0,
+              "username": "OwenMcBrideReal"
+            },
+            {
+              "end": 31,
+              "id": "1387489102799376388",
+              "start": 17,
+              "username": "Stone_tossers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998764788663677313",
+        "in_reply_to_user_id": "1906160828161699840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998544003063550380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwenMcBrideReal @Stone_tossers It's a bubble"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906160828161699840",
+        "conversation_id": "1998426169192935550",
+        "created_at": "2025-12-10T00:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T01:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998544003063550380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "Twin Towers",
+              "probability": 0.9702,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1387489102799376388",
+              "start": 0,
+              "username": "Stone_tossers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998544003063550380",
+        "in_reply_to_user_id": "1387489102799376388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7661,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998426169192935550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stone_tossers It’s like watching a movie in the 90s and seeing the Twin Towers"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 105,
+          "like_count": 10659,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T01:45:49.000Z",
+        "description": "",
+        "id": "1906160828161699840",
+        "name": "Owen McBride",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906162979290099712/hlhHcI3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "username": "OwenMcBrideReal",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T19:29:31.000Z",
+        "description": "Not @stone_toss, comic/meme reposter. Don't harass people featured on this account, their lives are miserable enough as it is. Replies might be automated.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "stone_toss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stonetoss.com/about/",
+                "end": 23,
+                "expanded_url": "http://stonetoss.com/about/",
+                "start": 0,
+                "url": "https://t.co/YF8hGdmlv4"
+              }
+            ]
+          }
+        },
+        "id": "1387489102799376388",
+        "name": "Stone tossers",
+        "pinned_tweet_id": "1962590340709523770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420260995923021827/b--gg9vA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217361,
+          "following_count": 146,
+          "like_count": 51824,
+          "listed_count": 578,
+          "media_count": 29095,
+          "tweet_count": 63533
+        },
+        "url": "https://t.co/YF8hGdmlv4",
+        "username": "Stone_tossers",
+        "verified": true
+      }
+    ]
+  }
+}

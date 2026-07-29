@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1991104661433336132",
+    "created_at": "2025-11-19T11:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991104661433336132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        },
+        {
+          "end": 24,
+          "id": "1770506396515340288",
+          "start": 15,
+          "username": "aero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991104661433336132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991101683695513637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: @aero8964 谁欺负你你干谁呗，还能咋办，窝囊、不反抗、懦弱，哪怕你跑了也是一辈子被人欺负的命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1991104661433336132",
+        "created_at": "2025-11-19T11:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991104661433336132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 24,
+              "id": "1770506396515340288",
+              "start": 15,
+              "username": "aero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991104661433336132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991101683695513637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: @aero8964 谁欺负你你干谁呗，还能咋办，窝囊、不反抗、懦弱，哪怕你跑了也是一辈子被人欺负的命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1991049544268927131",
+        "created_at": "2025-11-19T11:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991101683695513637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1770506396515340288",
+              "start": 0,
+              "username": "aero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991101683695513637",
+        "in_reply_to_user_id": "1770506396515340288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991057090593632519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aero8964 谁欺负你你干谁呗，还能咋办，窝囊、不反抗、懦弱，哪怕你跑了也是一辈子被人欺负的命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 84,
+          "like_count": 7768,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "知名药娘主理人，药娘里唯一的纯1，还是处女那种",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "芙兰大渣渣",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985663894770368512/DuNqkSEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12602,
+          "following_count": 474,
+          "like_count": 30623,
+          "listed_count": 20,
+          "media_count": 3171,
+          "tweet_count": 10622
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T17:43:21.000Z",
+        "description": "男 06 的｜ 成分复杂的乐子人 ｜EJU备考生 ｜ 日本在留资格持有者 ｜ 猜猜我什么立场 ｜ 粉蛆又急",
+        "id": "1770506396515340288",
+        "location": "Tokyo-to, Japan",
+        "name": "Aerovrra",
+        "pinned_tweet_id": "1949020230124208258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777566343484837888/AMSKrpM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 195,
+          "like_count": 1752,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 890
+        },
+        "username": "aero8964",
+        "verified": true
+      }
+    ]
+  }
+}

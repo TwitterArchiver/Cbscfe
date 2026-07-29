@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987621406826520974",
+    "created_at": "2025-11-09T20:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T21:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987621406826520974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1291760609776656390",
+          "start": 3,
+          "username": "cookie11004980"
+        },
+        {
+          "end": 27,
+          "id": "1959893383633358848",
+          "start": 20,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 41,
+          "id": "1662439435726905344",
+          "start": 28,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987621406826520974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987620930789798340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cookie11004980: @Cbscfe @moya_michaeI 被盯著還真是不孤單了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987621406826520974",
+        "created_at": "2025-11-09T20:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987621406826520974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1291760609776656390",
+              "start": 3,
+              "username": "cookie11004980"
+            },
+            {
+              "end": 27,
+              "id": "1959893383633358848",
+              "start": 20,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 41,
+              "id": "1662439435726905344",
+              "start": 28,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987621406826520974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987620930789798340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cookie11004980: @Cbscfe @moya_michaeI 被盯著還真是不孤單了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291760609776656390",
+        "conversation_id": "1987171335093796926",
+        "created_at": "2025-11-09T20:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987620930789798340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 21,
+              "id": "1662439435726905344",
+              "start": 8,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987620930789798340",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987421235844948450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @moya_michaeI 被盯著還真是不孤單了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 68,
+          "like_count": 6064,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T15:38:42.000Z",
+        "description": "ora",
+        "id": "1291760609776656390",
+        "name": "cookie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964214270947934208/KwWqSMw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 4492,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 939
+        },
+        "username": "cookie11004980",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "視線 未來 被 霧霾 覆蓋 空白 意外 負債 後代..",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael-MoyA",
+        "pinned_tweet_id": "1987198004856815949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 125,
+          "like_count": 7930,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1134
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

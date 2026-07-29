@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039158396453319063",
+    "created_at": "2026-04-01T01:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T02:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039158396453319063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1880464788276539392",
+          "start": 3,
+          "username": "haorikotoha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039158396453319063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039009565778514394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haorikotoha: 被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039158396453319063",
+        "created_at": "2026-04-01T01:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039158396453319063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880464788276539392",
+              "start": 3,
+              "username": "haorikotoha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039158396453319063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039009565778514394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haorikotoha: 被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464788276539392",
+        "conversation_id": "2039009565778514394",
+        "created_at": "2026-03-31T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039009565778514394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039009565778514394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 659,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被关押的孩子可以自愿放弃使用正确pronoun来换取被救助，但救助者绝不可以以此为条件来判断是否救助。\n如果认不清这个，就别干救助了。无非是矫正机构的二道贩子罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 238,
+          "like_count": 17837,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3146
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:53.000Z",
+        "description": "败犬女配 / TransLes",
+        "id": "1880464788276539392",
+        "location": "反正不在北欧",
+        "name": "琴葉🏳️‍⚧️HYY",
+        "pinned_tweet_id": "1944960722972369260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962137875354644480/L-XnrHgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 138,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 919
+        },
+        "username": "haorikotoha",
+        "verified": false
+      }
+    ]
+  }
+}

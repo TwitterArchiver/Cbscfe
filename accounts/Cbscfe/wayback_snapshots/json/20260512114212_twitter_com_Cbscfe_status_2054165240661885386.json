@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054160699002413505",
+    "created_at": "2026-05-12T11:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054165240661885386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054165240661885386",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054160699002413505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 电人。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054160699002413505",
+        "created_at": "2026-05-12T11:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054165240661885386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054165240661885386",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054160699002413505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 电人。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2054160699002413505",
+        "created_at": "2026-05-12T11:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054160699002413505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "依依爸爸，央企工作者。女儿考上北京211大学后，却因重度焦虑、自伤、自杀念头而无法正常生活。两年辗转求医，电击疗法做了10次，毫无起色。直到他偶然了解到阿斯伯格综合征，才恍然大悟——女儿不是“病”了，而是属于孤独症谱系障碍中那80%“没那么明显的大多数”。他后悔：为什么早没发现？为什么医院也没看出来？从一心想要治好她，到慢慢接受她只是换了一种方式活着，这位父亲用两年时间，重新学习如何爱自己的孩子。, 视频播放量 62064、弹幕量 290、点赞数 1544、投硬币枚数 373、收藏人数 912、转发人数 476, 视频作者 凉子访谈录, 作者简介 在这里见天地、见众生、见自己。凉子，新式访谈开创者，全网粉丝2000万。 课程:bjqn5252 访谈:bjqn567 商务:bjqn002，相关视频：",
+              "display_url": "bilibili.com/video/BV1Ym5W6…",
+              "end": 140,
+              "expanded_url": "https://www.bilibili.com/video/BV1Ym5W6bEbp",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2054160782779461633/se0hfk9P?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2054160782779461633/se0hfk9P?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "依依爸爸：陪女儿做10次电击后，我终于读懂了她_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Ym5W6bEbp/",
+              "url": "https://t.co/aXeHjRA6qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054160699002413505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我看的后背发凉，给孩子高强度mect以后才知道是阿斯伯格综合征，全都在夸这个家长理解孩子，完全没有对孩子的愧疚。十四五岁未成年都给电已经是很严重的滥用了吧\n\n依依爸爸：陪女儿做10次电击后，我终于读懂了她 UP主: 凉子访谈录 - https://t.co/aXeHjRA6qo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 572,
+          "like_count": 22841,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5134
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 491,
+          "like_count": 84542,
+          "listed_count": 7,
+          "media_count": 812,
+          "tweet_count": 9245
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

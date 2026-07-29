@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987266189735993821",
+    "created_at": "2025-11-09T09:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987456805895803043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430368510790803458",
+          "start": 0,
+          "username": "Justforfun61126"
+        },
+        {
+          "end": 32,
+          "id": "816527954104774656",
+          "start": 17,
+          "username": "jalal201677603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987456805895803043",
+    "in_reply_to_user_id": "1430368510790803458",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987456591378239525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justforfun61126 @jalal201677603 ty qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987266189735993821",
+        "created_at": "2025-11-09T09:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987456805895803043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430368510790803458",
+              "start": 0,
+              "username": "Justforfun61126"
+            },
+            {
+              "end": 32,
+              "id": "816527954104774656",
+              "start": 17,
+              "username": "jalal201677603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987456805895803043",
+        "in_reply_to_user_id": "1430368510790803458",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987456591378239525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justforfun61126 @jalal201677603 ty qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430368510790803458",
+        "conversation_id": "1987266189735993821",
+        "created_at": "2025-11-09T09:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987456591378239525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 23,
+              "id": "816527954104774656",
+              "start": 8,
+              "username": "jalal201677603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987456591378239525",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987454860716097723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @jalal201677603 The water is level. The box is rotating and the camera is rotating with it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 5925,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T03:17:03.000Z",
+        "description": "Canadian guy who enjoys saline",
+        "id": "1430368510790803458",
+        "location": "Western Alberta, Canada ",
+        "name": "Justforfun",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 267,
+          "like_count": 15427,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9495
+        },
+        "username": "Justforfun61126",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-04T06:13:29.000Z",
+        "description": "",
+        "id": "816527954104774656",
+        "name": "Deep Web",
+        "pinned_tweet_id": "1946765401481973956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942730896429236224/SNLjBPV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 45,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 423
+        },
+        "username": "jalal201677603",
+        "verified": false
+      }
+    ]
+  }
+}

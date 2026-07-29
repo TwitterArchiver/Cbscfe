@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2046076243737805086",
+    "created_at": "2026-04-20T14:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046240921516462184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044496192734666752",
+          "start": 0,
+          "username": "UWATCHLIFE"
+        },
+        {
+          "end": 27,
+          "id": "1795719520939905024",
+          "start": 12,
+          "username": "pyridine_lemon"
+        },
+        {
+          "end": 43,
+          "id": "1795719520939905024",
+          "start": 28,
+          "username": "pyridine_lemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 110,
+          "expanded_url": "https://x.com/Cbscfe/status/2046240171780415559",
+          "start": 87,
+          "url": "https://t.co/MdTVDxBBZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046240921516462184",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046240171780415559",
+        "type": "quoted"
+      },
+      {
+        "id": "2046143286726029525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWATCHLIFE @pyridine_lemon @pyridine_lemon \n没事了，是因为在B站发负面内容（紫砂）被B站报警了，不是因为冲塔/OD，不用担心。\nhttps://t.co/MdTVDxBBZa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-20T14:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046240921516462184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 27,
+              "id": "1795719520939905024",
+              "start": 12,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 43,
+              "id": "1795719520939905024",
+              "start": 28,
+              "username": "pyridine_lemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 110,
+              "expanded_url": "https://x.com/Cbscfe/status/2046240171780415559",
+              "start": 87,
+              "url": "https://t.co/MdTVDxBBZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046240921516462184",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046240171780415559",
+            "type": "quoted"
+          },
+          {
+            "id": "2046143286726029525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @pyridine_lemon @pyridine_lemon \n没事了，是因为在B站发负面内容（紫砂）被B站报警了，不是因为冲塔/OD，不用担心。\nhttps://t.co/MdTVDxBBZa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2046240171780415559",
+        "created_at": "2026-04-20T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046240171780415559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Cbscfe/status/2046076243737805086",
+              "start": 62,
+              "url": "https://t.co/8PO19j9JLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046240171780415559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046076243737805086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，我从公安局回来发现发的贴子火了。\n（公安局是因为在B站发负面内容（紫砂）被B站报警了，不是因为冲塔/OD，不用担心） https://t.co/8PO19j9JLY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-20T08:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046143286726029525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 23,
+              "id": "1959893383633358848",
+              "start": 16,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046143286726029525",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046131116726481033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon @Cbscfe 他自己发群里的，你现在叫他你看还回不回你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "好了伤疤忘了疼\n---\n马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 349,
+          "like_count": 19536,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 17,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "love every person who appreciates me\n\nmtf/mathematics-phile/Cuset's fan/\n\nwith Cuset: we are lovers and friends\n\nlove @VoidAldehyde forever...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "VoidAldehyde"
+              }
+            ]
+          }
+        },
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2039272076935373196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796043264979812353/whgd2biH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 37,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1027
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

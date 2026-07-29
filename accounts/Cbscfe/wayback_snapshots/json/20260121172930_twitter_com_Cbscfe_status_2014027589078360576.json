@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014027577820848132"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2013909614832832682",
+    "created_at": "2026-01-21T17:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014027589078360576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sgBjzs9Al9",
+          "end": 35,
+          "expanded_url": "https://x.com/Cbscfe/status/2014027589078360576/photo/1",
+          "media_key": "3_2014027577820848132",
+          "start": 12,
+          "url": "https://t.co/sgBjzs9Al9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014027589078360576",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013909614832832682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x https://t.co/sgBjzs9Al9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 73,
+        "media_key": "3_2014027577820848132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NDaUfaIAQheTP.png",
+        "width": 738
+      },
+      {
+        "height": 805,
+        "media_key": "3_2013909608029700096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LYHkxbQAAoqXl.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014027577820848132"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2013909614832832682",
+        "created_at": "2026-01-21T17:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014027589078360576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgBjzs9Al9",
+              "end": 35,
+              "expanded_url": "https://x.com/Cbscfe/status/2014027589078360576/photo/1",
+              "media_key": "3_2014027577820848132",
+              "start": 12,
+              "url": "https://t.co/sgBjzs9Al9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014027589078360576",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013909614832832682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x https://t.co/sgBjzs9Al9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013909608029700096"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2013909614832832682",
+        "created_at": "2026-01-21T09:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013909614832832682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R8oNRFgB1y",
+              "end": 33,
+              "expanded_url": "https://x.com/amecandy_x/status/2013909614832832682/photo/1",
+              "media_key": "3_2013909608029700096",
+              "start": 10,
+              "url": "https://t.co/R8oNRFgB1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013909614832832682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接住你，不躲，不逃 https://t.co/R8oNRFgB1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 122,
+          "like_count": 12900,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack💻/Vibe Coding/Blogger",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2012540204280905884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5131,
+          "following_count": 1767,
+          "like_count": 23482,
+          "listed_count": 15,
+          "media_count": 994,
+          "tweet_count": 8072
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

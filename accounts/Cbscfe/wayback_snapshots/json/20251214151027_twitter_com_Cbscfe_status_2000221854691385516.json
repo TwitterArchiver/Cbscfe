@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1999887068160254237",
+    "created_at": "2025-12-14T15:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000221854691385516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512718991340761098",
+          "start": 0,
+          "username": "PixelCodeX01"
+        },
+        {
+          "end": 30,
+          "id": "965774983527043072",
+          "start": 14,
+          "username": "PR0GRAMMERHUM0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000221854691385516",
+    "in_reply_to_user_id": "1512718991340761098",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000071943631098064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PixelCodeX01 @PR0GRAMMERHUM0R SCP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1999887068160254237",
+        "created_at": "2025-12-14T15:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000221854691385516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512718991340761098",
+              "start": 0,
+              "username": "PixelCodeX01"
+            },
+            {
+              "end": 30,
+              "id": "965774983527043072",
+              "start": 14,
+              "username": "PR0GRAMMERHUM0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000221854691385516",
+        "in_reply_to_user_id": "1512718991340761098",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000071943631098064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PixelCodeX01 @PR0GRAMMERHUM0R SCP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512718991340761098",
+        "conversation_id": "1999887068160254237",
+        "created_at": "2025-12-14T05:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000071943631098064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "965774983527043072",
+              "start": 0,
+              "username": "PR0GRAMMERHUM0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000071943631098064",
+        "in_reply_to_user_id": "965774983527043072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999887068160254237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PR0GRAMMERHUM0R -o5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 107,
+          "like_count": 10919,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T09:08:25.000Z",
+        "description": "Declare var not war",
+        "id": "1512718991340761098",
+        "name": "Pixel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797709646150381568/ZLfrATwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 251
+        },
+        "username": "PixelCodeX01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-20T02:27:54.000Z",
+        "description": "r/ProgrammerHumor",
+        "id": "965774983527043072",
+        "name": "Programmer Humor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/965775897193275398/LLrUTVUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272023,
+          "following_count": 0,
+          "like_count": 175,
+          "listed_count": 1314,
+          "media_count": 32958,
+          "tweet_count": 41098
+        },
+        "username": "PR0GRAMMERHUM0R",
+        "verified": true
+      }
+    ]
+  }
+}

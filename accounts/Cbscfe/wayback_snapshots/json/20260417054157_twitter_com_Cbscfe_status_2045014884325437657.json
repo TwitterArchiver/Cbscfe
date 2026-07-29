@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044982157991628800"
+      ],
+      "media_source_tweet_id": [
+        "2044982163427520563"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2045014884325437657",
+    "created_at": "2026-04-17T05:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045014884325437657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uvS1Kw7ovc",
+          "end": 64,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2044982163427520563/photo/1",
+          "media_key": "3_2044982157991628800",
+          "start": 41,
+          "url": "https://t.co/uvS1Kw7ovc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045014884325437657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044982163427520563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: bluesky会成为下一个纯净的推特（确信 https://t.co/uvS1Kw7ovc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2044982157991628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE8cBsaUAAmzE4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044982157991628800"
+          ],
+          "media_source_tweet_id": [
+            "2044982163427520563"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2045014884325437657",
+        "created_at": "2026-04-17T05:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045014884325437657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvS1Kw7ovc",
+              "end": 64,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2044982163427520563/photo/1",
+              "media_key": "3_2044982157991628800",
+              "start": 41,
+              "url": "https://t.co/uvS1Kw7ovc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045014884325437657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044982163427520563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: bluesky会成为下一个纯净的推特（确信 https://t.co/uvS1Kw7ovc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044982157991628800"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044982163427520563",
+        "created_at": "2026-04-17T03:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044982163427520563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvS1Kw7ovc",
+              "end": 45,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2044982163427520563/photo/1",
+              "media_key": "3_2044982157991628800",
+              "start": 22,
+              "url": "https://t.co/uvS1Kw7ovc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044982163427520563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "bluesky会成为下一个纯净的推特（确信 https://t.co/uvS1Kw7ovc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 335,
+          "like_count": 19390,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3846
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 579,
+          "like_count": 14059,
+          "listed_count": 9,
+          "media_count": 734,
+          "tweet_count": 3549
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

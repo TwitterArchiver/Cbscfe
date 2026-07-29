@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2028251693222338589",
+    "created_at": "2026-03-02T05:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028343113698431108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448819933970796556",
+          "start": 0,
+          "username": "NyaCatNyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028343113698431108",
+    "in_reply_to_user_id": "1448819933970796556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028251693222338589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCatNyan 同问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2028251693222338589",
+        "created_at": "2026-03-02T05:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028343113698431108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448819933970796556",
+              "start": 0,
+              "username": "NyaCatNyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028343113698431108",
+        "in_reply_to_user_id": "1448819933970796556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028251693222338589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCatNyan 同问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448819933970796556",
+        "conversation_id": "2028251693222338589",
+        "created_at": "2026-03-01T23:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028251693222338589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siantgirl/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/siantgirl/status/2028092685043790005",
+              "start": 11,
+              "url": "https://t.co/KGLOCKowFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028251693222338589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028092685043790005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么第一个就是xyn https://t.co/KGLOCKowFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 180,
+          "like_count": 15839,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T01:16:24.000Z",
+        "description": "随机转推bot/转点梗图/转点小萝莉/偶尔营业喵/想和病娇贫乳猫耳白丝长发异色瞳可爱小萝莉百合（碎碎念）",
+        "id": "1448819933970796556",
+        "location": "1公里附近",
+        "name": "おきび よどみ",
+        "pinned_tweet_id": "1999375922601033800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925016544704397312/nXk0w-nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 470,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 3318
+        },
+        "username": "NyaCatNyan",
+        "verified": false
+      }
+    ]
+  }
+}

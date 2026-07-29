@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2010207537275215891",
+    "created_at": "2026-01-11T13:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010338114812948563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010338114812948563",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010207537275215891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2010207537275215891",
+        "created_at": "2026-01-11T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010338114812948563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010338114812948563",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010207537275215891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314388633869152259",
+        "conversation_id": "2010207537275215891",
+        "created_at": "2026-01-11T04:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T05:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010207537275215891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "药娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "description": "QQ",
+              "display_url": "qun.qq.com/universal-shar…",
+              "end": 89,
+              "expanded_url": "https://qun.qq.com/universal-share/share?ac=1&authKey=Ve6WkdW9sFZOKbottmzdaKpoN4w5KccI0DScBWzh%2FzkVyToZd60i3IRFPv76Q59h&busi_data=eyJncm91cENvZGUiOiI5MTcyNjY0NTQiLCJ0b2tlbiI6IkkxZEptTFAxeWZrdDZlN21zR0pudGl5cnVFQW56Z0xoUGJXS29mb0twWmFSYXZueDdZd2NPalZQdHd4KzByei8iLCJ1aW4iOiIyNzA2MDIzNDUyIn0%3D&data=yfMhyDBn5ML_HvQAm1s3pEBR3Mk58XQSF7U8ZqaYwAsaWJA2oefLJHn0rNeKAT2g2LygxiZnRnLNkP28jy2rUg&svctype=4&tempid=h5_group_info",
+              "start": 66,
+              "status": 200,
+              "title": "QQ群",
+              "unwound_url": "https://qun.qq.com/universal-share/share?ac=1&authKey=Ve6WkdW9sFZOKbottmzdaKpoN4w5KccI0DScBWzh%2FzkVyToZd60i3IRFPv76Q59h&busi_data=eyJncm91cENvZGUiOiI5MTcyNjY0NTQiLCJ0b2tlbiI6IkkxZEptTFAxeWZrdDZlN21zR0pudGl5cnVFQW56Z0xoUGJXS29mb0twWmFSYXZueDdZd2NPalZQdHd4KzByei8iLCJ1aW4iOiIyNzA2MDIzNDUyIn0%3D&data=yfMhyDBn5ML_HvQAm1s3pEBR3Mk58XQSF7U8ZqaYwAsaWJA2oefLJHn0rNeKAT2g2LygxiZnRnLNkP28jy2rUg&svctype=4&tempid=h5_group_info",
+              "url": "https://t.co/gJDQvq5xF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010207537275215891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 756,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF交流群欢迎加入\n#药娘 #男娘\n入群验证方式\n在此帖评论发1\n并且复制自己的x号\n点击链接加入群聊【mtf木桶饭.🚫黄🚫广】：https://t.co/gJDQvq5xF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 118,
+          "like_count": 12450,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重130唉（绝食魔爪减肥中）😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，社恐，梦想是成为可爱的女孩子~药娘\n同类免🚪15.20好友位V/Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxi52013",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxi52013",
+                "start": 0,
+                "url": "https://t.co/FiOMeYQkCS"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1996992269686349850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 74,
+          "like_count": 9,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/FiOMeYQkCS",
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

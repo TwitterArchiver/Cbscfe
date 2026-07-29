@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054843369831174192",
+    "created_at": "2026-05-14T08:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054844735119077857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983042229720735744",
+          "start": 0,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054844735119077857",
+    "in_reply_to_user_id": "1983042229720735744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054843369831174192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mchchc5216 啊，严管了嘛，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2054842372593463296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIREQDfasAA_yma.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 26350,
+        "height": 640,
+        "media_key": "13_2054842802354470912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054842802354470912/img/7ydUQ9iHYqbk_P30.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054842802354470912/vid/avc1/540x270/uQ6ns7hRf1-7fvWF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054842802354470912/vid/avc1/720x360/vPVnrFrEoFXA7IYF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054842802354470912/vid/avc1/1280x640/_41BP9qngasn3goV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054842802354470912/pl/Cq6Ggp0nc-hrSzGI.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054843369831174192",
+        "created_at": "2026-05-14T08:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054844735119077857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983042229720735744",
+              "start": 0,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054844735119077857",
+        "in_reply_to_user_id": "1983042229720735744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054843369831174192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mchchc5216 啊，严管了嘛，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054842372593463296",
+            "13_2054842802354470912"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "conversation_id": "2054843369831174192",
+        "created_at": "2026-05-14T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054843369831174192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBjG5QT6mh",
+              "end": 34,
+              "expanded_url": "https://x.com/mchchc5216/status/2054843369831174192/video/1",
+              "media_key": "3_2054842372593463296",
+              "start": 11,
+              "url": "https://t.co/PBjG5QT6mh"
+            },
+            {
+              "display_url": "pic.x.com/PBjG5QT6mh",
+              "end": 34,
+              "expanded_url": "https://x.com/mchchc5216/status/2054843369831174192/video/1",
+              "media_key": "13_2054842802354470912",
+              "start": 11,
+              "url": "https://t.co/PBjG5QT6mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054843369831174192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像要禁售喽 屯点吧 https://t.co/PBjG5QT6mh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 593,
+          "like_count": 23159,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 5278
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 生产日期：2011.3.29 // 坐标：山东济南 Ⅱ 优香单推人// 互fo Ⅱ b站小up ll ba国服新玩家 Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "千禧年第一优香厨📮 | 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 343,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": false
+      }
+    ]
+  }
+}

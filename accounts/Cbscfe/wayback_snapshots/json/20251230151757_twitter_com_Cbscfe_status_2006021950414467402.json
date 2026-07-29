@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2005940593588146631",
+    "created_at": "2025-12-30T15:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006021950414467402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1457925329939361797",
+          "start": 0,
+          "username": "sutanghentian"
+        },
+        {
+          "end": 27,
+          "id": "1780369819310981120",
+          "start": 15,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006021950414467402",
+    "in_reply_to_user_id": "1457925329939361797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005983467298037986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sutanghentian @520illusion 我能来吗\n虽然不在上海."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2005940593588146631",
+        "created_at": "2025-12-30T15:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006021950414467402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1457925329939361797",
+              "start": 0,
+              "username": "sutanghentian"
+            },
+            {
+              "end": 27,
+              "id": "1780369819310981120",
+              "start": 15,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006021950414467402",
+        "in_reply_to_user_id": "1457925329939361797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005983467298037986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sutanghentian @520illusion 我能来吗\n虽然不在上海."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457925329939361797",
+        "conversation_id": "2005940593588146631",
+        "created_at": "2025-12-30T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005983467298037986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005983467298037986",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005944363138883984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 就是左边我的群没事，右边的群没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 112,
+          "like_count": 11888,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:17:53.000Z",
+        "description": "07年的女孩子，家暴党，超级负能（hrt：2023.6.24）老公❤️@SarkazWisadel，姐姐@Fancy_Starry，闺蜜@eureka222323，@plantie_awa，@bghtnya，@linyin1129",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "SarkazWisadel"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "Fancy_Starry"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "eureka222323"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "plantie_awa"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "bghtnya"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "linyin1129"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sutangtiantian",
+                "end": 23,
+                "expanded_url": "https://t.me/sutangtiantian",
+                "start": 0,
+                "url": "https://t.co/kPZmayouXK"
+              }
+            ]
+          }
+        },
+        "id": "1457925329939361797",
+        "location": "垃圾桶",
+        "name": "酥糖～🏳️‍⚧️🍥🍬",
+        "pinned_tweet_id": "1823031404789481494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968680424223473664/LlAovzlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 1830,
+          "like_count": 31694,
+          "listed_count": 6,
+          "media_count": 604,
+          "tweet_count": 18717
+        },
+        "url": "https://t.co/kPZmayouXK",
+        "username": "sutanghentian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "是病娇   骚扰我会被拉黑",
+        "id": "1780369819310981120",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "2004437459116216795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 131,
+          "like_count": 4463,
+          "listed_count": 5,
+          "media_count": 322,
+          "tweet_count": 2962
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

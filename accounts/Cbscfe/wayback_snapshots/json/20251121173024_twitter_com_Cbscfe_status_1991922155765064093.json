@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991326587682508800"
+      ],
+      "media_source_tweet_id": [
+        "1991740860304892291"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1991922155765064093",
+    "created_at": "2025-11-21T17:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991922155765064093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "925200409739771905",
+          "start": 3,
+          "username": "hurtingtextmsgs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoUQK5aMFG",
+          "end": 44,
+          "expanded_url": "https://x.com/hurtingtextmsgs/status/1991740860304892291/photo/1",
+          "media_key": "3_1991326587682508800",
+          "start": 21,
+          "url": "https://t.co/KoUQK5aMFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991922155765064093",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1754
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991740860304892291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hurtingtextmsgs: https://t.co/KoUQK5aMFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1991326587682508800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Kc-yKbUAAgsaz.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991326587682508800"
+          ],
+          "media_source_tweet_id": [
+            "1991740860304892291"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1991922155765064093",
+        "created_at": "2025-11-21T17:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991922155765064093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "925200409739771905",
+              "start": 3,
+              "username": "hurtingtextmsgs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoUQK5aMFG",
+              "end": 44,
+              "expanded_url": "https://x.com/hurtingtextmsgs/status/1991740860304892291/photo/1",
+              "media_key": "3_1991326587682508800",
+              "start": 21,
+              "url": "https://t.co/KoUQK5aMFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991922155765064093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1754
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991740860304892291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hurtingtextmsgs: https://t.co/KoUQK5aMFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991326587682508800"
+          ]
+        },
+        "author_id": "925200409739771905",
+        "conversation_id": "1991740860304892291",
+        "created_at": "2025-11-21T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991740860304892291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoUQK5aMFG",
+              "end": 23,
+              "expanded_url": "https://x.com/hurtingtextmsgs/status/1991740860304892291/photo/1",
+              "media_key": "3_1991326587682508800",
+              "start": 0,
+              "url": "https://t.co/KoUQK5aMFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991740860304892291",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 38231,
+          "like_count": 5957,
+          "quote_count": 41,
+          "reply_count": 14,
+          "retweet_count": 1754
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KoUQK5aMFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 90,
+          "like_count": 8292,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-31T03:19:01.000Z",
+        "description": "Follow our page and enable notification🔔",
+        "id": "925200409739771905",
+        "location": "🌎",
+        "name": "hurting feelings",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896807392484233216/yxpNsmOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46161,
+          "following_count": 11019,
+          "like_count": 1327,
+          "listed_count": 32,
+          "media_count": 3809,
+          "tweet_count": 6796
+        },
+        "username": "hurtingtextmsgs",
+        "verified": true
+      }
+    ]
+  }
+}

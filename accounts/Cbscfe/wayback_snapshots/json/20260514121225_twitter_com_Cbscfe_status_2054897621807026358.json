@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041828505651179521"
+      ],
+      "media_source_tweet_id": [
+        "2041828514668933162"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054897621807026358",
+    "created_at": "2026-05-14T12:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054897621807026358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1702357501830897664",
+          "start": 3,
+          "username": "Asimo_gizagiza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EkQ4f4L28h",
+          "end": 84,
+          "expanded_url": "https://x.com/Asimo_gizagiza/status/2041828514668933162/photo/1",
+          "media_key": "3_2041828505651179521",
+          "start": 61,
+          "url": "https://t.co/EkQ4f4L28h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054897621807026358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041828514668933162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asimo_gizagiza: \"こんな腕にしたことを責めるんじゃなくて、こんな腕でも生きてることを誉めてよ'' https://t.co/EkQ4f4L28h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041828505651179521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYINTOa8AElvcR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041828505651179521"
+          ],
+          "media_source_tweet_id": [
+            "2041828514668933162"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054897621807026358",
+        "created_at": "2026-05-14T12:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054897621807026358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1702357501830897664",
+              "start": 3,
+              "username": "Asimo_gizagiza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkQ4f4L28h",
+              "end": 84,
+              "expanded_url": "https://x.com/Asimo_gizagiza/status/2041828514668933162/photo/1",
+              "media_key": "3_2041828505651179521",
+              "start": 61,
+              "url": "https://t.co/EkQ4f4L28h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054897621807026358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041828514668933162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asimo_gizagiza: \"こんな腕にしたことを責めるんじゃなくて、こんな腕でも生きてることを誉めてよ'' https://t.co/EkQ4f4L28h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041828505651179521"
+          ]
+        },
+        "author_id": "1702357501830897664",
+        "conversation_id": "2041828514668933162",
+        "created_at": "2026-04-08T10:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041828514668933162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkQ4f4L28h",
+              "end": 64,
+              "expanded_url": "https://x.com/Asimo_gizagiza/status/2041828514668933162/photo/1",
+              "media_key": "3_2041828505651179521",
+              "start": 41,
+              "url": "https://t.co/EkQ4f4L28h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041828514668933162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 65144,
+          "like_count": 4772,
+          "quote_count": 41,
+          "reply_count": 16,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "\"こんな腕にしたことを責めるんじゃなくて、こんな腕でも生きてることを誉めてよ'' https://t.co/EkQ4f4L28h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 595,
+          "like_count": 23242,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 5316
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T16:24:06.000Z",
+        "description": "うでちゃん💪グルーミーが好き💪\n🗝▶@EVbX9C453v98325💪会えません\nお別れブロ解　　　　　　　　　　　　　　💪絵垢→@Udemesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "EVbX9C453v98325"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Udemesu"
+              }
+            ]
+          }
+        },
+        "id": "1702357501830897664",
+        "name": "うでめす",
+        "pinned_tweet_id": "2041359689230025037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023967973426556929/nsJ7egfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 301,
+          "like_count": 2755,
+          "listed_count": 9,
+          "media_count": 76,
+          "tweet_count": 1108
+        },
+        "username": "Asimo_gizagiza",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2009639459319656684",
+    "created_at": "2026-01-09T14:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009639459319656684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799341639045095424",
+          "start": 3,
+          "username": "ice20240608"
+        },
+        {
+          "end": 33,
+          "id": "1917988927409143812",
+          "start": 17,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 48,
+          "id": "1999795510341935105",
+          "start": 34,
+          "username": "jamesniko0302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009639459319656684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009562027245850722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ice20240608: @OverSpeed_Wiki2 @jamesniko0302 自己调药。我他妈自己买了所有的精神病相关教材，指南，然后自己同时去上海精卫，福建精卫和县精卫，开药，然后自己调整。就问你牛不牛逼"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [jamesniko0302].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "jamesniko0302",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "jamesniko0302"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2009639459319656684",
+        "created_at": "2026-01-09T14:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009639459319656684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799341639045095424",
+              "start": 3,
+              "username": "ice20240608"
+            },
+            {
+              "end": 33,
+              "id": "1917988927409143812",
+              "start": 17,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 48,
+              "id": "1999795510341935105",
+              "start": 34,
+              "username": "jamesniko0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009639459319656684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009562027245850722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ice20240608: @OverSpeed_Wiki2 @jamesniko0302 自己调药。我他妈自己买了所有的精神病相关教材，指南，然后自己同时去上海精卫，福建精卫和县精卫，开药，然后自己调整。就问你牛不牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799341639045095424",
+        "conversation_id": "2009418882797457579",
+        "created_at": "2026-01-09T09:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009562027245850722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 31,
+              "id": "1999795510341935105",
+              "start": 17,
+              "username": "jamesniko0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009562027245850722",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009418882797457579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @jamesniko0302 自己调药。我他妈自己买了所有的精神病相关教材，指南，然后自己同时去上海精卫，福建精卫和县精卫，开药，然后自己调整。就问你牛不牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 118,
+          "like_count": 12381,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T07:24:27.000Z",
+        "description": "看名字就知道了，把资本家统统吊路灯就是我的理想。",
+        "id": "1799341639045095424",
+        "name": "红色恐虐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930112668117221376/skhkwsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "ice20240608",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "2009423003097199073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 267,
+          "like_count": 28776,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 4699
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

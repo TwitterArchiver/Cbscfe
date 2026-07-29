@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2029490955792052232",
+    "created_at": "2026-03-05T09:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029490955792052232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1407668348511350788",
+          "start": 3,
+          "username": "OptyrionPrimax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029490955792052232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19519
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029004055801163908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OptyrionPrimax: I guess you gave yourself a haircut, heh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2029490955792052232",
+        "created_at": "2026-03-05T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029490955792052232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1407668348511350788",
+              "start": 3,
+              "username": "OptyrionPrimax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029490955792052232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029004055801163908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OptyrionPrimax: I guess you gave yourself a haircut, heh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407668348511350788",
+        "conversation_id": "2029004055801163908",
+        "created_at": "2026-03-04T01:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029004055801163908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MintAfton/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/MintAfton/status/2028912216129327152",
+              "start": 41,
+              "url": "https://t.co/PJ0n2neiTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029004055801163908",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7619,
+          "impression_count": 3923085,
+          "like_count": 270499,
+          "quote_count": 221,
+          "reply_count": 645,
+          "retweet_count": 19519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028912216129327152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I guess you gave yourself a haircut, heh https://t.co/PJ0n2neiTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 186,
+          "like_count": 16218,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2489
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T11:54:45.000Z",
+        "description": "RISE AND GRIND 💥💥💥🐉🐉💯💯\n                                      | Retired Goon God | Follow my alt: @OptyrionCordux |\nhttps://t.co/di3WmPupTv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "OptyrionCordux"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "optyrionprimax.straw.page",
+                "end": 138,
+                "expanded_url": "http://optyrionprimax.straw.page",
+                "start": 115,
+                "url": "https://t.co/di3WmPupTv"
+              }
+            ]
+          }
+        },
+        "id": "1407668348511350788",
+        "location": "Inside your mom",
+        "name": "Optyrion Primax",
+        "pinned_tweet_id": "1914674325095112719",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 1122,
+          "like_count": 153198,
+          "listed_count": 4,
+          "media_count": 5146,
+          "tweet_count": 38222
+        },
+        "username": "OptyrionPrimax",
+        "verified": false
+      }
+    ]
+  }
+}

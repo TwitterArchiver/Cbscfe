@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053775845622521874",
+    "created_at": "2026-05-13T03:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054405602483617865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711823629560819712",
+          "start": 0,
+          "username": "daimo12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054405602483617865",
+    "in_reply_to_user_id": "1711823629560819712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054379350175494369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimo12138 xml"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053775845622521874",
+        "created_at": "2026-05-13T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054405602483617865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711823629560819712",
+              "start": 0,
+              "username": "daimo12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054405602483617865",
+        "in_reply_to_user_id": "1711823629560819712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054379350175494369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimo12138 xml"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711823629560819712",
+        "conversation_id": "2053775845622521874",
+        "created_at": "2026-05-13T01:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054379350175494369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054379350175494369",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053790385127014893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 开了一个星期舍曲林和阿普"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 576,
+          "like_count": 22911,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T19:19:01.000Z",
+        "description": "09年の小小一只身高不足163的小药娘🏳️‍⚧ 喜欢和同类贴贴❤️ 和小寻老婆共号中                                                         吃下😋第一粒糖🍥的日期是2025.8.5已炸柜现地下党                  同类互关🥰",
+        "id": "1711823629560819712",
+        "location": "休伯利安号",
+        "name": "布朗尼·莫🏳️‍⚧🍥（小寻酱共号中）",
+        "pinned_tweet_id": "2029483369055351040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016486055135047680/diIlNS0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 913,
+          "like_count": 167,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 838
+        },
+        "username": "daimo12138",
+        "verified": false
+      }
+    ]
+  }
+}

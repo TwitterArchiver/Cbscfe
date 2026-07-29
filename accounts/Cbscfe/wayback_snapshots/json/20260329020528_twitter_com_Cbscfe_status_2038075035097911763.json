@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2037858466589708735",
+    "created_at": "2026-03-29T02:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038075035097911763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032650173420285952",
+          "start": 0,
+          "username": "MorfonicaFox"
+        },
+        {
+          "end": 26,
+          "id": "1929599866088603648",
+          "start": 14,
+          "username": "NoctNekoAsh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 68,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2037823856673706233",
+          "start": 45,
+          "url": "https://t.co/pOgbedXlq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038075035097911763",
+    "in_reply_to_user_id": "2032650173420285952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037823856673706233",
+        "type": "quoted"
+      },
+      {
+        "id": "2038056540398363119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MorfonicaFox @NoctNekoAsh 你知道吗，氛围编程的缩写是氛编哦？\nhttps://t.co/pOgbedXlq2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2037858466589708735",
+        "created_at": "2026-03-29T02:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038075035097911763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032650173420285952",
+              "start": 0,
+              "username": "MorfonicaFox"
+            },
+            {
+              "end": 26,
+              "id": "1929599866088603648",
+              "start": 14,
+              "username": "NoctNekoAsh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2037823856673706233",
+              "start": 45,
+              "url": "https://t.co/pOgbedXlq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038075035097911763",
+        "in_reply_to_user_id": "2032650173420285952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037823856673706233",
+            "type": "quoted"
+          },
+          {
+            "id": "2038056540398363119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MorfonicaFox @NoctNekoAsh 你知道吗，氛围编程的缩写是氛编哦？\nhttps://t.co/pOgbedXlq2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2037823856673706233",
+        "created_at": "2026-03-28T09:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037823856673706233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2037772684918939666",
+              "start": 18,
+              "url": "https://t.co/37FhBJ9C8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037823856673706233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037772684918939666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你知道吗，氛围编程的缩写是氛编哦？ https://t.co/37FhBJ9C8j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032650173420285952",
+        "conversation_id": "2037858466589708735",
+        "created_at": "2026-03-29T00:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038056540398363119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929599866088603648",
+              "start": 0,
+              "username": "NoctNekoAsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038056540398363119",
+        "in_reply_to_user_id": "1929599866088603648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037858466589708735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoctNekoAsh 这是透明蘑菇吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 227,
+          "like_count": 17635,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 3038
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T02:49:11.000Z",
+        "description": "An devlepor of Python\n(只是初中生qwq 我会尽力保持全平台同名的)",
+        "id": "2032650173420285952",
+        "location": "World,3 Dimension",
+        "name": "Morfonica Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032650286695636992/4Ac2IaB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "username": "MorfonicaFox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T18:04:31.000Z",
+        "description": "Wives gatherer 😏 • Lord Arbiter • Married with Iuno 💍 • Aspiring Gacha Content Creator 🎮 • YT: https://t.co/xDY3N1EWl8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@noctnekoash",
+                "end": 118,
+                "expanded_url": "http://youtube.com/@noctnekoash",
+                "start": 95,
+                "url": "https://t.co/xDY3N1EWl8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/noctnekoash",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/noctnekoash",
+                "start": 0,
+                "url": "https://t.co/D4W9wpDS99"
+              }
+            ]
+          }
+        },
+        "id": "1929599866088603648",
+        "name": "Unwritten",
+        "pinned_tweet_id": "2038038840867439093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033208330504790016/j6rsGP-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3693,
+          "following_count": 42,
+          "like_count": 2900,
+          "listed_count": 8,
+          "media_count": 391,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/D4W9wpDS99",
+        "username": "NoctNekoAsh",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 330,
+          "like_count": 8542,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

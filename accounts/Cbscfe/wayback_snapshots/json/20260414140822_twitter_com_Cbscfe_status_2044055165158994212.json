@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2043869407651504480",
+    "created_at": "2026-04-14T14:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044055165158994212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "838049339117182977",
+          "start": 0,
+          "username": "Workinghard917"
+        },
+        {
+          "end": 25,
+          "id": "1103830967163117568",
+          "start": 16,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044055165158994212",
+    "in_reply_to_user_id": "838049339117182977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043936414858129603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Workinghard917 @anblk984 这有啥关系吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2043869407651504480",
+        "created_at": "2026-04-14T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044055165158994212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "838049339117182977",
+              "start": 0,
+              "username": "Workinghard917"
+            },
+            {
+              "end": 25,
+              "id": "1103830967163117568",
+              "start": 16,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044055165158994212",
+        "in_reply_to_user_id": "838049339117182977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043936414858129603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Workinghard917 @anblk984 这有啥关系吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "838049339117182977",
+        "conversation_id": "2043869407651504480",
+        "created_at": "2026-04-14T06:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043936414858129603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043936414858129603",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7635,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043869407651504480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 傻逼 马斯克现在市值8000亿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 312,
+          "like_count": 19241,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-04T15:31:47.000Z",
+        "description": "Math PhD, enjoy chess and powerlifting",
+        "id": "838049339117182977",
+        "location": "Vancouver, British Columbia",
+        "name": "Davis li (davisrules)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1346064632377716738/Cx_5PQdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 768,
+          "like_count": 2039,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 685
+        },
+        "username": "Workinghard917",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2042904752271593620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11504,
+          "following_count": 972,
+          "like_count": 112358,
+          "listed_count": 59,
+          "media_count": 2479,
+          "tweet_count": 27550
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

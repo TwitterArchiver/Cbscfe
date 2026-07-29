@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988095765424779523",
+    "created_at": "2025-11-11T15:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988268358211694908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        },
+        {
+          "end": 21,
+          "id": "971329071576596480",
+          "start": 13,
+          "username": "spspsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988268358211694908",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988097870009184474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 @spspsky 怎么还留着这头像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988095765424779523",
+        "created_at": "2025-11-11T15:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988268358211694908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 21,
+              "id": "971329071576596480",
+              "start": 13,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988268358211694908",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988097870009184474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 @spspsky 怎么还留着这头像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1988095765424779523",
+        "created_at": "2025-11-11T04:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988097870009184474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971329071576596480",
+              "start": 0,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988097870009184474",
+        "in_reply_to_user_id": "971329071576596480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988096216564199830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spspsky 没人能留在这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 6406,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼\n \n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 177,
+          "like_count": 13897,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1853
+        },
+        "username": "jngyn298282",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "策划药直发/日本药代购 TG联系：https://t.co/VPwsJSF1kW\n我们致力于给广大ODer提供价格低廉且稳定的服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zsy10791522",
+                "end": 40,
+                "expanded_url": "https://t.me/zsy10791522",
+                "start": 17,
+                "url": "https://t.co/VPwsJSF1kW"
+              }
+            ]
+          }
+        },
+        "id": "971329071576596480",
+        "name": "PsyCheDelicProject",
+        "pinned_tweet_id": "1988106368432435563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915356100902912/vYtczVCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 2052,
+          "like_count": 1073,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 157
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

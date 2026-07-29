@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1982286890867814711",
+    "created_at": "2025-10-26T07:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T08:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982349183647682668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583489949348679681",
+          "start": 0,
+          "username": "mmminika"
+        },
+        {
+          "end": 17,
+          "id": "1613079089879076864",
+          "start": 10,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982349183647682668",
+    "in_reply_to_user_id": "1583489949348679681",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982310709422927885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmminika @Cldeop d u ck\n\nduc\n\n/dək/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1982286890867814711",
+        "created_at": "2025-10-26T07:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982349183647682668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583489949348679681",
+              "start": 0,
+              "username": "mmminika"
+            },
+            {
+              "end": 17,
+              "id": "1613079089879076864",
+              "start": 10,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982349183647682668",
+        "in_reply_to_user_id": "1583489949348679681",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982310709422927885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmminika @Cldeop d u ck\n\nduc\n\n/dək/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583489949348679681",
+        "conversation_id": "1982286890867814711",
+        "created_at": "2025-10-26T04:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982310709422927885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982310709422927885",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1419,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982286890867814711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 所以Duck到底怎么读？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:06:53.000Z",
+        "description": "🇨🇳Chinesisch🇩🇪 Deutsch 🇬🇧ein bisschen Englisch／德国留学失败😭/学习英语去马来西亚留学/画水彩/莫妮卡的狂热侍从/mtf 2024 .7/06年 ／白头菲尔德1 😡😡😡／植物大战僵尸2／火影忍者／喜欢写诗、看书和听音乐！/欧陆哲学学习者，齐拉黑学派",
+        "id": "1583489949348679681",
+        "location": "德意志第二帝国 阿尔萨斯-洛林",
+        "name": "超级机枪豌豆🍥💊",
+        "pinned_tweet_id": "1966925353714340221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965352232377106432/wGumESNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 426,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 167
+        },
+        "username": "mmminika",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84899,
+          "following_count": 650,
+          "like_count": 31103,
+          "listed_count": 257,
+          "media_count": 12978,
+          "tweet_count": 18387
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

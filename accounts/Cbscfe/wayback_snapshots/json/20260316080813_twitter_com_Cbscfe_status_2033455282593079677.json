@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2032878110287474765",
+    "created_at": "2026-03-16T08:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033455282593079677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586757405026680837",
+          "start": 0,
+          "username": "wngyhn59959334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033455282593079677",
+    "in_reply_to_user_id": "1586757405026680837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032878110287474765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngyhn59959334 还会改字了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2032878100871266304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDY73LIaQAARH_r.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2032878110287474765",
+        "created_at": "2026-03-16T08:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033455282593079677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586757405026680837",
+              "start": 0,
+              "username": "wngyhn59959334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033455282593079677",
+        "in_reply_to_user_id": "1586757405026680837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032878110287474765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngyhn59959334 还会改字了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032878100871266304"
+          ]
+        },
+        "author_id": "1586757405026680837",
+        "conversation_id": "2032878110287474765",
+        "created_at": "2026-03-14T17:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032878110287474765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6bus4nEmC",
+              "end": 28,
+              "expanded_url": "https://x.com/wngyhn59959334/status/2032878110287474765/photo/1",
+              "media_key": "3_2032878100871266304",
+              "start": 5,
+              "url": "https://t.co/u6bus4nEmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032878110287474765",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/u6bus4nEmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 211,
+          "like_count": 17075,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:30:28.000Z",
+        "description": "我们是平凡的人",
+        "id": "1586757405026680837",
+        "location": "Reading, PA",
+        "name": "浙江吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032878079241236480/vjvjPlB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 100,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 189
+        },
+        "username": "wngyhn59959334",
+        "verified": false
+      }
+    ]
+  }
+}

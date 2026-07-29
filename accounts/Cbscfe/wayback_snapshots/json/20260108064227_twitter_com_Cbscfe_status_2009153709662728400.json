@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2009133993929900284",
+    "created_at": "2026-01-08T06:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009153709662728400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2794043186",
+          "start": 0,
+          "username": "wangjunjie007"
+        },
+        {
+          "end": 29,
+          "id": "1593547850637791233",
+          "start": 15,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009153709662728400",
+    "in_reply_to_user_id": "2794043186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009137659478945866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjunjie007 @didengshengwu 就是保温杯啊保持温度的杯子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2009133993929900284",
+        "created_at": "2026-01-08T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009153709662728400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2794043186",
+              "start": 0,
+              "username": "wangjunjie007"
+            },
+            {
+              "end": 29,
+              "id": "1593547850637791233",
+              "start": 15,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009153709662728400",
+        "in_reply_to_user_id": "2794043186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009137659478945866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjunjie007 @didengshengwu 就是保温杯啊保持温度的杯子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2794043186",
+        "conversation_id": "2009133993929900284",
+        "created_at": "2026-01-08T05:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009137659478945866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009137659478945866",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009133993929900284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 那是保温杯名字取错了，应该叫隔热杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 118,
+          "like_count": 12267,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-06T14:30:00.000Z",
+        "description": "大号被封了，重新开始经营这个号，所以会发一些有营养的内容，打开小铃铛🔔，会有突发内容，有时候机会就在瞬息之间。深耕Web3撸毛小众赛道💪专注0撸绝不投资💪(ง•̀_•́)ง看准机会，一出手就必须有结果😏",
+        "id": "2794043186",
+        "location": "HK",
+        "name": "王俊杰 【厚积薄发版】🧠SENT",
+        "pinned_tweet_id": "2008408872063742075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989889207612116992/PAmnB0um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 3646,
+          "like_count": 2802,
+          "listed_count": 8,
+          "media_count": 521,
+          "tweet_count": 5113
+        },
+        "username": "wangjunjie007",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186712,
+          "following_count": 1285,
+          "like_count": 3245,
+          "listed_count": 719,
+          "media_count": 3332,
+          "tweet_count": 6261
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

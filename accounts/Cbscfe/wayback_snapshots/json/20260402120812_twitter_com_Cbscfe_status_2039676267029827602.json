@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039600780504928468",
+    "created_at": "2026-04-02T12:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039676267029827602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521553831775158273",
+          "start": 0,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 25,
+          "id": "2036316864838770688",
+          "start": 10,
+          "username": "hyoukaatsuinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039676267029827602",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039600780504928468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww123qwq @hyoukaatsuinya 依旧冲塔依旧神秘，送死咱就别送了至少先组织一下吧，，，虽然认识冰棍也没多久但是已经给我一个很诡异的印象了。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hyoukaatsuinya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hyoukaatsuinya",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hyoukaatsuinya"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_2039600778248331264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4eGf8aIAAiad2.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039600780504928468",
+        "created_at": "2026-04-02T12:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039676267029827602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 25,
+              "id": "2036316864838770688",
+              "start": 10,
+              "username": "hyoukaatsuinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039676267029827602",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039600780504928468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @hyoukaatsuinya 依旧冲塔依旧神秘，送死咱就别送了至少先组织一下吧，，，虽然认识冰棍也没多久但是已经给我一个很诡异的印象了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039600778248331264"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2039600780504928468",
+        "created_at": "2026-04-02T07:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039600780504928468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036316864838770688",
+              "start": 0,
+              "username": "hyoukaatsuinya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvmxfgYnPV",
+              "end": 81,
+              "expanded_url": "https://x.com/ww123qwq/status/2039600780504928468/photo/1",
+              "media_key": "3_2039600778248331264",
+              "start": 58,
+              "url": "https://t.co/CvmxfgYnPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039600780504928468",
+        "in_reply_to_user_id": "2036316864838770688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3922,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "@hyoukaatsuinya 冰棍手机被晶哥收去了，然后把她推特注销了，现在冰棍联系方式都是晶哥在控制，注意安全 https://t.co/CvmxfgYnPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 238,
+          "like_count": 17949,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 270,
+          "like_count": 42060,
+          "listed_count": 4,
+          "media_count": 675,
+          "tweet_count": 12585
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

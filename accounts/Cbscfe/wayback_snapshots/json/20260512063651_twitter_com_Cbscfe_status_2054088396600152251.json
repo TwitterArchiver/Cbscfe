@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054041885547909563",
+    "created_at": "2026-05-12T06:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054088396600152251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFRin_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054088396600152251",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054041885547909563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFRin_CN 细节把说明书吞了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2054041874642690048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFsM8Pa4AANvM5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2054041875141779456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFsM-GaYAAKlyH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054041874806214656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFsM82aEAAzXVs.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054041885547909563",
+        "created_at": "2026-05-12T06:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054088396600152251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFRin_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054088396600152251",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054041885547909563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFRin_CN 细节把说明书吞了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054041874642690048",
+            "3_2054041875141779456",
+            "3_2054041874806214656"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "conversation_id": "2054041885547909563",
+        "created_at": "2026-05-12T03:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054041885547909563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOeE6d0XKk",
+              "end": 43,
+              "expanded_url": "https://x.com/HFRin_CN/status/2054041885547909563/photo/1",
+              "media_key": "3_2054041874642690048",
+              "start": 20,
+              "url": "https://t.co/XOeE6d0XKk"
+            },
+            {
+              "display_url": "pic.x.com/XOeE6d0XKk",
+              "end": 43,
+              "expanded_url": "https://x.com/HFRin_CN/status/2054041885547909563/photo/1",
+              "media_key": "3_2054041875141779456",
+              "start": 20,
+              "url": "https://t.co/XOeE6d0XKk"
+            },
+            {
+              "display_url": "pic.x.com/XOeE6d0XKk",
+              "end": 43,
+              "expanded_url": "https://x.com/HFRin_CN/status/2054041885547909563/photo/1",
+              "media_key": "3_2054041874806214656",
+              "start": 20,
+              "url": "https://t.co/XOeE6d0XKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054041885547909563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的淫纹外包装被医生贪污了呜呜呜🥺🥺🥺 https://t.co/XOeE6d0XKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 572,
+          "like_count": 22804,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5105
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007.10/大一在读/165-46kg/已有对象/欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgdbbx"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "不明",
+        "name": "HFRin🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052322043283259392/ncPV9icw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 210,
+          "like_count": 2401,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/N9WRdgdbbx",
+        "username": "HFRin_CN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1997852549597258127",
+    "created_at": "2025-12-08T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998062847130251573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "ellequeer1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998062847130251573",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997852549597258127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ellequeer1120 AI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1997852528877125632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nMSjlWQAAl1Pc.jpg",
+        "width": 2816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1997852549597258127",
+        "created_at": "2025-12-08T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998062847130251573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "ellequeer1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998062847130251573",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997852549597258127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ellequeer1120 AI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997852528877125632"
+          ]
+        },
+        "author_id": "1617138994227339265",
+        "conversation_id": "1997852549597258127",
+        "created_at": "2025-12-08T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997852549597258127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZXs6UGqqw",
+              "end": 23,
+              "expanded_url": "https://x.com/ellequeer1120/status/1997852549597258127/photo/1",
+              "media_key": "3_1997852528877125632",
+              "start": 0,
+              "url": "https://t.co/hZXs6UGqqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997852549597258127",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hZXs6UGqqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 104,
+          "like_count": 10534,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | aroace | Atheist ⚛️ | radical transfeminist | social liberalism | HRT 2023.12.11 | Free Palestine 🇵🇸 | LGBTQ+ activist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ellequeer1120",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ellequeer1120",
+                "start": 0,
+                "url": "https://t.co/TBlPFNShav"
+              }
+            ]
+          }
+        },
+        "id": "1617138994227339265",
+        "location": "San Frantransco",
+        "name": "Elle Queer Freesoul🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1993311583272067380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996742392179732480/LS9WVMAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 1208,
+          "like_count": 8892,
+          "listed_count": 11,
+          "media_count": 937,
+          "tweet_count": 6226
+        },
+        "url": "https://t.co/TBlPFNShav",
+        "username": "ellequeer1120",
+        "verified": false
+      }
+    ]
+  }
+}

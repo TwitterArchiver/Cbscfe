@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053420456783556709",
+    "created_at": "2026-05-10T10:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053420456783556709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053420456783556709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053349564703277192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 而说实话，環状線也同样比较反感提前道谢的人。\n\n设想一下，環状線对線状環说「请问您可以帮我录一下吗？」，此时線状環可以同意，也可以毫无心理负担地拒绝。\n\n但如果環状線问的是「请问您可以帮我录一下吗？谢谢！」那么線状環想要拒绝的话就会不好意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053420456783556709",
+        "created_at": "2026-05-10T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053420456783556709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053420456783556709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053349564703277192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 而说实话，環状線也同样比较反感提前道谢的人。\n\n设想一下，環状線对線状環说「请问您可以帮我录一下吗？」，此时線状環可以同意，也可以毫无心理负担地拒绝。\n\n但如果環状線问的是「请问您可以帮我录一下吗？谢谢！」那么線状環想要拒绝的话就会不好意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2053349564703277192",
+        "created_at": "2026-05-10T05:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053349564703277192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2053310702581133366",
+              "start": 142,
+              "url": "https://t.co/IcAKAQLIFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053349564703277192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而说实话，環状線也同样比较反感提前道谢的人。\n\n设想一下，環状線对線状環说「请问您可以帮我录一下吗？」，此时線状環可以同意，也可以毫无心理负担地拒绝。\n\n但如果環状線问的是「请问您可以帮我录一下吗？谢谢！」那么線状環想要拒绝的话就会不好意思，「我不想帮他录，但是人家已经给我道谢了啊 ……」从而给線状環造成一定的困扰。環状線这样发问给人一种「不容線状環拒绝」的感觉，换句不好听的话说，就是在逼迫線状環帮忙。\n\n環状線不提前道谢的原因还有一个，「对方没有答应帮忙的时候我凭什么道谢？如果对方不答应的话那我这声『谢谢』岂不是白说了？」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2782,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053310702581133366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而说实话，環状線也同样比较反感提前道谢的人。\n\n设想一下，環状線对線状環说「请问您可以帮我录一下吗？」，此时線状環可以同意，也可以毫无心理负担地拒绝。\n\n但如果環状線问的是「请问您可以帮我录一下吗？谢谢！」那么線状環想要拒绝的话就会不好意思，「我不想帮他录，但是人家已经给我道谢了啊 https://t.co/IcAKAQLIFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 531,
+          "like_count": 22343,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 4933
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 812,
+          "like_count": 19081,
+          "listed_count": 7,
+          "media_count": 1013,
+          "tweet_count": 5602
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

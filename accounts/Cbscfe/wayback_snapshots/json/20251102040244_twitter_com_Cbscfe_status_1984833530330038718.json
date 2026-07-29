@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984760614536036795",
+    "created_at": "2025-11-02T04:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984833530330038718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1293690069195190272",
+          "start": 0,
+          "username": "2016vrscr"
+        },
+        {
+          "end": 22,
+          "id": "1669250248265302020",
+          "start": 11,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984833530330038718",
+    "in_reply_to_user_id": "1293690069195190272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984788992710345175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2016vrscr @xu96175836 想你了小蓝鸟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_1984788987828166656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4tjEY2a4AA8h3U.jpg",
+        "width": 891
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984760614536036795",
+        "created_at": "2025-11-02T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984833530330038718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1293690069195190272",
+              "start": 0,
+              "username": "2016vrscr"
+            },
+            {
+              "end": 22,
+              "id": "1669250248265302020",
+              "start": 11,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984833530330038718",
+        "in_reply_to_user_id": "1293690069195190272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984788992710345175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2016vrscr @xu96175836 想你了小蓝鸟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984788987828166656"
+          ]
+        },
+        "author_id": "1293690069195190272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984760614536036795",
+        "created_at": "2025-11-02T01:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984788992710345175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkP6s1fNaS",
+              "end": 35,
+              "expanded_url": "https://x.com/2016vrscr/status/1984788992710345175/photo/1",
+              "media_key": "3_1984788987828166656",
+              "start": 12,
+              "url": "https://t.co/XkP6s1fNaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984788992710345175",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1332,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984760614536036795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 https://t.co/XkP6s1fNaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 4735,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-12T23:26:23.000Z",
+        "description": "瑞士著名生物学家",
+        "id": "1293690069195190272",
+        "name": "威尔逊·爱德华兹 Wilson Edwards 【怒屋】（互不fo）",
+        "pinned_tweet_id": "1838746373287743730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435832092206657536/FbOA1x9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 540,
+          "like_count": 6415,
+          "listed_count": 13,
+          "media_count": 2835,
+          "tweet_count": 6456
+        },
+        "username": "2016vrscr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116934,
+          "following_count": 1480,
+          "like_count": 7433,
+          "listed_count": 337,
+          "media_count": 11077,
+          "tweet_count": 12107
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

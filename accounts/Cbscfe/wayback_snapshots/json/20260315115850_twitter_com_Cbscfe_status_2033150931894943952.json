@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032975953484460040",
+        "3_2032975953413156866"
+      ],
+      "media_source_tweet_id": [
+        "2032976066202185935",
+        "2032976066202185935"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033150931894943952",
+    "created_at": "2026-03-15T11:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033150931894943952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629688098505510912",
+          "start": 3,
+          "username": "Unknow_CVC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhMuZituFx",
+          "end": 49,
+          "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+          "media_key": "3_2032975953484460040",
+          "start": 26,
+          "url": "https://t.co/bhMuZituFx"
+        },
+        {
+          "display_url": "pic.x.com/bhMuZituFx",
+          "end": 49,
+          "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+          "media_key": "3_2032975953413156866",
+          "start": 26,
+          "url": "https://t.co/bhMuZituFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033150931894943952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032976066202185935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Unknow_CVC: 这个比党的教育还好 https://t.co/bhMuZituFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2032975953484460040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaU28haMAgCp99.jpg",
+        "width": 640
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2032975953413156866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaU28QaMAICXBd.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032975953484460040",
+            "3_2032975953413156866"
+          ],
+          "media_source_tweet_id": [
+            "2032976066202185935",
+            "2032976066202185935"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033150931894943952",
+        "created_at": "2026-03-15T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033150931894943952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629688098505510912",
+              "start": 3,
+              "username": "Unknow_CVC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhMuZituFx",
+              "end": 49,
+              "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+              "media_key": "3_2032975953484460040",
+              "start": 26,
+              "url": "https://t.co/bhMuZituFx"
+            },
+            {
+              "display_url": "pic.x.com/bhMuZituFx",
+              "end": 49,
+              "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+              "media_key": "3_2032975953413156866",
+              "start": 26,
+              "url": "https://t.co/bhMuZituFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033150931894943952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032976066202185935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Unknow_CVC: 这个比党的教育还好 https://t.co/bhMuZituFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032975953484460040",
+            "3_2032975953413156866"
+          ]
+        },
+        "author_id": "1629688098505510912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032976066202185935",
+        "created_at": "2026-03-15T00:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032976066202185935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhMuZituFx",
+              "end": 33,
+              "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+              "media_key": "3_2032975953484460040",
+              "start": 10,
+              "url": "https://t.co/bhMuZituFx"
+            },
+            {
+              "display_url": "pic.x.com/bhMuZituFx",
+              "end": 33,
+              "expanded_url": "https://x.com/Unknow_CVC/status/2032976066202185935/photo/1",
+              "media_key": "3_2032975953413156866",
+              "start": 10,
+              "url": "https://t.co/bhMuZituFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032976066202185935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 866,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个比党的教育还好 https://t.co/bhMuZituFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 211,
+          "like_count": 17038,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|https://t.co/9bh1bRADwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/unknow_cvc",
+                "end": 154,
+                "expanded_url": "http://t.me/unknow_cvc",
+                "start": 131,
+                "url": "https://t.co/9bh1bRADwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9ej9s"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級のCenVCee🍤",
+        "pinned_tweet_id": "2002402192716632415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1592,
+          "like_count": 26049,
+          "listed_count": 0,
+          "media_count": 2277,
+          "tweet_count": 16902
+        },
+        "url": "https://t.co/3dxIv9ej9s",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

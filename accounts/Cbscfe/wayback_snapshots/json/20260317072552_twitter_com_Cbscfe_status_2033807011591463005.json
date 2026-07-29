@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2033807011591463005",
+    "created_at": "2026-03-17T07:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033807011591463005"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "照亮",
+          "probability": 0.2969,
+          "start": 45,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959893383633358848",
+          "start": 3,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 25,
+          "id": "2032650173420285952",
+          "start": 12,
+          "username": "MorfonicaFox"
+        },
+        {
+          "end": 41,
+          "id": "1779366307055730688",
+          "start": 26,
+          "username": "IcarusXin48776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033807011591463005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033807004540801351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cbscfe: @MorfonicaFox @IcarusXin48776 物理学照亮世界..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2033807011591463005",
+        "created_at": "2026-03-17T07:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033807011591463005"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "照亮",
+              "probability": 0.2969,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959893383633358848",
+              "start": 3,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 25,
+              "id": "2032650173420285952",
+              "start": 12,
+              "username": "MorfonicaFox"
+            },
+            {
+              "end": 41,
+              "id": "1779366307055730688",
+              "start": 26,
+              "username": "IcarusXin48776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033807011591463005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033807004540801351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cbscfe: @MorfonicaFox @IcarusXin48776 物理学照亮世界..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2033120392194429015",
+        "created_at": "2026-03-17T07:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033807004540801351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032650173420285952",
+              "start": 0,
+              "username": "MorfonicaFox"
+            },
+            {
+              "end": 29,
+              "id": "1779366307055730688",
+              "start": 14,
+              "username": "IcarusXin48776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033807004540801351",
+        "in_reply_to_user_id": "2032650173420285952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033763004064424282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MorfonicaFox @IcarusXin48776 物理学照亮世界..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 209,
+          "like_count": 17136,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T02:49:11.000Z",
+        "description": "Maby...A transgender? I think so..\n(安利一下PrivadoVPN真好用)",
+        "id": "2032650173420285952",
+        "location": "World,3 Dimension",
+        "name": "Morfonica Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032650286695636992/4Ac2IaB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "MorfonicaFox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T04:29:46.000Z",
+        "description": "双相情感障碍/OD/精神分裂/持证MTF💊/改花刀🔪/严重洁癖",
+        "id": "1779366307055730688",
+        "location": "阿尔卑斯山晶云宫",
+        "name": "傲娇冰竺郡主🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827639633980833793/6snjxYrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 203,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 235
+        },
+        "username": "IcarusXin48776",
+        "verified": false
+      }
+    ]
+  }
+}

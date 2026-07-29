@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988953031325675941",
+    "created_at": "2025-11-13T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989000924652793891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912003169842040832",
+          "start": 0,
+          "username": "maika111nobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989000924652793891",
+    "in_reply_to_user_id": "1912003169842040832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988953031325675941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maika111nobu www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_1988953028561666048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ouPdZbAAAvm0i.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988953031325675941",
+        "created_at": "2025-11-13T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989000924652793891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912003169842040832",
+              "start": 0,
+              "username": "maika111nobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989000924652793891",
+        "in_reply_to_user_id": "1912003169842040832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988953031325675941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maika111nobu www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988953028561666048"
+          ]
+        },
+        "author_id": "1912003169842040832",
+        "conversation_id": "1988953031325675941",
+        "created_at": "2025-11-13T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988953031325675941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSXyNNf1j6",
+              "end": 41,
+              "expanded_url": "https://x.com/maika111nobu/status/1988953031325675941/photo/1",
+              "media_key": "3_1988953028561666048",
+              "start": 18,
+              "url": "https://t.co/FSXyNNf1j6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988953031325675941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "选了二十人，尝试弄了mrtpv词云 https://t.co/FSXyNNf1j6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 71,
+          "like_count": 6709,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:41:07.000Z",
+        "description": "顺♂/日本語を勉強中/\n最喜欢p主MARETU/\n最喜欢术ホワイトハッピー/\n画画手残党/\n片假名狂热症/\n发过帖子不是转帖是关注我的基本上都会回/\n第二人格@asumehoda111/@maumao1272586\n推上最好的两位朋友：@Treverie_/@leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "asumehoda111"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "maumao1272586"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "Treverie_"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1912003169842040832",
+        "location": "アナタノココロ",
+        "name": "渡辺マイカ🇯🇵🎌",
+        "pinned_tweet_id": "1983179456790573269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987459621783511041/SaqGEpA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 181,
+          "like_count": 3553,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1106
+        },
+        "username": "maika111nobu",
+        "verified": false
+      }
+    ]
+  }
+}

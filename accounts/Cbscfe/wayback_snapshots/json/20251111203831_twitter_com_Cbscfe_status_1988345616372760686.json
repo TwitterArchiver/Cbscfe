@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988188703219740713",
+    "created_at": "2025-11-11T20:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988345616372760686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 31,
+          "id": "1534421378505527301",
+          "start": 16,
+          "username": "ShiningScience"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988345616372760686",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988327564600070382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 @ShiningScience 我来找你的 x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "16_1988327550263980034",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5f1X1KbcAIstiU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5f1X1KbcAIstiU.mp4"
+          }
+        ],
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988188703219740713",
+        "created_at": "2025-11-11T20:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988345616372760686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 31,
+              "id": "1534421378505527301",
+              "start": 16,
+              "username": "ShiningScience"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988345616372760686",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988327564600070382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 @ShiningScience 我来找你的 x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988327550263980034"
+          ]
+        },
+        "author_id": "1664948430920359936",
+        "conversation_id": "1988188703219740713",
+        "created_at": "2025-11-11T19:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T20:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988327564600070382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534421378505527301",
+              "start": 0,
+              "username": "ShiningScience"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7wylRJ1DJ",
+              "end": 39,
+              "expanded_url": "https://x.com/Snowcomics9452/status/1988327564600070382/photo/1",
+              "media_key": "16_1988327550263980034",
+              "start": 16,
+              "url": "https://t.co/N7wylRJ1DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988327564600070382",
+        "in_reply_to_user_id": "1534421378505527301",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988188703219740713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiningScience https://t.co/N7wylRJ1DJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984754407750418432/sYy8TN6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 3453,
+          "like_count": 38157,
+          "listed_count": 4,
+          "media_count": 990,
+          "tweet_count": 8234
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T06:25:47.000Z",
+        "description": "Sky above, science within — your guide to the universe.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiningscience.com",
+                "end": 23,
+                "expanded_url": "https://shiningscience.com",
+                "start": 0,
+                "url": "https://t.co/KjjsxpuVsX"
+              }
+            ]
+          }
+        },
+        "id": "1534421378505527301",
+        "location": "New York, NY",
+        "name": "Shining Science",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534421687160168450/jyyCrmWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69030,
+          "following_count": 13296,
+          "like_count": 843,
+          "listed_count": 328,
+          "media_count": 2972,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/KjjsxpuVsX",
+        "username": "ShiningScience",
+        "verified": true
+      }
+    ]
+  }
+}

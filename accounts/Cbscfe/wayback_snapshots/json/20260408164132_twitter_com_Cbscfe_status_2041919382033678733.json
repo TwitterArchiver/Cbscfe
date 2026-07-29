@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2039725553423679710",
+    "created_at": "2026-04-08T16:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041919382033678733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cbscfe/status/…",
+          "end": 37,
+          "expanded_url": "https://x.com/Cbscfe/status/2041911187479392506",
+          "start": 14,
+          "url": "https://t.co/wyUBeE79PJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041919382033678733",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041911187479392506",
+        "type": "quoted"
+      },
+      {
+        "id": "2039725553423679710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 https://t.co/wyUBeE79PJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039725542682091520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6PkvrbYAAhhFP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2039725553423679710",
+        "created_at": "2026-04-08T16:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041919382033678733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cbscfe/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/Cbscfe/status/2041911187479392506",
+              "start": 14,
+              "url": "https://t.co/wyUBeE79PJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041919382033678733",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041911187479392506",
+            "type": "quoted"
+          },
+          {
+            "id": "2039725553423679710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 https://t.co/wyUBeE79PJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2041901062982901957",
+        "created_at": "2026-04-08T16:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041911187479392506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            },
+            {
+              "end": 22,
+              "id": "2032033299980566528",
+              "start": 10,
+              "username": "rinii165892"
+            },
+            {
+              "end": 39,
+              "id": "1169174984389885952",
+              "start": 23,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041911187479392506",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041906117362774041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 @rinii165892 @Angel_SaveUsAll B站评论区在收网。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039725542682091520"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "2039725553423679710",
+        "created_at": "2026-04-02T15:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039725553423679710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKCYAjk9i6",
+              "end": 34,
+              "expanded_url": "https://x.com/baizhouzi520/status/2039725553423679710/photo/1",
+              "media_key": "3_2039725542682091520",
+              "start": 11,
+              "url": "https://t.co/uKCYAjk9i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039725553423679710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 534,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒上看到推油了 https://t.co/uKCYAjk9i6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 268,
+          "like_count": 18409,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "小证含糖半家长党（?）|hrt2024.12.15|死精神病一个|有时候会od，自残|多意识体（白洲/黎星/诗遥/haku）|最爱的姐姐/爱人：@mishamimihemumu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "mishamimihemumu"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊凝胶有售喵",
+        "pinned_tweet_id": "2036634550647038008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035716012918886400/w1JKUgDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 647,
+          "like_count": 11673,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 1733
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

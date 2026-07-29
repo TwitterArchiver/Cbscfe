@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988344030196101268",
+    "created_at": "2025-11-11T20:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988344030196101268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PaulKochakin/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/PaulKochakin/status/1987967487040995455",
+          "start": 15,
+          "url": "https://t.co/vWJ1wx5gVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988344030196101268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987967487040995455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个赞尽量掉落一个Cb的知识 https://t.co/vWJ1wx5gVS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988344030196101268",
+        "created_at": "2025-11-11T20:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988344030196101268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaulKochakin/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/PaulKochakin/status/1987967487040995455",
+              "start": 15,
+              "url": "https://t.co/vWJ1wx5gVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988344030196101268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987967487040995455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞尽量掉落一个Cb的知识 https://t.co/vWJ1wx5gVS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516058815652777989",
+        "conversation_id": "1987967487040995455",
+        "created_at": "2025-11-10T19:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T20:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987967487040995455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HJS_2403_0/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/HJS_2403_0/status/1987966573186085281",
+              "start": 23,
+              "url": "https://t.co/wXmXnKbRgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987967487040995455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987966573186085281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个赞掉落随机小知识\n大概是我的吧\n我尽量（ https://t.co/wXmXnKbRgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T14:19:37.000Z",
+        "description": "你好啊，恭喜你找到了一具尸体（很普通的摄影师，核生化防护研究中）｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |日子人/摄影/发呆 |LGBTQ+/MTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "militarykit.com",
+                "end": 23,
+                "expanded_url": "https://www.militarykit.com/",
+                "start": 0,
+                "url": "https://t.co/NGAYH5taxB"
+              }
+            ]
+          }
+        },
+        "id": "1516058815652777989",
+        "location": "「向日葵花開滿的地方」",
+        "name": "超级神奇白皮书书 #​9-12A",
+        "pinned_tweet_id": "1766872326799294882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1056,
+          "like_count": 35248,
+          "listed_count": 4,
+          "media_count": 1806,
+          "tweet_count": 10156
+        },
+        "url": "https://t.co/NGAYH5taxB",
+        "username": "PaulKochakin",
+        "verified": false
+      }
+    ]
+  }
+}

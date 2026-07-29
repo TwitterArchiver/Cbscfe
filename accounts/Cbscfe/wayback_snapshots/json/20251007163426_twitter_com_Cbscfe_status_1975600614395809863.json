@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1975600614395809863",
+    "created_at": "2025-10-07T16:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975600614395809863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677004549",
+          "start": 3,
+          "username": "briscoepark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975600614395809863",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974953511264952417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @briscoepark: interact with this post if you dislike ai art"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1975600614395809863",
+        "created_at": "2025-10-07T16:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975600614395809863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677004549",
+              "start": 3,
+              "username": "briscoepark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975600614395809863",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974953511264952417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @briscoepark: interact with this post if you dislike ai art"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677004549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1974953511264952417",
+        "created_at": "2025-10-05T21:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T22:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974953511264952417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974953511264952417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1660,
+          "impression_count": 1597092,
+          "like_count": 195289,
+          "quote_count": 193,
+          "reply_count": 934,
+          "retweet_count": 11111
+        },
+        "reply_settings": "everyone",
+        "text": "interact with this post if you dislike ai art"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-17T00:51:43.000Z",
+        "description": "⠀⠀⠀⠀9✞9⠀X⠀Photographer⠀#TeamTheBest ⠀⠀⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ Space Cowboy ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 23,
+                "tag": "TeamTheBest"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/briscoepark",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/briscoepark",
+                "start": 0,
+                "url": "https://t.co/NLWZF1ZTvZ"
+              }
+            ]
+          }
+        },
+        "id": "1677004549",
+        "location": "Gone",
+        "name": "breezeh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385350988148707335/yFHrCInj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336867,
+          "following_count": 891,
+          "like_count": 130239,
+          "listed_count": 1318,
+          "media_count": 966,
+          "tweet_count": 19908
+        },
+        "url": "https://t.co/NLWZF1ZTvZ",
+        "username": "briscoepark",
+        "verified": false
+      }
+    ]
+  }
+}

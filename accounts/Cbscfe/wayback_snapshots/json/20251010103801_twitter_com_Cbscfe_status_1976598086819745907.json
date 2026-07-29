@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976507724432277958",
+    "created_at": "2025-10-10T10:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976598086819745907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688465669879418880",
+          "start": 0,
+          "username": "Quakitus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976598086819745907",
+    "in_reply_to_user_id": "1688465669879418880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976507724432277958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quakitus haste effect"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11666,
+        "height": 720,
+        "media_key": "13_1976507627598405632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976507627598405632/img/zcIxfv9KDJNI-iil.jpg",
+        "public_metrics": {
+          "view_count": 42833
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976507627598405632/vid/avc1/480x270/QuFWC1GbTXBjf_Yz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976507627598405632/vid/avc1/640x360/VepxgAYN8nMTWJyV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976507627598405632/vid/avc1/1280x720/uE-8SWJ-WTo2egBp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976507627598405632/pl/LdJLGE2cE98VlUIt.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976507724432277958",
+        "created_at": "2025-10-10T10:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976598086819745907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688465669879418880",
+              "start": 0,
+              "username": "Quakitus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976598086819745907",
+        "in_reply_to_user_id": "1688465669879418880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976507724432277958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quakitus haste effect"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976507627598405632"
+          ]
+        },
+        "author_id": "1688465669879418880",
+        "conversation_id": "1976507724432277958",
+        "created_at": "2025-10-10T04:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976507724432277958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2PJfn8z97",
+              "end": 78,
+              "expanded_url": "https://x.com/Quakitus/status/1976507724432277958/video/1",
+              "media_key": "13_1976507627598405632",
+              "start": 55,
+              "url": "https://t.co/q2PJfn8z97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976507724432277958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 83092,
+          "like_count": 1280,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "it isnt broken yall just aint using it right i promise https://t.co/q2PJfn8z97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T08:23:56.000Z",
+        "description": "Chat had an invalid signature. Please try reconnecting.\n\npfp: @sclistice\nbanner: 2029",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "sclistice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Quakitus",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Quakitus",
+                "start": 0,
+                "url": "https://t.co/AUyhxjTu6U"
+              }
+            ]
+          }
+        },
+        "id": "1688465669879418880",
+        "location": "type shit",
+        "name": "Quakitus",
+        "pinned_tweet_id": "1953452578664309109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975042720189333504/zLA5p6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 488,
+          "like_count": 5472,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/AUyhxjTu6U",
+        "username": "Quakitus",
+        "verified": false
+      }
+    ]
+  }
+}

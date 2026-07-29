@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2038267135303225529",
+    "created_at": "2026-03-30T16:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038648295300673742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798060429224345600",
+          "start": 0,
+          "username": "zhangkoko734735"
+        },
+        {
+          "end": 32,
+          "id": "1810873766119100416",
+          "start": 17,
+          "username": "RainBuild_2024"
+        },
+        {
+          "end": 43,
+          "id": "1885154179922227200",
+          "start": 33,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038648295300673742",
+    "in_reply_to_user_id": "1798060429224345600",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038426847927799980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangkoko734735 @RainBuild_2024 @Snow_Xue_ 。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038426840210214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEnyaT9aEAATWcw.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2038267135303225529",
+        "created_at": "2026-03-30T16:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038648295300673742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798060429224345600",
+              "start": 0,
+              "username": "zhangkoko734735"
+            },
+            {
+              "end": 32,
+              "id": "1810873766119100416",
+              "start": 17,
+              "username": "RainBuild_2024"
+            },
+            {
+              "end": 43,
+              "id": "1885154179922227200",
+              "start": 33,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038648295300673742",
+        "in_reply_to_user_id": "1798060429224345600",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038426847927799980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangkoko734735 @RainBuild_2024 @Snow_Xue_ 。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038426840210214912"
+          ]
+        },
+        "author_id": "1798060429224345600",
+        "conversation_id": "2038267135303225529",
+        "created_at": "2026-03-30T01:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038426847927799980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            },
+            {
+              "end": 26,
+              "id": "1885154179922227200",
+              "start": 16,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWfE9nt8v7",
+              "end": 77,
+              "expanded_url": "https://x.com/zhangkoko734735/status/2038426847927799980/photo/1",
+              "media_key": "3_2038426840210214912",
+              "start": 54,
+              "url": "https://t.co/yWfE9nt8v7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038426847927799980",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038392357578842165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 @Snow_Xue_ 不明确指示，根本不确定缩写是什么？好查，让我找出来了 https://t.co/yWfE9nt8v7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 228,
+          "like_count": 17669,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T18:34:07.000Z",
+        "description": "【夜猫子】【专心工作】【日常分享】【引以为戒】",
+        "id": "1798060429224345600",
+        "name": "寒波碎月长江露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037897752399826944/zVESLen5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 64,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 529
+        },
+        "username": "zhangkoko734735",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9307,
+          "following_count": 880,
+          "like_count": 66675,
+          "listed_count": 18,
+          "media_count": 1408,
+          "tweet_count": 9810
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于** | 不见证（懒得管那些了，以前见过） | 没咋割手 | o！长在春风中，活在药效里！ | 没染上乌蒙 | 咱想咱老婆了 | 生产日期2010.3.16 | 纯s | 家长不管党（od割手也都不管 | hrt🍥2025.11 |\n| b站：屑冷雪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2038625704519344310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1406,
+          "like_count": 46981,
+          "listed_count": 3,
+          "media_count": 641,
+          "tweet_count": 4671
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

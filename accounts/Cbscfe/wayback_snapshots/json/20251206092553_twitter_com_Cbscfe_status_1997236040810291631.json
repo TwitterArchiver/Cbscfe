@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996866694556668042",
+    "created_at": "2025-12-06T09:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997236040810291631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828367229873987587",
+          "start": 0,
+          "username": "Ryouhachisaki"
+        },
+        {
+          "end": 23,
+          "id": "1965351173872820224",
+          "start": 15,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997236040810291631",
+    "in_reply_to_user_id": "1828367229873987587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996915934066581887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryouhachisaki @BT_7324 吃人犯法吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996866694556668042",
+        "created_at": "2025-12-06T09:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997236040810291631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828367229873987587",
+              "start": 0,
+              "username": "Ryouhachisaki"
+            },
+            {
+              "end": 23,
+              "id": "1965351173872820224",
+              "start": 15,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997236040810291631",
+        "in_reply_to_user_id": "1828367229873987587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996915934066581887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryouhachisaki @BT_7324 吃人犯法吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828367229873987587",
+        "conversation_id": "1996866694556668042",
+        "created_at": "2025-12-05T12:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996915934066581887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996915934066581887",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1403,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996915854529941873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 小男孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 104,
+          "like_count": 10322,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T09:41:42.000Z",
+        "description": "IP：TW | 活在难以置信的噩梦，令人难以置信的经历 | 🎵#千曦の推歌 | 拟猫论猫少年主义猫@tutu65537 哥哥@Boat_wind_moon 素勘宝宝@sukan_520 周刊宝宝@sunsiyu2007 好猫 ! @ForsakenDreamm @xcwannasleep @KZRGMK8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "千曦の推歌"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "tutu65537"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Boat_wind_moon"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "sukan_520"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "sunsiyu2007"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "ForsakenDreamm"
+              },
+              {
+                "end": 144,
+                "start": 131,
+                "username": "xcwannasleep"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "KZRGMK8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.linwayne.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://blog.linwayne.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/c3I5B8qjcn"
+              }
+            ]
+          }
+        },
+        "id": "1828367229873987587",
+        "location": "一团猫猫",
+        "name": "凌羽千曦",
+        "pinned_tweet_id": "1986723959757541718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309553054969856/QcTG6co0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 1120,
+          "like_count": 28998,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 5962
+        },
+        "url": "https://t.co/c3I5B8qjcn",
+        "username": "Ryouhachisaki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "励志成为blender大师！(原创背景) 没回fo就是在建模",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music",
+                "start": 0,
+                "url": "https://t.co/1LfzF28XJl"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "╭∩╮(￣▽￣)╭∩╮",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 2089,
+          "like_count": 6486,
+          "listed_count": 3,
+          "media_count": 1392,
+          "tweet_count": 3857
+        },
+        "url": "https://t.co/1LfzF28XJl",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

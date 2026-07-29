@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2001621382397042783",
+    "created_at": "2025-12-18T21:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T22:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001764301460382053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871929297868611584",
+          "start": 0,
+          "username": "xingyezuihaole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001764301460382053",
+    "in_reply_to_user_id": "1871929297868611584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001621382397042783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyezuihaole 原来是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2001621377934311424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8cwCcaaQAANFfs.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2001621382397042783",
+        "created_at": "2025-12-18T21:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T22:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001764301460382053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871929297868611584",
+              "start": 0,
+              "username": "xingyezuihaole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001764301460382053",
+        "in_reply_to_user_id": "1871929297868611584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001621382397042783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyezuihaole 原来是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001621377934311424"
+          ]
+        },
+        "author_id": "1871929297868611584",
+        "conversation_id": "2001621382397042783",
+        "created_at": "2025-12-18T11:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001621382397042783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TaXBcISZB",
+              "end": 35,
+              "expanded_url": "https://x.com/xingyezuihaole/status/2001621382397042783/photo/1",
+              "media_key": "3_2001621377934311424",
+              "start": 12,
+              "url": "https://t.co/9TaXBcISZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001621382397042783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实这个才是真的哦~😋 https://t.co/9TaXBcISZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 107,
+          "like_count": 11149,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T14:41:46.000Z",
+        "description": "11年mtf，中考后再考虑🍥\n是一只isfp喜欢小猫🥰\n蔚蓝档案b服好友码:w6xl9y4\n八宝粥q区：小星野单推人\n来和我一起玩吧😭😭😭\nqq:3834762694 wx:xingye520QWQ来扩列口牙😋\n欢迎互fo哦~",
+        "id": "1871929297868611584",
+        "location": "阿拜多斯高等中学",
+        "name": "鸩羽幽梦 🏳‍⚧",
+        "pinned_tweet_id": "1980598347863060529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000196571384918017/3Tk8pWqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 877,
+          "like_count": 980,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 200
+        },
+        "username": "xingyezuihaole",
+        "verified": false
+      }
+    ]
+  }
+}

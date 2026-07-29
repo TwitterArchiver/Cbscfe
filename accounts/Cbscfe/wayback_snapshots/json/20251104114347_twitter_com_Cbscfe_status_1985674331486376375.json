@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985310464625033216"
+      ],
+      "media_source_tweet_id": [
+        "1985310554018242621"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1985674331486376375",
+    "created_at": "2025-11-04T11:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T12:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985674331486376375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1099082900056739840",
+          "start": 3,
+          "username": "ExtremeBlitz__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hNG49Cygr",
+          "end": 79,
+          "expanded_url": "https://x.com/ExtremeBlitz__/status/1985310554018242621/video/1",
+          "media_key": "13_1985310464625033216",
+          "start": 56,
+          "url": "https://t.co/1hNG49Cygr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985674331486376375",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10666
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985310554018242621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ExtremeBlitz__: Successfully wasted 83% of the year https://t.co/1hNG49Cygr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35150,
+        "height": 714,
+        "media_key": "13_1985310464625033216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985310464625033216/img/BK6LvIxw8XOLYUEA.jpg",
+        "public_metrics": {
+          "view_count": 219034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985310464625033216/vid/avc1/408x270/EPyUW4XLZ9EE5dVJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985310464625033216/vid/avc1/544x360/b2tUx7LX5WmBiEZf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985310464625033216/vid/avc1/1080x714/GKmJxoKk1Pp03IrX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985310464625033216/pl/A850zq3H0UgzjHDq.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985310464625033216"
+          ],
+          "media_source_tweet_id": [
+            "1985310554018242621"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1985674331486376375",
+        "created_at": "2025-11-04T11:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985674331486376375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1099082900056739840",
+              "start": 3,
+              "username": "ExtremeBlitz__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hNG49Cygr",
+              "end": 79,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/1985310554018242621/video/1",
+              "media_key": "13_1985310464625033216",
+              "start": 56,
+              "url": "https://t.co/1hNG49Cygr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985674331486376375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10666
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985310554018242621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ExtremeBlitz__: Successfully wasted 83% of the year https://t.co/1hNG49Cygr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985310464625033216"
+          ]
+        },
+        "author_id": "1099082900056739840",
+        "conversation_id": "1985310554018242621",
+        "created_at": "2025-11-03T11:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985310554018242621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hNG49Cygr",
+              "end": 59,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/1985310554018242621/video/1",
+              "media_key": "13_1985310464625033216",
+              "start": 36,
+              "url": "https://t.co/1hNG49Cygr"
+            },
+            {
+              "display_url": "x.com/progressbar202…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/progressbar202_/status/1984029554390782005",
+              "start": 60,
+              "url": "https://t.co/OfZEbQV7U8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985310554018242621",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2837,
+          "impression_count": 794094,
+          "like_count": 73970,
+          "quote_count": 110,
+          "reply_count": 53,
+          "retweet_count": 10666
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984029554390782005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Successfully wasted 83% of the year https://t.co/1hNG49Cygr https://t.co/OfZEbQV7U8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 63,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T23:05:58.000Z",
+        "description": "real",
+        "id": "1099082900056739840",
+        "name": "duck",
+        "pinned_tweet_id": "1941142720732594562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705880241531502592/7pn9NVaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371295,
+          "following_count": 572,
+          "like_count": 15856,
+          "listed_count": 544,
+          "media_count": 4350,
+          "tweet_count": 7650
+        },
+        "username": "ExtremeBlitz__",
+        "verified": true
+      }
+    ]
+  }
+}

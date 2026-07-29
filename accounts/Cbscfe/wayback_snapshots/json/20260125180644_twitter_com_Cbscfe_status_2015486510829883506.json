@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2015116232916164862",
+    "created_at": "2026-01-25T18:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015486510829883506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        },
+        {
+          "end": 25,
+          "id": "1342227007518744578",
+          "start": 10,
+          "username": "Qiangguofanzei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015486510829883506",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015256311525785979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 @Qiangguofanzei 你回复错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2015116232916164862",
+        "created_at": "2026-01-25T18:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015486510829883506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            },
+            {
+              "end": 25,
+              "id": "1342227007518744578",
+              "start": 10,
+              "username": "Qiangguofanzei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015486510829883506",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015256311525785979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 @Qiangguofanzei 你回复错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2015116232916164862",
+        "created_at": "2026-01-25T02:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015256311525785979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342227007518744578",
+              "start": 0,
+              "username": "Qiangguofanzei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015256311525785979",
+        "in_reply_to_user_id": "1342227007518744578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2774,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015116232916164862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiangguofanzei 猎奇 谷歌搜索不好用？\n不如你那百度？\n怀疑是专门想看广告里面的片子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 138,
+          "like_count": 13071,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1800
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "重生喵～\n一般路过 可以叫我553\n09 MTX 事学生\n简繁中/EN ok\n负能量/碎碎念\n可愛いものが好き\nTag: MC(建筑/科技) 各种音游 FPV 星际公民\n欢迎聊天什么都行\n不回消息一般是没看到或者不知道怎么回w\n会骂人但不说⏰脏话\n没回fo可能没看到 可以评论喵\n耐活王喵 梦想润了过五天八小时生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/317vzs3dk…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/317vzs3dkqdzhvxdjzsfi66wwp2i",
+                "start": 0,
+                "url": "https://t.co/QS5wTtdK10"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "歌单➡️",
+        "name": "AG553🏳️‍⚧️（求互fo）",
+        "pinned_tweet_id": "2009545006508577143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 942,
+          "like_count": 12304,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/QS5wTtdK10",
+        "username": "AGNK_553",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T21:54:01.000Z",
+        "description": "Youtube同名频道主，反抗共产极权专制，追求民主自由 频道链接：https://t.co/SAzkIL7ta9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCyxEt…",
+                "end": 57,
+                "expanded_url": "https://www.youtube.com/channel/UCyxEtwRTGj9yBBcZgrz6t1A/videos",
+                "start": 34,
+                "url": "https://t.co/SAzkIL7ta9"
+              }
+            ]
+          }
+        },
+        "id": "1342227007518744578",
+        "location": "Napa, CA",
+        "name": "墙国反贼",
+        "pinned_tweet_id": "2006598775549104335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342227159360954368/s44QJ2Y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45928,
+          "following_count": 409,
+          "like_count": 15162,
+          "listed_count": 187,
+          "media_count": 1600,
+          "tweet_count": 12539
+        },
+        "username": "Qiangguofanzei",
+        "verified": true
+      }
+    ]
+  }
+}

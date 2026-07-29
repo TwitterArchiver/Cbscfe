@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2038476685235167530",
+    "created_at": "2026-03-31T09:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038907988329812139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646829104078143494",
+          "start": 0,
+          "username": "8EY3rZMN2k78200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038907988329812139",
+    "in_reply_to_user_id": "1646829104078143494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038476685235167530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8EY3rZMN2k78200 哇还有 beautiful soup"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2038476685235167530",
+        "created_at": "2026-03-31T09:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038907988329812139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646829104078143494",
+              "start": 0,
+              "username": "8EY3rZMN2k78200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038907988329812139",
+        "in_reply_to_user_id": "1646829104078143494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038476685235167530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8EY3rZMN2k78200 哇还有 beautiful soup"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646829104078143494",
+        "conversation_id": "2038476685235167530",
+        "created_at": "2026-03-30T04:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038476685235167530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038476685235167530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我穿女裝，會心跳加速，左顧右盼好想做什麼事，又不知道要做什麼事，無處安放的興奮勁。\n感覺以後想要去敏化女裝，只能嘗試自己一個人住後日常女裝了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 232,
+          "like_count": 17765,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T10:54:50.000Z",
+        "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，不約不線下，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，青鳥眼中的中共同路人，粉紅眼中的台獨，私信會回，但不會秒回，不太會聊天\n(我不是beautifulsoup作者，只拿來當暱稱)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BeautifulSoup8",
+                "end": 23,
+                "expanded_url": "http://t.me/BeautifulSoup8",
+                "start": 0,
+                "url": "https://t.co/07s4Q6MMpG"
+              }
+            ]
+          }
+        },
+        "id": "1646829104078143494",
+        "location": "台灣 台北 Taiwan Taipei ",
+        "name": "湯湯 beautiful soup（求互fo!!）",
+        "pinned_tweet_id": "1864690737667035216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 4260,
+          "like_count": 124822,
+          "listed_count": 10,
+          "media_count": 902,
+          "tweet_count": 11828
+        },
+        "url": "https://t.co/07s4Q6MMpG",
+        "username": "8EY3rZMN2k78200",
+        "verified": false
+      }
+    ]
+  }
+}

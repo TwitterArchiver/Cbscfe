@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2027745112831164455",
+    "created_at": "2026-02-28T23:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T00:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027896040813432894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Minakami_Konata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027896040813432894",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027745112831164455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minakami_Konata 有意思 我要重新开始吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2027745112831164455",
+        "created_at": "2026-02-28T23:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027896040813432894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Minakami_Konata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027896040813432894",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027745112831164455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minakami_Konata 有意思 我要重新开始吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "2027745112831164455",
+        "created_at": "2026-02-28T13:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027745112831164455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027745112831164455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对抑郁症（MDD）和其他精神障碍的短期临床试验结果显示，与安慰剂相比，抗抑郁药物增加了儿童、青少年和青年（&lt;24岁）患者自杀观念和实施自杀行为（自杀倾向）\n的风险。任何人如果考虑将本品或其他抗抑郁药物用于儿童、青少年或青年（&lt;24岁），都必须权衡临床需求和风险。短期临床试验没有显示出，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 175,
+          "like_count": 15550,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "幸运的每一天~不连续的星空~\n🏳️‍⚧️キョン「実は俺、ポニーテール萌えなんだ。」🏳️‍⚧️@Eternal1uv9「小男女良过了10岁就老了。」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Eternal1uv9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/everoverdosesu…",
+                "end": 23,
+                "expanded_url": "http://ngl.link/everoverdosesurvival.wiki",
+                "start": 0,
+                "url": "https://t.co/s0U5HXLhQS"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "Otsuki-shi, Yamanashi",
+        "name": "Lucky_everyday_down_the_sky_star",
+        "pinned_tweet_id": "2026728606987370600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027142214695206912/2zy3aizy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 498,
+          "like_count": 29152,
+          "listed_count": 6,
+          "media_count": 501,
+          "tweet_count": 7181
+        },
+        "url": "https://t.co/s0U5HXLhQS",
+        "username": "Minakami_Konata",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1994711936240439495",
+    "created_at": "2025-11-29T15:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994795546570363066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        },
+        {
+          "end": 17,
+          "id": "1924185675328258048",
+          "start": 8,
+          "username": "Cans_828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994795546570363066",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994711936240439495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq @Cans_828"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_1994289059964076033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60jVXabQAE30vQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1994711936240439495",
+        "created_at": "2025-11-29T15:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994795546570363066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            },
+            {
+              "end": 17,
+              "id": "1924185675328258048",
+              "start": 8,
+              "username": "Cans_828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994795546570363066",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994711936240439495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq @Cans_828"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994289059964076033"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "1994711936240439495",
+        "created_at": "2025-11-29T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994711936240439495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa7AfrvVuw",
+              "end": 33,
+              "expanded_url": "https://x.com/mhtqwq/status/1994711936240439495/photo/1",
+              "media_key": "3_1994289059964076033",
+              "start": 10,
+              "url": "https://t.co/xa7AfrvVuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994711936240439495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2114,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推油被举报了？ https://t.co/xa7AfrvVuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 98,
+          "like_count": 9422,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 430,
+          "like_count": 9230,
+          "listed_count": 6,
+          "media_count": 1611,
+          "tweet_count": 8673
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T19:30:02.000Z",
+        "description": "",
+        "id": "1924185675328258048",
+        "name": "Cans_828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924185849626787840/-fjqh4XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Cans_828",
+        "verified": false
+      }
+    ]
+  }
+}

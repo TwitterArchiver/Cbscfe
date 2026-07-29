@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1981817054153125943",
+    "created_at": "2025-10-24T20:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T21:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981817054153125943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "522147771",
+          "start": 3,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981817054153125943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981657113870160052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_N_DPT: 我从来不认可“毒品”一词，原本没有“毒品”这个概念，这个词就是政府为了方便管控药物而塑造，续在社会中从上到下传播给大众的一个概念，这个词本身就带有强烈的歧义，把药称为“品”，前面还加个“毒”，在其他语言中是没有这种带有强烈偏见性的词的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1981817054153125943",
+        "created_at": "2025-10-24T20:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T21:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981817054153125943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "522147771",
+              "start": 3,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981817054153125943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981657113870160052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_N_DPT: 我从来不认可“毒品”一词，原本没有“毒品”这个概念，这个词就是政府为了方便管控药物而塑造，续在社会中从上到下传播给大众的一个概念，这个词本身就带有强烈的歧义，把药称为“品”，前面还加个“毒”，在其他语言中是没有这种带有强烈偏见性的词的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1981657113870160052",
+        "created_at": "2025-10-24T09:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981657113870160052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981657113870160052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 978,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不认可“毒品”一词，原本没有“毒品”这个概念，这个词就是政府为了方便管控药物而塑造，续在社会中从上到下传播给大众的一个概念，这个词本身就带有强烈的歧义，把药称为“品”，前面还加个“毒”，在其他语言中是没有这种带有强烈偏见性的词的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "喜欢Cbscfe\n信仰Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 46,
+          "like_count": 3442,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeahG7e\n博客：https://t.co/KtrQvRNIQj\ngalgame资源站：https://t.co/WlcdxeaW1H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeahG7e"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvRNIQj"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxeaW1H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYzGWA"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1981345848228532428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 2645,
+          "like_count": 1008,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/c6WOvYzGWA",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

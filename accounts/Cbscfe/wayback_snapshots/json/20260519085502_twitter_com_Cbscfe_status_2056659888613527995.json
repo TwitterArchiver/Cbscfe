@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2056636076228522336",
+    "created_at": "2026-05-19T08:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056659888613527995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056659888613527995",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056636076228522336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 你要在U盘里面放这些的（雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2056636076228522336",
+        "created_at": "2026-05-19T08:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056659888613527995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056659888613527995",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056636076228522336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 你要在U盘里面放这些的（雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980651637673951232",
+        "conversation_id": "2056636076228522336",
+        "created_at": "2026-05-19T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056636076228522336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056636076228522336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易在考试之前把C9考试系统全reserve了一遍，\n好不容易发现一些偷奸耍滑的小妙招，\n好不容易写了PoC，\n好不容易把U盘带进去，\n好不容易打开文件夹，\n然后两眼一黑——\n     学校的系统没装python还没联网\n我艹，数据库工具和python都没法用\n只能忍着恶心把上古时期的计算机知识题目做了。。😥😰😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 608,
+          "like_count": 23741,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 5519
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ 想找人聊天，单纯骂我也可以啊 ｜https://t.co/ryC4oWgTqw ｜好多管道符哎｜深度学习与AI开发，信息安全，CTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neurosaki987",
+                "end": 88,
+                "expanded_url": "https://ngl.link/neurosaki987",
+                "start": 65,
+                "url": "https://t.co/ryC4oWgTqw"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🇺🇳🍥",
+        "pinned_tweet_id": "2054120857275171110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 324,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 795
+        },
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}

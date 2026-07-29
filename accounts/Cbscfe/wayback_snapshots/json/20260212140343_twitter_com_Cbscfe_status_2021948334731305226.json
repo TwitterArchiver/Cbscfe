@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021871909777158148"
+      ],
+      "media_source_tweet_id": [
+        "2021871913040326722"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2021948334731305226",
+    "created_at": "2026-02-12T14:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021948334731305226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 3,
+          "username": "57crz3oA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TC5IvTLzLZ",
+          "end": 92,
+          "expanded_url": "https://x.com/57crz3oA/status/2021871913040326722/photo/1",
+          "media_key": "3_2021871909777158148",
+          "start": 69,
+          "url": "https://t.co/TC5IvTLzLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021948334731305226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021871913040326722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @57crz3oA: 如果你发送使用这种字体或类似物的截屏，带有大段文字的，我将默认你智力低下又蠢又坏蓄意强奸我的眼睛，无条件屏蔽 https://t.co/TC5IvTLzLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2021871909777158148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8hyiObsAQemR3.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021871909777158148"
+          ],
+          "media_source_tweet_id": [
+            "2021871913040326722"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2021948334731305226",
+        "created_at": "2026-02-12T14:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021948334731305226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 3,
+              "username": "57crz3oA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC5IvTLzLZ",
+              "end": 92,
+              "expanded_url": "https://x.com/57crz3oA/status/2021871913040326722/photo/1",
+              "media_key": "3_2021871909777158148",
+              "start": 69,
+              "url": "https://t.co/TC5IvTLzLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021948334731305226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021871913040326722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @57crz3oA: 如果你发送使用这种字体或类似物的截屏，带有大段文字的，我将默认你智力低下又蠢又坏蓄意强奸我的眼睛，无条件屏蔽 https://t.co/TC5IvTLzLZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021871909777158148"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2021871913040326722",
+        "created_at": "2026-02-12T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021871913040326722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TC5IvTLzLZ",
+              "end": 78,
+              "expanded_url": "https://x.com/57crz3oA/status/2021871913040326722/photo/1",
+              "media_key": "3_2021871909777158148",
+              "start": 55,
+              "url": "https://t.co/TC5IvTLzLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021871913040326722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14087,
+          "like_count": 397,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "如果你发送使用这种字体或类似物的截屏，带有大段文字的，我将默认你智力低下又蠢又坏蓄意强奸我的眼睛，无条件屏蔽 https://t.co/TC5IvTLzLZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 164,
+          "like_count": 14319,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "test",
+        "id": "1494669485214633984",
+        "location": "距你1.5km",
+        "name": "s2R2304🍥",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 1420,
+          "like_count": 64370,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 3551
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

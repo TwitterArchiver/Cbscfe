@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987405886504284160"
+      ],
+      "media_source_tweet_id": [
+        "1987405892334330137"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987844121281929320",
+    "created_at": "2025-11-10T11:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T12:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987844121281929320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4747524034",
+          "start": 3,
+          "username": "hoiztle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pT6XHlaira",
+          "end": 36,
+          "expanded_url": "https://x.com/hoiztle/status/1987405892334330137/photo/1",
+          "media_key": "3_1987405886504284160",
+          "start": 13,
+          "url": "https://t.co/pT6XHlaira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987844121281929320",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987405892334330137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoiztle: https://t.co/pT6XHlaira"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_1987405886504284160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SvH8GbsAA4sze.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987405886504284160"
+          ],
+          "media_source_tweet_id": [
+            "1987405892334330137"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987844121281929320",
+        "created_at": "2025-11-10T11:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987844121281929320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4747524034",
+              "start": 3,
+              "username": "hoiztle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pT6XHlaira",
+              "end": 36,
+              "expanded_url": "https://x.com/hoiztle/status/1987405892334330137/photo/1",
+              "media_key": "3_1987405886504284160",
+              "start": 13,
+              "url": "https://t.co/pT6XHlaira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987844121281929320",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987405892334330137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoiztle: https://t.co/pT6XHlaira"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987405886504284160"
+          ]
+        },
+        "author_id": "4747524034",
+        "conversation_id": "1987405892334330137",
+        "created_at": "2025-11-09T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987405892334330137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pT6XHlaira",
+              "end": 23,
+              "expanded_url": "https://x.com/hoiztle/status/1987405892334330137/photo/1",
+              "media_key": "3_1987405886504284160",
+              "start": 0,
+              "url": "https://t.co/pT6XHlaira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987405892334330137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1707,
+          "impression_count": 1069682,
+          "like_count": 78733,
+          "quote_count": 319,
+          "reply_count": 310,
+          "retweet_count": 20596
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pT6XHlaira"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 69,
+          "like_count": 6191,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-08T19:56:36.000Z",
+        "description": "",
+        "id": "4747524034",
+        "name": "Lica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976231035244511233/at9K7ghe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 708,
+          "like_count": 6355,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 6459
+        },
+        "username": "hoiztle",
+        "verified": true
+      }
+    ]
+  }
+}

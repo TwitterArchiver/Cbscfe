@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1984174074793476236",
+    "created_at": "2025-10-31T08:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984181583155519926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940588552485761024",
+          "start": 0,
+          "username": "April940427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984181583155519926",
+    "in_reply_to_user_id": "1940588552485761024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984174074793476236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@April940427 我不行了\n习惯性点刷新\n会议就退出了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1984174074793476236",
+        "created_at": "2025-10-31T08:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984181583155519926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940588552485761024",
+              "start": 0,
+              "username": "April940427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984181583155519926",
+        "in_reply_to_user_id": "1940588552485761024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984174074793476236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@April940427 我不行了\n习惯性点刷新\n会议就退出了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940588552485761024",
+        "conversation_id": "1984174074793476236",
+        "created_at": "2025-10-31T08:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984174074793476236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Aprille’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OdJr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OdJrONRXQYxX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1984174076735434752/RZFwaKLA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984174076735434752/RZFwaKLA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: Aprille’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1OdJrONRXQYxX/peek",
+              "url": "https://t.co/F0hkHI9PZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984174074793476236",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F0hkHI9PZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 53,
+          "like_count": 4425,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T01:49:09.000Z",
+        "description": "Amateur photographer.📷\ncapturing moments in life. \nWelcome chat with me.",
+        "id": "1940588552485761024",
+        "location": "山海关外",
+        "name": "Aprille",
+        "pinned_tweet_id": "1958172606609133672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947217503773446144/-XymI0Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 408,
+          "like_count": 2418,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 3018
+        },
+        "username": "April940427",
+        "verified": false
+      }
+    ]
+  }
+}

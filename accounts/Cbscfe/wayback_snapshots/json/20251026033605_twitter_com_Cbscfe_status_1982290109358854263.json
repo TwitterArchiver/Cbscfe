@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1982290109358854263",
+    "created_at": "2025-10-26T03:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982290109358854263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1778293240132759552",
+          "start": 3,
+          "username": "Yuanrpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982290109358854263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982082594662731836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuanrpa: 😭我为什么要把x的生日设置成真实的😭现在涩涩的都看不了😭还不能改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1982290109358854263",
+        "created_at": "2025-10-26T03:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982290109358854263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778293240132759552",
+              "start": 3,
+              "username": "Yuanrpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982290109358854263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982082594662731836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuanrpa: 😭我为什么要把x的生日设置成真实的😭现在涩涩的都看不了😭还不能改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778293240132759552",
+        "conversation_id": "1982082594662731836",
+        "created_at": "2025-10-25T13:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T14:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982082594662731836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982082594662731836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😭我为什么要把x的生日设置成真实的😭现在涩涩的都看不了😭还不能改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 3634,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥵😍😋\n发的东西虽然有点煌，但是墙内也能过审，所以不算😈；\n讨厌：赌，毒，鉴政，od，各类流量卡和教辅广告，虚假引流，香菜；\n发送“😡”的时候其实我没有生气😋；\nhrt:???(还没呢)",
+        "id": "1778293240132759552",
+        "location": "汕头澄海区",
+        "name": "Yuanrpa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969625981305700359/bPBnpnYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 111,
+          "like_count": 2278,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1157
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      }
+    ]
+  }
+}

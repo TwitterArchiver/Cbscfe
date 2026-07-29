@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2015073094638203321",
+    "created_at": "2026-01-24T23:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T00:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015204399543619684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1369689842565738501",
+          "start": 0,
+          "username": "Valence_RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015204399543619684",
+    "in_reply_to_user_id": "1369689842565738501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015073094638203321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valence_RC 还有宣传。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1997,
+        "media_key": "3_2015073055475671040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b6RIQWoAAfTZd.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2015073094638203321",
+        "created_at": "2026-01-24T23:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015204399543619684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1369689842565738501",
+              "start": 0,
+              "username": "Valence_RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015204399543619684",
+        "in_reply_to_user_id": "1369689842565738501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015073094638203321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valence_RC 还有宣传。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015073055475671040"
+          ]
+        },
+        "author_id": "1369689842565738501",
+        "conversation_id": "2015073094638203321",
+        "created_at": "2026-01-24T14:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015073094638203321"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "恭喜",
+              "probability": 0.8289,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 5,
+              "normalized_text": "康泰克",
+              "probability": 0.3636,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BK3L1atHP1",
+              "end": 30,
+              "expanded_url": "https://x.com/Valence_RC/status/2015073094638203321/photo/1",
+              "media_key": "3_2015073055475671040",
+              "start": 7,
+              "url": "https://t.co/BK3L1atHP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015073094638203321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜新康泰克 https://t.co/BK3L1atHP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 135,
+          "like_count": 12974,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T16:41:37.000Z",
+        "description": "秽土转生中//👾神秘人物/⛺露营爱好者//⚛️实验室小神厨//⚠︎二战发动者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_info…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_inform",
+                "start": 0,
+                "url": "https://t.co/7RvWzcRiQH"
+              }
+            ]
+          }
+        },
+        "id": "1369689842565738501",
+        "location": "距離 0.8Km",
+        "name": "化合价RC",
+        "pinned_tweet_id": "2011713575606452579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009844543269810177/GCuoiBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 69,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/7RvWzcRiQH",
+        "username": "Valence_RC",
+        "verified": false
+      }
+    ]
+  }
+}

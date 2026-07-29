@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1987266189735993821",
+    "created_at": "2025-11-09T09:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987454860716097723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "816527954104774656",
+          "start": 0,
+          "username": "jalal201677603"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987454860716097723",
+    "in_reply_to_user_id": "816527954104774656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987266189735993821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jalal201677603 How does the water flow up"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22000,
+        "height": 528,
+        "media_key": "13_1987266165790392321",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987266165790392321/img/cjdlYZID8s9TOo4w.jpg",
+        "public_metrics": {
+          "view_count": 454401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987266165790392321/vid/avc1/368x270/JT2VoAkN-ufNKvOB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987266165790392321/vid/avc1/490x360/7HMpLwD448Qg6tqa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987266165790392321/vid/avc1/720x528/A_jHhT2Q7SeB8ZNP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987266165790392321/pl/BBKpb4B44wgKxi3j.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1987266189735993821",
+        "created_at": "2025-11-09T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987454860716097723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "816527954104774656",
+              "start": 0,
+              "username": "jalal201677603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987454860716097723",
+        "in_reply_to_user_id": "816527954104774656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987266189735993821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jalal201677603 How does the water flow up"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987266165790392321"
+          ]
+        },
+        "author_id": "816527954104774656",
+        "conversation_id": "1987266189735993821",
+        "created_at": "2025-11-08T21:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987266189735993821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIph4dVLoC",
+              "end": 23,
+              "expanded_url": "https://x.com/jalal201677603/status/1987266189735993821/video/1",
+              "media_key": "13_1987266165790392321",
+              "start": 0,
+              "url": "https://t.co/OIph4dVLoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987266189735993821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 392628,
+          "like_count": 703,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OIph4dVLoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 5916,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-04T06:13:29.000Z",
+        "description": "",
+        "id": "816527954104774656",
+        "name": "Deep Web",
+        "pinned_tweet_id": "1946765401481973956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942730896429236224/SNLjBPV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 45,
+          "like_count": 1708,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 423
+        },
+        "username": "jalal201677603",
+        "verified": false
+      }
+    ]
+  }
+}

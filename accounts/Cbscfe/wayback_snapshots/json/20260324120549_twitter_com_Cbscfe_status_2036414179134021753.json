@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2036067488774205837",
+    "created_at": "2026-03-24T12:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036414179134021753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "866154376716443648",
+          "start": 0,
+          "username": "MikuFLK"
+        },
+        {
+          "end": 19,
+          "id": "2013082274561220608",
+          "start": 9,
+          "username": "Lain75442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036414179134021753",
+    "in_reply_to_user_id": "866154376716443648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036257681397391683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuFLK @Lain75442 还是不如\na, b = 0, 0\na = 10  \"\"\"将a赋值为10\nb = 15       将b赋值为15\"\"\"\nprint(a + b)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2036067488774205837",
+        "created_at": "2026-03-24T12:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036414179134021753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "866154376716443648",
+              "start": 0,
+              "username": "MikuFLK"
+            },
+            {
+              "end": 19,
+              "id": "2013082274561220608",
+              "start": 9,
+              "username": "Lain75442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036414179134021753",
+        "in_reply_to_user_id": "866154376716443648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036257681397391683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuFLK @Lain75442 还是不如\na, b = 0, 0\na = 10  \"\"\"将a赋值为10\nb = 15       将b赋值为15\"\"\"\nprint(a + b)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "866154376716443648",
+        "conversation_id": "2036067488774205837",
+        "created_at": "2026-03-24T01:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036257681397391683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013082274561220608",
+              "start": 0,
+              "username": "Lain75442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036257681397391683",
+        "in_reply_to_user_id": "2013082274561220608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036067488774205837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lain75442 这题还行，本质凯撒加密，至少比那些用奇怪的语言特性整人的题目好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 219,
+          "like_count": 17426,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2959
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T04:51:10.000Z",
+        "description": "初网漫游者 - AI反抗军 - 葱橘一生推\n共犯 @Nyx_Observant\n\n～あなたがいつか　忘れたものは　私が　探してくるから～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Nyx_Observant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ijk.moe",
+                "end": 23,
+                "expanded_url": "https://ijk.moe",
+                "start": 0,
+                "url": "https://t.co/MUHH8zABjk"
+              }
+            ]
+          }
+        },
+        "id": "866154376716443648",
+        "location": "PA01-ALPHA-12",
+        "name": "晴空怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018723868194844672/IzDJ5f3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 82,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/MUHH8zABjk",
+        "username": "MikuFLK",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T02:53:19.000Z",
+        "description": "飞蛾总是飞向有光的地方。大一某211哲学本科在读，梦想是成为哲学家。🌈｜168｜51。🈲NSFW、🈲政治。友好讨论，欢迎交流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asutaka.ink",
+                "end": 23,
+                "expanded_url": "https://www.asutaka.ink",
+                "start": 0,
+                "url": "https://t.co/lLTJa5d9Zv"
+              }
+            ]
+          }
+        },
+        "id": "2013082274561220608",
+        "location": "Anhui",
+        "name": "Lain_玲音",
+        "pinned_tweet_id": "2019402530883797134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013621867152560129/GYatXa4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 753,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/lLTJa5d9Zv",
+        "username": "Lain75442",
+        "verified": true
+      }
+    ]
+  }
+}

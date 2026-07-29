@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2037062353184051626",
+    "created_at": "2026-03-26T23:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037310781667316102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037310781667316102",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037062353184051626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 所以这个\"你关注的账号以及他们关注的人\"到底是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2037062353184051626",
+        "created_at": "2026-03-26T23:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037310781667316102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037310781667316102",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037062353184051626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 所以这个\"你关注的账号以及他们关注的人\"到底是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2037062353184051626",
+        "created_at": "2026-03-26T07:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:56:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037061069286568223",
+          "2037062353184051626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2233kcn03/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/2233kcn03/status/2037051600280444942",
+              "start": 140,
+              "url": "https://t.co/FhEue5wJwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037062353184051626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25170,
+          "like_count": 310,
+          "quote_count": 1,
+          "reply_count": 133,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037051600280444942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本账号即将在本周末开始推行这一模式。届时，只有我关注的人及他们关注的人才能回复。\n这么做对大部分活跃账号没有影响，因为就算我没有关注一些活跃的人，我正在关注的人也很有可能已经关注了；但一些新账号及广告号将无法参与评论区互动。\n我也会在接下来想方法接纳来自新账号的回复。敬请期待！ https://t.co/FhEue5wJwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 220,
+          "like_count": 17518,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2982
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2036855845569650835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101900,
+          "following_count": 744,
+          "like_count": 35630,
+          "listed_count": 290,
+          "media_count": 17039,
+          "tweet_count": 24523
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

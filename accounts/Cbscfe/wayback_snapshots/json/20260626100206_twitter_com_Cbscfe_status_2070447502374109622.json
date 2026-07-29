@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2070447502374109622",
+    "created_at": "2026-06-26T10:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070447502374109622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023460446075056133",
+          "start": 3,
+          "username": "N_ull_0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070447502374109622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070426681500676126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_ull_0x0: 有两种自残\n\n给自己爽的\n给别人看的\n\n不要自残喵。。，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2070447502374109622",
+        "created_at": "2026-06-26T10:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070447502374109622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023460446075056133",
+              "start": 3,
+              "username": "N_ull_0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070447502374109622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070426681500676126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_ull_0x0: 有两种自残\n\n给自己爽的\n给别人看的\n\n不要自残喵。。，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023460446075056133",
+        "conversation_id": "2070426681500676126",
+        "created_at": "2026-06-26T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070426681500676126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070426681500676126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有两种自残\n\n给自己爽的\n给别人看的\n\n不要自残喵。。，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 680,
+          "like_count": 24468,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 6144
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T18:12:36.000Z",
+        "description": "电子宠物です",
+        "id": "2023460446075056133",
+        "location": "Cbscfe",
+        "name": "Null0x0",
+        "pinned_tweet_id": "2063565065220231204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032095085438132224/nAXS6d_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "N_ull_0x0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046526563760713728"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2046076243737805086",
+    "created_at": "2026-04-21T09:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046526572757409833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843840400441913350",
+          "start": 0,
+          "username": "faxie112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BX1YnrsJxT",
+          "end": 33,
+          "expanded_url": "https://x.com/Cbscfe/status/2046526572757409833/photo/1",
+          "media_key": "3_2046526563760713728",
+          "start": 10,
+          "url": "https://t.co/BX1YnrsJxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046526572757409833",
+    "in_reply_to_user_id": "1843840400441913350",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046526426099360096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@faxie112 https://t.co/BX1YnrsJxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3090,
+        "media_key": "3_2046526563760713728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa5ERhbsAAAi6H.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046526563760713728"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-21T09:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046526572757409833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843840400441913350",
+              "start": 0,
+              "username": "faxie112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BX1YnrsJxT",
+              "end": 33,
+              "expanded_url": "https://x.com/Cbscfe/status/2046526572757409833/photo/1",
+              "media_key": "3_2046526563760713728",
+              "start": 10,
+              "url": "https://t.co/BX1YnrsJxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046526572757409833",
+        "in_reply_to_user_id": "1843840400441913350",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046526426099360096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@faxie112 https://t.co/BX1YnrsJxT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843840400441913350",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-21T09:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046526426099360096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046526426099360096",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046076243737805086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 这也太吓人了专门说在看着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "好了伤疤忘了疼\n---\n马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 372,
+          "like_count": 19636,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 4010
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T02:26:32.000Z",
+        "description": "",
+        "id": "1843840400441913350",
+        "name": "柯倩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124932202135552/Dn0i53O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 9,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 625
+        },
+        "username": "faxie112",
+        "verified": false
+      }
+    ]
+  }
+}

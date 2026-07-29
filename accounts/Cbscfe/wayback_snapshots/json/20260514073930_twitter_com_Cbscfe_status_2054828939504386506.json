@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2054797026337149045",
+    "created_at": "2026-05-14T07:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054828939504386506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2017561092600307712",
+          "start": 0,
+          "username": "Weoplao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054828939504386506",
+    "in_reply_to_user_id": "2017561092600307712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054797026337149045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weoplao 还有“不死了”这个选项，我相信你还是想要活下去的，加油，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054797026337149045",
+        "created_at": "2026-05-14T07:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054828939504386506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2017561092600307712",
+              "start": 0,
+              "username": "Weoplao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054828939504386506",
+        "in_reply_to_user_id": "2017561092600307712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054797026337149045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weoplao 还有“不死了”这个选项，我相信你还是想要活下去的，加油，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054797023468236800"
+          ]
+        },
+        "author_id": "2017561092600307712",
+        "conversation_id": "2054797026337149045",
+        "created_at": "2026-05-14T05:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054797026337149045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054797026337149045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要准备自杀计划了，要先写好遗书。\n是从高楼跳下去好，还是药物过量好，或者其它？投票决定我的自杀计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 592,
+          "like_count": 23123,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 5264
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T11:30:44.000Z",
+        "description": "不爱聊天只爱刷推 | 自由万岁！| 互fo可（不强求）",
+        "id": "2017561092600307712",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Sergrek Ratsuz",
+        "pinned_tweet_id": "2054797026337149045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041108894588772352/aUKsuTRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 128,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 113
+        },
+        "username": "Weoplao",
+        "verified": false
+      }
+    ]
+  }
+}

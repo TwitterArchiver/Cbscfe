@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1980847669473145248",
+    "created_at": "2025-10-22T04:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T05:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980847669473145248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2460541983",
+          "start": 3,
+          "username": "azfeelin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980847669473145248",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 531
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980484348882096278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azfeelin: “?” my bad i will kill myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1980847669473145248",
+        "created_at": "2025-10-22T04:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T05:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980847669473145248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2460541983",
+              "start": 3,
+              "username": "azfeelin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980847669473145248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 531
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980484348882096278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azfeelin: “?” my bad i will kill myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2460541983",
+        "conversation_id": "1980484348882096278",
+        "created_at": "2025-10-21T04:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980484348882096278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980484348882096278",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 19747,
+          "like_count": 1961,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 531
+        },
+        "reply_settings": "everyone",
+        "text": "“?” my bad i will kill myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 44,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T18:28:15.000Z",
+        "description": "follow me if ur cool",
+        "id": "2460541983",
+        "name": ":(",
+        "pinned_tweet_id": "1980438943486075391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973083029800206336/IWE3bjYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17438,
+          "following_count": 21,
+          "like_count": 14236,
+          "listed_count": 23,
+          "media_count": 388,
+          "tweet_count": 399
+        },
+        "username": "azfeelin",
+        "verified": false
+      }
+    ]
+  }
+}

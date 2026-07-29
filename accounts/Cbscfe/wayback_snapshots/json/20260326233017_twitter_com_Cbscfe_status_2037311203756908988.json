@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2037123088555610533",
+    "created_at": "2026-03-26T23:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037311203756908988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036316864838770688",
+          "start": 0,
+          "username": "hyoukaatsuinya"
+        },
+        {
+          "end": 24,
+          "id": "1512976991976402949",
+          "start": 16,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037311203756908988",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037311167178346641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyoukaatsuinya @bghtnya 安可不是这样"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bghtnya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bghtnya",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "bghtnya"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2037123088555610533",
+        "created_at": "2026-03-26T23:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037311203756908988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036316864838770688",
+              "start": 0,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037311203756908988",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037311167178346641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyoukaatsuinya @bghtnya 安可不是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2037123088555610533",
+        "created_at": "2026-03-26T23:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037311167178346641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036316864838770688",
+              "start": 0,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037311167178346641",
+        "in_reply_to_user_id": "2036316864838770688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037123088555610533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyoukaatsuinya @bghtnya 感觉更像是发布恐怖主义内容,刚发了一张图就被封了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 221,
+          "like_count": 17522,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T05:39:17.000Z",
+        "description": "📖🖥 大一休学 计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 / 🧊🔥 冰棍必须是烫的！/ 🍥 断续含糖 / 🏳‍⚧🏳️‍🌈 MTFTX.TransLes / 🦋 INFP-A / 🏴🚩 Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "http://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/lEpjUafUQn"
+              }
+            ]
+          }
+        },
+        "id": "2036316864838770688",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 二世（互fo寻回）",
+        "pinned_tweet_id": "2037123088555610533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037111119853293568/4aK5yhyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 48,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/lEpjUafUQn",
+        "username": "hyoukaatsuinya",
+        "verified": false
+      }
+    ]
+  }
+}

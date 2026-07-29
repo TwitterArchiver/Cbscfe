@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2043273118173814904",
+    "created_at": "2026-04-12T11:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043288751800270934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030245517473804290",
+          "start": 0,
+          "username": "ABlair93311"
+        },
+        {
+          "end": 23,
+          "id": "2022980944723095552",
+          "start": 13,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043288751800270934",
+    "in_reply_to_user_id": "2030245517473804290",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043274528600801573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABlair93311 @tanka_TWT +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2043273118173814904",
+        "created_at": "2026-04-12T11:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043288751800270934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030245517473804290",
+              "start": 0,
+              "username": "ABlair93311"
+            },
+            {
+              "end": 23,
+              "id": "2022980944723095552",
+              "start": 13,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043288751800270934",
+        "in_reply_to_user_id": "2030245517473804290",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043274528600801573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABlair93311 @tanka_TWT +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030245517473804290",
+        "conversation_id": "2043273118173814904",
+        "created_at": "2026-04-12T10:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043274528600801573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043274528600801573",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043273118173814904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 而且还是我自己把自己开盒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 303,
+          "like_count": 18935,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:33:58.000Z",
+        "description": "Watashiwa watashi",
+        "id": "2030245517473804290",
+        "name": "喵姆酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032071009059422209/2eSda8iP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 39,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "ABlair93311",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢和投稿\n丨私信解锁RC菜单\n丨已逝的愛人@Edward_8964\n丨你跟我說這些沒用我只是一只貓 喜歡请投餵🤲\n丨有什么事跟1161说去吧！！\n丨提問https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 147,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 124,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "location": "🚪88/188無上限",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 286,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053764353510518785",
+    "created_at": "2026-05-12T03:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054041666273837402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "163908607",
+          "start": 0,
+          "username": "rohitash_1545"
+        },
+        {
+          "end": 24,
+          "id": "2721275622",
+          "start": 15,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054041666273837402",
+    "in_reply_to_user_id": "163908607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053764555126301138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rohitash_1545 @__oQuery 人机，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053764353510518785",
+        "created_at": "2026-05-12T03:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054041666273837402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "163908607",
+              "start": 0,
+              "username": "rohitash_1545"
+            },
+            {
+              "end": 24,
+              "id": "2721275622",
+              "start": 15,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054041666273837402",
+        "in_reply_to_user_id": "163908607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053764555126301138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rohitash_1545 @__oQuery 人机，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "163908607",
+        "conversation_id": "2053764353510518785",
+        "created_at": "2026-05-11T09:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053764555126301138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053764555126301138",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1099,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053764353510518785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 确实把时间花在提升认知上比无意义发泄更有价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 572,
+          "like_count": 22790,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5095
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-07T15:35:15.000Z",
+        "description": "流量变贵之后最能看出广告投放的底子，谁能把团队带顺，谁就更容易留下客户，这一点适合第210个场景。 卫星1:（yy11s01_） 卫星2:（qqq-0813-） （tg：ttouuo） 《（详细点🔗，其他也有做哦》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rFcwOJ5DE.link-web.cc",
+                "end": 23,
+                "expanded_url": "https://rFcwOJ5DE.link-web.cc",
+                "start": 0,
+                "url": "https://t.co/2b0vyLdgRO"
+              }
+            ]
+          }
+        },
+        "id": "163908607",
+        "location": "https://qWJtRl5rS.link-web.cc",
+        "name": "閺（bn）餡蔩肥50帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053442707117453312/65E29ulN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/2b0vyLdgRO",
+        "username": "rohitash_1545",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "AI Supervisor | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/innei",
+                "end": 23,
+                "expanded_url": "http://github.com/innei",
+                "start": 0,
+                "url": "https://t.co/kWzqaOopaT"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.high-fast",
+        "pinned_tweet_id": "1835524241740939322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033851740659875840/RuwMsAaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10056,
+          "following_count": 970,
+          "like_count": 12321,
+          "listed_count": 81,
+          "media_count": 993,
+          "tweet_count": 8576
+        },
+        "url": "https://t.co/kWzqaOopaT",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

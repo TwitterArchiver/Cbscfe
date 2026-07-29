@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1989692017442771001",
+    "created_at": "2025-11-15T13:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989692017442771001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1638974334776537093",
+          "start": 3,
+          "username": "localfunnyman69"
+        },
+        {
+          "end": 27,
+          "id": "1432319333498122250",
+          "start": 21,
+          "username": "_10qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989692017442771001",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988338052968980576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @localfunnyman69: @_10qi you can get anyone pregnant with enough determination"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1989692017442771001",
+        "created_at": "2025-11-15T13:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989692017442771001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1638974334776537093",
+              "start": 3,
+              "username": "localfunnyman69"
+            },
+            {
+              "end": 27,
+              "id": "1432319333498122250",
+              "start": 21,
+              "username": "_10qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989692017442771001",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988338052968980576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @localfunnyman69: @_10qi you can get anyone pregnant with enough determination"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638974334776537093",
+        "conversation_id": "1988245280085410063",
+        "created_at": "2025-11-11T20:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988338052968980576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1432319333498122250",
+              "start": 0,
+              "username": "_10qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988338052968980576",
+        "in_reply_to_user_id": "1432319333498122250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14008,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988245280085410063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_10qi you can get anyone pregnant with enough determination"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 6931,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T18:41:54.000Z",
+        "description": "Welcome, I'm Corr!!\nI make OCs and overly complicated storylines n' shit.\nAutism 🔥🔥\nI don't use Twitter often, I'm (slightly) more active on Reddit. :P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "corruptedglitches.straw.page",
+                "end": 23,
+                "expanded_url": "https://corruptedglitches.straw.page",
+                "start": 0,
+                "url": "https://t.co/QhuA4HKW4W"
+              }
+            ]
+          }
+        },
+        "id": "1638974334776537093",
+        "location": "- - Somewhere in Canada... - -",
+        "name": "Corr (TDX Refractor Arc)",
+        "pinned_tweet_id": "1983610520298197283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830734184423424/JylmTY39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 147,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/QhuA4HKW4W",
+        "username": "localfunnyman69",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T12:28:46.000Z",
+        "description": "artist 🔞 ▪︎ 🏳️‍⚧️ ▪︎ ❤️ @pikaydaps ▪︎ b: @Monstralgam ▪︎ i: @amoralfixation",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "pikaydaps"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Monstralgam"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "amoralfixation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/10qi",
+                "end": 23,
+                "expanded_url": "http://patreon.com/10qi",
+                "start": 0,
+                "url": "https://t.co/ZRT4VCMmUI"
+              }
+            ]
+          }
+        },
+        "id": "1432319333498122250",
+        "location": "her/shey 🍫",
+        "name": "10qi (comms open)",
+        "pinned_tweet_id": "1886976793137020994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919345689194070016/u6Ry8GcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26039,
+          "following_count": 518,
+          "like_count": 19537,
+          "listed_count": 71,
+          "media_count": 1573,
+          "tweet_count": 9669
+        },
+        "url": "https://t.co/ZRT4VCMmUI",
+        "username": "_10qi",
+        "verified": false
+      }
+    ]
+  }
+}

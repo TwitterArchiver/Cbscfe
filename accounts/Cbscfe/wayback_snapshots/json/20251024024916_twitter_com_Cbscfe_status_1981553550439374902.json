@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1981285828069658790",
+    "created_at": "2025-10-24T02:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T03:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981553550439374902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893332752000524290",
+          "start": 0,
+          "username": "StarryCloud1123"
+        },
+        {
+          "end": 26,
+          "id": "1481172876589821952",
+          "start": 17,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981553550439374902",
+    "in_reply_to_user_id": "1893332752000524290",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981410875690057936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryCloud1123 @pyke2076 O.o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1981285828069658790",
+        "created_at": "2025-10-24T02:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981553550439374902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            },
+            {
+              "end": 26,
+              "id": "1481172876589821952",
+              "start": 17,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981553550439374902",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981410875690057936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryCloud1123 @pyke2076 O.o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893332752000524290",
+        "conversation_id": "1981285828069658790",
+        "created_at": "2025-10-23T17:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981410875690057936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981410875690057936",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981285828069658790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 氰化物是不是有剧毒来着（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 45,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "山高水长，愿你我共赴星辰大海/一个把推当空间发的人/理科高三/辽宁/福瑞控/生理男取向男/舟/mai/arc/pjsk/日麻/不友跨/💫@blueicesama/更多的负能@ciallo11491/提问箱：https://t.co/IFhzoLeny2：StarryCloud071123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "blueicesama"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "ciallo11491"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/starrycloud071…",
+                "end": 126,
+                "expanded_url": "https://ngl.link/starrycloud071123/tg",
+                "start": 103,
+                "url": "https://t.co/IFhzoLeny2"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "name": "灿云SCloud🔜Sleeping",
+        "pinned_tweet_id": "1946153355644113174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981412250612068352/jGf7BI0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 1388,
+          "like_count": 29827,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 2189
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 1242,
+          "like_count": 62156,
+          "listed_count": 9,
+          "media_count": 2829,
+          "tweet_count": 16902
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2053738638056599619",
+    "created_at": "2026-05-11T10:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053786592985448644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036847459864080384",
+          "start": 0,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053786592985448644",
+    "in_reply_to_user_id": "2036847459864080384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053738638056599619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swallowtai11 啊......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053738626954215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBYZmkawAA3q45.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053738638056599619",
+        "created_at": "2026-05-11T10:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053786592985448644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036847459864080384",
+              "start": 0,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053786592985448644",
+        "in_reply_to_user_id": "2036847459864080384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053738638056599619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swallowtai11 啊......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053738626954215424"
+          ]
+        },
+        "author_id": "2036847459864080384",
+        "conversation_id": "2053738638056599619",
+        "created_at": "2026-05-11T07:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053738638056599619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0Q6gJQHHN",
+              "end": 41,
+              "expanded_url": "https://x.com/swallowtai11/status/2053738638056599619/photo/1",
+              "media_key": "3_2053738626954215424",
+              "start": 18,
+              "url": "https://t.co/w0Q6gJQHHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053738638056599619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 9682,
+          "like_count": 733,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "。。。我吞药了然后爬到这里思考人生 https://t.co/w0Q6gJQHHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 571,
+          "like_count": 22654,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 5038
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "不约不谈别来问我了 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了 这里只是堆放一些东西 想认识我可以点我的陪玩 要算的话大概就是🚪88吧送两个小时陪玩 这只是一种筛选方式",
+        "id": "2036847459864080384",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2046103081759506829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 53,
+          "like_count": 390,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 245
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

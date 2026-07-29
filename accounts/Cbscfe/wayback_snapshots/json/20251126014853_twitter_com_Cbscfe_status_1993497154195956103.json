@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993497148772827145"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1993497154195956103",
+    "created_at": "2025-11-26T01:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993497154195956103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8HvEJN3bo",
+          "end": 23,
+          "expanded_url": "https://x.com/Cbscfe/status/1993497154195956103/photo/1",
+          "media_key": "3_1993497148772827145",
+          "start": 0,
+          "url": "https://t.co/c8HvEJN3bo"
+        },
+        {
+          "display_url": "x.com/honeymoon250/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/honeymoon250/status/1993321723362443338",
+          "start": 24,
+          "url": "https://t.co/sQZgUTG1y4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993497154195956103",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993321723362443338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/c8HvEJN3bo https://t.co/sQZgUTG1y4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_1993497148772827145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pTGEVbwAkZSCl.png",
+        "width": 480
+      },
+      {
+        "height": 900,
+        "media_key": "3_1993321664768069632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mzfjeXUAADGrg.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993497148772827145"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1993497154195956103",
+        "created_at": "2025-11-26T01:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993497154195956103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8HvEJN3bo",
+              "end": 23,
+              "expanded_url": "https://x.com/Cbscfe/status/1993497154195956103/photo/1",
+              "media_key": "3_1993497148772827145",
+              "start": 0,
+              "url": "https://t.co/c8HvEJN3bo"
+            },
+            {
+              "display_url": "x.com/honeymoon250/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/honeymoon250/status/1993321723362443338",
+              "start": 24,
+              "url": "https://t.co/sQZgUTG1y4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993497154195956103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993321723362443338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/c8HvEJN3bo https://t.co/sQZgUTG1y4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993321664768069632"
+          ]
+        },
+        "author_id": "1425576314241753092",
+        "conversation_id": "1993321723362443338",
+        "created_at": "2025-11-25T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993321723362443338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pl9rH08GD",
+              "end": 39,
+              "expanded_url": "https://x.com/honeymoon250/status/1993321723362443338/photo/1",
+              "media_key": "3_1993321664768069632",
+              "start": 16,
+              "url": "https://t.co/1pl9rH08GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993321723362443338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 418390,
+          "like_count": 3680,
+          "quote_count": 532,
+          "reply_count": 2926,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "Name the artist https://t.co/1pl9rH08GD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 94,
+          "like_count": 8828,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T21:55:00.000Z",
+        "description": "Registered Nurse(RN) 6 years with an NGO in Africa🇳🇬  My ambition is to elevate each small account i touch,NO DM🇺🇸MAGA🇺🇸 Reply Girl⚠️This my only page🚫",
+        "id": "1425576314241753092",
+        "location": "𝕏",
+        "name": "Honey 🛼",
+        "pinned_tweet_id": "1992979018484748454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864307621894717440/3dwseePI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41693,
+          "following_count": 9969,
+          "like_count": 41508,
+          "listed_count": 57,
+          "media_count": 2726,
+          "tweet_count": 49458
+        },
+        "username": "honeymoon250",
+        "verified": true
+      }
+    ]
+  }
+}

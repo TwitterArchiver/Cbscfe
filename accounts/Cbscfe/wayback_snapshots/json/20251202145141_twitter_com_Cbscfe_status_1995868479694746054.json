@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1995802094280806543",
+    "created_at": "2025-12-02T14:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995868479694746054"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "python",
+          "probability": 0.5316,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1313922359028518913",
+          "start": 0,
+          "username": "dev_maims"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995868479694746054",
+    "in_reply_to_user_id": "1313922359028518913",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995802094280806543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dev_maims actually\n\n```python\nif condition:\n    return A\n\nreturn B\n```"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1995802089109291008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KDbQNXgAAAtmp.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1995802094280806543",
+        "created_at": "2025-12-02T14:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995868479694746054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "python",
+              "probability": 0.5316,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1313922359028518913",
+              "start": 0,
+              "username": "dev_maims"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995868479694746054",
+        "in_reply_to_user_id": "1313922359028518913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995802094280806543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dev_maims actually\n\n```python\nif condition:\n    return A\n\nreturn B\n```"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995802089109291008"
+          ]
+        },
+        "author_id": "1313922359028518913",
+        "conversation_id": "1995802094280806543",
+        "created_at": "2025-12-02T10:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995802094280806543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/istAQ0n1n2",
+              "end": 43,
+              "expanded_url": "https://x.com/dev_maims/status/1995802094280806543/photo/1",
+              "media_key": "3_1995802089109291008",
+              "start": 20,
+              "url": "https://t.co/istAQ0n1n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995802094280806543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5493,
+          "like_count": 289,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Which one are you 🤔 https://t.co/istAQ0n1n2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 100,
+          "like_count": 9895,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T19:21:43.000Z",
+        "description": "From code 💻 to creativity 🎨\njust a girl named maimoon, designing her dreams ❤️.\n\nui/ux || web developer || cozy aesthetics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/maimoon_isah?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/maimoon_isah?igsh=MXVqOTVsYmJnNzY3aw==",
+                "start": 0,
+                "url": "https://t.co/li9wwPEc3u"
+              }
+            ]
+          }
+        },
+        "id": "1313922359028518913",
+        "location": "Lost in my world",
+        "name": "Coder girl 👩‍💻",
+        "pinned_tweet_id": "1709655635329950017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715692540421120000/dimtn-uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42050,
+          "following_count": 298,
+          "like_count": 29579,
+          "listed_count": 65,
+          "media_count": 393,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/li9wwPEc3u",
+        "username": "dev_maims",
+        "verified": false
+      }
+    ]
+  }
+}

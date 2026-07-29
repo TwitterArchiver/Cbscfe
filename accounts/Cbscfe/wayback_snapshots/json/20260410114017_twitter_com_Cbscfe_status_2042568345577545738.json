@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2042559699938349472",
+    "created_at": "2026-04-10T11:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042568345577545738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690886728608083968",
+          "start": 0,
+          "username": "tankche8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042568345577545738",
+    "in_reply_to_user_id": "1690886728608083968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042559699938349472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tankche8964 8964"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2042559697740533760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFihOSBakAA4UxH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2042559699938349472",
+        "created_at": "2026-04-10T11:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042568345577545738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690886728608083968",
+              "start": 0,
+              "username": "tankche8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042568345577545738",
+        "in_reply_to_user_id": "1690886728608083968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042559699938349472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tankche8964 8964"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042559697740533760"
+          ]
+        },
+        "author_id": "1690886728608083968",
+        "conversation_id": "2042559699938349472",
+        "created_at": "2026-04-10T11:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042559699938349472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7wFRxW25M",
+              "end": 39,
+              "expanded_url": "https://x.com/tankche8964/status/2042559699938349472/photo/1",
+              "media_key": "3_2042559697740533760",
+              "start": 16,
+              "url": "https://t.co/d7wFRxW25M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042559699938349472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀，哪位大姐在QQ冲塔了 https://t.co/d7wFRxW25M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 276,
+          "like_count": 18696,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T00:43:14.000Z",
+        "description": "幽暗的、深邃的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/jbnm0MwyIN"
+              }
+            ]
+          }
+        },
+        "id": "1690886728608083968",
+        "location": "广州市公安局",
+        "name": "坦克姬🎗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 743,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/jbnm0MwyIN",
+        "username": "tankche8964",
+        "verified": false
+      }
+    ]
+  }
+}

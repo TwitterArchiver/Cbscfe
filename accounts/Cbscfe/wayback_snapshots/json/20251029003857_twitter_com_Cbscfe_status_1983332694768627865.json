@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1983175431059845577",
+    "created_at": "2025-10-29T00:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T01:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983332694768627865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1351556640240234504",
+          "start": 0,
+          "username": "harbizard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983332694768627865",
+    "in_reply_to_user_id": "1351556640240234504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983175431059845577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harbizard CCB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983175431059845577",
+        "created_at": "2025-10-29T00:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T01:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983332694768627865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1351556640240234504",
+              "start": 0,
+              "username": "harbizard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983332694768627865",
+        "in_reply_to_user_id": "1351556640240234504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983175431059845577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harbizard CCB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351556640240234504",
+        "conversation_id": "1983175431059845577",
+        "created_at": "2025-10-28T14:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983175431059845577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983175431059845577",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 63970,
+          "like_count": 1525,
+          "quote_count": 251,
+          "reply_count": 686,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "what’s harder for you to say?\n\nA. i’m sorry\nB. i need help\nC. i love you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 50,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T15:46:36.000Z",
+        "description": "twitch affiliate | @RegimentGG member | memes | marvel | anime | randomness 🫶🏻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RegimentGG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/harbizard",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/harbizard",
+                "start": 0,
+                "url": "https://t.co/LujradPTsF"
+              }
+            ]
+          }
+        },
+        "id": "1351556640240234504",
+        "location": "knowhere",
+        "name": "harb",
+        "pinned_tweet_id": "1959385172857540979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966485387968237568/H6wyCtmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18344,
+          "following_count": 20066,
+          "like_count": 36644,
+          "listed_count": 14,
+          "media_count": 4180,
+          "tweet_count": 17525
+        },
+        "url": "https://t.co/LujradPTsF",
+        "username": "harbizard",
+        "verified": true
+      }
+    ]
+  }
+}

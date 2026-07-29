@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1998372382629876044",
+    "created_at": "2025-12-09T12:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998372382629876044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545502277946880000",
+          "start": 3,
+          "username": "MoonAtCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998372382629876044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997786808487469129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoonAtCloud: Emoji的故事（一）\n\n一场编码文明的原罪与困局\n\n这些符号你们认识吧：😀😢😂❤️👍🔥🍆🍑🌮🚽。你们每天都在用。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1998372382629876044",
+        "created_at": "2025-12-09T12:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998372382629876044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545502277946880000",
+              "start": 3,
+              "username": "MoonAtCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998372382629876044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997786808487469129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoonAtCloud: Emoji的故事（一）\n\n一场编码文明的原罪与困局\n\n这些符号你们认识吧：😀😢😂❤️👍🔥🍆🍑🌮🚽。你们每天都在用。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545502277946880000",
+        "conversation_id": "1997786808487469129",
+        "created_at": "2025-12-07T21:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T22:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997786808487469129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997786808487469129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Emoji的故事（一）\n\n一场编码文明的原罪与困局\n\n这些符号你们认识吧：😀😢😂❤️👍🔥🍆🍑🌮🚽。你们每天都在用。\n\n它的正式名字叫emoji，来自日语“絵文字”，一个从未被任何语言翻译的词：英文、中文、法语、阿拉伯语……全球都直接称之为emoji。没有哪一套符号能像它一样，零障碍、无翻译地占领了人类的键盘和屏幕。\n\n正是这套随手打出的小图标，在2010年被Unicode联盟正式接纳为“字符”。\n\n从那一刻起，悲剧已经注定。\n\n跳回1997年的东京街头，路人掏出Pocket Bell寻呼机的屏幕上，跳出的会是一颗闪烁的♥。这不是语言，也不是艺术，只是一项用户界面的创意，在极窄带宽里多塞一点情绪。\n\n没人想得到，这个技巧会在二十年后把整个Unicode联盟拖进无底深渊，成就新的巴别塔传说。\n\n后来日本诞生了那个标志性的明黄色笑脸😂 。它不既是“白人肤色”，更不是“亚洲肤色”，而是一种被技术与法律共同逼出来的“非人色”。黄色是最高对比度、最低文化风险的折中方案。\n\n谁也不会想到，二十年后会有人为“为什么笑脸默认是黄色”打官司。\n\n2008年7月，App Store上线。为抢占日本市场，Apple在Phone的日文键盘里偷偷埋了一整套约460个SoftBank emoji。❤️👍👌😍结果全世界都疯了。\n\n美国用户发现这些小图标后，迅速通过越狱将键盘反向移植到全球固件。Twitter、WhatsApp、Facebook Messenger相继支持。\n\n一个为日本高中女生设计的省字数小玩具，在24个月内成为人类有史以来传播速度最快的视觉符号系统。\n\n这次创意扩散完全脱离了日本运营商的控制。符号离开了它诞生的技术与文化母体，进入全球语境的那一刻，语义开始脱轨。但当时没人当回事，毕竟只是“好玩”。\n\n2010年4月，涵盖所有文明社会语言的Unicode 6.0正式发布。在标准中，它为这些新发明的Emoji预留了7686个码点，号称“足够用一百年”。\n\n在 Supplemental Private Use Area 的尽头（U+1F000 往后），它开辟了一片全新的领土：\nU+1F300–U+1F5FF　杂项符号与象形文字\nU+1F600–U+1F64F　表情符号\nU+1F900–U+1F9FF　补充符号与象形文字（后来补仓）。\n\n决策依据只有一句轻描淡写：这些符号在日本乃至全球移动通信中被广泛使用；纳入标准将改善互操作性。暗示这个新东西会穿越文化，成为全球共同符号。\n\n没有风险评估，没有退出机制，没有文化影响预案。他们以为自己只是在做一次单纯的字符映射。\n\n他们错了。\n\nUnicode联盟成立以来，处理和收纳的对象都是那些语义千年不移（汉字、拉丁文、阿拉伯文），结构严谨可控（拼音文字、表意文字、表音音节），变更周期以世纪计，上下游生态清晰（辞书、输入法、排版引擎、字体厂商）的字符。\n\n而 emoji 虽然也是符号，但却是：语义以月为单位漂移，结构完全开放（用户可任意重新解释），变更周期以周计（新梗、新热点），生态完全失控（苹果、谷歌、微软、微博、抖音各自画风）。\n\n两个系统在根本属性上是对立不可调和的。Unicode 却把它们塞进同一个制度框架，用同一套“码点终身制、永不回收、向前兼容”的铁律来治理。\n\n他们打开的不是一个字符编码空间，而是一个全球可写入的公共符号系统。一旦打开，就再也关不上。\n\n2010 年之后发生的一切纠纷和冲突：肤色修饰符的政治风暴，ZWJ 序列的维度爆炸，🍆🍑🌼 的语义劫持，性别、职业、家庭、旗帜的无尽组合战争，每年 70–100 个新 emoji 提案的血泪审查，四套白名单（RGI、emoji、gender、flag）与跨版本兼容地狱，全部只是这个 2010 年决策的延迟引爆。\n\nUnicode 以为它接纳的只是一批“可爱的小图片”。它实际上接纳的是人类历史上第一套真正全球实时共笔的视觉符号系统：一个不受任何单一文化、语言、国家、机构控制的活的符号生态。\n\n它会变异、会反噬、会要求更多维度、更多政治正确、更多代表性。而Unicode的制度设计，恰恰是最不适合治理这种活体生态的那一套。\n\n悲剧不是emoji进入了Unicode。悲剧是Unicode以为自己能用治理死文字的铁律，去治理一个活着的、呼吸着的、全球共生的符号怪物。\n\n第一颗种子在2010年种下。之后的故事，只是这颗种子破土、抽枝、缠绕、绞杀整个森林的过程。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5349,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Emoji的故事（一）\n\n一场编码文明的原罪与困局\n\n这些符号你们认识吧：😀😢😂❤️👍🔥🍆🍑🌮🚽。你们每天都在用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 104,
+          "like_count": 10617,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T20:17:18.000Z",
+        "description": "",
+        "id": "1545502277946880000",
+        "location": "Cupertino, CA",
+        "name": "云中月",
+        "pinned_tweet_id": "1998099854569136136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966352454645366784/qd4vGbvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27722,
+          "following_count": 964,
+          "like_count": 419,
+          "listed_count": 222,
+          "media_count": 716,
+          "tweet_count": 3321
+        },
+        "username": "MoonAtCloud",
+        "verified": true
+      }
+    ]
+  }
+}

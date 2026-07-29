@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1986313622008782911",
+    "created_at": "2025-11-06T15:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T16:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986462738751820277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1030456817082617857",
+          "start": 0,
+          "username": "MathGuyTFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986462738751820277",
+    "in_reply_to_user_id": "1030456817082617857",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986313622008782911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MathGuyTFL -5 * -5 = 25\n20 - (-5) = 25\n20 + 20 = 40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986313618120654848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DNtjSaQAAWyyx.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1986313622008782911",
+        "created_at": "2025-11-06T15:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986462738751820277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1030456817082617857",
+              "start": 0,
+              "username": "MathGuyTFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986462738751820277",
+        "in_reply_to_user_id": "1030456817082617857",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986313622008782911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MathGuyTFL -5 * -5 = 25\n20 - (-5) = 25\n20 + 20 = 40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986313618120654848"
+          ]
+        },
+        "author_id": "1030456817082617857",
+        "conversation_id": "1986313622008782911",
+        "created_at": "2025-11-06T06:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986313622008782911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MYs8ykR7C",
+              "end": 40,
+              "expanded_url": "https://x.com/MathGuyTFL/status/1986313622008782911/photo/1",
+              "media_key": "3_1986313618120654848",
+              "start": 17,
+              "url": "https://t.co/5MYs8ykR7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986313622008782911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8979,
+          "like_count": 72,
+          "quote_count": 12,
+          "reply_count": 230,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Solve: 🐓 +🐓 =  ? https://t.co/5MYs8ykR7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 63,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-17T14:10:24.000Z",
+        "description": "Stay Connected — TFL's Interesting  Posts.                         🅳🅼: For Credit/Removal.",
+        "id": "1030456817082617857",
+        "name": "Math Guy TFL",
+        "pinned_tweet_id": "1978853981263651237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584446504944963584/HStGjAYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10186,
+          "following_count": 683,
+          "like_count": 119875,
+          "listed_count": 81,
+          "media_count": 2499,
+          "tweet_count": 25999
+        },
+        "username": "MathGuyTFL",
+        "verified": true
+      }
+    ]
+  }
+}

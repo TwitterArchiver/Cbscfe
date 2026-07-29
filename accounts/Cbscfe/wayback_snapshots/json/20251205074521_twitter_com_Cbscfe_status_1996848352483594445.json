@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996848345059586048"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996702903994896634",
+    "created_at": "2025-12-05T07:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996848352483594445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813390341992755200",
+          "start": 0,
+          "username": "zulay121212"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XU37TODLDN",
+          "end": 36,
+          "expanded_url": "https://x.com/Cbscfe/status/1996848352483594445/photo/1",
+          "media_key": "3_1996848345059586048",
+          "start": 13,
+          "url": "https://t.co/XU37TODLDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996848352483594445",
+    "in_reply_to_user_id": "1813390341992755200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996702903994896634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zulay121212 https://t.co/XU37TODLDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_1996848345059586048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Y6_XWacAA9z3i.jpg",
+        "width": 898
+      },
+      {
+        "duration_ms": 15933,
+        "height": 1280,
+        "media_key": "13_1996702840883118080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996702840883118080/img/AujY0umXmBdyWGNm.jpg",
+        "public_metrics": {
+          "view_count": 749494
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996702840883118080/vid/avc1/320x568/GxsbzDBxDuUk2GCv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996702840883118080/vid/avc1/480x852/k4LgZJ7kRvOrVSSv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996702840883118080/vid/avc1/720x1280/RAuZXNXF8SVfMGn9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996702840883118080/pl/r27b_uTVuMNdn7Dy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996848345059586048"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996702903994896634",
+        "created_at": "2025-12-05T07:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996848352483594445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813390341992755200",
+              "start": 0,
+              "username": "zulay121212"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XU37TODLDN",
+              "end": 36,
+              "expanded_url": "https://x.com/Cbscfe/status/1996848352483594445/photo/1",
+              "media_key": "3_1996848345059586048",
+              "start": 13,
+              "url": "https://t.co/XU37TODLDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996848352483594445",
+        "in_reply_to_user_id": "1813390341992755200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996702903994896634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zulay121212 https://t.co/XU37TODLDN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996702840883118080"
+          ]
+        },
+        "author_id": "1813390341992755200",
+        "conversation_id": "1996702903994896634",
+        "created_at": "2025-12-04T22:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996702903994896634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpaJBkRQTp",
+              "end": 45,
+              "expanded_url": "https://x.com/zulay121212/status/1996702903994896634/video/1",
+              "media_key": "13_1996702840883118080",
+              "start": 22,
+              "url": "https://t.co/CpaJBkRQTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996702903994896634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 1547655,
+          "like_count": 542,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "New challenge game 🍅😱 https://t.co/CpaJBkRQTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 102,
+          "like_count": 10220,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1348
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T01:48:58.000Z",
+        "description": "happy always",
+        "id": "1813390341992755200",
+        "name": "Muhamad Juliyana",
+        "pinned_tweet_id": "1996702903994896634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967771668522340357/vgD7NrKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 867,
+          "like_count": 10677,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 8571
+        },
+        "username": "zulay121212",
+        "verified": true
+      }
+    ]
+  }
+}

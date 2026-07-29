@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996565269414821888"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1996504696346046567",
+    "created_at": "2025-12-04T13:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996565286074634331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        },
+        {
+          "end": 24,
+          "id": "1433678976564662273",
+          "start": 16,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqbdAIVnFz",
+          "end": 57,
+          "expanded_url": "https://x.com/Cbscfe/status/1996565286074634331/photo/1",
+          "media_key": "3_1996565269414821888",
+          "start": 34,
+          "url": "https://t.co/ZqbdAIVnFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996565286074634331",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996560481096740952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYiGongHeQiu @hsn8086 这里有点不太对劲 https://t.co/ZqbdAIVnFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1996565269414821888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U5iMZaQAAIwZs.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996565269414821888"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1996504696346046567",
+        "created_at": "2025-12-04T13:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996565286074634331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqbdAIVnFz",
+              "end": 57,
+              "expanded_url": "https://x.com/Cbscfe/status/1996565286074634331/photo/1",
+              "media_key": "3_1996565269414821888",
+              "start": 34,
+              "url": "https://t.co/ZqbdAIVnFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996565286074634331",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996560481096740952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu @hsn8086 这里有点不太对劲 https://t.co/ZqbdAIVnFz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "conversation_id": "1996504696346046567",
+        "created_at": "2025-12-04T12:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996560481096740952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996560481096740952",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996504696346046567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 古典日本語：こゝのそぢあまりなゝ\nこゝのそぢ=90\nあまり=餘\nなゝ=7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 102,
+          "like_count": 10074,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "03年MTF｜HRT ekde 2023-10-12｜ @maplemarat estas amata de mi｜サブ垢@XiaYGHQiu ｜ISFP｜漢文&Esperanto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "maplemarat"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/8gajFOp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/8gajFOp",
+                "start": 0,
+                "url": "https://t.co/zoxNurgTre"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "黄河下游",
+        "name": "虾夷共和球🏳️‍⚧️",
+        "pinned_tweet_id": "1913951553800872151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993216545007583232/qvqxM7k8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 241,
+          "like_count": 19531,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/zoxNurgTre",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110987,
+          "following_count": 1006,
+          "like_count": 47691,
+          "listed_count": 246,
+          "media_count": 17731,
+          "tweet_count": 26426
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

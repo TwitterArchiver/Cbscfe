@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2040754622785376490",
+    "created_at": "2026-04-06T07:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T08:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041048772982268396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034658160729059328",
+          "start": 0,
+          "username": "goolejipon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041048772982268396",
+    "in_reply_to_user_id": "2034658160729059328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040754622785376490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goolejipon 什么药 o.O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2040754622785376490",
+        "created_at": "2026-04-06T07:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041048772982268396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034658160729059328",
+              "start": 0,
+              "username": "goolejipon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041048772982268396",
+        "in_reply_to_user_id": "2034658160729059328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040754622785376490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goolejipon 什么药 o.O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034658160729059328",
+        "conversation_id": "2040754622785376490",
+        "created_at": "2026-04-05T11:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040754622785376490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040754622785376490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想欧滴了要不把药都送出去？但万一被发现怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 252,
+          "like_count": 18204,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3323
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T15:48:26.000Z",
+        "description": "💀💀💀",
+        "id": "2034658160729059328",
+        "name": "灭世恐龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820816745824256/2g8t774u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 48,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "goolejipon",
+        "verified": false
+      }
+    ]
+  }
+}

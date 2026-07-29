@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1930309018817569121",
+    "created_at": "2025-10-05T15:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974854234643607830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Project_Luo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974854234643607830",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930309018817569121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Project_Luo 我还以为只有我一个人\n发癫的时候分一堆段出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1930309018817569121",
+        "created_at": "2025-10-05T15:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974854234643607830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Project_Luo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974854234643607830",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930309018817569121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Project_Luo 我还以为只有我一个人\n发癫的时候分一堆段出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "1930309018817569121",
+        "created_at": "2025-06-04T17:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930309018817569121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930309018817569121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "躯体化好严重\n感觉整个人被压缩到一块去了\n我不应该幻想我的救世主的\n是解药也是毒药\n……\n莫名其妙想到，如果有一天我也写上遗书了，那一定是一大堆莫名其妙的碎碎念\n……\n好痛\n但是哭不出来\n说不出来\n……\n你们能走出来的，真是太好了\n……\n我大概栽这里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w  找我面基会被uno牌打哭的😈 但是可以用抹茶点心拐我跑😺  反香菜联盟首席成员😾 里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛🐱的日常～碎碎念",
+        "pinned_tweet_id": "1947702904422600970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954610505039138816/kJvPf_cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 519,
+          "like_count": 6110,
+          "listed_count": 7,
+          "media_count": 738,
+          "tweet_count": 8110
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Project_Luo",
+        "verified": false
+      }
+    ]
+  }
+}

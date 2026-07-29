@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2061664947575398595",
+    "created_at": "2026-06-02T04:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061664947575398595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038281683636461570",
+          "start": 3,
+          "username": "Knnibal_val"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061664947575398595",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061122654539493430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Knnibal_val: Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2061664947575398595",
+        "created_at": "2026-06-02T04:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061664947575398595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038281683636461570",
+              "start": 3,
+              "username": "Knnibal_val"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061664947575398595",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061122654539493430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Knnibal_val: Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "conversation_id": "2061122654539493430",
+        "created_at": "2026-05-31T16:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061122654539493430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061122654539493430",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 996,
+          "impression_count": 115470,
+          "like_count": 16209,
+          "quote_count": 113,
+          "reply_count": 62,
+          "retweet_count": 5118
+        },
+        "reply_settings": "everyone",
+        "text": "Etapas del sh:\n- Me corto porque me siento mal\n- Me corto para sentir algo \n - Ya no me genera nada \n- Dejo el sh por un tiempo \n- Recaigo\n- Se vuelve maña \n- Me re gusta cortarme\n- Me re calienta cortarme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 673,
+          "like_count": 24144,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5803
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "♰•𝑆𝑖 𝑢𝑛 𝑑𝑖́𝑎 𝑡𝑒 𝑝𝑖𝑒𝑟𝑑𝑒𝑠 𝑏𝑢𝑠𝑘𝑡𝑒 𝑒𝑛 𝑙𝑜 𝑘𝑒 𝑚𝑎𝑠 𝑎𝑚𝑎𝑠 #shtwt #edtwt #drugtwt\nsecond account: @x_zmbie",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "shtwt"
+              },
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "edtwt"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "x_zmbie"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "catboys city",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2061130322931032179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038282875926171648/f2wQ0myg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 79,
+          "like_count": 3520,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 475
+        },
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2047263443917459775",
+    "created_at": "2026-04-23T16:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047354471928496130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1890343594248036352",
+          "start": 0,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047354471928496130",
+    "in_reply_to_user_id": "1890343594248036352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263443917459775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1s8964 我不想说什么了，神人那是天天有的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2047263443917459775",
+        "created_at": "2026-04-23T16:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047354471928496130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047354471928496130",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263443917459775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1s8964 我不想说什么了，神人那是天天有的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890343594248036352",
+        "conversation_id": "2047263443917459775",
+        "created_at": "2026-04-23T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047263443917459775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047263443917459775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中共现在是搞你们跨友od蛆更多一点，还是搞我这种顺直键政人更多一点心里没点数吗？简直是100步笑50步\n我的态度就是我尊重跨性别🏳️‍⚧️，od的就算了\n尤其是雪主席那样线下实践的，你们oder自己不担心引火上身吗？还搁那护着 灰色圈子要有一点灰色圈子的自知之明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 373,
+          "like_count": 19891,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4139
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "别的忘了 总之开个庆祝会 这叫物质不灭定律",
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2046681269153476753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1192,
+          "like_count": 8205,
+          "listed_count": 9,
+          "media_count": 1358,
+          "tweet_count": 6286
+        },
+        "username": "1s8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2002669642364633167",
+    "created_at": "2025-12-21T09:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002669642364633167"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "Antarctica",
+          "probability": 0.9577,
+          "start": 7,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Rothmus/status…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Rothmus/status/2002413449825980438",
+          "start": 57,
+          "url": "https://t.co/yqnbrha9rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002669642364633167",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002413449825980438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "all in Antarctica\nand show these penguins who's the boss https://t.co/yqnbrha9rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2002413446751571968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oAa6sX0AARssP.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2002669642364633167",
+        "created_at": "2025-12-21T09:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002669642364633167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Antarctica",
+              "probability": 0.9577,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Rothmus/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Rothmus/status/2002413449825980438",
+              "start": 57,
+              "url": "https://t.co/yqnbrha9rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002669642364633167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002413449825980438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "all in Antarctica\nand show these penguins who's the boss https://t.co/yqnbrha9rz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002413446751571968"
+          ]
+        },
+        "author_id": "294293982",
+        "conversation_id": "2002413449825980438",
+        "created_at": "2025-12-20T16:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002413449825980438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNIpJ5EWR6",
+              "end": 65,
+              "expanded_url": "https://x.com/Rothmus/status/2002413449825980438/photo/1",
+              "media_key": "3_2002413446751571968",
+              "start": 42,
+              "url": "https://t.co/bNIpJ5EWR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002413449825980438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 71522,
+          "like_count": 1260,
+          "quote_count": 74,
+          "reply_count": 662,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Always remember rule number 1:\n\nHave fun. https://t.co/bNIpJ5EWR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n杭州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 107,
+          "like_count": 11234,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T21:50:08.000Z",
+        "description": "Memes. Voluntaryism. Laissez-faire. Individualism. Propertarianism. Powered by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "294293982",
+        "name": "Rothmus 🏴",
+        "pinned_tweet_id": "2002471884781183358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427434033290661891/hLTTZ5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619054,
+          "following_count": 2694,
+          "like_count": 112855,
+          "listed_count": 2449,
+          "media_count": 133864,
+          "tweet_count": 178767
+        },
+        "username": "Rothmus",
+        "verified": true
+      }
+    ]
+  }
+}

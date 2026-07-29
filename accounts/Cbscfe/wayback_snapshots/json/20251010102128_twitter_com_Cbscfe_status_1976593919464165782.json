@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "1976593727650205810",
+    "created_at": "2025-10-10T10:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976593919464165782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 21,
+          "id": "1440344262957158406",
+          "start": 9,
+          "username": "Rinkowwwwww"
+        },
+        {
+          "end": 33,
+          "id": "1933835561888030720",
+          "start": 22,
+          "username": "noir_cake_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976593919464165782",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976593727650205810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @Rinkowwwwww @noir_cake_ www"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976593727650205810].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976593727650205810",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976593727650205810"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "1976593727650205810",
+        "created_at": "2025-10-10T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976593919464165782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 21,
+              "id": "1440344262957158406",
+              "start": 9,
+              "username": "Rinkowwwwww"
+            },
+            {
+              "end": 33,
+              "id": "1933835561888030720",
+              "start": 22,
+              "username": "noir_cake_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976593919464165782",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976593727650205810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @Rinkowwwwww @noir_cake_ www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmzuFj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmzuFj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 2085,
+          "like_count": 162142,
+          "listed_count": 20,
+          "media_count": 3241,
+          "tweet_count": 40904
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T15:56:57.000Z",
+        "description": "可能是Enby(MtX?)/非刻板INTP-A版本/会一点儿宅舞/会一点儿maimai/会一点儿绳子/欢迎有共同爱好的朋友约我玩各种东西（）",
+        "id": "1440344262957158406",
+        "location": "北京",
+        "name": "藍🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839958340195233795/-0TP8YxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 1260,
+          "like_count": 2430,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 629
+        },
+        "username": "Rinkowwwwww",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T10:35:21.000Z",
+        "description": "鸦鸦/蛋糕/小黑。04年♡｜建模做歪了😢181/71kg｜常驻帝都｜常出没武汉&广州｜🚪30很喜欢聊天｜想出cos瑟瑟(＞＜)可以来拍照去漫展｜可以线下哦（我超级会打扫房间的！）是温柔大姐姐类型｜EN&JP🉑",
+        "id": "1933835561888030720",
+        "name": "noir蛋糕🎂",
+        "pinned_tweet_id": "1934651873891594641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933836183588708352/p9VS6F0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 112,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 100
+        },
+        "username": "noir_cake_",
+        "verified": false
+      }
+    ]
+  }
+}

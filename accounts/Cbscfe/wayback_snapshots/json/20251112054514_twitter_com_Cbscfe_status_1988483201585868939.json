@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988483187358789632"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1988470953941364849",
+    "created_at": "2025-11-12T05:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988483201585868939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757031119894257664",
+          "start": 0,
+          "username": "wozijibzd"
+        },
+        {
+          "end": 25,
+          "id": "1390652924481527810",
+          "start": 11,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8142GkKLa",
+          "end": 49,
+          "expanded_url": "https://x.com/Cbscfe/status/1988483201585868939/photo/1",
+          "media_key": "3_1988483187358789632",
+          "start": 26,
+          "url": "https://t.co/d8142GkKLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988483201585868939",
+    "in_reply_to_user_id": "1757031119894257664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988481274932326688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozijibzd @zqtlovekris99 https://t.co/d8142GkKLa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 90,
+        "media_key": "3_1988483187358789632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iC7GhbcAAwIKd.png",
+        "width": 177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988483187358789632"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1988470953941364849",
+        "created_at": "2025-11-12T05:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988483201585868939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757031119894257664",
+              "start": 0,
+              "username": "wozijibzd"
+            },
+            {
+              "end": 25,
+              "id": "1390652924481527810",
+              "start": 11,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8142GkKLa",
+              "end": 49,
+              "expanded_url": "https://x.com/Cbscfe/status/1988483201585868939/photo/1",
+              "media_key": "3_1988483187358789632",
+              "start": 26,
+              "url": "https://t.co/d8142GkKLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988483201585868939",
+        "in_reply_to_user_id": "1757031119894257664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988481274932326688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozijibzd @zqtlovekris99 https://t.co/d8142GkKLa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757031119894257664",
+        "conversation_id": "1988470953941364849",
+        "created_at": "2025-11-12T05:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988481274932326688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988481274932326688",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988470953941364849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 等下ftmtf？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 72,
+          "like_count": 6544,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:17:33.000Z",
+        "description": "",
+        "id": "1757031119894257664",
+        "location": "地球🌍",
+        "name": "叙叙IM",
+        "pinned_tweet_id": "1942188616656224394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974501685587578880/Np93vLbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 585,
+          "like_count": 4222,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1672
+        },
+        "username": "wozijibzd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10733,
+          "following_count": 1045,
+          "like_count": 22926,
+          "listed_count": 12,
+          "media_count": 3888,
+          "tweet_count": 24141
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

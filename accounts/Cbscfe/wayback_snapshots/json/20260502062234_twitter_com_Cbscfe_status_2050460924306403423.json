@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2050442113247248456",
+    "created_at": "2026-05-02T06:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050460924306403423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050460924306403423",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050442113247248456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon 你知道网易版MC这个词是敏感词吗\n这么常用的一个数字竟然发不出来的\n甚至是一组的数量跟这个游戏高度绑定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2050442110617436160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSiPGPawAAl3nK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2050442113247248456",
+        "created_at": "2026-05-02T06:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050460924306403423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050460924306403423",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050442113247248456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon 你知道网易版MC这个词是敏感词吗\n这么常用的一个数字竟然发不出来的\n甚至是一组的数量跟这个游戏高度绑定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050442110617436160"
+          ]
+        },
+        "author_id": "1795719520939905024",
+        "conversation_id": "2050442113247248456",
+        "created_at": "2026-05-02T05:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050442113247248456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QHOmpLLaTt",
+              "end": 61,
+              "expanded_url": "https://x.com/pyridine_lemon/status/2050442113247248456/photo/1",
+              "media_key": "3_2050442110617436160",
+              "start": 38,
+              "url": "https://t.co/QHOmpLLaTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050442113247248456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得把一个二进制下的“整数”当成敏感词一直提防\n\n这是一件很蠢的行为 https://t.co/QHOmpLLaTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 430,
+          "like_count": 20792,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "love every person who appreciates me\n\nmtf/mathematics-phile/Cuset's fan/\n\nwith Cuset: we are lovers and friends\n\nlove @VoidAldehyde forever...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "VoidAldehyde"
+              }
+            ]
+          }
+        },
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2046559190425231627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796043264979812353/whgd2biH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 38,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1494
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

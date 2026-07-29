@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983970695609769984"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1983863266674716842",
+    "created_at": "2025-10-30T18:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983970718821052579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "716544523711721472",
+          "start": 0,
+          "username": "FufuVT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/13fJ7FRttP",
+          "end": 43,
+          "expanded_url": "https://x.com/Cbscfe/status/1983970718821052579/photo/1",
+          "media_key": "3_1983970695609769984",
+          "start": 20,
+          "url": "https://t.co/13fJ7FRttP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983970718821052579",
+    "in_reply_to_user_id": "716544523711721472",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983863266674716842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FufuVT Interesting https://t.co/13fJ7FRttP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_1983970695609769984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4h61gya4AA9A8T.png",
+        "width": 370
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1983863078044254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gY9WHXQAAatEB.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983970695609769984"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1983863266674716842",
+        "created_at": "2025-10-30T18:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983970718821052579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "716544523711721472",
+              "start": 0,
+              "username": "FufuVT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/13fJ7FRttP",
+              "end": 43,
+              "expanded_url": "https://x.com/Cbscfe/status/1983970718821052579/photo/1",
+              "media_key": "3_1983970695609769984",
+              "start": 20,
+              "url": "https://t.co/13fJ7FRttP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983970718821052579",
+        "in_reply_to_user_id": "716544523711721472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983863266674716842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FufuVT Interesting https://t.co/13fJ7FRttP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983863078044254208"
+          ]
+        },
+        "author_id": "716544523711721472",
+        "conversation_id": "1983863266674716842",
+        "created_at": "2025-10-30T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983863266674716842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2OY4c1IGa",
+              "end": 105,
+              "expanded_url": "https://x.com/FufuVT/status/1983863266674716842/photo/1",
+              "media_key": "3_1983863078044254208",
+              "start": 82,
+              "url": "https://t.co/D2OY4c1IGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983863266674716842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "⟡﹒ The last picture saved on your phone made me react like this... what is it? ﹒⟡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12156,
+          "like_count": 545,
+          "quote_count": 0,
+          "reply_count": 152,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "⟡﹒ The last picture saved on your phone made me react like this... what is it? ﹒⟡ https://t.co/D2OY4c1IGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 52,
+          "like_count": 4338,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-03T08:35:02.000Z",
+        "description": "‑◉‑ Twitch & YouTube #vtuber\n‑◉‑ Code: FUFU @GamerSupps\n‑◉‑ 🧑‍🎨 @kamochiruu\n‑◉‑ ⚙️ @suiika___ & @SmoothShading\n‑◉‑  🎨 #ArtoFufu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "vtuber"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "tag": "ArtoFufu"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "GamerSupps"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "kamochiruu"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "suiika___"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "SmoothShading"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/Fufu",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/Fufu",
+                "start": 0,
+                "url": "https://t.co/Rb432YER3C"
+              }
+            ]
+          }
+        },
+        "id": "716544523711721472",
+        "location": "Full credits →",
+        "name": "Fufu 📦 Black Hole【cat】",
+        "pinned_tweet_id": "1972251886117068946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766086868662132736/H9cS5BCX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22226,
+          "following_count": 828,
+          "like_count": 9628,
+          "listed_count": 67,
+          "media_count": 1222,
+          "tweet_count": 5515
+        },
+        "url": "https://t.co/Rb432YER3C",
+        "username": "FufuVT",
+        "verified": true
+      }
+    ]
+  }
+}

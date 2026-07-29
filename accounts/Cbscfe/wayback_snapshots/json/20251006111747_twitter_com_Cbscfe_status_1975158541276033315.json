@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1974983916273504256"
+      ],
+      "media_source_tweet_id": [
+        "1974984114882408787"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "1975158541276033315",
+    "created_at": "2025-10-06T11:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975158541276033315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1271876898000449541",
+          "start": 3,
+          "username": "ChairChair"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qvJ0uhhwsL",
+          "end": 41,
+          "expanded_url": "https://x.com/ChairChair/status/1974984114882408787/photo/1",
+          "media_key": "16_1974983916273504256",
+          "start": 18,
+          "url": "https://t.co/qvJ0uhhwsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975158541276033315",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974984114882408787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChairChair: 🥹 https://t.co/qvJ0uhhwsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "16_1974983916273504256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2iNaG6XkAAyVye.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2iNaG6XkAAyVye.mp4"
+          }
+        ],
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1974983916273504256"
+          ],
+          "media_source_tweet_id": [
+            "1974984114882408787"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "1975158541276033315",
+        "created_at": "2025-10-06T11:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975158541276033315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1271876898000449541",
+              "start": 3,
+              "username": "ChairChair"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvJ0uhhwsL",
+              "end": 41,
+              "expanded_url": "https://x.com/ChairChair/status/1974984114882408787/photo/1",
+              "media_key": "16_1974983916273504256",
+              "start": 18,
+              "url": "https://t.co/qvJ0uhhwsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975158541276033315",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974984114882408787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChairChair: 🥹 https://t.co/qvJ0uhhwsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1974983916273504256"
+          ]
+        },
+        "author_id": "1271876898000449541",
+        "conversation_id": "1974984114882408787",
+        "created_at": "2025-10-05T23:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T00:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974984114882408787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvJ0uhhwsL",
+              "end": 25,
+              "expanded_url": "https://x.com/ChairChair/status/1974984114882408787/photo/1",
+              "media_key": "16_1974983916273504256",
+              "start": 2,
+              "url": "https://t.co/qvJ0uhhwsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974984114882408787",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15009,
+          "impression_count": 3210567,
+          "like_count": 61797,
+          "quote_count": 522,
+          "reply_count": 495,
+          "retweet_count": 4390
+        },
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/qvJ0uhhwsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "双母语... 不过英文拼写并不好 打字也慢...\nBilingual... but poor spelling and type slow...\n---\n励志变成精神病\nI will need help...\n---\nQQ: https://t.co/I16GUmA2uR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "user.qzone.qq.com/2567181665",
+                "end": 136,
+                "expanded_url": "https://user.qzone.qq.com/2567181665",
+                "start": 113,
+                "url": "https://t.co/I16GUmA2uR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "libps.github.io",
+                "end": 23,
+                "expanded_url": "https://libps.github.io/",
+                "start": 0,
+                "url": "https://t.co/qGmXfvOlQN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:overworld",
+        "name": "Cbscfe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959893509856722944/8i84gD4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/qGmXfvOlQN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T18:47:42.000Z",
+        "description": "Firefly and BA Mika fan | Discord in strawpage | #1 Yuri Poster |\n23 | 🔥🔥🔥 BA, HSR, PRISMA ILLYA, YURI, AND MORE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chairextensions.straw.page",
+                "end": 23,
+                "expanded_url": "http://chairextensions.straw.page",
+                "start": 0,
+                "url": "https://t.co/vVm9esVnFa"
+              }
+            ]
+          }
+        },
+        "id": "1271876898000449541",
+        "location": "Headspace",
+        "name": "Chair (Refined) 🪑",
+        "pinned_tweet_id": "1972337493879169194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963292788969050112/6Plai_8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11332,
+          "following_count": 5694,
+          "like_count": 67762,
+          "listed_count": 17,
+          "media_count": 467,
+          "tweet_count": 6982
+        },
+        "url": "https://t.co/vVm9esVnFa",
+        "username": "ChairChair",
+        "verified": false
+      }
+    ]
+  }
+}
