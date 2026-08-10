@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082346347324379136",
+        "3_2082346354186293248"
+      ],
+      "media_source_tweet_id": [
+        "2082346363988460022",
+        "2082346363988460022"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2083026315557613878",
+    "created_at": "2026-07-31T03:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083026315557613878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZLgQRKUb5",
+          "end": 56,
+          "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+          "media_key": "3_2082346347324379136",
+          "start": 33,
+          "url": "https://t.co/lZLgQRKUb5"
+        },
+        {
+          "display_url": "pic.x.com/lZLgQRKUb5",
+          "end": 56,
+          "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+          "media_key": "3_2082346354186293248",
+          "start": 33,
+          "url": "https://t.co/lZLgQRKUb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083026315557613878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082346363988460022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 这就对了嘛....\n这才是正常男女关系 https://t.co/lZLgQRKUb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2082346347324379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX6-FuaEAADhdq.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1947,
+        "media_key": "3_2082346354186293248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX6-fSakAAJ-1o.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082346347324379136",
+            "3_2082346354186293248"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2082346363988460022",
+        "created_at": "2026-07-29T06:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082346363988460022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZLgQRKUb5",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+              "media_key": "3_2082346347324379136",
+              "start": 20,
+              "url": "https://t.co/lZLgQRKUb5"
+            },
+            {
+              "display_url": "pic.x.com/lZLgQRKUb5",
+              "end": 43,
+              "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+              "media_key": "3_2082346354186293248",
+              "start": 20,
+              "url": "https://t.co/lZLgQRKUb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082346363988460022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19001,
+          "impression_count": 6899273,
+          "like_count": 101518,
+          "quote_count": 521,
+          "reply_count": 261,
+          "retweet_count": 5596
+        },
+        "reply_settings": "everyone",
+        "text": "这就对了嘛....\n这才是正常男女关系 https://t.co/lZLgQRKUb5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082346347324379136",
+            "3_2082346354186293248"
+          ],
+          "media_source_tweet_id": [
+            "2082346363988460022",
+            "2082346363988460022"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2083026315557613878",
+        "created_at": "2026-07-31T03:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083026315557613878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZLgQRKUb5",
+              "end": 56,
+              "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+              "media_key": "3_2082346347324379136",
+              "start": 33,
+              "url": "https://t.co/lZLgQRKUb5"
+            },
+            {
+              "display_url": "pic.x.com/lZLgQRKUb5",
+              "end": 56,
+              "expanded_url": "https://x.com/gdioiui/status/2082346363988460022/photo/1",
+              "media_key": "3_2082346354186293248",
+              "start": 33,
+              "url": "https://t.co/lZLgQRKUb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083026315557613878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082346363988460022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 这就对了嘛....\n这才是正常男女关系 https://t.co/lZLgQRKUb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 687,
+          "like_count": 24683,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 6368
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 493,
+          "like_count": 4791,
+          "listed_count": 4,
+          "media_count": 1667,
+          "tweet_count": 8561
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

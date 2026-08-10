@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2084205169856975064",
+    "created_at": "2026-08-04T13:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084629891451060464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "311603632",
+          "start": 0,
+          "username": "wadezone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084629891451060464",
+    "in_reply_to_user_id": "311603632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084205169856975064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wadezone 这药已经有了，最初是ADHD治疗药物不过已经淘汰了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2084205152505131008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyViyobcAA2APu.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2084205169856975064",
+        "created_at": "2026-08-04T13:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084629891451060464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "311603632",
+              "start": 0,
+              "username": "wadezone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084629891451060464",
+        "in_reply_to_user_id": "311603632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084205169856975064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wadezone 这药已经有了，最初是ADHD治疗药物不过已经淘汰了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084205152505131008"
+          ]
+        },
+        "author_id": "311603632",
+        "conversation_id": "2084205169856975064",
+        "created_at": "2026-08-03T09:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084205169856975064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXvnglgMJr",
+              "end": 32,
+              "expanded_url": "https://x.com/wadezone/status/2084205169856975064/photo/1",
+              "media_key": "3_2084205152505131008",
+              "start": 9,
+              "url": "https://t.co/pXvnglgMJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084205169856975064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 486257,
+          "like_count": 1096,
+          "quote_count": 5,
+          "reply_count": 410,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我勒个甲基苯丙胺 https://t.co/pXvnglgMJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 686,
+          "like_count": 24685,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-05T18:46:04.000Z",
+        "description": "8位数广告投手 → 推特增长实操\n50天0→1万粉｜广告分成$2k+｜长文200万+阅读\n每天方法论 · 199/年跟场群\n进群：主页说明 → 私信「推特群」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisqsb7bkye.feishu.cn/docx/WXqId9MXJ…",
+                "end": 23,
+                "expanded_url": "https://kisqsb7bkye.feishu.cn/docx/WXqId9MXJoMCgKxrZIDcV35vnEb?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/VbcmCkoa07"
+              }
+            ]
+          }
+        },
+        "id": "311603632",
+        "name": "Koda",
+        "pinned_tweet_id": "2051155060751794328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049312888649928704/UsBrY6Kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26012,
+          "following_count": 332,
+          "like_count": 911,
+          "listed_count": 126,
+          "media_count": 1074,
+          "tweet_count": 13749
+        },
+        "url": "https://t.co/VbcmCkoa07",
+        "username": "wadezone",
+        "verified": true
+      }
+    ]
+  }
+}

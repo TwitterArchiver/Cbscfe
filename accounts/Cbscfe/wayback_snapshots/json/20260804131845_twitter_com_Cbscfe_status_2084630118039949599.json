@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084326988131741696"
+      ],
+      "media_source_tweet_id": [
+        "2084327000110743934"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2084630118039949599",
+    "created_at": "2026-08-04T13:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084630118039949599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006749860863815682",
+          "start": 3,
+          "username": "kawainegi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xc5qkRIHl",
+          "end": 53,
+          "expanded_url": "https://x.com/kawainegi/status/2084327000110743934/photo/1",
+          "media_key": "3_2084326988131741696",
+          "start": 30,
+          "url": "https://t.co/7xc5qkRIHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084630118039949599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084327000110743934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawainegi: 国は徴兵制を廃止してください https://t.co/7xc5qkRIHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2084326988131741696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0EWjtaMAA0t3I.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084326988131741696"
+          ]
+        },
+        "author_id": "2006749860863815682",
+        "conversation_id": "2084327000110743934",
+        "created_at": "2026-08-03T17:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084327000110743934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xc5qkRIHl",
+              "end": 38,
+              "expanded_url": "https://x.com/kawainegi/status/2084327000110743934/photo/1",
+              "media_key": "3_2084326988131741696",
+              "start": 15,
+              "url": "https://t.co/7xc5qkRIHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084327000110743934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国は徴兵制を廃止してください https://t.co/7xc5qkRIHl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084326988131741696"
+          ],
+          "media_source_tweet_id": [
+            "2084327000110743934"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2084630118039949599",
+        "created_at": "2026-08-04T13:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084630118039949599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006749860863815682",
+              "start": 3,
+              "username": "kawainegi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xc5qkRIHl",
+              "end": 53,
+              "expanded_url": "https://x.com/kawainegi/status/2084327000110743934/photo/1",
+              "media_key": "3_2084326988131741696",
+              "start": 30,
+              "url": "https://t.co/7xc5qkRIHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084630118039949599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084327000110743934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawainegi: 国は徴兵制を廃止してください https://t.co/7xc5qkRIHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 686,
+          "like_count": 24686,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 6394
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T15:30:43.000Z",
+        "description": "余命日記を書いてます",
+        "id": "2006749860863815682",
+        "name": "川井ネギ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006749938210975747/mGm4r0z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 192,
+          "like_count": 8198,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1619
+        },
+        "url": "",
+        "username": "kawainegi",
+        "verified": false
+      }
+    ]
+  }
+}

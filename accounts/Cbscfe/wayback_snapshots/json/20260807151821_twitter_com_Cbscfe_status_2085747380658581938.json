@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2085747380658581938",
+    "created_at": "2026-08-07T15:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085747380658581938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727107763447410688",
+          "start": 3,
+          "username": "mehatehuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085747380658581938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085735741821460495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mehatehuman: DE 这真是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2085747380658581938",
+        "created_at": "2026-08-07T15:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085747380658581938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727107763447410688",
+              "start": 3,
+              "username": "mehatehuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085747380658581938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085735741821460495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mehatehuman: DE 这真是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727107763447410688",
+        "conversation_id": "2085735741821460495",
+        "created_at": "2026-08-07T14:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085735741821460495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2085696955028492490",
+              "start": 8,
+              "url": "https://t.co/swlIkpzM1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085735741821460495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085696955028492490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "DE 这真是我 https://t.co/swlIkpzM1B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 685,
+          "like_count": 24722,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T23:33:17.000Z",
+        "description": "｜网络巨人｜神✝️｜东京｜fps｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com",
+                "start": 0,
+                "url": "https://t.co/al0N7vzK0k"
+              }
+            ]
+          }
+        },
+        "id": "1727107763447410688",
+        "location": "日本",
+        "name": "复读机",
+        "pinned_tweet_id": "2082366175737229559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085357571993649152/xyZqm3SH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 46,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/al0N7vzK0k",
+        "username": "mehatehuman",
+        "verified": false
+      }
+    ]
+  }
+}
