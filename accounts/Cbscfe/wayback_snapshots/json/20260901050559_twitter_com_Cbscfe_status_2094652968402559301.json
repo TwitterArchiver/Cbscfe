@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2094294828746252581",
+    "created_at": "2026-09-01T05:05:59.000Z",
+    "display_text_range": [
+      36,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094652968402559301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838122423994191872",
+          "start": 0,
+          "username": "llenn217779"
+        },
+        {
+          "end": 23,
+          "id": "1340283470304591873",
+          "start": 13,
+          "username": "magatropy"
+        },
+        {
+          "end": 35,
+          "id": "1943361769814261760",
+          "start": 24,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094652968402559301",
+    "in_reply_to_user_id": "1838122423994191872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094599780546879506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llenn217779 @magatropy @sadsadcatc 以及未成年的治疗都很保守我看过很多人都很难去寻求医疗援助，我一开始也是自己来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2094294828746252581",
+        "created_at": "2026-09-01T05:05:59.000Z",
+        "display_text_range": [
+          36,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094652968402559301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838122423994191872",
+              "start": 0,
+              "username": "llenn217779"
+            },
+            {
+              "end": 23,
+              "id": "1340283470304591873",
+              "start": 13,
+              "username": "magatropy"
+            },
+            {
+              "end": 35,
+              "id": "1943361769814261760",
+              "start": 24,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094652968402559301",
+        "in_reply_to_user_id": "1838122423994191872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094599780546879506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llenn217779 @magatropy @sadsadcatc 以及未成年的治疗都很保守我看过很多人都很难去寻求医疗援助，我一开始也是自己来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838122423994191872",
+        "conversation_id": "2094294828746252581",
+        "created_at": "2026-09-01T01:34:38.000Z",
+        "display_text_range": [
+          31,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094599780546879506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 18,
+              "id": "1340283470304591873",
+              "start": 8,
+              "username": "magatropy"
+            },
+            {
+              "end": 30,
+              "id": "1943361769814261760",
+              "start": 19,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094599780546879506",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094393983573315975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @magatropy @sadsadcatc 有些人喜欢给自己冠上yyz，但是开不到药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2094652968402559301",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 743,
+          "like_count": 25066,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6833
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-23T07:45:19.000Z",
+        "description": "",
+        "id": "1838122423994191872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094599780546879506",
+        "name": "Florence",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873248807598858240/HJmYp4oW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 123,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "llenn217779",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-19T13:12:00.000Z",
+        "description": "enby",
+        "id": "1340283470304591873",
+        "is_identity_verified": false,
+        "location": "emeōto",
+        "most_recent_tweet_id": "2094606812997955710",
+        "name": "禍尾栖",
+        "pinned_tweet_id": "1491738642104328192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340283470304591873/1785315778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090959773550383104/0HjXdtnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 176,
+          "like_count": 19022,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "magatropy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n被变态缠上了，如果有人找你帮忙问关于我的事不要回，我和他没有任何关系\n2004 mtf 持证含糖 长居武汉 \n我是重度精神病，接受不了直接划走，讨厌健全b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cnvkA"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2094646459937513943",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2094290577068339371",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1477,
+          "like_count": 22672,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 7579
+        },
+        "url": "https://t.co/xH3r8cnvkA",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

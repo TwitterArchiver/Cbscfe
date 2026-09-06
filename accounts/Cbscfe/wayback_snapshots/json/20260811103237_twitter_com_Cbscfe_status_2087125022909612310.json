@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087012522037739520"
+      ],
+      "media_source_tweet_id": [
+        "2087012528203399272"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2087125022909612310",
+    "created_at": "2026-08-11T10:32:37.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087125022909612310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627860014114168833",
+          "start": 3,
+          "username": "Snow_Xue_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qglljLs3wG",
+          "end": 65,
+          "expanded_url": "https://x.com/Snow_Xue_1/status/2087012528203399272/photo/1",
+          "media_key": "3_2087012522037739520",
+          "start": 42,
+          "url": "https://t.co/qglljLs3wG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087125022909612310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087012522037739520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087012528203399272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_Xue_1: 🩷普瑞巴林🩷\n如果有的选，下辈子，我只想早点遇到你 https://t.co/qglljLs3wG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2087012522037739520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaO1NHaAAAZ1kT.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087012522037739520"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "conversation_id": "2087012528203399272",
+        "created_at": "2026-08-11T03:05:36.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087012528203399272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qglljLs3wG",
+              "end": 49,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2087012528203399272/photo/1",
+              "media_key": "3_2087012522037739520",
+              "start": 26,
+              "url": "https://t.co/qglljLs3wG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087012528203399272",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087012522037739520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🩷普瑞巴林🩷\n如果有的选，下辈子，我只想早点遇到你 https://t.co/qglljLs3wG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087012522037739520"
+          ],
+          "media_source_tweet_id": [
+            "2087012528203399272"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2087125022909612310",
+        "created_at": "2026-08-11T10:32:37.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087125022909612310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627860014114168833",
+              "start": 3,
+              "username": "Snow_Xue_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qglljLs3wG",
+              "end": 65,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2087012528203399272/photo/1",
+              "media_key": "3_2087012522037739520",
+              "start": 42,
+              "url": "https://t.co/qglljLs3wG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087125022909612310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087012522037739520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087012528203399272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_Xue_1: 🩷普瑞巴林🩷\n如果有的选，下辈子，我只想早点遇到你 https://t.co/qglljLs3wG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2087125022909612310",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1761898733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 681,
+          "like_count": 24713,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 6434
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林重度依赖✝️ \n 普通的上海入 | Oder | 超级大m | 战绩：三刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党  | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2087105869645262857",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627860014114168833/1782068451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 272,
+          "like_count": 7389,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

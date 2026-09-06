@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2092279113935634942",
+    "created_at": "2026-08-26T10:06:51.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092554360463196538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332914720442081280",
+          "start": 0,
+          "username": "ZakkysMichael"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092554360463196538",
+    "in_reply_to_user_id": "1332914720442081280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092279113935634942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZakkysMichael 哪个是好的哪个是坏的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2092279113935634942",
+        "created_at": "2026-08-26T10:06:51.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092554360463196538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332914720442081280",
+              "start": 0,
+              "username": "ZakkysMichael"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092554360463196538",
+        "in_reply_to_user_id": "1332914720442081280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092279113935634942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZakkysMichael 哪个是好的哪个是坏的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332914720442081280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2092279113935634942",
+        "created_at": "2026-08-25T15:53:08.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092279113935634942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092279113935634942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2024,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "自介贴：\n你的专业杀手，迈克·厄门绍特已上线\n负责处理一切威胁到扎鸡叔与集团的敌人\n维护药圈的稳定与秩序 保护oder利益\n请选择你的药圈阵营：\n扎鸡兄弟 天晓属pdw 鼠尾草属fow 结晶化 叶经理 药物百科 永夜安港 沐雨 后藤odw 化学极乐百科 三崎 osw  精神药品wiki 瓦楞斯 原料革命 名人堂梦工厂 鸡哥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2092554360463196538",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 692,
+          "like_count": 24885,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 6637
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-29T05:11:00.000Z",
+        "description": "Zakky's 扎鸡兄弟 迈克·厄门绍特 Michael Ehrmantraut\n扎鸡兄弟 Los Pollos Hermanos",
+        "id": "1332914720442081280",
+        "is_identity_verified": false,
+        "location": "Albuquerque",
+        "most_recent_tweet_id": "2092279113935634942",
+        "name": "Zakky's 扎鸡兄弟 迈克·厄门绍特 Michael Ehrmantraut",
+        "pinned_tweet_id": "2092279113935634942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332914720442081280/1787667911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092256979972685824/B1PjQeZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 3,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "ZakkysMichael",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

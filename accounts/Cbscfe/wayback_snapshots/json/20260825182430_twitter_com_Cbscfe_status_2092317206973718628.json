@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2092317206973718628",
+    "created_at": "2026-08-25T18:24:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T19:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092317206973718628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1604313808096202752",
+          "start": 3,
+          "username": "tdfhi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092317206973718628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092131065129480456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tdfhi8: 上次去泰国，人生中第一次抽大麻，商家grab摩托小哥闪送过来，买的是电子烟，送了一根卷好的应该是s，当时白天在街上没敢抽，晚上在酒店旁边有一个停车场 ，闻起来是一股很重的那种我个人感觉是呕吐物的味道 ，然后直接肺吸了一整根，抽完以后就做到那个大厅的沙发上…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2092131036151091200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQi-F8FbEAAeK0U.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092131047609962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQi-GmxbkAAhA20.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2092131058540269568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQi-HPfa0AA4MH-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2092317206973718628",
+        "created_at": "2026-08-25T18:24:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092317206973718628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1604313808096202752",
+              "start": 3,
+              "username": "tdfhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092317206973718628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092131065129480456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tdfhi8: 上次去泰国，人生中第一次抽大麻，商家grab摩托小哥闪送过来，买的是电子烟，送了一根卷好的应该是s，当时白天在街上没敢抽，晚上在酒店旁边有一个停车场 ，闻起来是一股很重的那种我个人感觉是呕吐物的味道 ，然后直接肺吸了一整根，抽完以后就做到那个大厅的沙发上…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092131036151091200",
+            "3_2092131047609962496",
+            "3_2092131058540269568"
+          ]
+        },
+        "author_id": "1604313808096202752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092131065129480456",
+        "created_at": "2026-08-25T06:04:50.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092131065129480456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKp7YV4KAz",
+              "end": 168,
+              "expanded_url": "https://x.com/tdfhi8/status/2092131065129480456/photo/1",
+              "media_key": "3_2092131036151091200",
+              "start": 145,
+              "url": "https://t.co/qKp7YV4KAz"
+            },
+            {
+              "display_url": "pic.x.com/qKp7YV4KAz",
+              "end": 168,
+              "expanded_url": "https://x.com/tdfhi8/status/2092131065129480456/photo/1",
+              "media_key": "3_2092131047609962496",
+              "start": 145,
+              "url": "https://t.co/qKp7YV4KAz"
+            },
+            {
+              "display_url": "pic.x.com/qKp7YV4KAz",
+              "end": 168,
+              "expanded_url": "https://x.com/tdfhi8/status/2092131065129480456/photo/1",
+              "media_key": "3_2092131058540269568",
+              "start": 145,
+              "url": "https://t.co/qKp7YV4KAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092131065129480456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092131036151091200"
+          },
+          {
+            "media_key": "3_2092131047609962496"
+          },
+          {
+            "media_key": "3_2092131058540269568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次去泰国，人生中第一次抽大麻，商家grab摩托小哥闪送过来，买的是电子烟，送了一根卷好的应该是s，当时白天在街上没敢抽，晚上在酒店旁边有一个停车场 ，闻起来是一股很重的那种我个人感觉是呕吐物的味道 ，然后直接肺吸了一整根，抽完以后就做到那个大厅的沙发上盯着磁砖发呆 时间变慢和略微的欣快 https://t.co/qKp7YV4KAz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2092317206973718628",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 692,
+          "like_count": 24849,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 6612
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-18T03:13:21.000Z",
+        "description": "。",
+        "id": "1604313808096202752",
+        "is_identity_verified": false,
+        "location": "海南",
+        "most_recent_tweet_id": "2092253879366803752",
+        "name": "述影",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 502,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "tdfhi8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

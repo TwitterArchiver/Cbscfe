@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2093726277979222280",
+    "created_at": "2026-08-30T07:03:39.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093957807276171438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058891873654292481",
+          "start": 0,
+          "username": "KK2siywi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093957807276171438",
+    "in_reply_to_user_id": "2058891873654292481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093726277979222280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK2siywi 你们想骂变态直说吧，不用带上LG的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2093726264737808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5o8dqaQAAkHsk.jpg",
+        "width": 1039
+      },
+      {
+        "height": 469,
+        "media_key": "3_2093726270752542722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5o80Eb0AIJ3ab.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2093726277979222280",
+        "created_at": "2026-08-30T07:03:39.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093957807276171438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058891873654292481",
+              "start": 0,
+              "username": "KK2siywi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093957807276171438",
+        "in_reply_to_user_id": "2058891873654292481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093726277979222280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK2siywi 你们想骂变态直说吧，不用带上LG的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093726264737808384",
+            "3_2093726270752542722"
+          ]
+        },
+        "author_id": "2058891873654292481",
+        "conversation_id": "2093726277979222280",
+        "created_at": "2026-08-29T15:43:38.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093726277979222280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kT4sIH92DY",
+              "end": 75,
+              "expanded_url": "https://x.com/KK2siywi/status/2093726277979222280/photo/1",
+              "media_key": "3_2093726264737808384",
+              "start": 52,
+              "url": "https://t.co/kT4sIH92DY"
+            },
+            {
+              "display_url": "pic.x.com/kT4sIH92DY",
+              "end": 75,
+              "expanded_url": "https://x.com/KK2siywi/status/2093726277979222280/photo/1",
+              "media_key": "3_2093726270752542722",
+              "start": 52,
+              "url": "https://t.co/kT4sIH92DY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093726277979222280",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093726264737808384"
+          },
+          {
+            "media_key": "3_2093726270752542722"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4995,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "先是二次元劳保把女同开除LGBT\n现在把同性恋也开了\n所以我说墙内的傻逼根本就不知道LGBT是什么东西 https://t.co/kT4sIH92DY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2093957807276171438",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 742,
+          "like_count": 25026,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:49:53.000Z",
+        "description": "任何人都能折断一支花，但任何人都无法阻止春天的到来",
+        "id": "2058891873654292481",
+        "is_identity_verified": false,
+        "location": "DICE",
+        "most_recent_tweet_id": "2093947802972025071",
+        "name": "路易8·皮埃尔9·张异宾64",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058891873654292481/1781650098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089310464144781312/zRRhMHxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 69,
+          "like_count": 258,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "KK2siywi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

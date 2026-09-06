@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092824914885799936"
+      ],
+      "media_source_tweet_id": [
+        "2092824921500168697"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2092877624658026515",
+    "created_at": "2026-08-27T07:31:24.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092877624658026515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8d6gwbaPig",
+          "end": 57,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2092824921500168697/photo/1",
+          "media_key": "3_2092824914885799936",
+          "start": 34,
+          "url": "https://t.co/8d6gwbaPig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092877624658026515",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092824914885799936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092824921500168697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 回来了，这次小蓝鸟真的复活了 https://t.co/8d6gwbaPig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2092824914885799936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQs1K_za8AAp3Wh.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092824914885799936"
+          ],
+          "media_source_tweet_id": [
+            "2092824921500168697"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2092877624658026515",
+        "created_at": "2026-08-27T07:31:24.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092877624658026515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8d6gwbaPig",
+              "end": 57,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2092824921500168697/photo/1",
+              "media_key": "3_2092824914885799936",
+              "start": 34,
+              "url": "https://t.co/8d6gwbaPig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092877624658026515",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092824914885799936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092824921500168697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 回来了，这次小蓝鸟真的复活了 https://t.co/8d6gwbaPig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092824914885799936"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2092824921500168697",
+        "created_at": "2026-08-27T04:01:58.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092824921500168697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8d6gwbaPig",
+              "end": 38,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2092824921500168697/photo/1",
+              "media_key": "3_2092824914885799936",
+              "start": 15,
+              "url": "https://t.co/8d6gwbaPig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092824921500168697",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092824914885799936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8801,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "回来了，这次小蓝鸟真的复活了 https://t.co/8d6gwbaPig"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2092877624658026515",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 717,
+          "like_count": 24930,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 6661
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2092871886137151999",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99264,
+          "following_count": 2764,
+          "like_count": 8581,
+          "listed_count": 205,
+          "media_count": 1243,
+          "tweet_count": 5515
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

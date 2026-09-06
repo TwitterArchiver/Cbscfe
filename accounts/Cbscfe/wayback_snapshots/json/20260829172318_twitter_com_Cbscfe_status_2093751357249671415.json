@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093708864017592320"
+      ],
+      "media_source_tweet_id": [
+        "2093708870875066746"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2093751357249671415",
+    "created_at": "2026-08-29T17:23:18.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T18:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093751357249671415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "CyronANNO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YD0ZPBZ9b4",
+          "end": 44,
+          "expanded_url": "https://x.com/CyronANNO/status/2093708870875066746/photo/1",
+          "media_key": "3_2093708864017592320",
+          "start": 21,
+          "url": "https://t.co/YD0ZPBZ9b4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093751357249671415",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093708864017592320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093708870875066746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyronANNO: 九年前的我 https://t.co/YD0ZPBZ9b4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2093708864017592320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5ZHm7a8AAP46a.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093708864017592320"
+          ],
+          "media_source_tweet_id": [
+            "2093708870875066746"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2093751357249671415",
+        "created_at": "2026-08-29T17:23:18.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093751357249671415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "CyronANNO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YD0ZPBZ9b4",
+              "end": 44,
+              "expanded_url": "https://x.com/CyronANNO/status/2093708870875066746/photo/1",
+              "media_key": "3_2093708864017592320",
+              "start": 21,
+              "url": "https://t.co/YD0ZPBZ9b4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093751357249671415",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093708864017592320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093708870875066746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyronANNO: 九年前的我 https://t.co/YD0ZPBZ9b4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093708864017592320"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2093708870875066746",
+        "created_at": "2026-08-29T14:34:28.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093708870875066746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YD0ZPBZ9b4",
+              "end": 29,
+              "expanded_url": "https://x.com/CyronANNO/status/2093708870875066746/photo/1",
+              "media_key": "3_2093708864017592320",
+              "start": 6,
+              "url": "https://t.co/YD0ZPBZ9b4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093708870875066746",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093708864017592320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1451,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "九年前的我 https://t.co/YD0ZPBZ9b4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2093751357249671415",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 729,
+          "like_count": 24989,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ |\nDM⇒フォロバ | サブ @cyron_anno | CN EN JP KR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "is_identity_verified": false,
+        "location": "Soochow",
+        "most_recent_tweet_id": "2093721372690444713",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426015810472972298/1774928998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078180183266504704/nIRBXx5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 909,
+          "like_count": 217904,
+          "listed_count": 1,
+          "media_count": 5763,
+          "tweet_count": 23217
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

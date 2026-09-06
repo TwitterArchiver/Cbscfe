@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093668574380605441"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2093656079079293305",
+    "created_at": "2026-08-29T11:54:24.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T12:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093668586267316267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2011448728473968641",
+          "start": 0,
+          "username": "lxqthz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljdC7v2uDR",
+          "end": 31,
+          "expanded_url": "https://x.com/Cbscfe/status/2093668586267316267/photo/1",
+          "media_key": "3_2093668574380605441",
+          "start": 8,
+          "url": "https://t.co/ljdC7v2uDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093668586267316267",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093668574380605441"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093656079079293305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxqthz https://t.co/ljdC7v2uDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2093668574380605441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ40ecVawAESYxr.jpg",
+        "width": 581
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093668574380605441"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2093656079079293305",
+        "created_at": "2026-08-29T11:54:24.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093668586267316267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2011448728473968641",
+              "start": 0,
+              "username": "lxqthz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljdC7v2uDR",
+              "end": 31,
+              "expanded_url": "https://x.com/Cbscfe/status/2093668586267316267/photo/1",
+              "media_key": "3_2093668574380605441",
+              "start": 8,
+              "url": "https://t.co/ljdC7v2uDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093668586267316267",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093668574380605441"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093656079079293305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxqthz https://t.co/ljdC7v2uDR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2093656079079293305",
+        "created_at": "2026-08-29T11:04:42.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093656079079293305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2011448728473968641",
+              "start": 0,
+              "username": "lxqthz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093656079079293305",
+        "in_reply_to_user_id": "2011448728473968641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 289,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lxqthz 疑似已跳楼紫砂\n享年12岁\n。\n我不知道该怎么评价"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2093668586267316267",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 724,
+          "like_count": 24961,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 6731
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-14T14:43:02.000Z",
+        "description": "罗小青qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qthz.github.io",
+                "end": 23,
+                "expanded_url": "http://qthz.github.io",
+                "start": 0,
+                "url": "https://t.co/3lBoSpRWZI"
+              }
+            ]
+          }
+        },
+        "id": "2011448728473968641",
+        "is_identity_verified": false,
+        "location": "老妈鹅星球飞船",
+        "most_recent_tweet_id": "2070592135494254802",
+        "name": "lxqthz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011448728473968641/1781541909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066563751650959364/kLkW69aG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 61,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/3lBoSpRWZI",
+        "username": "lxqthz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093888990600695808"
+      ],
+      "media_source_tweet_id": [
+        "2093889008355209653"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2093961232151945290",
+    "created_at": "2026-08-30T07:17:16.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093961232151945290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "美式意林"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "网左笑话"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649365408779214848",
+          "start": 3,
+          "username": "bolckAshley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbZHV7EeWR",
+          "end": 62,
+          "expanded_url": "https://x.com/bolckAshley/status/2093889008355209653/photo/1",
+          "media_key": "3_2093888990600695808",
+          "start": 39,
+          "url": "https://t.co/wbZHV7EeWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093961232151945290",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093888990600695808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093889008355209653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bolckAshley: #美式意林 #网左笑话 \n孩子們這我能說啥 https://t.co/wbZHV7EeWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2093888990600695808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ788WvbEAAyQ6-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093888990600695808"
+          ],
+          "media_source_tweet_id": [
+            "2093889008355209653"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2093961232151945290",
+        "created_at": "2026-08-30T07:17:16.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093961232151945290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "美式意林"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "网左笑话"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649365408779214848",
+              "start": 3,
+              "username": "bolckAshley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbZHV7EeWR",
+              "end": 62,
+              "expanded_url": "https://x.com/bolckAshley/status/2093889008355209653/photo/1",
+              "media_key": "3_2093888990600695808",
+              "start": 39,
+              "url": "https://t.co/wbZHV7EeWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093961232151945290",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093888990600695808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093889008355209653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bolckAshley: #美式意林 #网左笑话 \n孩子們這我能說啥 https://t.co/wbZHV7EeWR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093888990600695808"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2093889008355209653",
+        "created_at": "2026-08-30T02:30:16.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093889008355209653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "美式意林"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "网左笑话"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbZHV7EeWR",
+              "end": 45,
+              "expanded_url": "https://x.com/bolckAshley/status/2093889008355209653/photo/1",
+              "media_key": "3_2093888990600695808",
+              "start": 22,
+              "url": "https://t.co/wbZHV7EeWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093889008355209653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093888990600695808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2963,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#美式意林 #网左笑话 \n孩子們這我能說啥 https://t.co/wbZHV7EeWR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2093961232151945290",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 740,
+          "like_count": 25033,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 6776
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2093961146399359473",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 2266,
+          "like_count": 44174,
+          "listed_count": 31,
+          "media_count": 2095,
+          "tweet_count": 24539
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
