@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086092038676897792"
+      ],
+      "media_source_tweet_id": [
+        "2086092048357364169"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2096579464625070103",
+    "created_at": "2026-09-06T12:41:11.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096579464625070103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPudXFJN2D",
+          "end": 45,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2086092048357364169/photo/1",
+          "media_key": "3_2086092038676897792",
+          "start": 22,
+          "url": "https://t.co/BPudXFJN2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096579464625070103",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086092038676897792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086092048357364169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 真厉害啊 https://t.co/BPudXFJN2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2086092038676897792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNJqBYbYAAzzNN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086092038676897792"
+          ],
+          "media_source_tweet_id": [
+            "2086092048357364169"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2096579464625070103",
+        "created_at": "2026-09-06T12:41:11.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096579464625070103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPudXFJN2D",
+              "end": 45,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2086092048357364169/photo/1",
+              "media_key": "3_2086092038676897792",
+              "start": 22,
+              "url": "https://t.co/BPudXFJN2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096579464625070103",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086092038676897792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086092048357364169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 真厉害啊 https://t.co/BPudXFJN2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086092038676897792"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "conversation_id": "2086092048357364169",
+        "created_at": "2026-08-08T14:07:56.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086092048357364169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPudXFJN2D",
+              "end": 28,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2086092048357364169/photo/1",
+              "media_key": "3_2086092038676897792",
+              "start": 5,
+              "url": "https://t.co/BPudXFJN2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086092048357364169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086092038676897792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32387,
+          "like_count": 274,
+          "quote_count": 5,
+          "reply_count": 110,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "真厉害啊 https://t.co/BPudXFJN2D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096579464625070103",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 732,
+          "like_count": 25091,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6887
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n我们的宗旨是收容、减害与负责任的使用。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2096557736582586773",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2095491351064596720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1095,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

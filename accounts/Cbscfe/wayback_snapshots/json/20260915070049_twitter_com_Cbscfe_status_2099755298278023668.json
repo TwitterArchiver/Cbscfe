@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2095126402014286005",
+    "created_at": "2026-09-15T07:00:49.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099755298278023668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099755298278023668",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095126475532128495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ruoruoruoMing 找到我了 qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095126467848052737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNibAuaIAETGgG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095126467940421632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNibBEbkAA9dQa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095126467877478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNibA1bIAACvqV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095126467910971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNibA9aMAA6NlD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2095126402014286005",
+        "created_at": "2026-09-15T07:00:49.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099755298278023668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099755298278023668",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095126475532128495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ruoruoruoMing 找到我了 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095126467848052737",
+            "3_2095126467940421632",
+            "3_2095126467877478400",
+            "3_2095126467910971392"
+          ]
+        },
+        "author_id": "1938537315586244608",
+        "conversation_id": "2095126402014286005",
+        "created_at": "2026-09-02T12:27:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095126475532128495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Z183rO98E",
+              "end": 23,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095126475532128495/photo/1",
+              "media_key": "3_2095126467848052737",
+              "start": 0,
+              "url": "https://t.co/3Z183rO98E"
+            },
+            {
+              "display_url": "pic.x.com/3Z183rO98E",
+              "end": 23,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095126475532128495/photo/1",
+              "media_key": "3_2095126467940421632",
+              "start": 0,
+              "url": "https://t.co/3Z183rO98E"
+            },
+            {
+              "display_url": "pic.x.com/3Z183rO98E",
+              "end": 23,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095126475532128495/photo/1",
+              "media_key": "3_2095126467877478400",
+              "start": 0,
+              "url": "https://t.co/3Z183rO98E"
+            },
+            {
+              "display_url": "pic.x.com/3Z183rO98E",
+              "end": 23,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2095126475532128495/photo/1",
+              "media_key": "3_2095126467910971392",
+              "start": 0,
+              "url": "https://t.co/3Z183rO98E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095126475532128495",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095126467848052737"
+          },
+          {
+            "media_key": "3_2095126467940421632"
+          },
+          {
+            "media_key": "3_2095126467877478400"
+          },
+          {
+            "media_key": "3_2095126467910971392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095126402014286005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "https://t.co/3Z183rO98E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099755298278023668",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 769,
+          "like_count": 25322,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 7198
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT大一|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2099753698096476221",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2099731959014682712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1120,
+          "like_count": 7232,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096205045289328640"
+      ],
+      "media_source_tweet_id": [
+        "2096414329025531927"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2096771400333922587",
+    "created_at": "2026-09-07T01:23:52.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096771400333922587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "996556236404346880",
+          "start": 3,
+          "username": "crypto_daha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b9CbeRaCll",
+          "end": 52,
+          "expanded_url": "https://x.com/crypto_daha/status/2096414329025531927/photo/1",
+          "media_key": "3_2096205045289328640",
+          "start": 29,
+          "url": "https://t.co/b9CbeRaCll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096771400333922587",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096205045289328640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096414329025531927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crypto_daha: 终于看到了正确的恋爱观 https://t.co/b9CbeRaCll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_2096205045289328640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc3YezaIAArUOH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096205045289328640"
+          ],
+          "media_source_tweet_id": [
+            "2096414329025531927"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2096771400333922587",
+        "created_at": "2026-09-07T01:23:52.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096771400333922587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "996556236404346880",
+              "start": 3,
+              "username": "crypto_daha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9CbeRaCll",
+              "end": 52,
+              "expanded_url": "https://x.com/crypto_daha/status/2096414329025531927/photo/1",
+              "media_key": "3_2096205045289328640",
+              "start": 29,
+              "url": "https://t.co/b9CbeRaCll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096771400333922587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096205045289328640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096414329025531927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crypto_daha: 终于看到了正确的恋爱观 https://t.co/b9CbeRaCll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096205045289328640"
+          ]
+        },
+        "author_id": "996556236404346880",
+        "conversation_id": "2096414329025531927",
+        "created_at": "2026-09-06T01:45:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096414329025531927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9CbeRaCll",
+              "end": 35,
+              "expanded_url": "https://x.com/crypto_daha/status/2096414329025531927/photo/1",
+              "media_key": "3_2096205045289328640",
+              "start": 12,
+              "url": "https://t.co/b9CbeRaCll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096414329025531927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096205045289328640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 131098,
+          "like_count": 4159,
+          "quote_count": 16,
+          "reply_count": 133,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "终于看到了正确的恋爱观 https://t.co/b9CbeRaCll"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096771400333922587",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 744,
+          "like_count": 25099,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6897
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-16T01:01:36.000Z",
+        "description": "哈哈哥 | 分享有趣人生、历史趣闻、生活meme、实用干货 | 每天一笑一悟",
+        "id": "996556236404346880",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2096764888907460849",
+        "name": "哈哈哥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/996556236404346880/1701871937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996826608326660102/Mnc9uuzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33026,
+          "following_count": 7453,
+          "like_count": 7831,
+          "listed_count": 205,
+          "media_count": 1587,
+          "tweet_count": 10457
+        },
+        "url": "",
+        "username": "crypto_daha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099149007759302656"
+      ],
+      "media_source_tweet_id": [
+        "2099149015443181948"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2099489097043869852",
+    "created_at": "2026-09-14T13:23:02.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099489097043869852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpfUyjYG0R",
+          "end": 43,
+          "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+          "media_key": "3_2099149007759302656",
+          "start": 20,
+          "url": "https://t.co/FpfUyjYG0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099489097043869852",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099149007759302656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099149015443181948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 补豪喵！ https://t.co/FpfUyjYG0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2099149007759302656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGs5pobYAAJZP9.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099149007759302656"
+          ],
+          "media_source_tweet_id": [
+            "2099149015443181948"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2099489097043869852",
+        "created_at": "2026-09-14T13:23:02.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099489097043869852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfUyjYG0R",
+              "end": 43,
+              "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+              "media_key": "3_2099149007759302656",
+              "start": 20,
+              "url": "https://t.co/FpfUyjYG0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099489097043869852",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099149007759302656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099149015443181948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 补豪喵！ https://t.co/FpfUyjYG0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099149007759302656"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2099149015443181948",
+        "created_at": "2026-09-13T14:51:40.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099149015443181948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfUyjYG0R",
+              "end": 28,
+              "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+              "media_key": "3_2099149007759302656",
+              "start": 5,
+              "url": "https://t.co/FpfUyjYG0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099149015443181948",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099149007759302656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 110337,
+          "like_count": 3016,
+          "quote_count": 8,
+          "reply_count": 49,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "补豪喵！ https://t.co/FpfUyjYG0R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099489097043869852",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 767,
+          "like_count": 25286,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 7173
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖/药物咨询/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/OgRvpRMQUn\n微信：admin22334\nqq:1621320515",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 81,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 58,
+                "url": "https://t.co/OgRvpRMQUn"
+              }
+            ]
+          }
+        },
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2099478518270930956",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 530,
+          "like_count": 8523,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 4071
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

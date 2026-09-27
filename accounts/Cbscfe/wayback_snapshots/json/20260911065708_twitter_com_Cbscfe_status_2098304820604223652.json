@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098266073560961024"
+      ],
+      "media_source_tweet_id": [
+        "2098266085686653251"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098304820604223652",
+    "created_at": "2026-09-11T06:57:08.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098304820604223652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978428582100938752",
+          "start": 3,
+          "username": "q1anzhuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PF5qZvJMjB",
+          "end": 50,
+          "expanded_url": "https://x.com/q1anzhuo/status/2098266085686653251/photo/1",
+          "media_key": "3_2098266073560961024",
+          "start": 27,
+          "url": "https://t.co/PF5qZvJMjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098304820604223652",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098266073560961024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098266085686653251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q1anzhuo: 这一杯下肚仇人也该释怀了 https://t.co/PF5qZvJMjB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098266073560961024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6J4Hba0AAAZ3B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098266073560961024"
+          ],
+          "media_source_tweet_id": [
+            "2098266085686653251"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098304820604223652",
+        "created_at": "2026-09-11T06:57:08.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098304820604223652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978428582100938752",
+              "start": 3,
+              "username": "q1anzhuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PF5qZvJMjB",
+              "end": 50,
+              "expanded_url": "https://x.com/q1anzhuo/status/2098266085686653251/photo/1",
+              "media_key": "3_2098266073560961024",
+              "start": 27,
+              "url": "https://t.co/PF5qZvJMjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098304820604223652",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098266073560961024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098266085686653251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @q1anzhuo: 这一杯下肚仇人也该释怀了 https://t.co/PF5qZvJMjB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098266073560961024"
+          ]
+        },
+        "author_id": "1978428582100938752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098266085686653251",
+        "created_at": "2026-09-11T04:23:13.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098266085686653251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PF5qZvJMjB",
+              "end": 36,
+              "expanded_url": "https://x.com/q1anzhuo/status/2098266085686653251/photo/1",
+              "media_key": "3_2098266073560961024",
+              "start": 13,
+              "url": "https://t.co/PF5qZvJMjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098266085686653251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098266073560961024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这一杯下肚仇人也该释怀了 https://t.co/PF5qZvJMjB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2098304820604223652",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 759,
+          "like_count": 25205,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 7022
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "21世纪杀人网络",
+        "most_recent_tweet_id": "2098287332659208645",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2093689509678657568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 491,
+          "like_count": 5789,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

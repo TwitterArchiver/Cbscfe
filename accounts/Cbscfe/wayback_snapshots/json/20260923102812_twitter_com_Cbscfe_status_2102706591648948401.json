@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102119686997770240"
+      ],
+      "media_source_tweet_id": [
+        "2102345158964703721"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2102706591648948401",
+    "created_at": "2026-09-23T10:28:12.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102706591648948401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045513838850641921",
+          "start": 3,
+          "username": "intqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZiPb6XKBI",
+          "end": 64,
+          "expanded_url": "https://x.com/intqwq/status/2102345158964703721/photo/1",
+          "media_key": "3_2102119686997770240",
+          "start": 41,
+          "url": "https://t.co/HZiPb6XKBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102706591648948401",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102119686997770240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102345158964703721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @intqwq: 不幸的事，在现代精神医学下，仍有约10%的患者会死于自杀 https://t.co/HZiPb6XKBI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2102119686997770240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSw6t8LbgAArZhF.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102119686997770240"
+          ],
+          "media_source_tweet_id": [
+            "2102345158964703721"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2102706591648948401",
+        "created_at": "2026-09-23T10:28:12.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102706591648948401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045513838850641921",
+              "start": 3,
+              "username": "intqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZiPb6XKBI",
+              "end": 64,
+              "expanded_url": "https://x.com/intqwq/status/2102345158964703721/photo/1",
+              "media_key": "3_2102119686997770240",
+              "start": 41,
+              "url": "https://t.co/HZiPb6XKBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102706591648948401",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102119686997770240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102345158964703721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @intqwq: 不幸的事，在现代精神医学下，仍有约10%的患者会死于自杀 https://t.co/HZiPb6XKBI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102119686997770240"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2102345158964703721",
+        "created_at": "2026-09-22T10:32:00.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102345158964703721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZiPb6XKBI",
+              "end": 52,
+              "expanded_url": "https://x.com/intqwq/status/2102345158964703721/photo/1",
+              "media_key": "3_2102119686997770240",
+              "start": 29,
+              "url": "https://t.co/HZiPb6XKBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102345158964703721",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102119686997770240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6855,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不幸的事，在现代精神医学下，仍有约10%的患者会死于自杀 https://t.co/HZiPb6XKBI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2102706591648948401",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 784,
+          "like_count": 25489,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 7453
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜交易员｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Entia non sunt multiplicanda praeter necessitatem\n\n投稿联系: contact@intqwq.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102704696653910293",
+        "name": "数原律",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 746,
+          "like_count": 4546,
+          "listed_count": 6,
+          "media_count": 895,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

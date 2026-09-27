@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2100949021699481980",
+    "created_at": "2026-09-18T14:04:15.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100949021699481980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807972342955405313",
+          "start": 3,
+          "username": "SuXi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100949021699481980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100873861365641240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuXi8964: 人多就是好，找几个家长党就能塑造国家友跨的假象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2100949021699481980",
+        "created_at": "2026-09-18T14:04:15.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100949021699481980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807972342955405313",
+              "start": 3,
+              "username": "SuXi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100949021699481980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100873861365641240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SuXi8964: 人多就是好，找几个家长党就能塑造国家友跨的假象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807972342955405313",
+        "conversation_id": "2100873861365641240",
+        "created_at": "2026-09-18T09:05:35.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100873861365641240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zza2ku/status/2099394294125617210",
+              "start": 24,
+              "url": "https://t.co/lw66oJL98G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100873861365641240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1019,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099394294125617210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人多就是好，找几个家长党就能塑造国家友跨的假象 https://t.co/lw66oJL98G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2100949021699481980",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 770,
+          "like_count": 25396,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 7342
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "左派/坚持阶级斗争/对绝大多数人民主，对极少数人专政/民主但不民粹/极端进步/支持🏳️‍🌈 🏳️‍⚧️/酷儿 泛性恋\n回fo标准：非机器人，非三无账号，有非回复的帖子，不fo粉红，支黑，极端反共\nNGL：https://t.co/YcGe4jryTy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 125,
+                "expanded_url": "https://ngl.link/suxi1848",
+                "start": 102,
+                "url": "https://t.co/YcGe4jryTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 23,
+                "expanded_url": "http://ngl.link/suxi1848",
+                "start": 0,
+                "url": "https://t.co/X063tjGYOr"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "is_identity_verified": false,
+        "location": "泛亚社会主义共和国",
+        "most_recent_tweet_id": "2100873861365641240",
+        "name": "溯汐汐🏳️‍🌈🏳️‍⚧️🚩⚙️",
+        "pinned_tweet_id": "2091130396276859252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807972342955405313/1787096511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090013841304281088/wW-SLdmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 390,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/X063tjGYOr",
+        "username": "SuXi8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

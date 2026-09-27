@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095444957272403968"
+      ],
+      "media_source_tweet_id": [
+        "2095445071512604884"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2096559898893099134",
+    "created_at": "2026-09-06T11:23:26.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096559898893099134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1374724817119772674",
+          "start": 3,
+          "username": "Mimiaomc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uECSguF2fb",
+          "end": 48,
+          "expanded_url": "https://x.com/Mimiaomc/status/2095445071512604884/photo/1",
+          "media_key": "3_2095444957272403968",
+          "start": 25,
+          "url": "https://t.co/uECSguF2fb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096559898893099134",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095444957272403968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095445071512604884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mimiaomc: 今天，又来这里了呢！ https://t.co/uECSguF2fb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095444957272403968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSEFiSa8AAgPmq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095444957272403968"
+          ],
+          "media_source_tweet_id": [
+            "2095445071512604884"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2096559898893099134",
+        "created_at": "2026-09-06T11:23:26.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096559898893099134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374724817119772674",
+              "start": 3,
+              "username": "Mimiaomc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uECSguF2fb",
+              "end": 48,
+              "expanded_url": "https://x.com/Mimiaomc/status/2095445071512604884/photo/1",
+              "media_key": "3_2095444957272403968",
+              "start": 25,
+              "url": "https://t.co/uECSguF2fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096559898893099134",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095444957272403968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095445071512604884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mimiaomc: 今天，又来这里了呢！ https://t.co/uECSguF2fb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095444957272403968"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2095445071512604884",
+        "created_at": "2026-09-03T09:33:31.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095445071512604884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uECSguF2fb",
+              "end": 34,
+              "expanded_url": "https://x.com/Mimiaomc/status/2095445071512604884/photo/1",
+              "media_key": "3_2095444957272403968",
+              "start": 11,
+              "url": "https://t.co/uECSguF2fb"
+            },
+            {
+              "display_url": "x.com/Mimiaomc/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Mimiaomc/status/2022959573292990549",
+              "start": 35,
+              "url": "https://t.co/YXD6TdHwHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095445071512604884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095444957272403968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022959573292990549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天，又来这里了呢！ https://t.co/uECSguF2fb https://t.co/YXD6TdHwHV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096559898893099134",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 732,
+          "like_count": 25072,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6863
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "is_identity_verified": false,
+        "location": "CLOUDFLARE.COM",
+        "most_recent_tweet_id": "2096291645977497790",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2093655863169073497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374724817119772674/1783492251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 287,
+          "like_count": 3112,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2096574380885348443",
+    "created_at": "2026-09-06T12:20:59.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096574380885348443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862815840867090432",
+          "start": 3,
+          "username": "qnlng643712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096574380885348443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096557281857130843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qnlng643712: 哭能解决我难受的问题 非要憋出病来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2096574380885348443",
+        "created_at": "2026-09-06T12:20:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096574380885348443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862815840867090432",
+              "start": 3,
+              "username": "qnlng643712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096574380885348443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096557281857130843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qnlng643712: 哭能解决我难受的问题 非要憋出病来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862815840867090432",
+        "conversation_id": "2096557281857130843",
+        "created_at": "2026-09-06T11:13:02.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096557281857130843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ancde_1118/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Ancde_1118/status/2096217124398416126",
+              "start": 19,
+              "url": "https://t.co/mpYNOKrDx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096557281857130843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096217124398416126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哭能解决我难受的问题 非要憋出病来吗 https://t.co/mpYNOKrDx5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096574380885348443",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 732,
+          "like_count": 25088,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6880
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T11:08:22.000Z",
+        "description": "🏳️‍🌈 高p 查无此人 成分复杂 爱好甚广 \n匿名信箱📪https://t.co/KbafP10PpV\n清氵（也许） 想到哪发到哪\n理想型是自己",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qnlng643712",
+                "end": 52,
+                "expanded_url": "https://ngl.link/qnlng643712",
+                "start": 29,
+                "url": "https://t.co/KbafP10PpV"
+              }
+            ]
+          }
+        },
+        "id": "1862815840867090432",
+        "is_identity_verified": false,
+        "location": "0.00km",
+        "most_recent_tweet_id": "2096565231099212095",
+        "name": "keke",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862815840867090432/1777135262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092986182095519744/SHg1Fxvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 152,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "qnlng643712",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

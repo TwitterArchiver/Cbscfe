@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "conversation_id": "2099088073816748073",
+    "created_at": "2026-09-13T10:49:30.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099088073816748073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959893383633358848",
+          "start": 3,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 28,
+          "id": "1084445859410894848",
+          "start": 12,
+          "username": "Burningstone323"
+        },
+        {
+          "end": 42,
+          "id": "1258361136841457664",
+          "start": 29,
+          "username": "ShiauPa46QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099088073816748073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099088052132237518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cbscfe: @Burningstone323 @ShiauPa46QwQ （对的我其实也不太清楚od这个词的含义，他早就脱离了overdose，成为了一种神秘的象征）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2099088073816748073",
+        "created_at": "2026-09-13T10:49:30.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099088073816748073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959893383633358848",
+              "start": 3,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 28,
+              "id": "1084445859410894848",
+              "start": 12,
+              "username": "Burningstone323"
+            },
+            {
+              "end": 42,
+              "id": "1258361136841457664",
+              "start": 29,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099088073816748073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099088052132237518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cbscfe: @Burningstone323 @ShiauPa46QwQ （对的我其实也不太清楚od这个词的含义，他早就脱离了overdose，成为了一种神秘的象征）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2097155771717058879",
+        "created_at": "2026-09-13T10:49:25.000Z",
+        "display_text_range": [
+          31,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099088052132237518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1084445859410894848",
+              "start": 0,
+              "username": "Burningstone323"
+            },
+            {
+              "end": 30,
+              "id": "1258361136841457664",
+              "start": 17,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099088052132237518",
+        "in_reply_to_user_id": "1084445859410894848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099087583561036121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Burningstone323 @ShiauPa46QwQ （对的我其实也不太清楚od这个词的含义，他早就脱离了overdose，成为了一种神秘的象征）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099088073816748073",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 761,
+          "like_count": 25253,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 7105
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-13T13:43:35.000Z",
+        "description": "蓝妈赛高/平平无奇的普通人/医学绝赞在读中/精神状态良好包不是地雷的/Take care yourself and be well",
+        "id": "1084445859410894848",
+        "is_identity_verified": false,
+        "location": "hospital",
+        "most_recent_tweet_id": "2099087583561036121",
+        "name": "一颗打火石",
+        "pinned_tweet_id": "1174959826503233537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084445859410894848/1658912209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549439556570624005/zSP2TpRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 445,
+          "like_count": 3033,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "Burningstone323",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-07T11:41:21.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️|2007年生|二次元正太控|漢語○ English△ にほんご△|亞文化大手子|曾经是语言学爱好者和Conlanger|希望和大家交朋友！\n|前世:@ShiauPa0746|无涩里推@ShiauPa_elo\n|Bluesky: https://t.co/Jhm81vJE4O",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "ShiauPa0746"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 147,
+                "expanded_url": "http://bsky.app/profile/shiaupa.top",
+                "start": 124,
+                "url": "https://t.co/Jhm81vJE4O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ckdLtAYPqm"
+              }
+            ]
+          }
+        },
+        "id": "1258361136841457664",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2099072500931899507",
+        "name": "晓怕ShiauPa 🐱💫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060354946793635841/Bz1Lrhw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 578,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/ckdLtAYPqm",
+        "username": "ShiauPa46QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

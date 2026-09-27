@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099909787609960448"
+      ],
+      "media_source_tweet_id": [
+        "2099909797990817977"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2099924310064554264",
+    "created_at": "2026-09-15T18:12:24.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099924310064554264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551770260193230849",
+          "start": 3,
+          "username": "OsakaL00P"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h6i85WGHj5",
+          "end": 55,
+          "expanded_url": "https://x.com/OsakaL00P/status/2099909797990817977/photo/1",
+          "media_key": "3_2099909787609960448",
+          "start": 32,
+          "url": "https://t.co/h6i85WGHj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099924310064554264",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099909787609960448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099909797990817977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaL00P: 我没有而gpt有的东西：\n\n青春 https://t.co/h6i85WGHj5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099909787609960448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRg03bbkAAgPc4.jpg",
+        "width": 607
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099909787609960448"
+          ],
+          "media_source_tweet_id": [
+            "2099909797990817977"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2099924310064554264",
+        "created_at": "2026-09-15T18:12:24.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099924310064554264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551770260193230849",
+              "start": 3,
+              "username": "OsakaL00P"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6i85WGHj5",
+              "end": 55,
+              "expanded_url": "https://x.com/OsakaL00P/status/2099909797990817977/photo/1",
+              "media_key": "3_2099909787609960448",
+              "start": 32,
+              "url": "https://t.co/h6i85WGHj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099924310064554264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099909787609960448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099909797990817977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaL00P: 我没有而gpt有的东西：\n\n青春 https://t.co/h6i85WGHj5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099909787609960448"
+          ]
+        },
+        "author_id": "1551770260193230849",
+        "conversation_id": "2099909797990817977",
+        "created_at": "2026-09-15T17:14:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099909797990817977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6i85WGHj5",
+              "end": 40,
+              "expanded_url": "https://x.com/OsakaL00P/status/2099909797990817977/photo/1",
+              "media_key": "3_2099909787609960448",
+              "start": 17,
+              "url": "https://t.co/h6i85WGHj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099909797990817977",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099909787609960448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有而gpt有的东西：\n\n青春 https://t.co/h6i85WGHj5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099924310064554264",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 771,
+          "like_count": 25328,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 7212
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-26T03:24:04.000Z",
+        "description": "(ヨルシカの歌詞を分かるために)\n日本語勉強\nブルアカ遣ってる\nRP多め\n\n旅び鉄…ではあるまいが 単純に鉄道の旅が好き\n\n南京在住 自認社自",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rail.s3xyseia.xyz",
+                "end": 23,
+                "expanded_url": "https://rail.s3xyseia.xyz",
+                "start": 0,
+                "url": "https://t.co/OQulezV4mn"
+              }
+            ]
+          }
+        },
+        "id": "1551770260193230849",
+        "is_identity_verified": false,
+        "location": "キヴォトス",
+        "most_recent_tweet_id": "2099910545604579490",
+        "name": "環状線と関西弁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551770260193230849/1746969254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819031849676509185/LinEJa8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 3456,
+          "like_count": 88231,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/OQulezV4mn",
+        "username": "OsakaL00P",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100921208883593216"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2100848563412422895",
+    "created_at": "2026-09-18T12:13:48.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100921226940002745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smH0EwsGS9",
+          "end": 31,
+          "expanded_url": "https://x.com/Cbscfe/status/2100921226940002745/photo/1",
+          "media_key": "3_2100921208883593216",
+          "start": 8,
+          "url": "https://t.co/smH0EwsGS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100921226940002745",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2100921208883593216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100848563412422895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku https://t.co/smH0EwsGS9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2100921208883593216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSf4tVSXQAAyWAv.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1852,
+        "media_key": "3_2100848536686403584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSe2nQQXoAASpNf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1934,
+        "media_key": "3_2100848552704389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSe2oL7WsAAJzSA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100921208883593216"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2100848563412422895",
+        "created_at": "2026-09-18T12:13:48.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100921226940002745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smH0EwsGS9",
+              "end": 31,
+              "expanded_url": "https://x.com/Cbscfe/status/2100921226940002745/photo/1",
+              "media_key": "3_2100921208883593216",
+              "start": 8,
+              "url": "https://t.co/smH0EwsGS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100921226940002745",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100921208883593216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100848563412422895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku https://t.co/smH0EwsGS9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100848536686403584",
+            "3_2100848552704389120"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2100848563412422895",
+        "created_at": "2026-09-18T07:25:04.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100848563412422895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE52gSm4cn",
+              "end": 36,
+              "expanded_url": "https://x.com/zza2ku/status/2100848563412422895/photo/1",
+              "media_key": "3_2100848536686403584",
+              "start": 13,
+              "url": "https://t.co/UE52gSm4cn"
+            },
+            {
+              "display_url": "pic.x.com/UE52gSm4cn",
+              "end": 36,
+              "expanded_url": "https://x.com/zza2ku/status/2100848563412422895/photo/1",
+              "media_key": "3_2100848552704389120",
+              "start": 13,
+              "url": "https://t.co/UE52gSm4cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100848563412422895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100848536686403584"
+          },
+          {
+            "media_key": "3_2100848552704389120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为支持紫残被要求删帖了 https://t.co/UE52gSm4cn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2100921226940002745",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 769,
+          "like_count": 25386,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 7323
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100904067199299604",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 112,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

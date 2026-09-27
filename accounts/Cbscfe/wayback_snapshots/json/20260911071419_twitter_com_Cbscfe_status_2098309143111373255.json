@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098081701276852225"
+      ],
+      "media_source_tweet_id": [
+        "2098081711557095628"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098309143111373255",
+    "created_at": "2026-09-11T07:14:19.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098309143111373255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096460299213905920",
+          "start": 3,
+          "username": "d9nmTTT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/21zrDoTNbE",
+          "end": 36,
+          "expanded_url": "https://x.com/d9nmTTT/status/2098081711557095628/photo/1",
+          "media_key": "3_2098081701276852225",
+          "start": 13,
+          "url": "https://t.co/21zrDoTNbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098309143111373255",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098081701276852225"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098081711557095628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d9nmTTT: https://t.co/21zrDoTNbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2098081701276852225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3iMPJaoAEfVmM.jpg",
+        "width": 246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098081701276852225"
+          ],
+          "media_source_tweet_id": [
+            "2098081711557095628"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098309143111373255",
+        "created_at": "2026-09-11T07:14:19.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098309143111373255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096460299213905920",
+              "start": 3,
+              "username": "d9nmTTT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21zrDoTNbE",
+              "end": 36,
+              "expanded_url": "https://x.com/d9nmTTT/status/2098081711557095628/photo/1",
+              "media_key": "3_2098081701276852225",
+              "start": 13,
+              "url": "https://t.co/21zrDoTNbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098309143111373255",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098081701276852225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098081711557095628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d9nmTTT: https://t.co/21zrDoTNbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098081701276852225"
+          ]
+        },
+        "author_id": "2096460299213905920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098081711557095628",
+        "created_at": "2026-09-10T16:10:35.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098081711557095628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21zrDoTNbE",
+              "end": 23,
+              "expanded_url": "https://x.com/d9nmTTT/status/2098081711557095628/photo/1",
+              "media_key": "3_2098081701276852225",
+              "start": 0,
+              "url": "https://t.co/21zrDoTNbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098081711557095628",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098081701276852225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2034,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/21zrDoTNbE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2098309143111373255",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 759,
+          "like_count": 25206,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 7023
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 1161/解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2098297554903687269",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 54,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096790919035121664"
+      ],
+      "media_source_tweet_id": [
+        "2096790928019316974"
+      ]
+    },
+    "author_id": "1959893383633358848",
+    "conversation_id": "2096849067901075905",
+    "created_at": "2026-09-07T06:32:30.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096849067901075905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649365408779214848",
+          "start": 3,
+          "username": "bolckAshley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OpFmzWsKGa",
+          "end": 49,
+          "expanded_url": "https://x.com/bolckAshley/status/2096790928019316974/photo/1",
+          "media_key": "3_2096790919035121664",
+          "start": 26,
+          "url": "https://t.co/OpFmzWsKGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096849067901075905",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096790919035121664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096790928019316974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bolckAshley: 「我們聯合！」🤭 https://t.co/OpFmzWsKGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2096790919035121664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlMO0lacAATXMp.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096790919035121664"
+          ],
+          "media_source_tweet_id": [
+            "2096790928019316974"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2096849067901075905",
+        "created_at": "2026-09-07T06:32:30.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096849067901075905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649365408779214848",
+              "start": 3,
+              "username": "bolckAshley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OpFmzWsKGa",
+              "end": 49,
+              "expanded_url": "https://x.com/bolckAshley/status/2096790928019316974/photo/1",
+              "media_key": "3_2096790919035121664",
+              "start": 26,
+              "url": "https://t.co/OpFmzWsKGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096849067901075905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096790919035121664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096790928019316974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bolckAshley: 「我們聯合！」🤭 https://t.co/OpFmzWsKGa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096790919035121664"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2096790928019316974",
+        "created_at": "2026-09-07T02:41:28.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096790928019316974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OpFmzWsKGa",
+              "end": 32,
+              "expanded_url": "https://x.com/bolckAshley/status/2096790928019316974/photo/1",
+              "media_key": "3_2096790919035121664",
+              "start": 9,
+              "url": "https://t.co/OpFmzWsKGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096790928019316974",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096790919035121664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1013,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "「我們聯合！」🤭 https://t.co/OpFmzWsKGa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096849067901075905",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 747,
+          "like_count": 25107,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6912
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2096844985765347799",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094993967335309312/RgDZDe6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 2273,
+          "like_count": 44311,
+          "listed_count": 33,
+          "media_count": 2131,
+          "tweet_count": 24703
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

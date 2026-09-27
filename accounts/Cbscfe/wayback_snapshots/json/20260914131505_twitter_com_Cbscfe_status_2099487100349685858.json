@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1959893383633358848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2099487100349685858",
+    "created_at": "2026-09-14T13:15:05.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099487100349685858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1927934266673090560",
+          "start": 3,
+          "username": "paperstone15564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099487100349685858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099463346554605742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paperstone15564: 住在父女家里是免费的，但你需要用你的心理健康来支付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2099487100349685858",
+        "created_at": "2026-09-14T13:15:05.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099487100349685858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1927934266673090560",
+              "start": 3,
+              "username": "paperstone15564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099487100349685858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099463346554605742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paperstone15564: 住在父女家里是免费的，但你需要用你的心理健康来支付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927934266673090560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2099463346554605742",
+        "created_at": "2026-09-14T11:40:42.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099463346554605742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ritoxfu/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ritoxfu/status/2099250038694113659",
+              "start": 26,
+              "url": "https://t.co/WCTMRdHefO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099463346554605742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099250038694113659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "住在父女家里是免费的，但你需要用你的心理健康来支付 https://t.co/WCTMRdHefO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2099487100349685858",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 765,
+          "like_count": 25283,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 7162
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T03:46:26.000Z",
+        "description": "06 | 自诊中抑 | od初尝试？|oder |同频互fo |过于抽象请自行离开 |不见证  | 本科在读 |可以叫我石头/stone | 有点呆傻\n提问箱https://t.co/WIWyyeVimf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/paperstone15564",
+                "end": 102,
+                "expanded_url": "https://ngl.link/paperstone15564",
+                "start": 79,
+                "url": "https://t.co/WIWyyeVimf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/stoneholder",
+                "end": 23,
+                "expanded_url": "http://t.me/stoneholder",
+                "start": 0,
+                "url": "https://t.co/AwRSLvFMZv"
+              }
+            ]
+          }
+        },
+        "id": "1927934266673090560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099463346554605742",
+        "name": "烛断的石头",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927934266673090560/1787074065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089762662762819584/JMtls2gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/AwRSLvFMZv",
+        "username": "paperstone15564",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
